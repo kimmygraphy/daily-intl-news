@@ -1,0 +1,226 @@
+{
+  "date": "2026-09-17",
+  "crawled_at": "2026-09-17T23:12:49+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "OpenAI discloses six new incidents of concerning AI behavior",
+      "summary": "OpenAI revealed six additional safety issues with AI systems and announced plans to track and disclose such incidents more closely going forward.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+          "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "OpenAI flags concerning new AI behavior and vows to track it more closely",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzBMbjczYWt1SGJLdVUwYlppSnhRNGc2amRmbjZLQlBGS3ZzdTVXYUM5ZXViQXQ4clFkZXZ2cERxc3NmdENzRTRqRno0Q3pxM0ozTExsSXJGYmY0RkNzUFlFX21FOUtpODA2V0phX3k4OXZaZktpUy1WUjZKb3p5WV9DWUhzejBoazBKdmVuQQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "OpenAI Discloses 6 New Incidents of ‘Concerning’ AI Behavior",
+          "url": "https://www.today.com/video/openai-reveals-6-new-incidents-of-ai-models-going-rogue-270019653588"
+        },
+        {
+          "name": "The New York Times",
+          "title": "The Deadly Choice Facing Many Gazans, and a New Disclosure of ‘Concerning’ A.I. Behavior",
+          "url": "https://www.nytimes.com/2026/09/17/podcasts/the-headlines/gaza-ruins-concerning-ai-behavior.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "UN-backed experts cite possible US war crimes in Iran strikes",
+      "summary": "UN experts found grounds to believe the United States committed war crimes in Iran, including in a school attack.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "UN mission finds grounds to believe US committed war crimes in Iran, and Tehran crimes against humanity - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmJVNS1uc3FDVDUwbUJ5bjJkZzRwbTdzNFZYUW00SEloak4wZl9yeXJhWlQ2bEExbjZBSzh6T2lRVjNjQ2VvR1lNZGNBc3BwLXZ6QXJCTmZ3M3BfQVdURWZaaUVOV2k0VkNOTFMwcnhsdXR1VU5IWFRWYlVYNDgzeGNwTDB6d3FURHV4YnZZdFpibE45Qm1tTVJxMi1QZG9lbFFqVW16M1ZzQzRLQW1PVkhud2RLeWtxUVV6OFJweE0wOXZuVG5RRg?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "UN-backed experts cite possible US war crimes in Iran strikes",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUkRYakxnTVBrT3p0Q1RaTEc3QVk5UThSRlNpOXF3ZkhrbXVRRlRwOVEycmVpM1FhdGRRbGlkeDVWQ2tTSzNubFFlWTNkdDhQTUNRNHlsdWpud08tYzZSM2k3a2VmZDVZZS1DUjYySWJ2VDBIVlZUZ25xMnM5TktQT3Fvb1hCVExPcXdn?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
+          "url": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+          "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Mark Carney proposes Canada become EU associate member",
+      "summary": "Canadian official Mark Carney called for deep cooperation between Canada and the EU, welcoming an associate membership proposal.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Carney embraces EU associate membership proposal as Trump pushes Canada closer to Europe",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObklwd2xpNktxT1dkcF9LZjhsUHhfOTQ1YVRBRWNIMXNDZGg2MWxnZUtVQTUxTFowcHI0TGRZM2RHUDE2SGhsYXRFZUlvR1lfZXY1NnhDb1p0R3h2QTA0STRndmQ0MHpoa1BhSXByOGdyWW5wa3IyVXhRc2YzMHhPc3FfQnRYWFV0QnNIWk1feFhMNTJJdUN0Rl94V2Q1emJPMWc?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Mark Carney calls for ‘deep cooperation’ between Canada and EU in Strasbourg speech",
+          "url": "https://www.theguardian.com/world/2026/sep/17/mark-carney-deep-cooperation-canada-eu-strasbourg"
+        },
+        {
+          "name": "DW",
+          "title": "Canada's Carney welcomes associate status idea in EU speech",
+          "url": "https://www.dw.com/en/canada-s-carney-welcomes-associate-status-idea-in-eu-speech/a-79306191?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Carney Calls for E.U.-Canada Pact Amid ‘Ferocious Storm’",
+          "url": "https://www.nytimes.com/2026/09/17/world/europe/canada-carney-eu.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "King Charles warns of existential dangers posed by AI",
+      "summary": "King Charles cautioned AI leaders about the existential risks of artificial intelligence falling into wrong hands at a Scottish meeting.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+          "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "King Charles warns AI leaders of 'existential dangers' at Scottish meeting - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFdPV3JrbjNYMUd3RXlUY3NwOU5RMTVheVM2eHRUQ2VFWnBVU2w2SnFqR05iaHBiZzE5MHlyc1ZhX1NSeWxHMmNLMEx4YkxBQjVZY1A4MllpU19lM0c5RHhnV3JTRkQzWGlDME1Cam9WdlVzTTVNclhxZm90akpuUHFkeW9INXdGbmdiUTBTNHBnZEVSNmxtRDNLUWNPQTh4N05qVmh4c01JUWM?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "King Charles Meets With A.I. Executives About Safety Risks",
+          "url": "https://www.nytimes.com/2026/09/17/business/king-charles-ai.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Federal Reserve raises interest rates for first time in three years",
+      "summary": "The U.S. Federal Reserve increased its key interest rate for the first time in three years, defying pressure from Trump for cuts.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "US stocks slip after the Fed hikes interest rates and hints more increases may be on the way",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTW5lU3JQLXljZW5VaC1SY3Y4Y1IzVk9ncDBrUVFuZHFkZXRQSVQzTVI4Y0x0Z1NwazVzVkR5cmNxWkdPOXE0VGNTd1M1YWVwZVlNclRQOC1JMmdxWXZSVnpiYXpBNFExNlc5RGJfbldXNmlVY0RlTWdlSW1wc25HNHlTQjdfRjloQ3FEMnRMNWZPTGxpZnUzRGVLUWQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
+          "url": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union"
+        },
+        {
+          "name": "NBC News",
+          "title": "What Does the Interest Rate Hike Mean for American Consumers?",
+          "url": "https://www.today.com/video/interest-rates-raised-for-first-time-in-years-how-it-affects-costs-270019653540"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Sweden's Prime Minister Kristersson resigns after election defeat",
+      "summary": "Swedish Prime Minister Ulf Kristersson announced his resignation following his coalition's loss in recent elections.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Sweden's prime minister to resign after losing election - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOE03WWgtcW00SlpMdnI5VEg4OHRTRVYxdHQ2YU9EN2dKR0VGLXIzZi1ZcFIyblJGSzdUaG81V0dlTlcwOTN4MDhzTE1Dd1Z0QnVDTDNsdWhaNER2VnpMUF82RXRBSFRYeGN0UjVrVExvNUUxTlFYLXJFclkzc3BCb0JkNHlKam1tYVdCNzRyUG9mc04tbVptSG9yYTB2anFKdTd4MW44cjJxcGNWVnc?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Swedish PM Kristersson resigns after election defeat – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "King Charles responds to Earl Spencer's Diana book claims",
+      "summary": "King Charles issued a response to claims made by Princess Diana's brother Charles Spencer in a new book about the princess's death.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "NBC News",
+          "title": "King Charles Responds to Claim in New Book by Charles Spencer",
+          "url": "https://www.today.com/video/king-charles-responds-to-claim-in-new-book-by-princess-diana-s-brother-270020678002"
+        },
+        {
+          "name": "DW",
+          "title": "King Charles, Earl Spencer clash over Diana death once again",
+          "url": "https://www.dw.com/en/king-charles-earl-spencer-clash-over-diana-death-once-again/a-79305876?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "House approves sweeping Russia sanctions bill for Trump consideration",
+      "summary": "The U.S. House approved comprehensive Russia sanctions legislation and sent it to President Trump for final decision.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "House approves sweeping Russia sanctions bill, sending it to Trump",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnh0S0FWVVRkVmxPNVBfeTlCSnlsSHBOM0VzZWRjYU5mSVNORWd1UnpBSmhFT2V6aktBMHc3V0lOVGpiUHlBUFFDV1RYRE1pYWFsNHgtd0xlZFcybFA3ODF3LVVFSzEyaUN6WmJtclE5ZEJUSUF6U0F1cUpWbWJndENiaTRuSEtaWU4yTEs0dmJ1b1I1a2UzMXpNRm5nWjUtZV95c09Lbw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘So many loopholes’: Democratic House leader Jeffries flags concerns over Russia sanctions bill – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/sep/17/donald-trump-democrats-republicans-russia-sanctions-us-politics-latest-news"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Sudan gold mine collapse kills at least 82 people",
+      "summary": "A gold mine collapsed in Sudan, killing at least 82 people with many more feared missing in the disaster.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Sudan gold mine collapse kills at least 82 people with many more missing",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUmE3YmJpVWNXOTVtQmJ0ak9CNVE1MkM1NWJJMF9USVh6RGJLUDZnZXpHNFg1ZmtfYnRTaU9qdExKRTRBMmk3VE9zSjlYbzVsa1VySTFZRTBJMzJhOTRUNXNOMlRnM0xXZHhzOF82VEVLWmlJRUxva29lVEpiN2tSX2wweWt4eDQ3MTRjYg?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Pakistan and India naval vessels collide in Arabian Sea",
+      "summary": "A collision between Pakistani and Indian naval vessels in the Arabian Sea sparked renewed tensions between the two nations.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Arabian Sea collision between Pakistani and Indian naval vessels sparks tensions",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcllKNXUycU5Nb0lmVC1pZmNnQ1VaWm91NkN3MXFRM2dlY0J3VWZ2UmF4YWNMbU9pbkdUakJIVFQwUTBZZ3hpRm9JTHlsTldtRlhoS1BXaHJNcWNfSzNoUE5yN0w4dHo3b01XaERtblo1OWpTbzgxX3VRTGIyN1RqUzZCLVJ5dw?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
