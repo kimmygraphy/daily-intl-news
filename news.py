@@ -13,6 +13,7 @@ import requests
 
 KST = ZoneInfo("Asia/Seoul")
 DATA_DIR = Path("data")
+NEXT_DAY_UNTIL = 7  # 이 시각(KST) 이전 실행은 전날 22시 몫의 재시도로 취급
 
 GN = "https://news.google.com/rss/search?q=site:{}+when:1d&hl=en-US&gl=US&ceid=US:en"
 FEEDS = [
@@ -29,6 +30,13 @@ PER_FEED = 40                 # 언론사당 최대 헤드라인 수
 MIN_FEEDS = 4                 # 이보다 적게 수집되면 실패 처리
 MODEL = "claude-haiku-4-5-20251001"
 HEADERS = {"User-Agent": "Mozilla/5.0 (personal daily news digest)"}
+
+
+def target_date(now):
+    """실행이 지연돼 자정을 넘겼어도, 원래 몫이었던 날짜를 돌려준다."""
+    if now.hour < NEXT_DAY_UNTIL:
+        return (now - timedelta(days=1)).date()
+    return now.date()
 
 
 # ---------- 1. RSS 수집 ----------
@@ -198,7 +206,11 @@ def send_discord(webhook, now, top10):
 
 def main():
     now = datetime.now(KST)
-    date_str = now.strftime("%Y-%m-%d")
+    date_str = target_date(now).isoformat()
+
+    if (DATA_DIR / f"{date_str}.json").exists():
+        print(f"[{date_str}] 이미 저장됨, 종료")
+        return
 
     items, feeds_ok = collect()
     if len(feeds_ok) < MIN_FEEDS:
