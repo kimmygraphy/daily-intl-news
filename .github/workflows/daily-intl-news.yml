@@ -1,0 +1,38 @@
+name: Daily Intl News
+
+on:
+  schedule:
+    - cron: "10 13 * * *"   # UTC 13:10 = KST 22:10
+  workflow_dispatch:          # Actions 탭에서 수동 실행(테스트용)
+
+permissions:
+  contents: write
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Collect & notify
+        run: python news.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if ! git diff --staged --quiet; then
+            git commit -m "intl news $(TZ=Asia/Seoul date +%F)"
+            git pull --rebase
+            git push
+          fi
