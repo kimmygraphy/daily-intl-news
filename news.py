@@ -25,7 +25,7 @@ FEEDS = [
     ("DW", "https://rss.dw.com/rdf/rss-en-all"),
     ("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"),
 ]
-PER_FEED = 15                 # 언론사당 최대 헤드라인 수
+PER_FEED = 40                 # 언론사당 최대 헤드라인 수
 MIN_FEEDS = 4                 # 이보다 적게 수집되면 실패 처리
 MODEL = "claude-haiku-4-5-20251001"
 HEADERS = {"User-Agent": "Mozilla/5.0 (personal daily news digest)"}
@@ -74,14 +74,23 @@ def collect():
 
 
 # ---------- 2. Claude로 같은 사건 묶기 ----------
-PROMPT = """Below are today's headlines from major English-language news outlets, one per line as [id] (outlet) title.
+PROMPT = """Below are headlines from the past day from major English-language news outlets, one per line as [id] (outlet) title.
 
-Group headlines that report on the SAME specific news event (not just the same broad topic). Then pick the 10 events covered by the most distinct outlets. Break ties by overall global significance.
+Your job is to find which news stories were covered by the MOST outlets.
 
-For each event, write:
+Group headlines into stories. A story is one news development. Put these in the SAME story:
+- different outlets reporting the same event with different wording or angles
+  (e.g. "Fed raises rates" / "Powell signals more hikes ahead" / "Mortgage rates jump after Fed decision")
+- reactions, analysis, and live updates about that same event
+Keep them SEPARATE only if they are genuinely different events that merely share a broad topic
+(e.g. two unrelated shootings, or two different AI companies' announcements).
+
+Check every headline against the stories you have formed before starting a new story.
+
+Return the 15 stories covered by the most distinct outlets, most-covered first. For each:
 - "headline": a concise, neutral English headline (max 15 words)
 - "summary": one neutral English sentence explaining what happened
-- "ids": the ids of every headline about that event
+- "ids": the ids of EVERY headline belonging to that story
 
 Return ONLY valid JSON, no other text:
 {"stories": [{"headline": "...", "summary": "...", "ids": [1, 2]}]}
@@ -94,7 +103,7 @@ def cluster(items):
     lines = "\n".join(f"[{it['id']}] ({it['source']}) {it['title']}" for it in items)
     body = {
         "model": MODEL,
-        "max_tokens": 2500,
+        "max_tokens": 4000,
         "messages": [{"role": "user", "content": PROMPT + lines}],
     }
     headers = {
