@@ -1,0 +1,256 @@
+{
+  "date": "2026-09-18",
+  "crawled_at": "2026-09-19T02:03:31+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Warren Buffett steps down as Berkshire Hathaway chairman",
+      "summary": "Warren Buffett resigned as chairman of Berkshire Hathaway, with his son Howard succeeding him as part of the company's succession plan.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Warren Buffett steps down as Berkshire chairman, son Howard succeeds",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGNSTzVqLUNZQjdoWnZWMENFaUo1cGNMSkNwVC1DNVdYVUNFWnNIVV9MR2VKUllvTDcyaXVuSXdYT1hKZkdRbWZRTFJacFoyV0VNcXpQZWJ5dDZyUFY3OGdnQi0xVklKcGJOUllOSDNwakh5Ym02c29OUjd1VUFqam90TDhzM0hOdkR3WFREWUFzNHl6N0ljbDg3LWVEOUdnajdVdnVuQkNJbmV6akZUby15U2hwd0JSQnc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Warren Buffett gives up chairman title at Berkshire Hathaway in the next step of his succession plan",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcjE2N1ZNUEE5THNqMG5XQ2QxdlZVRlpqM29zWW9LUHJhXzNfWnRvbXBpd1NqVHVMQ2x2ZGQtTWNTNUFLcG9idkpzZnYyOXRmTDc0Ml9sa2dUWGRHYkprbHE5RXBGdW9yMnJNcjVISFR3NklQRU5pU3lZWE5qZjE4MTdWY0xBX2hJNUgyeHlURQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down"
+        },
+        {
+          "name": "NBC News",
+          "title": "Warren Buffett steps down as chairman of Berkshire Hathaway",
+          "url": "https://www.nbcnews.com/now/video/warren-buffett-steps-down-as-chairman-of-berkshire-hathaway-270094405884"
+        },
+        {
+          "name": "DW",
+          "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+          "url": "https://www.dw.com/en/warren-buffett-steps-down-as-berkshire-hathaway-chairman/a-79330594?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Warren Buffett Steps Down as Berkshire Hathaway Chairman",
+          "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Princess Diana's brother defends book claims about King Charles",
+      "summary": "Earl Spencer defended claims in his new book about Princess Diana in a BBC interview, saying Charles sounded 'giddily elated' after her death, prompting Buckingham Palace to hit back.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
+          "url": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Buckingham Palace hits back at claims in a book by Princess Diana’s brother",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWxBR3ZrMmRyQVV6UnRVWWRNcHNyTkZweDFaajlvNGxMbndsYVV5SGl4N3dEQUZTMTdKdC1BWFNqX0dLN255dkpPR3lwaVpmSVVzOWhiaEttemJyWEd2R0VyaHl1NkUyT1M3b2J6eGJGbDI0dXNnanIwNXF2cTlFRTlTN2FtN2hRSFFsYnhVN1J3dFNGZkE3cWhYeEtINk5QdVE?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Charles 'Sounded Giddily Elated' Over Diana's Death: Earl Spencer",
+          "url": "https://www.today.com/video/charles-sounded-giddily-elated-over-diana-s-death-earl-spencer-270098501727"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Earl Spencer SLATES the king. Charles DESTROYS Spencer. If only Diana were here to click on it | Marina Hyde",
+          "url": "https://www.theguardian.com/commentisfree/2026/sep/18/earl-spencer-king-charles-princess-diana-tiktok-instagram"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Russia holds parliamentary election to cement Kremlin power",
+      "summary": "Russia began a three-day parliamentary election that President Putin views as a gauge of public support for his war in Ukraine.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Russians vote in election that Putin sees as gauge of support for his war",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1FVNFVtMWYwUW02SE9nakxQTU1JOGEtNW5sd0hoYnBaV2w0cHU1VnNsYThCQWx1MXVTMllOOWJKdU9JZkNQMmNOa0RISG1XRmszdWNGelBKMlVJRTA0RFpranUxSlBtRWRpdVpSWlhzYUF1akxIUmVMQ0lOaUp2aWZMUDdtYkF0ZGZpTFFoZmI3N2pFdlI0YV9ydmlvdTJadTZFOHJST3dBYVkyQlJVOHZkX3hUQzBOQ3dQLUVMX3dJQQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Russia begins 3 days of voting in a parliamentary election set to cement the Kremlin’s power",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUFqYVVGeUo1RkFUYXVSZVNtWU5wU0ViN1c3eE90aEJ4dHduTjRhazI0VWpscUJzTXUwQkNzVzl0UC0xMnlVa0c3azRCTmtqbFc3bldOWjQxOWxkbDFMaTUxb1AyTVFRMm9wVGoxcFZ1RVJhSDYxX0FLYzFNNVF6VHY1NkR2WF82QmozeGFXaFh2cjdHSWJaY0tub3lybVJ4c1FfME41ZUdoSUFCeHc?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "A war-fatigued and anxious Russia picks a new parliament",
+          "url": "https://www.dw.com/en/a-war-fatigued-and-anxious-russia-picks-a-new-parliament/a-79312440?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants",
+          "url": "https://www.nytimes.com/2026/09/18/world/europe/russia-duma-election.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Holdout juror in Lindsay Clancy murder trial speaks out",
+      "summary": "A holdout juror in the Lindsay Clancy case said he had no doubt she deliberately killed her children during contentious deliberations.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
+          "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NBC News",
+          "title": "Lindsay Clancy’s Husband and Holdout Juror Break Their Silence",
+          "url": "https://www.today.com/video/lindsay-clancy-s-husband-and-holdout-juror-break-their-silence-270097989535"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Lone holdout juror in Lindsay Clancy murder trial speaks out",
+          "url": "https://www.theguardian.com/us-news/2026/sep/18/holdout-juror-lindsay-clancy-trial-speaks-out"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Holdout Juror in Lindsay Clancy Case Says He Didn’t Doubt Her Guilt",
+          "url": "https://www.nytimes.com/2026/09/18/us/lindsay-clancy-trial-holdout-juror.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Pakistan mosque bombing kills at least 17 people",
+      "summary": "A vehicle loaded with explosives rammed a mosque in Pakistan, killing at least 17 people in a suicide attack.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "At least 17 killed after vehicle loaded with explosives rams Pakistan mosque",
+          "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Suicide attack kills 16 near mosque in northwest Pakistan police compound",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOVYxYjJMNGR0aDQ5aEdWbkwwT1ZkcVFfYng1eDh5LXRETHhDa2RzRHlzQzdKV0s5NlBGMzRteTNtdU5Cd28xTHVlRVdiZnZCdVVUeTl6MlB1REc0RFFqeXlGRjdjMTBrZU5zNGhJRUxqVV9jTklEZTRPSWFiSnNVUjZNWWYxRGVXS05Wcl85ZzBPeTRRYkR0Z1VxTGtxT3VrWXljMEoyY1VESnkwMUh0djc1dk0xMU5GbndaRDhKVHQ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Pakistan suicide bombing targets police facility in Kohat",
+          "url": "https://www.dw.com/en/pakistan-suicide-bombing-targets-police-facility-in-kohat/a-79327432?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "France and allies respond to Russian hybrid attacks on Europe",
+      "summary": "French President Macron said Russian hybrid attacks against Europe are intensifying and announced plans for G7 meetings to discuss energy crisis.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+          "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "France says Russian hybrid attacks are intensifying",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSHV2TTRxUXBMbWZ0ZDRSUjlKWHZMcGRpLThCNGdTbEJYQkNOSGp0RllHekdFdTFvZEtZcVZhbnVjQkdqb1RGbWVHeDRZUHRHQ29TN2dlVDFOenNhbUtMdGIwZFBKZTZFSktuRXZ4Qm91VU1qYVJLazdQY0dXMkVPZzR5ZHQwQ2dLQW9LVmxSMkpVVUpVMnRTWHFjT2haSzBkQzJlNVVR?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "France: Macron orders defense against Russian hybrid attacks",
+          "url": "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Global IT outage caused by software defect affecting hundreds of thousands",
+      "summary": "A global flight chaos incident was caused by a software defect occurring in the space of a millisecond.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Flight chaos caused by software defect in space of a millisecond, report says",
+          "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Flight chaos for hundreds of thousands was caused in ‘millisecond’ by software error",
+          "url": "https://www.theguardian.com/world/2026/sep/18/flight-chaos-affecting-hundreds-of-thousands-caused-in-millisecond-by-software-error-uk"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Mbappé leaves Nike to sign with On after 20 years",
+      "summary": "Kylian Mbappé ended his 20-year partnership with Nike and signed a boot deal with Swiss brand On.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Mbappe leaves Nike, signs with On as it forays into soccer",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEplMVM4YWswdDhOamVlXzZYS0d5dzFaVUZNSHJxdHE4cTd5c2s1Yjc0N2pkVkU5N0hhV2N4TGxFa0FiV3RHQUdVMG15NUFsRjFwRV9qSFFPcmtOVGpfM3ZkS2ZyUHJnMG8waHJ1NW9Qb0FNeDJXSDU5dnNRMURFcG1CazM3Y0FZZS1YVkowcllmZHdXRkFGNElsc2NoaDd2emc?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Kylian Mbappé leaves Nike after 20 years to sign boot deal with Swiss brand On",
+          "url": "https://www.theguardian.com/football/2026/sep/18/kylian-mbappe-leaves-nike-20-years-boot-deal-swiss-brand-on"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Oxford United and football club apologize for United 93 shirt ad",
+      "summary": "A football club and Oxford United apologized for launching a 'United 93' clothing range around the 9/11 anniversary.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Football club apologises for United 93 shirt advert",
+          "url": "https://www.bbc.co.uk/news/articles/cmr4v5v3zzr7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Oxford United apologise for launching ‘United 93’ clothing range around 9/11 anniversary",
+          "url": "https://www.theguardian.com/football/2026/sep/18/oxford-united-apology-united-93-clothing-range-9-11-anniversary"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Schools in Philippines see shooting incidents killing multiple students",
+      "summary": "School shootings in the Philippines resulted in the deaths of multiple students.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "One killed, four injured in Philippines school shooting, provincial governor says",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb1FVZlFWOGJET1lKMlJiaHg5QnpEaE1rMWFMdVlqN005Wk1FdUt6TV82MEVfbUItZThtQmN5OGsxeG5MLTRPYno2eG5yUmlNTEZYMFpPRE5JUWViZmJfNXFzWDZ6MURHd2l2cTB0eFZGQlhhcE1hNG5seDhLU2RhNzYxbnV1aVA1dnhWNGtiQzZjTnV6ZXhpY2l4UzFtRG42T1FOZ1JJQTU1dFE3cE80NkRvRFo1b2swX0c4STBhU1B5YkkxMWxZWVlPTQ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Philippines: At least 3 students killed in school shooting",
+          "url": "https://www.dw.com/en/philippines-at-least-3-students-killed-in-school-shooting/a-79319854?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
