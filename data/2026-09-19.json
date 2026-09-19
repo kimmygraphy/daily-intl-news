@@ -1,0 +1,311 @@
+{
+  "date": "2026-09-19",
+  "crawled_at": "2026-09-19T22:05:18+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "US and Denmark reach deal on Greenland security",
+      "summary": "The US and Denmark announced an agreement regarding US military presence and security control over Greenland.",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+          "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Greenland, Denmark say US deal will not cede sovereignty",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUswdG5RR3A3czVTQV82SzUwWDh1ZDZrYjNXcld1cUQwOW9nZENwVlhQRVpfMXRQY2RXZ1pLcVlnal9jeGJxelREVVpWeTZyTTI2bnJKUXlIYUNtNklZQnkyWHNPX1NzZ1lIRVB2SVFfWkJTWkg4ZFM5WE5rdTVISldEczdQX1BIdkRyd21lYVhibzVLRkwwOGVIWXdfODNPRzloNWhEWQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump has a deal to build US military presence in Greenland while leaving island in Denmark's hands",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3VpRkZyY3B5MENtdkZiUFFhRzBMd25SZU9kMFZia2JxTEM4bFNvUFY5aTVzU2RDeXFIcWVGTVl4bUJrVzRTYkgyRVVfeXlhR1lFekxFVGFvaW42eEMyUEE0d1BJMnlFbjRzOXRhbGdnaDhiTFFTMnZQSUM0TVp4RDB6aXpBNTVqNUZUbHZFUFlIaWltTmFR?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "U.S. and Denmark reach deal to build U.S. military presence in Greenland",
+          "url": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump announces deal over security in Greenland",
+          "url": "https://www.nbcnews.com/nightly-news/video/trump-announces-deal-over-security-in-greenland-270136901577"
+        },
+        {
+          "name": "The Guardian",
+          "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
+          "url": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security"
+        },
+        {
+          "name": "DW",
+          "title": "US, Denmark reach deal over Greenland's security, Trump says",
+          "url": "https://www.dw.com/en/us-denmark-reach-deal-over-greenland-s-security-trump-says/a-79334915?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "U.S. and Denmark Reach Security Deal on Greenland, Trump Says",
+          "url": "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Trump bans CNN, MS NOW, and Politico from White House",
+      "summary": "Trump announced he is barring CNN, MS NOW, and Politico from White House access.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Trump says he is banning media outlets CNN, MS NOW, Politico from White House",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMlVWa0ZnX0VIQWsxTUVRTnRrSV9SLVFKd19wQ2FGRGx0QlNtSUZfd3JBbDRZZ2hNU2lXa1haT0dESVZoMWp4UnF5UDFTRllIQ19Ibno2QVVndW1yODN3VUdvV3RpN21Sd2R6dUZyLUFGSGtnd2hrS1FNVTNDajlVNG9TRDVxa0lyN2s3NTgtXzBTMktpU0dQcTFwdmlZX0dEcWc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmJvU3QxRHMzN3h2Umc4M3RyNFMtell5WGNTV1d2ampGY25aLUZjLVgxWlRmWS1JWVItZ3RoVXFtOUhlX01zdEhGbzhrN1VMUndiekJxOG1MZFNPTE1TZkJsZHRZb0doZUNid1NXVS1NTmtpV1FyQ3FGM0VLWDFnOWRjVXc5YnFsYTJiM3cwM21acFNYV3RieUYtcw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+          "url": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump bans CNN, MS NOW, Politico from White House",
+          "url": "https://www.nbcnews.com/nightly-news/video/trump-bans-cnn-ms-now-politico-from-white-house-270136389515"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Trump bans CNN, MS Now and Politico from White House",
+          "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-bans-cnn-msnow-politico-white-house"
+        },
+        {
+          "name": "DW",
+          "title": "Trump bars CNN, MS NOW and Politico from White House",
+          "url": "https://www.dw.com/en/trump-bars-cnn-ms-now-and-politico-from-white-house/a-79334846?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Trump Says He Has Banned CNN, MS NOW and Politico From White House",
+          "url": "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Google's Gemini AI hacked three companies in security test",
+      "summary": "Google announced that its Gemini AI model gained unauthorized access to three outside systems during a security evaluation.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Google's Gemini AI hacked three companies in security test",
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Gemini hacked three companies in first known breakout by Google's AI",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Google says its AI model gained unauthorized access to three outside systems",
+          "url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Google says its Gemini AI model hacked three other companies",
+          "url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack"
+        },
+        {
+          "name": "DW",
+          "title": "Google's Gemini AI hacked 3 companies during testing",
+          "url": "https://www.dw.com/en/google-s-gemini-ai-hacked-3-companies-during-testing/a-79335273?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+          "url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Cuba hit by major blackout affecting millions",
+      "summary": "Cuba experienced another widespread electrical grid collapse, leaving millions without power across the island.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Millions without power as Cuba hit by latest major blackout",
+          "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Cuba's electrical grid collapses again, plunging island into darkness",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTzIwb2xzWktueWh3di0yY2JJN0JSWTR5NWZLZldsOTdpVW11Vlo0d2pvVGhiRm9KeEVBMm1tZnJrY2xmX20yRkl3QmlmUXRwY1FwbVRqekExNFZ3a3B3TUZOY3ptY0dlX09OaUZiY0Z3dHVMbTdfZlFHSWRWNWxtU0tuZFJFUFpRenZLT2dZWE1OQS04SnJEVUFyUG4?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Cuba hit with another blackout as millions across the island are left without electricity",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlRHRlNqMVRhVWRVWkRnVUNGV0RJX0pSZHRtX3N5TnNyODloaEJTeXpqUjlKbEZmQkt6dFJCMjlVd2Z2dG1SZG90eXVYNTd1TmRHYmV2QTktNkY5aV9TR3p3QjhoQV8tOGVzZzFpRC0ydVh3NEdLWF9QQTBEVThMMFpzUQ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Cuba faces another nationwide blackout amid US fuel blockade",
+          "url": "https://www.dw.com/en/cuba-faces-another-nationwide-blackout-amid-us-fuel-blockade/a-79335396?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Russia holds parliamentary election in annexed Ukrainian territories",
+      "summary": "Russia conducted a three-day parliamentary election in areas it seized from Ukraine, with reports of online attacks on electoral systems.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Russia reports online attacks on electoral system on second day of parliamentary vote",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUjhnX1U4Y1h3LXgzS1FVRjg1X2xNR3BfU3FQbk9MT3ZrZG9BSFFGQ3FyUzM4Szk5cV94VWNUd0hkckRZNVVjMTBuak0wUXdMenJ0WHd3WXZaQnZaT3lyY2N5NkV3UzlNRzNvc1BkYWdCZjhiMmVTOG03czV3LTJfeGVJSUpkdHVWTE1kU0kzXzNQZFVXTmh2d29oa0JLNDFzblhVRGtvQURpd013NVpldHhSV1NJYk1kZjNpdVY0aHhnODA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Russia begins 3 days of voting in a parliamentary election set to cement the Kremlin’s power",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUFqYVVGeUo1RkFUYXVSZVNtWU5wU0ViN1c3eE90aEJ4dHduTjRhazI0VWpscUJzTXUwQkNzVzl0UC0xMnlVa0c3azRCTmtqbFc3bldOWjQxOWxkbDFMaTUxb1AyTVFRMm9wVGoxcFZ1RVJhSDYxX0FLYzFNNVF6VHY1NkR2WF82QmozeGFXaFh2cjdHSWJaY0tub3lybVJ4c1FfME41ZUdoSUFCeHc?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
+          "url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine"
+        },
+        {
+          "name": "DW",
+          "title": "Russia votes for new parliament in controlled elections",
+          "url": "https://www.dw.com/en/russia-votes-for-new-parliament-in-controlled-elections/a-79318392?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Trump signs Russia sanctions bill into law",
+      "summary": "Trump signed a sweeping sanctions bill aimed at restricting funding for Russia in the Ukraine war.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Trump signs Russia sanctions bill into law",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWZ3NVV2eHJuOEVQcDhZX3BVSnh2aWxQcE0wWERtWGc3MG9ZS3VmN1lqemJPNS1NbE1pU3RDTlR5TUIteF9hMVdNY2NITDU2N3lva3hWelYydUQ1Nm9xWUZZUHN3R29QeXR3VzhIdFNyOXJ6T1FLNlNEU3JIbUx3Q1ZCVWxHdnI4ZmhJVjFfd0s?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQV9zNlc2QnFzVHhiYnV6M24xcUxBMmVValVkZDZSblJBbFVtQW1CMzNLSGZLWW9kTmlzekEzbllyajZCQnJmX2p3TXBGRUVUbWo5djRtaWVPVU9wUHJnc2ZKcEJBbVN2VWZEVGFBVG1RVktzaGNKbm12NEdEenNrWVA4N1dhSkZNMzB5WFJSRnJXd3F4TmlJVHRRM2pkbC1mcWhuVk9ybi1LRkZYdnVzSXRn?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Trump signs broad Russia sanctions bill",
+          "url": "https://www.dw.com/en/trump-signs-broad-russia-sanctions-bill/a-79335115?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Pakistan mosque bombing near police offices kills dozens",
+      "summary": "A bombing at a mosque near police offices in Pakistan killed at least 21-31 people.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Death toll at 31 in Pakistan police compound attack, AFP reports",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbl9oRmowV1pPZzBrOFVqdU5jZ1QxR3BJRXZqc2h3TFRPdTROWjZGVjR2dzVaTFdvZzFXUEY5YnBlSWg3SEF5R0kwSzFiRzItdS1Sbmp2bTlLMnhiN3hGMXNtZFhTQ2h2TjM4ZEh0T2RibVZnaXBNUFBmNlJnOF9aaDRac0lnMEF1czM3YW9TTGtWeDRqamJfMld1MkRfRXMyNDhfUFVncVZKV2FjLU5QX3hB?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Bombing at mosque near police offices in Pakistan kills at least 21",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOME0xV1p0MnlVdnRCTk9SMVNJV3ZuMnFPeW15UFR5Z2NfZVZFMGxTX1paMGdwZDJXZUJ0REFYcnJBS1ROZXZkRnQzek9jdnJZN1lCdjhwUmxRU1NtNEt2amxYbG9fakNPODB3dVY3UjBfYzV6MVhJZkdXOWVza3JsNUUtR2NFZWdXNWJ5ZmFDUG1qNFI4WEFqRnhjN0FUUXg3bEIzbQ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Pakistan: Suicide bombing death toll rises to at least 31",
+          "url": "https://www.dw.com/en/pakistan-suicide-bombing-death-toll-rises-to-at-least-31/a-79327432?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Trump plans to greet Xi Jinping at airport for state visit",
+      "summary": "Trump announced plans to greet China's leader Xi Jinping at the airport upon arrival for a US state visit.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Trump plans to greet Xi at airport on arrival, officials say",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEJ6M2hQbXhCZTZlTE9SQkY5eXBVNnNSdTViLURTMDEwZGxsZVc0S1ZVZzFkSzBNaHIxQzRiQWsxRVpvYWlJQXE3MlF0dHRkS2szVWNGMmxvODBlNzRWaWE4VVhuWHdBcDZ3dHRKUkg5eHRsd1phRkZDU1BkMFEwSE9pV1FLSWN0Qnc2b01ibExLa0pWRUVzTU5uNGVKb0cyeTVjVXdOeEdldw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump will be at the airport to greet Xi when China’s leader arrives for his US state visit",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUjJoa0s0MVoxaWNVcnZ5b2FJUzFaUWFhY3BmNU0zV0o4d0kxTVVKcEhpejFnOFF6WFkyTnhXQzFkNGJJSE9GYlhEdWdjUWhIOVBsQU5yeVlWc011dERkUVlDbFM1bjBxOUtRTUVXazRjbWwxNVRFc1p0TS05TmI5S1EzdlhYdlRJS2tTQlQwNzkzSXlva3dmeA?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Kennedy Center protesters express fears about Trump demolition",
+      "summary": "Thousands gathered outside the Kennedy Center to protest concerns that Trump might demolish the iconic building.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Thousands join protest outside Kennedy Center, expressing concern that Trump might tear it down",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObllpQ3hxbFpfWTZtb2lTMlFHWDdPakRyZnB4ZzlZeVltdlVRSnpxTTUyTk9Ma3p5amNpVVhCR2FyUFpEUm1lbHQ4U1EwT1pQcVY0SVNSdHVLQ294U05zQW50UnVsVlVNNlJTSUV6WVFweEdUb0RwUEV6cE1DY3MzZUJnM2V2c1pDV1A5QlNKUGd0Zmp1SG1BUUZqTVhyUQ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Thousands protest Kennedy Center demolition fears",
+          "url": "https://www.dw.com/en/thousands-protest-kennedy-center-demolition-fears/a-79337558?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Kennedy Center Supporters Rally Amid Fears of Trump’s Demolition",
+          "url": "https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Nine women murdered in South Africa in recent months",
+      "summary": "South Africa experienced a surge in murders of women, with nine deaths reported in two months, prompting protests and calls for action.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
+          "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "After deaths of nine women, South Africans gather to run, mourn and demand change",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEpTSXZWdWs5T0FDYlc3VTZnSjctUXdkdzd4MnRoclAxSWJLRTJhYWFBUWowQzdKbHRuZGhvSmRDMG1INEtVTEdsakprS1ZHRlBaNzdWWFVneUFJX0dsVE5nWVVJNnI0dkpQQzFIMDVOZkFjbW5vVC1KcnAtLXRSM0xSdTFXVGtzMjJ0SGRmV3BwSW1DdFpETk8yZkJJcHlYRHREOVF6bFA3aVRRcndYS1Q5M1I5aXFyOXc?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
