@@ -1,9 +1,9 @@
 name: Daily Intl News
 
 on:
-  schedule:
-    - cron: "10 13 * * *"   # UTC 13:10 = KST 22:10
-  workflow_dispatch:          # Actions 탭에서 수동 실행(테스트용)
+  repository_dispatch:
+    types: [run-news]   # cron-job.org가 이 이벤트를 호출해서 실행시켜요
+  workflow_dispatch:       # Actions 탭에서 수동 실행(테스트용)
 
 permissions:
   contents: write
