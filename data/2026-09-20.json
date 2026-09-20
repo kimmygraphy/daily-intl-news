@@ -1,0 +1,296 @@
+{
+  "date": "2026-09-20",
+  "crawled_at": "2026-09-20T22:05:18+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Ed Sheeran addresses Gaza situation at concert after Macklemore controversy",
+      "summary": "Ed Sheeran called the situation in Gaza 'catastrophic and unjustifiable' during his first concert following the Macklemore controversy, expressing his stance on the conflict.",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+          "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Ed Sheeran calls Israel's treatment of Gazans 'unjustifiable,' apologizes for Macklemore controversy - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObjF0SWxoajFDdXhWT1U5M1QxbE9BXzJIT3dpVVhoUE51LUh2c3FBQ1IzQ3Y3Mm5mb25yWGZhbXRIUjhlZHNQUGUwdUE3OTRPSndaWk5SZ0tKY1d1Y08zNVZ1OWhnUTU1OXpuQnVyNkxBRVYyYTZQYkNsTTl5NzR6LWpsUWp0aEdUNnRfRTk2ZW82LUZia3VkRHJ5LVRqY3NXb3c0M29MM1VZZEVPNGt6cTFNNmY4Q3NMS0VlRjQ1NDZTT2NCTEl1Z1V4MW10Rmc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Ed Sheeran says situation in Gaza is ‘catastrophic and unjustifiable’ as he opens concert",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3o0V1lsZ2NpZEo4ZUFUYXJpSTRPWncyYktqOVVJQ09XblgydWdTdDY0V3AzazJlU1R6RmVHSFhvZlBKY2RYR1JOdWd3TG80em91NEdpMi1EQkNjN0lsdVJDaE9xVHc1ajgyMndpSFA0T1MzUDJJQWJDUjl3SjNyN1FhNVprS1MwODBjU0V5bFhkdHNJNTRObVAwQVBhSWFjbHlseA?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert",
+          "url": "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert"
+        },
+        {
+          "name": "NBC News",
+          "title": "Ed Sheeran calls situation in Gaza ‘unjustifiable’ in first concert since Macklemore controversy",
+          "url": "https://www.nbcnews.com/news/us-news/ed-sheeran-philadelphia-concert-macklemore-israel-palestinians-rcna598354"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Ed Sheeran says situation in Gaza ‘unjustifiable’ in first show since tour plunged into turmoil",
+          "url": "https://www.theguardian.com/music/2026/sep/20/ed-sheeran-gaza-catastrophic-and-unjustifiable-first-show-tour-loop-philadelphia-us"
+        },
+        {
+          "name": "DW",
+          "title": "Ed Sheeran speaks on Gaza in concert after Macklemore controversy",
+          "url": "https://www.dw.com/en/ed-sheeran-speaks-on-gaza-in-concert-after-macklemore-controversy/a-79341971?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Ed Sheeran Addresses War in Gaza After Macklemore Is Dropped From Tour",
+          "url": "https://www.nytimes.com/2026/09/19/arts/music/ed-sheeran-macklemore-gaza-tour.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Ukraine launches massive drone attack on Moscow during Russian elections",
+      "summary": "Ukraine fired over 1,000 drones at Russia, including hundreds targeted at Moscow, in what was described as the largest attack on the capital, with casualties and infrastructure damage reported.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+          "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Two dead in Moscow region, drones hit oil refinery in Russian capital - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVNJbGZEQXkzaEQ0UGs4U192Sks0X1UtRWtrYXhIbG0tdDhKLU4xYU1kZTFTY2g3VG4xSUE1b3MxVUNzLXlNUjZrSnRiQy1jeWo2bmJhNElYME1DUWxKdHBtbktxSUpNUkNJcjRkc1NMUmtkT2hKOWpZRGdfdDRiV0JaZVNnTWd5Sk1qbnA3N0oyWEFULTVBcllkZGsyOHZLenl4ZHNLbHRIX1B0RDRJdA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+          "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow"
+        },
+        {
+          "name": "NBC News",
+          "title": "Two dead in Moscow as Ukraine launches massive drone attack while Russia votes",
+          "url": "https://www.nbcnews.com/world/russia/two-dead-moscow-region-drones-hit-oil-refinery-russian-capital-rcna598767"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Moscow targeted with hundreds of drones as Kyiv uses its first ballistic missile in the war",
+          "url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election"
+        },
+        {
+          "name": "DW",
+          "title": "Russia: Ukrainian drone strike on Moscow kills 2",
+          "url": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "White House denies access to CNN, MS NOW, and Politico after Trump's media ban",
+      "summary": "The White House blocked journalists from CNN, MS NOW, and Politico from entering after President Trump imposed a ban on these news organizations.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "White House turns away CNN, MS NOW, Politico reporters after Trump's ban - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlJsM3I5a1ZRT3VKVlJvVkNNNHo4Z29nLU5wN2tZTzItaTJRTW9ncmkyME1iM1hsMnpLWl9FN2lCdl96aHFvRXhxN0xxV082RVpoM2dwZS1icFI5ME13V0VPaW9DMlFKSm1wci0zMGlVYjV1UWxXd2dZRDRmb0RmWXJRbnk3ekhHQ0ZkMUc1U0U1bW1GN1Z4NV83VmlfNDBaTVB2OGhOdTN4SDVXcEF2czQ5bktSc1pVVWtQbA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcUUtVjNhMUdzOUo3alRhSVRGVF9aeFVBVUJlSjg0b1RvVnBJYjNXNzh5bWlnbEFjbDg0QWlVSlZueDZWYXltMW11ampFUHphekE1VVdDdlp5MFVhV0lWUUVySmNBT21TZGJNZGh0YlF6c0ZKbmMzMVhKLWlaQWx5Q0RwTUhPZ2dudWc?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "CNN, MS NOW, Politico Journalists Banned from White House",
+          "url": "https://www.today.com/video/trump-bans-cnn-ms-now-politico-reporters-from-white-house-270175813886"
+        },
+        {
+          "name": "DW",
+          "title": "CNN, MS NOW and Politico denied access to White House",
+          "url": "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Saudi Arabia confirms Houthis attempted ballistic missile attack on capital",
+      "summary": "Saudi Arabia confirmed that Yemen's Houthi rebels attempted to attack the capital Riyadh with a ballistic missile and claimed other strikes on the country.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZnFXQ1lvNTg5TnJvazhfY3VXa0hrVms4RW1mdVBpR0k4QXZkempjX0h4Y2JIaGNvSm04YVJkTHRDTWpESVFDakhJMExiNGZSSktLcVFsM3VlM3ZibDQwVlE3czF4OEdLdXdnU0FPaUN1aHFLVWN3cW9uVHRTTDdDU1BNaUNMd3NQMlY5VGZPYzA5ODlMQi1rcWVDXzhFZHJWUF9tQjJqUUtzQW1yc0tYNw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Saudi Arabia confirms Yemen’s Houthi rebels tried to attack its capital with a ballistic missile",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTl93X1pobmY4NGRuMlI4SHU5azdKQlZYbDRfQWJsUDBwcGIyZTdGOEIzY2g4Z29BLU9HUHFpbjdNbXNXdGxObzRGOVBoZC1acklPemZlRUhPeFdKaVMtcUFudWtIdmhHUVEya1M0R1NxakxsdUlpN05HNGtlSkFhRlFKTUs?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Saudi Arabia says Houthis tried to attack its capital",
+          "url": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital"
+        },
+        {
+          "name": "DW",
+          "title": "Saudi Arabia: Houthis claim strikes on Riyadh, Yanbu port",
+          "url": "https://www.dw.com/en/saudi-arabia-houthis-claim-strikes-on-riyadh-yanbu-port/a-79339010?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "German state elections underway as Merz faces political pressure",
+      "summary": "Elections are taking place in German states with implications for Chancellor Merz's political future and coalition prospects.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "German elections under way which could decide fate of Chancellor Merz",
+          "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Merz under pressure as two more German states go to the polls - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzV1OGZScHpSaFBvZVZuV2RwNFJzdV9GOVNuT0s1b1N0dlU5RXVQdGh5ZHpneWloTWNOU01GMVgxZjlVTVFtTG5Ock0xZWcwQ21iaWVObjNKeTdBY3MzcDU0RGNNanRHNG1LbWlkeUh1RUY0QW5TM2JfbkJ5bFFwcmMzdDZkQTd0STVXRGJkMjA5bkZWVGN6Q3kteHJMZTQ1dnc?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Future of German chancellor hangs in the balance as two states go to polls",
+          "url": "https://www.theguardian.com/world/2026/sep/20/german-chancellor-friedrich-merz-state-elections-berlin-far-right"
+        },
+        {
+          "name": "DW",
+          "title": "Germany: Voting underway in two key state elections",
+          "url": "https://www.dw.com/en/germany-voting-underway-in-two-key-state-elections/live-79322092?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Trump creates AI force and appoints AI czar amid rapid tech development",
+      "summary": "President Trump announced plans to create an 'AI force' and appoint an AI czar to address concerns about the rapidly developing technology.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Trump says he will appoint a new AI adviser, without providing details - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeW9QS1RSUzNKWDluSVZQS0pJVDkyYjVWWjZPcWhEUHJkczdpZzhIN3N3THZ4Ylg1M2xLRTBzTDJyd1ktVDhOeHJVaHdqQWZXdVo4X2NqMllhVDNCQjZfUTJ0TV9fdEw5NW5OLTRDbzhEOG9UNjdGNUllQU15WGpuUncwMDd3OGhOY3Y2dTE0WEVoaXR6UzNV?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech",
+          "url": "https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688"
+        },
+        {
+          "name": "DW",
+          "title": "Trump announces new 'AI force' amid mounting pressure",
+          "url": "https://www.dw.com/en/trump-announces-new-ai-force-amid-mounting-pressure/a-79339935?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "A.I. Gone Rogue? Trump Proposes Not New Rules but an ‘A.I. Force.’",
+          "url": "https://www.nytimes.com/2026/09/19/us/politics/trump-ai-force.html"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Earl Spencer says Harry and Meghan media treatment echoes Diana experience",
+      "summary": "Princess Diana's brother, Earl Spencer, told the BBC that the press coverage of Harry and Meghan mirrors the 'cancerous influence' that affected Diana's life.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NBC News",
+          "title": "King Charles accused of ‘gaslighting’ by Princess Diana’s brother in dispute over book claims",
+          "url": "https://www.nbcnews.com/world/united-kingdom/king-charles-accused-gaslighting-princess-dianas-brother-dispute-book-rcna598765"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Earl Spencer says media treatment of Harry and Meghan ‘echoes’ Diana’s experience",
+          "url": "https://www.theguardian.com/uk-news/2026/sep/20/earl-spencer-media-treatment-harry-and-meghan-echoes-diana"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "North Korea launches two ballistic missiles off east coast",
+      "summary": "North Korea fired two ballistic missiles into the sea off its east coast within a three-hour period, escalating tensions.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "North Korea fires two ballistic missiles off east coast in three hours - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDFuRjFrR3lVU05OakZFWFlOdWFSTGsyelUxZmZrMkZvamthRHNRVkx0ZG95NnRIdXlWUFVhX2pfaUo2M1haY1B5RXNzVjJTRDZ3bXN6MUpYWUxiZThYbE9FWHBUemMtbC1SMHRQeWdBdC00YmxUWEZkXzljNm9PTnBCNS14WGFUOUFQRVZEN25feWZLNkRmcFN4M0pyM3pBZDF2cktnVGF6OXM?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "North Korea launches 2 ballistic missiles toward the sea and dials up pressure on the US",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVVYclhGeTgxaDh5T2dZVGJFbTRELUFsdGFvM1A1UGZFSkFIcnRkTTFxVUtvQy1lUmM1WlZxM0FEU3I3NHc3dXJaZDlaLWFqNktIRFZtcGZ5WUJxQWlsT3hQN1lwZFhoNFpGX0dVT3RXRng5TEhEVzg4OTF3cmo0R01yMVFFVGRoQmwwVA?oc=5"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Trump escalates media conflict after week of political setbacks",
+      "summary": "Following recent electoral and legal losses, Trump intensified his attacks on media outlets and journalists.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Trump escalates media fight after week of setbacks",
+          "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Trump Faced Loss After Loss. He Then Turned to a Familiar Target: The Press.",
+          "url": "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Macron and Carney to hold talks on Canada-France relations",
+      "summary": "French President Macron and Canadian official Carney are scheduled to meet to discuss strengthening economic and defense ties between Canada and France.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Macron and Carney to meet in French Atlantic archipelago in signal to Trump - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdkVYa2s0a1hldGZKYmpHQS1XdWkyNDZZSkR6UkNGUGRFWnFOMHJvQ1plRXRZanlQSFgwN09iMEliYmdQZm1lWENhNERBVkVaYjJiSUxrc25pVUFkWnpCRm9rYmxUU3N4Q0xXVHQwNFpLcXVyU2l2dHBxVFRGQkluNnZyY0NMRGJpMXFJTHo0X3AzaWV5SUU2ampSanpLN3MzRHNBRHc5ZjZyOV9XaGEw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Macron and Carney to hold talks on strengthening Canada-France economic and defense ties",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTm9KMTZzbXpJVUZnellLVURXTW1veHdKejRLYkpYcTdscWwxd2dMdEJObEVFNGJzc3d5YXV2bmQyellxbV9WRmtiN3ExZ0ZySTBvWFE3YWdGeGhkTldnMzRld3Y4QjFDSm00eDltVXBlZ0pqWjZWcDQ1WkNmT2lpN3ZQMmJxZFBaYlFnUGNpRHJyUHZFSG9hZllkRQ?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
