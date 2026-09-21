@@ -1,0 +1,301 @@
+{
+  "date": "2026-09-21",
+  "crawled_at": "2026-09-21T22:05:23+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "CNN, MS NOW and Politico sue Trump over White House ban",
+      "summary": "Three major news outlets announced legal action against the Trump administration after being denied access to White House press facilities.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+          "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "CNN, MS NOW and Politico to sue over White House ban - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN3FsUG96RnAzaEhYRG9WdFdhckY0NFFOT0hYWF9TSWx1XzlCTHJidFN5d3VvcHh0MUZmTjctZXl0QlA3M3dlbmRTaGR1WlZOUktIdVRGYXNTemczVFhnNExmSV9OOFRQdlRYU0xJYmMtWVhUU09vNTE0Nmc2Nm45MzIwa3ZtOVo5cHl6YWZXanNwallBQXhoalJ6Q2czRVVrRzZVbW84a09OdmhVdzRad3pyQnR5Z3NkeXdMXw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "CNN, MS NOW, Politico say they've notified Trump they're suing over denied White House access",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE9ZY3hqOG5XR0ZGUkR6cHNrV3BNRUhtTDljRUZBdzhXUDVoSk1HeHRtRHltR3hpSXFkbG1qVndtUkJmVTFPOUU4VVVOUG9hcWx5X2x4NnhKRml3aThkQllIVWFaT04xTGh6UE4yZHdFanVQTDJkQ2NwczQ1N1VYYnlQdnU2UWlZT1k0aHBzVW5PN19lNkkxcnJydw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "CNN, MS NOW and Politico will sue Trump after being barred from White House",
+          "url": "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump Faces Mounting Backlash After Banning CNN, MS NOW",
+          "url": "https://www.today.com/video/cnn-ms-now-politico-file-suit-over-white-house-press-ban-270208581709"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Trump denies ‘assault’ on free press as three outlets plan to sue over White House ban – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/sep/21/donald-trump-arch-media-white-house-press-ban-mamdani-ai-unga-latest-news-updates"
+        },
+        {
+          "name": "The New York Times",
+          "title": "CNN, MS NOW and Politico to Sue Trump Administration Over White House Access",
+          "url": "https://www.nytimes.com/2026/09/21/business/media/trump-white-house-ban-lawsuit-cnn-politico-msnow.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "German Chancellor Merz vows to continue despite state election defeat",
+      "summary": "Chancellor Friedrich Merz pledged to press ahead with reforms and keep the coalition together after his CDU party suffered historic losses in regional elections.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+          "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Merz clings on after German election 'disaster' - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGNFNDVTLUwwZDdXdnpDaU5McG16Z1lmVHFuSUxZamw0Qi1OUnF1QkRfZzNxb1VoVDhFOUhTY2h5ODFuZnI4bTg5YWJiUWlWWTFFU3lQR3JwYkhzOE5xSFdrWk9qY0FBcVRFUXMzbHlfY3MyTGtGaEhUeUljWktmaWVrMzZfNS1RNTBoTQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Merz vows to press ahead with reforms after historic German state election defeat",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHhpM0laRi15RUZNNHNvMnRlLUJzSWhpaWNIVWY3WkJ1b3NScV9ZaWtJbFRueUdhZUNwRDFYeXNDZnFpTElweEZ5V3RrM3l6TnRxQ0dVNGpuLTFfS2U0cm16cEF1eFlfV0tMZGZfdXYwci1oT3haQ0xra1JrZU9XNGVfS0h6STJ0VXlqaTVldEV1U1oyWllOVlJOSy1aYkVfdWtnQjJsQTRGM25GaVVmdw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Germany’s Merz ‘grateful’ centre-left SPD wants to stay in coalition after CDU’s heavy losses – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/sep/21/merz-german-chancellor-state-elections-russia-ukraine-europe-live-latest-news"
+        },
+        {
+          "name": "DW",
+          "title": "German state elections deal a blow to Chancellor Friedrich Merz",
+          "url": "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Germany’s Merz Vows to Stay After Another State Election ‘Disaster’",
+          "url": "https://www.nytimes.com/2026/09/20/world/europe/germany-afd-elections-berlin-mecklenburg.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Russia's ruling party wins parliamentary election with over 57 percent",
+      "summary": "Putin's United Russia party dominated a tightly controlled parliamentary vote, retaining its grip on parliament while an anti-war party gained a small regional presence.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+          "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Pro-Putin party keeps grip on parliament, anti-war party gains tiny regional foothold - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTU1fNXJKdjF2TkdlSEtWS1hEXzBTM2JIR2lSUHVhZTdBWmNnWk9yLTV4aG9HbFdtTU4weHRxakoxSUJQd2tCT3NadjZQTUdZbHBPQlFUaVRfM2VxU3NweTlJZThveGhJT1JVcFpzN20tMzJKcjVPUEpabVhkNlFBNDdjc1o4ZkRLdzlSWllkdk1ESlRILUdzdVFNOGxCLTI2OHhSdUd3cHhkeWcyejEzOXBOUVVKNmJkenI2MGRn?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Early results show Russia's main Kremlin party dominating tightly controlled parliamentary vote",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTdMN1ZGRTNNQy1IQUk3RXhDYklxaHlDV2ptNHZfMWFQaGpaQmd6QkpwVUxpSjlBc0ZGWV9fMkFWeGQ0UEpnWGZONEZLc214amFHX3BnWUwtRTBKQTlScWVWRmFsNkxucWNCOFpJWXg0dVNWOFNabG1ObWlkRS1nbUhFRlU4Wl9HRVN6SGxDU19JUlUyenlIUl9MRWpsbUs3NEZFRGpGU3Y?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Russia: Putin party retains majority in controlled parliamentary vote",
+          "url": "https://www.dw.com/en/russia-putin-party-retains-majority-in-controlled-parliamentary-vote/a-79353231?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Presley Gerber, son of Cindy Crawford, dies at age 27",
+      "summary": "Presley Gerber, a model and son of supermodel Cindy Crawford, died at age 27.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Cindy Crawford's son Presley Gerber dies aged 27 - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkhWb2E1dGh1RnhFNHN5dVVSQXFrWmx2Ym9VeEozck1XRVlObXdEMXU2VGxMekhRWV80R3FNZElLNDFkdmMyY2lCX2dFS19WZ29HdnpmSFFBTTZucGI3alpZUzRfaGFLdEw1UmhiMVJ5aE5oZTJmRWVCMlB0c3FBbGpNLXhJUVBHSHBIZ0U2Q0ZacElmZUkw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Presley Gerber, Model and Son of Cindy Crawford, Dies at 27",
+          "url": "https://www.today.com/video/cindy-crawford-s-son-model-presley-gerber-dies-at-27-270213189648"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Presley Gerber, son of Cindy Crawford and Rande Gerber, dies aged 27",
+          "url": "https://www.theguardian.com/lifeandstyle/2026/sep/21/presley-gerber-son-of-cindy-crawford-dead-aged-27"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "US and China discuss AI safety alert system ahead of summit",
+      "summary": "The United States proposed a new AI incident alert system during talks with China as Trump prepares to meet with Xi Jinping.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "US proposes AI incident alert system in talks with China, Bessent says",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTjA1TWd5LThuOFFaNWotd3FvV2FtbVRJUjZ0MHlELW1nM2lJaDRseEEyUHlIeHgtQWUySzVmRXlTM0R4aFdmTl9MQmRBaTRFY1NqTF9rTlppbnpoZmlVaEpQRWNzZ0tDWnQ4T1JiODZOUmNGMml6N3ViSVRpRTR3QkozOGp4YTloVTNUUUV1ZFBHMFFpeWc?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "U.S. proposes AI alert system with China ahead of Trump-Xi summit",
+          "url": "https://www.nbcnews.com/world/asia/us-proposes-exchanging-ai-safety-alerts-china-bessent-says-rcna598923"
+        },
+        {
+          "name": "DW",
+          "title": "US proposes AI safety mechanism in talks with China",
+          "url": "https://www.dw.com/en/us-proposes-ai-safety-mechanism-in-talks-with-china/a-79350248?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "U.S. and China Discuss System to Warn of A.I. National Security Issues",
+          "url": "https://www.nytimes.com/2026/09/20/business/us-china-ai-warning-system-national-security.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "ICE agent shoots and wounds man in Austin, Texas",
+      "summary": "A federal immigration agent shot and injured a man during an incident in Austin, Texas.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "ICE agent shoots and wounds man in Austin, Texas, officials say",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaV8xUmhlQWYzdm00cHB5S0xveXRhNml5eG85YlI4bXpyMEMyU3RCUVdQS25oUHRVQTNWd21rTTJ2a3ZZUlgzZUFwcENkcXE3QTh1b1JtcUc2Q1hoRHVWQWoyYXJGRklNUjNBODdDODFHdVE3UTFDWUdNOFh0b2dyRklQVHVXTmo0cHZkenpTejBQNXVjdnp1UVNpLUlOZw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Federal immigration agent shoots and injures man in Austin, Texas",
+          "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas"
+        },
+        {
+          "name": "NBC News",
+          "title": "ICE Agent Shoots Food Delivery Driver in His Car",
+          "url": "https://www.today.com/video/protests-erupt-in-texas-after-ice-agent-shoots-delivery-driver-270208581665"
+        },
+        {
+          "name": "DW",
+          "title": "US: Man wounded in Texas after being shot by ICE agent",
+          "url": "https://www.dw.com/en/us-man-wounded-in-texas-after-being-shot-by-ice-agent/a-79349482?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Houthis push for control of Yemen highlands amid conflict",
+      "summary": "Iran-backed Houthi rebels are advancing in Yemen's highlands and warned against joining Saudi Arabia's involvement in the country's growing civil war.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+          "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Houthis push for control of Yemen highlands as Trump reported to have called off airstrikes - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbHBmWjNkMFR2Skw0MWVFaENxamFwbXN0RGxRei1RenlFVk11R1loSlZtdm16SW5ITGFMalY1bkNBOUVONnVVdENtbDZSdzByT0l0NkJiZUlSSzBvRHBBNWxKd01ja09Eb1Nla205aW5oQkxGVGpiUjZQUTJVYy1EWGx6R2JPN2pGWXVUU29CQ1ZyQmpSMWlzQ1VYUzhidC1SZ3VSMFhyVndUYUZYTXItOGgyTktsQnV1QW1ETzN4NnI2eWhZMXhoZ1h4eEU?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen’s growing civil war",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjZSU3pzSDBwWFJaUEUwdEg1YXEzemljdXpSQXk2bVN6cEtacEJYYTVKRU9xdUw1RFhYRm13b0lrZTgteFpLMVJDTWl5TFBKaTdCRldGc05RdVFPMkd4Q244c1cyTjlsZFNDR0RNTEsyQzlFa0FWUFZBazdnbG41MVhBb3B3Szh2RzI0N3dnZ1d6dlFIVlFxSHhzc0J1SHdW?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "The Houthis’ offensive is the latest spillover from Trump’s Iran disaster | Mohamad Bazzi",
+          "url": "https://www.theguardian.com/commentisfree/2026/sep/21/houthi-iran-war-trump"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Pakistan reports 28 killed in airstrikes on Afghanistan targets",
+      "summary": "Pakistan said airstrikes killed 28 militants at three targets in Afghanistan, though Taliban sources reported three civilian deaths.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Pakistan says 28 killed in airstrikes on three targets in Afghanistan - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQkNJRzkzdTZQaE9CVVc2THBlc2lYWW04MndKOFUyN2pEMFN4WDNZZE51Yl8yODVENy1LVUJrM0Qyb0JPeGI3X1JQUzlLOHFDX0xlOVRFY3loRmRnTFJuUjZEcWxYRmFrZmU2cVA3c2ZNRFgtWjRQSUFtMW40ckttUGFQbEJ0RXdEemxManh6elJMUjMxUU15S3V3UWZMNzRTUUdZcW9MeGVRMW9LSmZHN1dnLXVIZw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Pakistan says airstrikes kill 28 militants in Afghanistan; Kabul reports 3 dead",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVh3aU1udV9wY1RJQzlCTGhUSjE0NmplSjdvTDhmN3phXzZ4ZUdDcFpIQVNKQlVhSm04eE1aWVBHeXp2RExjWDNiaDRfcDM3dDkzcGZpSWxJblF0LTNQeGJWVFR0dFFHTUtyVEdUQmtFYTN4MVRUMU1UOWljNzNQVFNXNldQVmhMYlFBc2ZIOHQ3QlZSU0hyTndRRk84bzgtZFJUYTNNNEIwR3M?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Taliban says three killed in new Pakistan airstrikes on Afghanistan",
+          "url": "https://www.dw.com/en/taliban-says-three-killed-in-new-pakistan-airstrikes-on-afghanistan/a-79350604?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Trump plans to transform DC arch into military complex",
+      "summary": "Trump announced plans to convert a Washington DC arch into a military installation capable of hosting drones and snipers.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakc1V2NPUmNYZkVvZ05DR3ZLWk1jeWczejNDRnhsMTl4bkZlUnNiUWx6VTZhcnhFS3BLQV9CNnRJSi1Cb2Y4Q1lwbDYyMkN0MnRSWV94cll0eGNXbkhxaWJfOXVBMjFjc2ozSGtSa0dlM3NlVHdQbENBUExJUFRBZUY2X0UxRGNFTlROWGI4dG95ODdTcUdzYm1CaFFGUG9SZmRlLUgxaw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
+          "url": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump announces new plan for D.C. arch",
+          "url": "https://www.nbcnews.com/nightly-news/video/trump-announces-new-plan-for-d-c-arch-270190149619"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Air traffic control failure disrupts flights across UK regions",
+      "summary": "A technical issue caused disruptions to flights across Scotland, Northern Ireland and northern England.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "New air traffic control failure delays flights at some UK airports - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMEd1cUpBNXFYeDhkcWdXWWFuX1o1cDVkZmRDUzVxRkowMEdkaWN1OVpNS1ZMOEdxRlo1V3p6ejF0VXljbUlKeUlzTm4ycldLTmtGVmZicHJxRU9tYUFaZy05eXNvRzZiS0VfQVNUdUNkdV8zdzR3WlAyRF9JVm0yb1FjSkRYb1h3c2g3X0hpVXZjN1pObEJXRHEyN3E2LWJjZjVZTVI2YU9hRktZc2Z0Q3RsRVZxOU9BdC0wY2tieWtoeEk?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "A technical issue disrupts flights across Scotland, Northern Ireland and north England",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnkwWDdOcUZPdjNXTjlTbWVwUUxzUTBVVklabDZtS3p3MTJ4SjhHdW45aGhCdndPSjFqRW9zVk1HYk9lZElLcGs4clBoaWlzWjhZc2FjUUdLVVhLcDhybVRaeXNFaEJKSTRCTmZqYU9JdXBhaEp5WlFHUTRWMDBlNHhIQ2RmNEo2Y2lqaVR0SjY2YllzWHVTT1BQWDQ0MUpOY0dmY3gtMnRwUkU?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
