@@ -1,0 +1,276 @@
+{
+  "date": "2026-09-22",
+  "crawled_at": "2026-09-22T22:05:18+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "News outlets sue Trump over White House media access ban",
+      "summary": "Multiple news organizations filed lawsuits against Trump after he banned certain media outlets from White House press pool access.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "News outlets sue Trump over lost White House access, citing 'blatant violation' of First Amendment",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE9ZY3hqOG5XR0ZGUkR6cHNrV3BNRUhtTDljRUZBdzhXUDVoSk1HeHRtRHltR3hpSXFkbG1qVndtUkJmVTFPOUU4VVVOUG9hcWx5X2x4NnhKRml3aThkQllIVWFaT04xTGh6UE4yZHdFanVQTDJkQ2NwczQ1N1VYYnlQdnU2UWlZT1k0aHBzVW5PN19lNkkxcnJydw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "CNN, MS NOW and Politico sue Trump. And, Paramount settles in massive merger lawsuit",
+          "url": "https://www.npr.org/2026/09/22/g-s1-144512/up-first-newsletter-press-lawsuit-cnn-msnow-politico-unga-trump-speech-paramount-deal"
+        },
+        {
+          "name": "NBC News",
+          "title": "Marco Rubio defends Trump’s ban on media outlets from White House, arguing police or soldiers are not ‘kicking down the doors’",
+          "url": "https://www.nbcnews.com/politics/trump-administration/rubio-defends-trump-white-house-ban-cnn-politico-ms-now-rcna599169"
+        },
+        {
+          "name": "The Guardian",
+          "title": "US TV networks suspend White House pool coverage over Trump media ban",
+          "url": "https://www.theguardian.com/us-news/2026/sep/21/trump-tv-networks-white-house-pool-coverage"
+        },
+        {
+          "name": "DW",
+          "title": "US news outlets sue Trump over White House ban",
+          "url": "https://www.dw.com/en/us-news-outlets-sue-trump-over-white-house-ban/a-79362618?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Trump Faces the Sting of a Media Boycott After Press Pool Withdrawal",
+          "url": "https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Trump heads to UN General Assembly amid global crises",
+      "summary": "Trump arrives at the United Nations General Assembly to address world leaders as tensions simmer over Iran, Ukraine, AI, and other global issues.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Trump set for whirlwind UN meetings with wars in Iran, Ukraine on agenda",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "With war, climate change and AI, it's a troubled world as leaders convene at the United Nations",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump heads to U.N. looking for wins after a rough week",
+          "url": "https://www.npr.org/2026/09/22/nx-s1-5976843/trump-heads-to-u-n-looking-for-wins-after-a-rough-week"
+        },
+        {
+          "name": "NBC News",
+          "title": "World leaders speak at United Nations General Assembly",
+          "url": "https://www.nbcnews.com/video/watch-live-world-leaders-speak-at-united-nations-general-assembly-270226501627"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Trump’s bizarre social media blitz leaves world guessing ahead of UN address",
+          "url": "https://www.theguardian.com/world/2026/sep/22/trump-united-nations-address"
+        },
+        {
+          "name": "DW",
+          "title": "UNGA: Leaders gather as General Assembly kicks off",
+          "url": "https://www.dw.com/en/unga-leaders-gather-as-general-assembly-kicks-off/live-79366211?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Princess Diana's brother publishes memoir making explosive royal claims",
+      "summary": "Charles Spencer releases 'Swan Song,' a new book containing controversial allegations about the royal family's treatment of Princess Diana.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Princess Diana's brother, eyewitness to history, sparks royal ruckus",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSjZSNVU0bTEzdTR1dlhlcmhteHVwOVYyay02VWFSS2E4eno4NFd1c1RjanhYcHZtWWhONDJqNGo0TkhwejBSeFVvRWo1ZVZjNEt3LTlsNFE4MTFoMVhFazFRYXJkQjlNamc0bm0tUTRXVjZnWHJHVUZBNHRsWEJIZFF0SFdDVDliUmVqQmZ2T1JVOVh4c0VoVF83c1d2VVJiWUpFc0hua25yUWc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "New book by Princess Diana’s brother prompts war of words with King Charles III",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUU4WjE1QTZra2x2U1d2NGVVNEtxZGd1X0ttNTVHQnItX00xMlhzWHZoWjJTalZEMzRRM0ZlR1hXQWtaa3BrcWpydWFCZUVQbVJoWDI2NjJ1MTlzOUNpNll6LVlWX2VKT2lmaktoNnJnckctRXladFRTWlZxQWhNY1E3aDNjUmQ3ZGtHZ25WVkExd1BrTzhiVWxHb3NjOGs?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Swan Song by Charles Spencer review – a furious exercise in score-settling by Diana’s brother",
+          "url": "https://www.theguardian.com/books/2026/sep/22/swan-song-charles-spencer-review-diana-princess-of-wales-brother-earl"
+        },
+        {
+          "name": "DW",
+          "title": "'Swan Song': New book by Princess Diana's brother drops",
+          "url": "https://www.dw.com/en/swan-song-new-book-by-princess-diana-s-brother-drops/a-79365835?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Earl Spencer Book Blasts Diana’s Treatment by UK Royal Family",
+          "url": "https://www.nytimes.com/2026/09/22/world/europe/diana-earl-spencer-book.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Iran signals readiness to reopen Strait of Hormuz with conditions",
+      "summary": "Iranian officials say they are prepared to reopen the Strait of Hormuz if the U.S. eases military pressure and lifts its blockade.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Iran ready to reopen Strait of Hormuz if US eases military pressure and lifts blockade",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNEdfLVlEeU1GTjFkdDRlZ2NCN19kT0tNTEdKTnJBM29mNGk4OW9EMURHRm9WTEljdFBQY3Y1OTB6VnJBMFRMclpzV2xrV0M4NVMzZld6MlFJeHB1Rnp3Y01aVDJ4STB0Vk80bVE5X2JGaHRPeXlHM1h0WExNNHRlWEhuZkhjWWF0ajJYMGxsX0l1djRWYzRJbUZnbkpTM0k2LWZiT1AtWHA1QnhuajhwOVhjOExkWmNOcjkwXzJJTWJUWWlUazVtTDhR?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Oil prices tumble to 2-week low on hopes for critical pipeline reopening and Iran diplomacy",
+          "url": "https://www.nbcnews.com/business/business-news/oil-prices-fall-saudi-pipeline-iran-hormuz-trump-talks-rcna599166"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Middle East crisis live: Iran ready to reopen strait of Hormuz within seven days if US lifts blockade, official says",
+          "url": "https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Russia kills Ukrainian civilians as Zelenskyy prepares UN talks with Trump",
+      "summary": "Russia conducts strikes on Ukraine killing civilians as President Zelenskyy prepares to meet Trump at the UN to discuss ending the conflict.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Zelenskiy to meet Trump at UN in push for energy truce with Russia",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3ZUamtJTVNnSXhDOUY5NE5CTmoyTHRhLW5BcHlyM3ZFelBfMXFvcDlnYVNNU1RPYndYWGdfUGdFOEFHXzg3dDhCal84cEp0RTR1VHlPcEJOa0hlclVGdUR6dFk3eDN0Nk5NS3E2MVZ3V2toLXEteWNkOTA3cFBkRll1R25kMDJsMmJ4d0Z2dXp5SExwcUFFZ2xlWkdxRXRMcGJfMA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Russia targets Zaporizhzhia after Ukraine launches 1,000-drone weekend barrage",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ2E0aW9GSXJtb3RpeW9sWTNOVUxsQVpsZ2V1d1lFZkFubTFSMzhNMENTTnVXVlFaU3k2ZnFDbm1WRTVERkNycmwwLV9LU1cxLVkwRnBGbkc1cTRkamE1ZVVaYVpzLXA3Qlhjckh6YTQxR3RHNzJkNmRkaTBMOE1mb0ZZMWlNV1VydXlDQUJld1lkT2dyU3E0bW1fbTczMlJ4UlE?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA",
+          "url": "https://www.dw.com/en/russia-ukraine-trade-deadly-strikes-as-zelenskyy-attends-unga/a-79366022?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Shooting near Turkish school wounds at least 11 pupils",
+      "summary": "A student opened fire outside a school in Turkey, injuring at least 11 pupils in the incident.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Student opens fire outside school in Turkey, 11 pupils wounded",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0dUNnh1d2VCalpwUGNrVHg1RUMzTlZ1T0h4SzEzbWlSemRFWC10Z2czUUZXeVZNSVcxWndDQ2d5WWNtWmFnOFlkQ3I4SUZYYjdET0tkelE5VDctN0hOM1hYUHdCNVBFeEhQU0lheS1ubkpxcXdxdm10a2h6dXI2bjQxb3hiN2k1ZmpaRWJNeXVIb1ZOYm5sVFh1LWtVVTQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Shooter opens fire near a high school in Turkey, wounding at least 11",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlRNbm80TUZNMTNQNmYyeEN5SV9tMVlmTnJrWkpRREt1RW5zM04xTWVGSTBEdXlRTmp6TGctZXZ1emlFQjY5TjJYS1hLcmx3djlvX2dRbVh5MzUtQ1ZPOW9lR1U3RzdRSDh2QkNSOEk0MEhBejNpRTMtdXZEczgyVHNHcXpxdm9McGJGMlFwaE9DWXM?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Turkey: Several pupils injured in shooting outside school",
+          "url": "https://www.dw.com/en/turkey-several-pupils-injured-in-shooting-outside-school/a-79368728?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Grand jury declines to indict anyone in Nolan Wells death",
+      "summary": "A grand jury found no criminal charges warranted in the death of Black teenager Nolan Wells in Mississippi.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Grand jury declines to indict anyone in death of Black teen Nolan Wells in Mississippi",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbWtHdDNsc3lIQkhhbDVBbzZJS0pPN0VYRmlsU0NpalhWbjBpeWNaYWZteTVhQXBwejBla2dfV3BXMG4wZXJCalp5andWTDY3OE4tdThhMm1IaldRVjNHdnZnTFN4UWlFX0M1VFMyVW1fV0Y0QkVrZlc2ZVFXaThzMmhNeUxnMVBpVi04TUp1amlYbFBuR1dxNWNOVTR2emdoMGtMTHNWWEhOZDhtTTJLV3Z2WTA0N1ZrbFhJRnVYYkJ5cmlPUnc?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Grand jury finds no evidence of criminal conduct in the death of Nolan Wells",
+          "url": "https://www.npr.org/2026/09/22/nx-s1-5911804/nolan-wells-investigation-grand-jury"
+        },
+        {
+          "name": "NBC News",
+          "title": "No criminal charges in death of Nolan Wells, grand jury finds",
+          "url": "https://www.nbcnews.com/news/us-news/no-criminal-charges-death-nolan-wells-grand-jury-finds-rcna599152"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "ICE agent shoots driver in the back during traffic stop",
+      "summary": "Video footage emerged showing an ICE agent shooting a driver in the back, with the wounded man returned to hospital.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "AP Exclusive: ICE hides locations of thousands of detainees with final removal orders",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOU9FM2U3NGZudEdnZ0piVlA3R1BNNmRIc2ZwSnkwV3dFVDRmTWE5bHhEcFU4N2kyeUVwOFdkVVI3ZE41dFBYZU1WaVRqaXEzZ3RrQ1ZiOXYtWWtsUlUyamZBY1B0ZnBuNUV6Q0xLeUZ3bWhqTUExOWd0cDBHNk5FWHJSekVCdmRqaVBkTzdzTk1CSnVkNndBbUpNMFFxWVNFLUxscl93eTU?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Video Shows Aftermath of ICE Agent Shooting Driver in the Back",
+          "url": "https://www.today.com/video/video-shows-aftermath-of-ice-agent-shooting-driver-in-the-back-270274629801"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Videos Reveal New Details About ICE Shooting in Austin",
+          "url": "https://www.nytimes.com/2026/09/22/us/ice-shooting-austin-texas-videos.html"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Trump and Xi meet amid tensions over AI, trade, Taiwan, and Iran",
+      "summary": "U.S. President Trump and Chinese leader Xi prepare for summit talks focused on AI competition, trade disputes, Taiwan arms sales, and regional conflicts.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Trump and Xi see tensions flare over AI, trade and Iran but still seek stability",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXNoR2dST3VwYWoxa3VaUVVGNGZhZ1lJNzNudG9pRDBBUkUzb3lyTlEzczRlb1RlcDVfQ3VZYm1hLXJaS2VSeUx4amxCY0IwNm9pOEZaeG9qLUZFVm1GNkJjT08wbnZpRnFLNWloSWc4QWUzZnlHS1RQTlQyQTNKLW00VkthZ29MRDc5aWxLTmRxa01CMUc5T1ROV3VFYUpE?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "China’s Leader Xi Seeks to Extend Truce with Trump During U.S. Summit",
+          "url": "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Trump set to deal with Greenland, Denmark in Arctic dispute",
+      "summary": "Trump prepares to sign a deal with Greenland and Denmark aimed at resolving tensions over Arctic territorial and strategic interests.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Trump, Greenland, Denmark to sign deal in bid to end Arctic standoff",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUVnSnczUDUwNlROQS1UX3NrWUpFTjVMdzVxSGt1UWQ5VmdtVksxRml1bmZLWUFLa25VbEtyaHZfSjRTQ3NfVjE2c0xKM0ZUUzhCX3pfR1hTVVVRSl9yMFUybXlRa05HaWNUd1p2MGpOSmxvaS1zU0M0ZXNtQVU3UjkyOFRxZFFlZ1hSdHNaY2kyd0hoa1RwMkRZYXRwcW5rRjNMZDU1SV96dw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "A timeline of US President Donald Trump’s interest in Greenland",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTEo5MF9SSU5NbWhPTlpPNjRVRndLREM3WTB6MFJGLXZFbnp4TWpFdk5BLTJzVzVKRGFEejFScXR5N01QYVJLa2h4M0kxNGZNTE9jdnpnLTJYYXFqTkVUeHRudFp3Qjk4Z2xMb0dOWmRaeE85YjZXZXpiOUF6aGUxZWdmMFJsTG9XQktfcWpRRm1fcGVQTm1V?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
