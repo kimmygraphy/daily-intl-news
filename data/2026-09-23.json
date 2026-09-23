@@ -1,0 +1,241 @@
+{
+  "date": "2026-09-23",
+  "crawled_at": "2026-09-23T22:05:22+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Trump meets Xi Jinping at UN amid trade and AI tensions",
+      "summary": "Trump and Chinese leader Xi Jinping met at the UN General Assembly to discuss trade, AI, Taiwan, and other bilateral issues amid ongoing strategic tensions.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
+          "url": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Trump plans grand spectacle for potentially tense Xi talks",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump Welcomes Xi Jinping After UNGA Speech Threatening Iran",
+          "url": "https://www.today.com/video/trump-welcomes-xi-jinping-after-unga-speech-threatening-iran-270353989626"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Trump to meet China’s Xi as Congress mulls bill banning artificial superintelligence – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Trump administration bans major news outlets from White House",
+      "summary": "The Trump administration banned CNN, Politico, and MS NOW from White House access, sparking legal challenges from news organizations.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "News outlets will ask judge to end Trump's White House ban at hearing",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHZCTDh5UkxYMTBaTFJxcElhNlpvemdJMmYxUnRleHFwTWNRdDBoNjRmcEoyMmJMWVluLVZOelE5ek9oQ2EydlpVcUp4aUQ4TF9DTGtOSnhDVFJlSmU0cUhFY2ZNQzJLUzhJaVBQUDkyLS1lbGlCSXNPMzVsWVF3c3NkNjQ0QzJuVDFMd0xDaENVNmRHbGxlMUhIem1ESXN1Z1kzaHVoZXhCSE9KVGV4dnlBNUEtUQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "DOJ defends White House media ban, urges court to reject lawsuit",
+          "url": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban"
+        },
+        {
+          "name": "NBC News",
+          "title": "White House Responds to Suit Filed by 3 News Outlets Over Ban",
+          "url": "https://www.today.com/video/white-house-responds-to-suit-filed-by-3-news-outlets-over-ban-270354501675"
+        },
+        {
+          "name": "The New York Times",
+          "title": "White House Defends Trump’s Ban on CNN, MS NOW and Politico in Court Filing",
+          "url": "https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Dolly Parton's estate accuses nephew of threats and intimidation",
+      "summary": "Dolly Parton's estate filed accusations against her nephew, claiming he made threatening statements and sought to harm her legacy.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Dolly Parton's manager accuses her nephew of threats and intimidation",
+          "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Dolly Parton’s estate accuses her nephew of threatening violence and to destroy his aunt’s legacy",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVFRaOWhTanBqcDFiM2twNnlFRmc2eXg2dHdxWTdrVUJtSGNUNmFCNzNjVGNMc2pORTE1NUhvRzMzNmlKMFlLOWF0cHJQY18xLXZuY3BESnRPUmVtZ0ZBT2JPSmY2RURnVTJtSWJuN3BOMGp3dXJGbktQM1lWYmN3aUFBUUtDdjBqX2xXSGZsUTk0YmtJcFBwTmUyWktNUQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Dolly Parton estate in feud with nephew over alleged ‘warfare’ threats",
+          "url": "https://www.theguardian.com/music/2026/sep/23/dolly-parton-estate-in-feud-with-nephew-over-alleged-warfare-threats"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Dolly Parton’s Estate in Turmoil After Extortion Accusations",
+          "url": "https://www.nytimes.com/2026/09/22/arts/music/dolly-parton-restraining-order-bryan-seaver.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Trump signs US-Denmark-Greenland Arctic security agreement",
+      "summary": "Trump signed a security deal with Denmark and Greenland focused on Arctic security after previously expressing interest in acquiring Greenland.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security after prolonged tensions",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0lZX3FlTXk4M2NIbnVBaWVGQ25TdVlOYTM3V3pzQkVuOTRkYmNFemYyNGVrYVdNT19oOUtBMGZRU3ZiUzVqWTNkVDBTUWJHQjNUSjVacTNoMFhwYS1hbEhrdDdDOTFoTmxtSk1xdVhJZk9xSW0zZlNBQXNIX1FSR1N0bnFkNGVKOTJFU1RfbU9hY2V2cTRQaldfSzZPb2Q1ZGFqRg?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Trump signs 'tremendous' Greenland security deal",
+          "url": "https://www.dw.com/en/trump-signs-tremendous-greenland-security-deal/a-79381148?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Trump Once Vowed to ‘Own’ Greenland. He Settled for Something Much Less.",
+          "url": "https://www.nytimes.com/2026/09/22/us/politics/trump-greenland-denmark-agreement.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "South Africa house party shooting kills 11 people",
+      "summary": "A mass shooting at a house party in South Africa killed 11 people, including a pregnant woman, in what may be gang-related violence.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "South African house party shooting kills 11, could be gang violence",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMllIblF1bGU2dHlmSUp2NjhvUDVjZ1VkMUZIeEZyM0dLaHZLVnV4U2Z6cXZYZTUzMXRPUllmbC1SUXlZZ2JOeVVtaUh0MjlWX0FRVklzX1lVekRyN0VmdlRjcVJ6SnRveGprMHFld3FVQTdlUHdXRG4wbXlHelpsZ1lUVWxZZFNWYjNyNzJwaVVrN0JsYjQ4d1VGb0xkUWE2ajJqQVpkRWZhVm1WS0tPcTNZSQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "A mass shooting at a house party in South Africa kills 11, including a pregnant woman",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWVGZzhzaVpaYVc0Yy1QVmdGeHlJN0NsU3VoZ1c4cml2Q2kwbDhYemtoSmxFeEV4Wm4tcEJaLTd0a3BqMFlvTllmR3kyYU1IX3dXd2dyemczakRYNUtyOHJseExQNG1KVUNkbWJDdnczc0ZETTREbTJ4eWlkVzhuMjZ5bDVPOEZoT3BhckxfWlJSWHhkUFpXSA?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "South Africa: 11 killed in attack on house party",
+          "url": "https://www.dw.com/en/south-africa-11-killed-in-attack-on-house-party/a-79382743?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "El Niño projected to cause hundreds of thousands of excess deaths",
+      "summary": "Researchers warned that a strong El Niño weather pattern could cause between 450,000 and 451,000 excess deaths in the coming months.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "'Super' El Niño could cause 451,000 excess deaths, researchers say",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3hnQVkwT1lhMVd1SElZWm1aUFYzWXdxSzZGVFBpbTJ4Tk5vT2cwWkpiWWxfbVUxak9YZjZlUWljQWNGcldnQUp5dXF2MUF0X2IyR21Zc3Z1UEJCd1lkVUJLMTBrLWVKcjQyeTJfbVhTSGVFOXl6TlNUTEI3QmJMQ2tBcmV2ZG5LWDZGNTBhdFdjUWhZUW5TSDZjNFhySkxyd2p4SkM4YUhZeDZaVHNWMVBlRjVWYmtlTnc?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Huge El Niño projected to cause 450,000 deaths in next six months",
+          "url": "https://www.theguardian.com/environment/2026/sep/23/el-nino-450000-extra-deaths-six-months"
+        },
+        {
+          "name": "DW",
+          "title": "El Nino explained: How the weather pattern affects hurricanes and tropical storms",
+          "url": "https://www.dw.com/en/el-nino-explained-how-the-weather-pattern-affects-hurricanes-and-tropical-storms/a-79382511?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Trump threatens Iran with annihilation in UN speech",
+      "summary": "Trump delivered a combative UN address threatening Iran while also announcing meetings between US and Iranian officials.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Trump Threatens Annihilation in Iran in UN Speech and Lays Out Winner-Takes-All Vision",
+          "url": "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Fighting erupts in Ethiopia's Tigray region in new conflict",
+      "summary": "Tigrayan leaders announced they have entered a defensive war with the Ethiopian government as fighting broke out in the region.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Ethiopia's Tigray region government announces it has entered a defensive war",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWXgyNzdQSUwwRi1hR3pkWnhvWnlJbHdaYlpFVmZGMzE5MXRuNlo2cndkdmJmMGlwVkEwN3hqOWhmUVFBUmVBVi0yR3YyMklmM2diNkFHTjhmdV83TGVXUy04VFY4cDBCbXZ2bFdlLU51azA2Y2VYcjEtcFVEMnNobEI1LXI5UHd5anhZLTJEeU96ZnFyUFZsWHJUUHdzN01sSjNucTlIMm1idlJrT2YyRDBZYzJCUTVqbndoeFBIRQ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Ethiopia: Fighting resumes in Tigray",
+          "url": "https://www.dw.com/en/ethiopia-fighting-resumes-in-tigray/a-79394192?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "UK to review Chagos Islands deal over lack of US support",
+      "summary": "The UK indicated it would review its deal to hand over the Chagos Islands to Mauritius due to insufficient US backing for the arrangement.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Chagos Islands deal ‘can’t go ahead’ without US support, Streeting says",
+          "url": "https://www.theguardian.com/world/2026/sep/23/chagos-islands-diego-garcia-streeting-us-support"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Sri Lanka sentences 15 men to life for 2019 Easter bombings",
+      "summary": "A Sri Lankan court sentenced 15 men to life imprisonment for their roles in the deadly 2019 Easter suicide bombings.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Sri Lankan court sentences 15 men to life in prison for roles in deadly 2019 Easter bombings",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZTJjdFdPZThXOVZabjhkMWYtcDZacENSakRfYkF3YnVNMVlRZVp3V0NoRkMtQkpNZkhFNzNXZlFVMGFXa1NOVXh2ZHE5elRUS1BvalMwVFpPbWd1cnZ2NFR2TVpJZGdCa1hrUHFTaVdzY1RwMjgySnRZRE42Qng4c2xuUWhITFgzVkV4MVY2dGlaclFNR0JpVWlidGsySWlnNGJMVjRZODE?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Sri Lanka: 15 men jailed for life in 2019 Easter bombings",
+          "url": "https://www.dw.com/en/sri-lanka-15-men-jailed-for-life-in-2019-easter-bombings/a-79382342?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
