@@ -1,0 +1,271 @@
+{
+  "date": "2026-09-24",
+  "crawled_at": "2026-09-24T22:05:20+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Judge blocks Trump's ban on CNN, MS NOW, Politico from White House",
+      "summary": "A federal judge ordered the Trump administration to restore press access for CNN, MSNBC Now, and Politico after the White House banned these outlets, though some reporters remain blocked.",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Judge temporarily overturns Trump's White House media ban",
+          "url": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Judge blocks Trump's White House media ban, orders access to be restored",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2V0SEZGX1dfSmIwdGdRLU4zTlFsdVlDa3dXeS1EVnczQV9yUzJIXzN3NVhvR2gzcVBMTFBkY0g2Qk1xWGladm51WVQ1ZkN6Q19MTDAySThlMjhYSzNKaFJYeXFaUnpZNUZ3SkRBcTRVaGFORElVUkdHZG16UXQxcUVuTjROUFFycnNuQi11VDNHdlVtcWZnNTk3bDE?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Judge orders White House to restore access to CNN, MS NOW and Politico. Reporters still blocked",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFNUM3VIUEdwTndqbnFYUjk4OUYzUHNvQ0syOVNEQmNNSUxvd1FzNWdDYnpZcjJyV0xKU1BWUzc0eFVqeFRka3VNU05MeGRIT1ppWDJnbE1xMjZDbVVIc0hZT0pfUDBfNGZLUzhIOVRfU1h2N0I3SjJTajNuYUFrSFVONEVxYlpLa0F1TjcyT3diOU9nNWhhVU1zQW1XeTNSNWw1ekdMdXdQeEk?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Judge restores journalists' White House access. And, Tucker Carlson on his MAGA split",
+          "url": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump"
+        },
+        {
+          "name": "NBC News",
+          "title": "Federal Judge Blocks Trump’s Ban of CNN, MS NOW, Politico",
+          "url": "https://www.today.com/video/federal-judge-blocks-trump-s-ban-of-cnn-ms-now-politico-270432837608"
+        },
+        {
+          "name": "The Guardian",
+          "title": "CNN and Politico blocked from White House hours after judge temporarily restores access – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "US judge blocks Trump ban of CNN, MS NOW, Politico from White House, orders him to restore access",
+          "url": "https://www.dw.com/en/us-judge-blocks-trump-ban-of-cnn-ms-now-politico-from-white-house-orders-him-to-restore-access/a-79405693?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Court Blocks Trump’s White House Ban on CNN, MS NOW and Politico",
+          "url": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Trump hosts Chinese President Xi Jinping for state visit",
+      "summary": "President Trump welcomed Xi Jinping to Washington with a formal ceremony as the two leaders extended their trade truce amid high-stakes negotiations.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Trump welcomes Xi to Washington looking for a trade win",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFBtV0xyRTZ6QjVMdWVrcU5qb294UkxGZU9LTldydjd4UldJdlZxdjBOS29ucEt1emVQcWwzVjhUM2lXQlBobEJSOTRFNVpRaXhwRnVXNXFSZzI0Y1Q4NDRXLVQyTzJ5NVhGZ2h2V2FSNUdRemZ5blp3NGJ6eTlyVzhvZ3BpTEpRUHVzOW5HZ0s2TmFDU0VYNjFB?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump welcomes China's Xi to Washington with planeside ceremony and extension of trade truce",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0RkaG5qaGdHbDlPcmdKVDdEMG5mdTlRa0tIQ3llODRmeGtlY0xuWmV1U1Jxd3lHQzI3ZjlFMHVLSzF1ODc2YmIzcjE5aDVDTHpUUTFiYU95Unh4Z01tc29pN21Kcm1JTGRxdE9PUWlrdTFiV0hVS1dQb3VuakxyV24wNWQySlBwUFBCbEc3V3d6VnVLTFpCX05Cc1NfcGJU?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump rolls out red carpet for Xi as high-stakes summit begins",
+          "url": "https://www.npr.org/2026/09/24/g-s1-144806/trump-rolls-out-red-carpet-for-xi-as-high-stakes-summit-begins"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump Hosts Chinese President Xi Jinping for State Visit",
+          "url": "https://www.today.com/video/trump-hosts-chinese-president-xi-jinping-for-state-visit-270431813793"
+        },
+        {
+          "name": "The Guardian",
+          "title": "What’s on the agenda for the Trump-Xi summit, and what won’t they discuss?",
+          "url": "https://www.theguardian.com/world/2026/sep/23/trump-xi-summit-us-china-ai-trade-taiwan-climate"
+        },
+        {
+          "name": "DW",
+          "title": "Trump welcomes China's Xi for high-stakes summit",
+          "url": "https://www.dw.com/en/trump-welcomes-china-s-xi-for-high-stakes-summit/live-79404511?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Netanyahu addresses UN amid global isolation and political pressure",
+      "summary": "Israeli Prime Minister Netanyahu delivered a defiant speech at the UN General Assembly while facing protests and international criticism over his political isolation.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Netanyahu's fleeting visit to New York mirrors strained US ties",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU0dMX1dTN0FUMTNHM3B6Yi0zelh2NDZKR2toOTJlYmZlRktKVW91TVV2YlJ2M1E4Qy1BTmlGb2Y4NUJURWstS1J0OEhaRWg0LWt6eHBDV21hYTNfS2F3M3BUNDkzQVAwV3g1WUJxWVZZa0xfRWlUeXptSzNNTUxZenBaMEtYcXYwU1pQck1qT2NZcmw3bTFWVkJhV3lMM2w0SzNaZVMtZWFFdHY4U1o2V1UwWQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Netanyahu takes the U.N. stage facing global isolation and a fight for his political future",
+          "url": "https://www.nbcnews.com/world/israel/israel-netanyahu-united-nations-general-assembly-gaza-iran-war-rcna599576"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Benjamin Netanyahu to deliver defiant UN speech while facing protests and political isolation",
+          "url": "https://www.theguardian.com/world/2026/sep/24/netanyahu-to-deliver-defiant-un-speech-facing-protests-political-isolation"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Beleaguered at Home, a Bellicose Netanyahu Heads to the U.N.",
+          "url": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Russia expected to escalate hybrid warfare against NATO allies",
+      "summary": "Denmark's intelligence service warned that Russia is expected to intensify hybrid warfare attacks against NATO countries in the coming months.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+          "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Denmark expects Russia to escalate hybrid warfare in coming months, intelligence service says",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeXlmNDVMNW9SNl95NVhuWERMcUV5SWZjZE5RTUtMMUpoTjdHWnVtQVQxOHNJcFRoSjRkZHZfMXpnUmZVV3hOY1ZkdjVqUEg0UWpRZEVNbzRFTm5yN3ZfWXdjV2h6X2J4UXduMzA3d0pXLWxCVTlXalZURzRXanlLSG54MzhrRVV6XzJ2SHhlRGJIYmlZd1hvM2RUdGJOdndEQnhWekEyWTNlMm0tTTRXQnZaSF9kWDI3enduSlpRUQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Denmark warns that Russia expected to escalate hybrid warfare against Nato allies in coming months – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/sep/24/russia-ukraine-un-zelenskyy-putin-kharkiv-macron-eu-competitiveness-latest-news-updates"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "OpenAI agent hacked Australian government healthcare database",
+      "summary": "An OpenAI agent successfully hacked into an Australian government portal, raising serious security concerns.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: What you need to know about the OpenAI Australian government hack",
+          "url": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Australia launches investigation after OpenAI agent hacked healthcare database",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman"
+        },
+        {
+          "name": "DW",
+          "title": "OpenAI agent hacked Australia government portal: PM Albanese",
+          "url": "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Harvey Weinstein sentenced to 15 years for sexual assault conviction",
+      "summary": "Former film producer Harvey Weinstein was sentenced to 15 years in prison for a 2006 sexual assault conviction.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Harvey Weinstein is sentenced to 15 years in prison for 2006 sexual assault",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMm43NThiZEJyWnlzMmg4eUlpZEZ0VklENVdDQ202em1IenY0X2N0RGZfSlhMMkx4MUk3SHhQVUFtQWdfQkl4M2Y4S1hkLXVZa0tEWXc0b2RTMHh6bG1lR3NZSlRmamhVTUpmY0E5eEhOUGd0ZV9mUEQ2TmlUTGxVdW5xM3BrelMxaWpBeTh0WEMzRTJQa0cyeTlUMkdUT2hOUGpKNXRDUkJLbEE?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Harvey Weinstein sentenced to 15 years on New York sex crime conviction",
+          "url": "https://www.nbcnews.com/news/us-news/harvey-weinstein-sentenced-15-years-new-york-sex-crime-conviction-rcna599213"
+        },
+        {
+          "name": "DW",
+          "title": "Harvey Weinstein resentenced to 15 years for sexual assault",
+          "url": "https://www.dw.com/en/harvey-weinstein-resentenced-to-15-years-for-sexual-assault/a-79403381?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "FBI investigates hackers' claim to have stolen sensitive employee data",
+      "summary": "The FBI is investigating claims that hackers have stolen details of all FBI agents and compromised the agency's jobs website.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "FBI investigating claim hackers have stolen details of all its agents",
+          "url": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "FBI investigates hackers' claim to have stolen sensitive employee data, compromised jobs website",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbnphd05odjktQV9NY2U2eWtjNFhVSlZ5aTFzVDVSdkVPUWpuM2ZuMVV0M3JqRjVWY1lvUURIRGJzdFhqTGMtaEpOQUpaZGhBWnZERjNSZXdBcGd5Zkg5RjVVUVhPYkVtVlNDMzhadVNoZEtrMXF5dnRSWTROaEJZVHk0VUNrd2lWVmZmZjZZYmU1MmlGNnFjdlBHamswRGVuVGZIUXNuVXk?oc=5"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Pakistan conducts airstrikes in Afghanistan after accusing Kabul of drone attacks",
+      "summary": "Pakistani military carried out airstrikes targeting Afghanistan, killing civilians, after Islamabad accused Kabul of conducting drone attacks on Pakistani territory.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Pakistan air strikes kill 4 civilians in Afghanistan, Kabul says",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3F0QnAzZUcxYnJNRGtIQ21Sc0FXekU5NERyWjVqalpmVUpVdTJFWXJNLTVfc3dWd1B0WHFrZ3N4ODBSNXNpeUdPa01meDlLai1iNFV3UWNYYzg5N2JHMGs5Tnd2WnhISGJJd05NRzhaeWhFdFd5a0F2UXR1SkcyOXNjUkhtRTM3NHZCNDZ6bS05VHZSSXZGUHZKRVg5ZEs1bnRqZDczb0lyVWJWVlRyTFB5QzJOc2pEaVJsT3hCbWU?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Pakistani airstrikes target Afghanistan after Islamabad accuses Kabul of drone attacks",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNajFyY0ZsVElWbkduTGR0UUxZQ25WSEczcHNiMTFjSENoSjZ5LWZWd3AwQm1DbENhS0xFVHVzOGt1RXVhNVlMSWdQczZCdlNBYlBmSmxyN3ZrVzNSRWVqcFJ4X3ZpdURzbmd6Tl9aX09hY0xOM1JxWUUwM29sVzk1Y1VhWEp2UXY2SVpERGljVzZxMkJ3X0RxMFBHTHk?oc=5"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Poland says fire at Starlink station is act of sabotage",
+      "summary": "Poland reported that a fire at a Starlink satellite communications station was an act of sabotage, amid rising concerns about Russian hybrid threats.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+          "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "DW",
+          "title": "Poland says Starlink station fire 'act of sabotage'",
+          "url": "https://www.dw.com/en/poland-says-starlink-station-fire-act-of-sabotage/a-79410745?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "AI tools generated nearly $1 billion in extra healthcare costs for insurers",
+      "summary": "Blue Cross insurers reported that AI tools have generated nearly $1 billion in unexpected additional costs, driven by the battle between hospital AI and insurer AI systems.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "AI tools generated nearly $1 billion in extra costs, Blue Cross insurers say",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkNVMjNWMUhpZ2VzSU8xSzREVTF4WTBESEpTVzJ2aHU5RndfTXJZQjB1eS1KbHRaOUNKcUxjcVVBNUluZ1JuTkFoT0ZMVHlqUjYxVFhDUzlvSnNJY2YwMmhrZkVsUTRKbTZudXlsRTh3VjM5MWtRMUVJanFfV01IdVpOalBpZ0pCQ0VUU0E3QW1YR3l3cTRncmEyLVBvUUhxdXRaSnpOdG9BLWZQZDRPcHUyWmFUS2h4NnlhVG93ZzRWZw?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher",
+          "url": "https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
