@@ -1,0 +1,251 @@
+{
+  "date": "2026-09-25",
+  "crawled_at": "2026-09-25T22:05:19+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Trump hosts Xi Jinping at White House state dinner",
+      "summary": "President Trump welcomed Chinese leader Xi Jinping to the White House for a state dinner featuring prominent tech titans, with discussions on US-China relations but limited progress on key issues.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+          "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Trump to wrap up Xi summit with a tour of US archives",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS2g5SEdmb21zU080SVhXaVRfd2FrV3NUMk1aN2NfU2lLM2dyUHVObV85c1Q1MkF3YUZFaWZPeTNlSlBhdDFTa21MRFhncUdkUGVpVENrUGt1UHhTWk80dkIyMk9Vd1d3TlVYZUdIazMycnhialg5VGVUdVY4QXJVbzFiWXpnTGhuUHF0ZU1VSjIwQnhsajFuSw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump’s state dinner for Xi features sea bass and a long list of tech titans",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHRNd1RUc2NaeXMxMXZsbnBkZkM0dEJiQ1lRNEMxM29RdWlBeTc2V1B5dGhHN0NodlJSaGhBZTY3UGVCRk1KM2xpeFR6czB1SUxob3RPN244NFVDSkktVWxtSzduTzhmSHNxUXRKVVlSRU95VXJ6dHJ5NnF4b2ZkQzh6ZUZLYmo2VHFMMVBQem1jeVg0bWpoRzFR?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump Hosts China's Xi Jinping at White House State Dinner",
+          "url": "https://www.today.com/video/trump-hosts-china-s-xi-jinping-at-white-house-state-dinner-270516293579"
+        },
+        {
+          "name": "The Guardian",
+          "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
+          "url": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap"
+        },
+        {
+          "name": "The New York Times",
+          "title": "In Trump’s White House, China’s Dictator Is Welcome. American Media, Less So.",
+          "url": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-press-pool-boycott-media.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Pope Leo begins four-day visit to France",
+      "summary": "Pope Leo XIV started his pilgrimage to France, where he warned about AI creating a 'paradise of machines' and expressed support for journalists.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: Pope Leo begins four-day visit to France",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Asked about CNN White House ban, Pope Leo says all journalists are 'welcome' to cover him",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0VnbG1DbWl4dUlJYWcyYWpPMWhuZ3hpVFNNOGRhOUhfYzRoRE0zVkhXNE55LXdoWDNlTFlEMUpleGRramRGdDNHRWpLNV9HMmJmUUNWbGhlVzd5MUQ2R05ES2ZPUVVIdGZMeTJ6WkFOdzNnRHRCeXpLQVFISGxDelhacy1UdnlZV21kODZMUzBNck9oTENwTjBVN09sSXRSWW9Ld1A3MVhrdUJvTjVJaWwxS0VmSVF2alJtSXJZZzdpVXplek0xbFFUWUVyQzJuMmZBRA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Pope warns a ‘paradise of machines’ could undermine humanity as he opens France trip",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0JDWkxQellXWFhSUEQ1QnBGOXkyQ1pHTkptZlAtYzhWbXZtMjJPSzRvRGd6MU01NF9MRE9Ya08wRmlPZEFzdW50TGJUMU9XQ0JBZGNxVVZQVnItaGNIQXVJMld0anFha1M2Z3paWFF0OXVpX1lYSWY5WTRaV1FlREp1T3I?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Pope Leo warns against AI creating ‘paradise of machines’ in first visit to France – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "Pope Leo XIV begins four-day pilgrimage to France",
+          "url": "https://www.dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Leo XIV, Trying to Be Everyone’s Pope, Tours Secular France",
+          "url": "https://www.nytimes.com/2026/09/25/world/europe/pope-leo-france-visit.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "White House restores media access after court orders Trump lift ban",
+      "summary": "A court ordered Trump to lift his ban on certain news outlets from the White House, leading CNN, MS Now, and other outlets to regain access to cover events.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Why the court fight over the White House media ban isn't over",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHFTMXpVcE8tSTcteVZvR0tiMVM2dXNORGFoZ1ZoQU05S0JHNDZZbU4yVXlHaHhpUGx5TVVYOVpnTVIxYmxIb01QYlhVQnU1YlhmMGVjb3czODZRQkhLdWdYMkxUdW1SNmJGNm1MdW9RQS04WkZFYUxoYmJSajhPaUJGdUNQUk9UZWJFRlJZM1hSaDZRa2VwUXFseXVSODhRVHpMZ2lIcTY?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "3 US news outlets return to White House after judge orders Trump to lift ban",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFNUM3VIUEdwTndqbnFYUjk4OUYzUHNvQ0syOVNEQmNNSUxvd1FzNWdDYnpZcjJyV0xKU1BWUzc0eFVqeFRka3VNU05MeGRIT1ppWDJnbE1xMjZDbVVIc0hZT0pfUDBfNGZLUzhIOVRfU1h2N0I3SjJTajNuYUFrSFVONEVxYlpLa0F1TjcyT3diOU9nNWhhVU1zQW1XeTNSNWw1ekdMdXdQeEk?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "CNN, MS Now turned away from state dinner event despite court order to restore access",
+          "url": "https://www.nbcnews.com/video/cnn-ms-now-turned-away-from-state-dinner-event-despite-court-order-to-restore-access-270489669793"
+        },
+        {
+          "name": "DW",
+          "title": "CNN, MS NOW, Politico regain access to White House",
+          "url": "https://www.dw.com/en/cnn-ms-now-politico-regain-access-to-white-house/a-79405693?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Netanyahu delivers defiant UN speech on Gaza war",
+      "summary": "Israeli Prime Minister Netanyahu gave a combative speech at the UN General Assembly defending Israel's military actions in Gaza and attacking critics.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "NPR",
+          "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
+          "url": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Netanyahu calls Israel’s war in Gaza ‘opposite of genocide’ in UN speech",
+          "url": "https://www.theguardian.com/us-news/2026/sep/24/netanyahu-un-speech-mahmoud-abbas"
+        },
+        {
+          "name": "DW",
+          "title": "UNGA Day 4: Lebanese on deck after defiant Netanyahu speech",
+          "url": "https://www.dw.com/en/unga-day-4-lebanese-on-deck-after-defiant-netanyahu-speech/live-79366211?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "AI poses significant risks requiring government oversight",
+      "summary": "Multiple experts and officials warned about AI dangers, with Bill Gates calling for government involvement in AI regulation beyond corporate self-regulation.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "NBC News",
+          "title": "Bill Gates says AI 'powerful enough' to cause 'a billion deaths'",
+          "url": "https://www.nbcnews.com/meet-the-press/video/bill-gates-says-ai-powerful-enough-to-cause-a-billion-deaths-270470213819"
+        },
+        {
+          "name": "DW",
+          "title": "Could flattering AI make humanity turn on itself?",
+          "url": "https://www.dw.com/en/could-flattering-ai-make-humanity-turn-on-itself/a-79377894?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Deaths at University of Mississippi raise kratom safety concerns",
+      "summary": "Two students were found dead at Ole Miss in cases that prompted concerns about kratom use and health risks.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Deaths of students at the University of Mississippi cast spotlight on kratom",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSkFtRC14ZmhTQm53VllyWElNdnlmYy03TG9ZOGhKZTZ2dG90cHdtYnkxUV9kRVMtanNZQk5XamVzYkIzbnJxaVNDRWNXWXVHOUJTMGRqaUdiWGZveHNMYVpQMU1sUzA4b0lWYnBDejluMkxRY2Fyd0hHVzJ5bEZUZHhrMGtKZk5kT1UxSzU5cmtSWnJtb3ZRSm5R?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Ole Miss identifies 2 students found dead in cases that raise kratom concerns",
+          "url": "https://www.nbcnews.com/news/us-news/university-mississippi-identifies-2-students-found-dead-cases-raise-kr-rcna599706"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "US government wastes millions on immigration detention projects",
+      "summary": "Watchdog reports found significant waste and inefficiency in ICE detention operations, with unused resources and poor decision-making.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "ICE is wasting tens of millions of dollars on ‘uninformed’ detention projects, report finds",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWFDSWwzY0MwMzdvdGk4RkJMWkhBSHpsT3NZYnBPbnhKM2lSRmxGZWIyY2xiUVdVSnlHTktKN0stVWhBRTlZa1IyMFExUUVrbVJGaVdpTWpIcGl4NWtxYy1pNWw4aUVCOTlQTzlJUl9lVnlycmsxbExDdWtMa3FSbWpkWENHZjNfVjRHTy1veFVIc0po?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Unused Tents and Uneaten Food: Watchdog Finds ‘Waste’ in Immigration Crackdown",
+          "url": "https://www.nytimes.com/2026/09/24/us/politics/gao-report-finds-waste-immigrant-detention.html"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Xi Jinping's visit signals China seeking time amid US rivalry",
+      "summary": "Despite the cordial state dinner, China's Xi visit appears designed to buy time as US-China rivalry remains fundamentally frozen.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "DW",
+          "title": "After Xi-Trump summit, US-China rivalry remains frozen. Is this to Beijing's advantage?",
+          "url": "https://www.dw.com/en/after-xi-trump-summit-us-china-rivalry-remains-frozen-is-this-to-beijing-s-advantage/a-79427127?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "China’s Truce With Trump Buys It Valuable Time",
+          "url": "https://www.nytimes.com/2026/09/25/business/china-trump-xi-truce.html"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Powerful hurricanes impact Mexico and threaten Hawaii",
+      "summary": "Hurricane Polo drenched Mexico's coast while Hurricane Nolo took aim at Hawaii as the Pacific hurricane season intensified.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Powerful Hurricane Polo drenches Mexico’s coast as Nolo takes aim at Hawaii",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUVtVnNQTENPVGtPZU03Y2R5TVZyNEFUZ3lVNlhnQkxZeHlGcmttZHJNQll0b2p1a0IwbjJjSWRpLTZzSlliMnpIVWtKZHdldkJUaXBGczkyLVdpUWxMRG5EMUM4dGc2UnkwVmlSaFZQNnFkVmFhOWxBOU9XTVZEVTBBalE5Q2N1LW5vZUpDTlBTMTVwSDRqVg?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Hurricane Nolo Takes Aim at Hawaii",
+          "url": "https://www.nytimes.com/2026/09/24/weather/hurricane-nolo-hawaii.html"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Nor'easter brings heavy rain, winds, and flooding to East Coast",
+      "summary": "A significant storm system moved up the East Coast with forecasts for heavy precipitation and coastal flooding.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "NBC News",
+          "title": "Millions on Alert as Nor’easter Makes Its Way Up East Coast",
+          "url": "https://www.today.com/video/millions-on-alert-as-nor-easter-makes-its-way-up-east-coast-270514757812"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Nor’easter Could Bring Heavy Rain, Winds, and Flooding to East Coast",
+          "url": "https://www.nytimes.com/2026/09/24/weather/noreaster-weekend-storm-nyc-boston-rain.html"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
