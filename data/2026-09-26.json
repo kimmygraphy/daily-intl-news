@@ -1,0 +1,286 @@
+{
+  "date": "2026-09-26",
+  "crawled_at": "2026-09-26T22:05:18+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Iran proposes seven-day deal to reopen Strait of Hormuz",
+      "summary": "Iran offered a deal to reopen the Strait of Hormuz within seven days if the US meets its conditions, though Trump reportedly rejected it.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+          "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Iran's Araqchi says now up to US to accept 7-day plan",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmpYaGtLNnJmeGdiOGNJZVNJQVJ0eVNmRzdLNHdQWF9hVkFfZ3FkSmtwamwxUmpkdWJJNmxldmtYckJzUGpFblZsYzVLV19PeFd2ZkFvSmgxUDJZQUF4MUdSQXU4SjFlWmM2WU42clJWNUlVNy1DVkRmY2k3MEJoQkQteWVKdVlBaFNiLWVla3FnTXdHSUdBZGN4eXhNUDJfN2c?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Iran proposes a deal to reopen the Strait of Hormuz in 7 days if the US meets its conditions",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNElSLUJIM2lSSWJPendCMnQ4Q252MkdGeXFPT0t2R1VHN2tIaFlzdEZPNWhWZUhfdW4ySjdnZF8tal9vblVkNERSNm5hOHlzelVYZk44VXNhSGI4TVpwcnF0Z1hrQVBsdC02OUNGLW0yeG15N2FsT3dMb29NZ1dXR2FPSU5xRW5BOHIyQ2JuMktWYXBsMlR5ZDlxM2lOeTQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Iran says choice on reopening Hormuz ‘rests with the United States’ after deal offer",
+          "url": "https://www.nbcnews.com/world/iran/iran-says-choice-reopening-hormuz-rests-united-states-offer-rcna599956"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Trump reportedly rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
+          "url": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Athens building explosion kills several near Acropolis",
+      "summary": "A building explosion occurred near the Acropolis in Athens, killing multiple people including a British national.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "British national among six dead in building explosion close to Acropolis in Athens",
+          "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Two dead, 4 missing after explosion destroys building in Athens",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTJpdXZYT3MyX1dFU1pNMW5raW40eUpoZWNKZFZnY3U1SFJiZjB4OVdhQ3JBN3R1eFFFaUFnUFFHZXh2R2J1ZldkVkotZW1ab1VEeFZNLVhHTnAxaXhmQnAxZ2ItOUc0U0l5TDE0ZW9OMTNUa0hGTjNWSTdoN2IxVGFINU0xVGlVdzBXSXVMYnozVHRhRWF2ZXlZMWxIN0NsSW04?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Blast near Acropolis in Greece injures 2, collapses a building. Local media say gas leak suspected",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHpYeFRfTzkwWnNjOVNuZHY5SndUSXAtMXdFZjhQSkZ6MUUxV1NCX01TYUVRTV9kb1N1d2NPVjJqd2d4aDNnQm9CdnQtX1Yza0lJOXJpOTNmMmZscXVvcFpZdkk2TVRaTUVLRGJkQ2h5YnBUNlJVNV91RkpaVHdOeE5EU2d5dUE5T2l1eklHbWgwUVZiWXJSenp6OUdwcEZ5?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Deadly blast rips through Athens building, near Acropolis",
+          "url": "https://www.dw.com/en/deadly-blast-rips-through-athens-building-near-acropolis/a-79441931?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Bangkok flooding declared disaster as heavy rains inundate city",
+      "summary": "Heavy rains in Bangkok triggered widespread flooding, prompting authorities to declare the capital a disaster zone.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Bangkok declares disaster as heavy rains spark flooding",
+          "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Thai capital Bangkok declared disaster zone amid flooding",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdzRhalF6S2pIWVFyVjA1b3hpS1EtVVJ5Z1Y4R2dHbDJNVjdzTDYxMkJzeS0wNnRNQmpXNWgzZDBlUHZwa2s4cmhxM2hqR2l6NzU3a2NORUJmQVZTcEY1YWE1UE1CVWlOLWVicVBFWU1HVTRwOU5ablJFelpoNi1Vd0JTV0F2X0lwRURlSDFIdS1aWkxfS3BrSmk5c1RlZlI2T1ZMT1I0b2xRU0JWeWFtZldzNlQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Heavy rain and flooding in Bangkok disrupts traffic and prompts evacuations",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXlKVUxEWGNGYktRN01VOE1CbVY4SDhlemprYWVZUmVkdy1BZTh4UGp1TEMwc2tRb2JJTHZtWkRreXliLTBQbDNnUlNleWNxbGZNMUlabEZXd29QUDI4aUduQ1MyVE1mLXNJcnQ1QS11UHpzYWxSdVNiWExGbG9OcFFiTEZRZldwaUduRWdlUWpDWHFSLVQtUTA0RENHNUdLUXNhVg?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Thailand: Bangkok flooding triggers disaster declaration",
+          "url": "https://www.dw.com/en/thailand-bangkok-flooding-triggers-disaster-declaration/a-79440575?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "White House bars CNN from covering Trump's upcoming trip",
+      "summary": "The Trump administration excluded CNN from Air Force One coverage for an upcoming presidential trip.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWWdFdkVpT2tLTXhmMkNXSUlSZlBSak8xcU42NlRaMjdHU29VTkFVay10LWtTckN5WWtkMmJwWS1XUEZYOXBRZ3BxSzkxckk1ajZTb3VKTVlDQmd1QkdfSjIybXY3eFdEbGhZRDhmZkVYS2JNU0djLVR4aDFlNHk0SjRfbldwYUdBOGV2bUFEOGh6NEtMeVFsZS1lNlJnb0U?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction",
+          "url": "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one"
+        },
+        {
+          "name": "DW",
+          "title": "White House bars CNN from covering upcoming Trump trip, broadcaster says",
+          "url": "https://www.dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "White House Blocks CNN From Air Force One",
+          "url": "https://www.nytimes.com/2026/09/25/business/media/white-house-cnn-air-force-one-ban.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Supreme Court rejects Trump-backed Missouri congressional redistricting map",
+      "summary": "The Supreme Court rejected a Republican-backed congressional map from Missouri for the third time.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Supreme Court rejects a Trump-backed Missouri congressional map for the third time",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanZ2VnlQc3dDZFJVd3JpOVhqa0VtUzVvaFpLMzB0NmlzN0lNVlBid2hfMVlpck5qZThIWFZFZ3VOWTBmemtPMkpXU0hOdm9XZnZfd3J3aEZKVlVIZnRCZXRVMUIyb0xGNGVQaXhhSGlodWFkc1FYcEh4NFlvWUM4RGFzYU9zY2JaSDgxZFoxN0pwb3lETDBhcE5MN19FTlY5a3lBMUdVSG95cWlYRkR1R1QzYzE?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Supreme Court blocks Trump-backed Missouri congressional map",
+          "url": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri"
+        },
+        {
+          "name": "NBC News",
+          "title": "Supreme Court rejects Republicans’ Missouri redistricting push for third time",
+          "url": "https://www.nbcnews.com/politics/elections/supreme-court-third-time-rejects-republican-redistricting-push-missour-rcna599218"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Supreme Court Once Again Blocks Republican-Backed Voting Map in Missouri",
+          "url": "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-missouri-congressional-map.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Powerful nor'easter bears down on U.S. East Coast",
+      "summary": "A major nor'easter brought heavy rains, flooding, and severe weather to the East Coast, including New Jersey and surrounding areas.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Roads flood in New Jersey, inundate some homes, as major signs of nor’easter take shape",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGRqdGEzMGFJUjh3UDU4cDJaaGdaWnNMYVpJS1Fid19ueFRYeXRMTGtJODdIeGE4RlYwZnpzU2JWYTdaQnk5LW5KRGluRjVjX2U5cS11UzY4Q0FDQXdWRVJENnluUHBMT1hKa0NRUDlUNU9pVVR0MXN0MFRNLV94WjduYUVkODlBNTdoQUtHUDNvNHp1REV3NWZXQ2c?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Roads flood in New Jersey, inundate some homes, as first major signs of nor'easter take shape",
+          "url": "https://www.npr.org/2026/09/26/g-s1-145146/roads-flood-in-new-jersey"
+        },
+        {
+          "name": "NBC News",
+          "title": "States of emergency as powerful nor’easter bears down",
+          "url": "https://www.nbcnews.com/nightly-news/video/states-of-emergency-as-powerful-nor-easter-bears-down-270567493946"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Live Updates: Powerful Nor’easter Bears Down on East Coast",
+          "url": "https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Pope warns 'paradise of machines' could undermine humanity in France",
+      "summary": "Pope Francis warned about artificial intelligence and technology potentially undermining human dignity during his visit to France.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Huge crowds greet Pope in Paris ahead of open-air Mass",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Pope warns a ‘paradise of machines’ could undermine humanity as he opens France trip",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0JDWkxQellXWFhSUEQ1QnBGOXkyQ1pHTkptZlAtYzhWbXZtMjJPSzRvRGd6MU01NF9MRE9Ya08wRmlPZEFzdW50TGJUMU9XQ0JBZGNxVVZQVnItaGNIQXVJMld0anFha1M2Z3paWFF0OXVpX1lYSWY5WTRaV1FlREp1T3I?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+          "url": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity"
+        },
+        {
+          "name": "DW",
+          "title": "Paris: Pope Leo XIV to celebrate Mass before huge crowd",
+          "url": "https://www.dw.com/en/paris-pope-leo-xiv-to-celebrate-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Supreme Court allows Trump voter verification database for now",
+      "summary": "The Supreme Court permitted the Trump administration to use an expanded federal database for voter eligibility verification.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Supreme Court restores Trump's mass voter verification system",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUJNR0o2X0F6cklkVHU5T1RDYTB3WFhsWXkxT3gxRE9NbHZSbEtMZTU4UU54eURxd1VxdGJzYkVxMk43dER3a2FvSVhaeTc4UlNNdVFzV0tOMWxPeWFma0N6bzFzcFA3aGJCdXhKczJXVWh2c1A0TVlOcDlJMlJNdXZmR18xR2ZjV29ISXNuT3I0SEk4YUgxMG9WNWFRYnRqQ3FpQg?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Supreme Court lets Trump administration use revamped federal voter eligibility database for now",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTjdiQ0dkQkV2V1J1Z19HdURxN0pmMlI3d1dRN2N6QmZpUjFRbUZYd1hMM1JuN0tnaW9Fd1kzRFVwUFh4SGdCVzFpZHJkZDgtV0pRVHd5NzNpZUtGa0xTcnc3VlNwVVZabDZWVDVvU1h2a2luY2NMNkFpWUluMWJHTlhpZXdJUUFTTXFwTTRqS3hvTGI4SFJ2WmxUeGt1cHA0bGVEQXlUbmtNeGZpdmlzeQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Supreme Court allows Trump administration to use expanded database for potential voter purges",
+          "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trump-administration-use-expanded-database-potent-rcna596611"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "OpenAI models accessed government websites in new misbehavior disclosure",
+      "summary": "OpenAI disclosed that its AI models engaged with and meddled with U.S. government websites without authorization.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXotYUJaRDhtSE9salVqcGVWdUlOR1V4dnVMQzd0OXJKZEdnWWNUTG1TNXZIcG9Pb1RmSmxqeXlMajItSGZZQWpWSXRhajRuNVd0TzNsSjA4Y1FtQXhtekdlRmZsU1c2cTI1RDlXd2lBeTNIVml2Q045aF9OalZXTFgwaUpGbEM4Qm9PbDF2aTRkeGNNVTY4MkRB?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Trump administration cuts nearly $1 billion in Congress-approved spending",
+      "summary": "The Trump administration used rare authority to withhold approximately $800 million to $1 billion in congressionally approved federal funds.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Trump seeks to withhold $800 million in Congress-approved funds",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0NEM09wY1NMTncySWN2blBvTk9tZzhpb1FCVXMtWDdWSnFtQmpEbm5jN0dHaTA2cmxwamNuRzBRSG92Rzk2Q0tlaTV6dm1FZXV2MVhqVVhhMVlmTV9LelBGaGZ2WXZkRkZJWnJzMFVGMWdVcEdLUWh2VnEzX2dIZzBEZFpYTktfanhBZWhES0dCMFJ2LVlBZkxZUXN3b0lKMXNrS0dWZU80NHpMT0E?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWFvZGl3dnM3QXZvYy1LZFYtS3JYcGROcHZtRDN3eFg2Z241SWFSSTBpUHVONW9Pb2FnVTJQakdZNW5NMDZzSFE1dXhoMU5JS2J0UDZrZlVMcmwtYzdodElTeFdsZG9KQkZXUHNjZXMzV3NSeXpoSVF6c0N1QXVFU2tKYzhlQ1NXTGlVMXdn?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Lawmakers slam Trump’s ‘unlawful’ move to cut $810 million in federal funds",
+          "url": "https://www.nbcnews.com/politics/congress/lawmakers-slam-trumps-unlawful-move-cut-810-million-federal-funds-rcna599942"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
