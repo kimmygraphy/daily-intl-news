@@ -1,0 +1,326 @@
+{
+  "date": "2026-09-27",
+  "crawled_at": "2026-09-27T22:05:20+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Powerful nor'easter batters US Northeast with flooding and power outages",
+      "summary": "A major nor'easter storm system brings dangerous conditions to the US Northeast, causing flooding, widespread power outages, and flight cancellations.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "US states declare emergency as powerful storm brings flooding and power cuts",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Nor'easter brings flooding, power outages across US Northeast, over 400 flights canceled",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdFhmWmpFYkY5RG1sM1JjN0ZPcUVCc3gyaVRpUVNXRnJUcEc5eGlfX2F6NVFwczZlR1MwU1ZaRnVIbUtUME9xRVlBU21mWllMdi1tQ0ptTHFLakl3bEs4U0w0aDhram5RYjRhemxaSl9iSkk5SjJxVEUzMjczX2g2c1FfS2plQ083WV9GOVRPandhbHZPSm5yR1l4QmtUeXJFcnktWjE3amF4SGczNzVzX05Pa2pLOUt2MVBVYm94UnRHMlowNkhnTVNyTQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "A persistent nor'easter batters US Northeast, causing coastal flooding, outages and at least 1 death",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTRxZy15dFhRT2NCY19sbWxoNmk0bGhHcEtHUzRXZmVjc2RtTWxGV2ZyRVFwb3FUSXhwbU0zdmdrTkxqMXhEOTA1SjI2d0dESzItVmxMNk9kWG9hY2ROWEhVSVZ1bGdiMm0yVE1QYnRSanVtSU1lN002aEtsWXVuc0F1SkhHZHNqLXZ4VA?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Windy weddings and rocky cruises: How East Coasters are braving the nor'easter this weekend",
+          "url": "https://www.npr.org/2026/09/26/nx-s1-5981392/noreaster-east-coast-floods"
+        },
+        {
+          "name": "NBC News",
+          "title": "Special report: One person dead as dangerous nor'easter slams East Coast",
+          "url": "https://www.nbcnews.com/video/one-person-dead-as-dangerous-nor-easter-slams-east-coast-270606405817"
+        },
+        {
+          "name": "DW",
+          "title": "Powerful storm batters northeast US, hundreds of flights canceled",
+          "url": "https://www.dw.com/en/powerful-storm-batters-northeast-us-hundreds-of-flights-canceled/a-79446676?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Likely Piece of 1884 Shipwreck Washes Ashore in Nantucket During Nor’easter",
+          "url": "https://www.nytimes.com/2026/09/26/nyregion/shipwreck-nantucket-noreaster.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Men arrested on suspicion of explosives offenses near UK air base",
+      "summary": "Police arrest multiple men on suspected explosives-related offenses near RAF Fairford, a UK air base used by US forces, following a security incident.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Men arrested in major incident at UK air base used by US",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOThaUHcwMHZuZEY2dldUNjhYQ29PeWRJdEYxWFBPV3NEUUdSc0l4MkdhN3liTGdyNG9XaEhwWG8xRk8xR29JVlA0ZEV2ZXM3RVZCRDlPSHhzU29Pek9tZVREdUdvOHRXS1ZuaTR0TXVGV253bkplU1lNbG85WXRjYzcwV2ZSekFCa1gtR1RtV09zM3NYeF93?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "UK police evacuate homes near air base used by US and detain men on suspected explosives offensives",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcERWNlhSekhlZGNhNVZ4dTZra2o2b3ZEdGFOeFhYWi02T2JlZ2VPNlZ6ZUQ1ODI1MHc3WElaaVRnV2RlZTlUeHhSR1pSN1NOanZiZkEyNnNtaXhPWS1qYXNrSDlIb1M0S3dwMktBNUJUd244MlZuTHJrNk12SGNCckdRSXBCZWxQWml1MHZHdEkwYjVlSEsyX0FOLTRWYlRZ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Multiple arrests on suspicion of explosives offenses near U.K. base used by U.S. forces",
+          "url": "https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces"
+        },
+        {
+          "name": "NBC News",
+          "title": "Men arrested on suspicion of explosives offenses near U.S. air base in Britain",
+          "url": "https://www.nbcnews.com/world/united-kingdom/men-arrested-suspicion-explosives-offences-us-air-base-britain-rcna600052"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Counter-terrorism police investigate ‘major incident’ near RAF Fairford",
+          "url": "https://www.theguardian.com/uk-news/2026/sep/27/major-incident-declared-near-raf-fairford-as-men-arrested-on-suspicion-of-explosives-offences"
+        },
+        {
+          "name": "DW",
+          "title": "UK reports 'major incident,' arrests near Fairford air base",
+          "url": "https://www.dw.com/en/uk-reports-major-incident-arrests-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Trump rejects Iranian proposal to reopen Strait of Hormuz",
+      "summary": "Trump administration rejects Iran's proposal to reopen the Strait of Hormuz as part of ceasefire negotiations in the Middle East.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+          "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVF9ZM3dkR3ZQUWpnUVNzR0lsd0tkTTZkZ1AwN1RnZzVzQXo3WjZWY0VTNVo4dU9PM3ZfUnBKWUZuTWtRa01jNUxtVHhyZW1TakhIWlhCdl9UV0gxc3BWMUdTZ2x2Z2czNEVNV3JVYkJGOEYzSU5MREtHYldqdXZDXy1jdWlsTVZKR3pZTy1qS01IT1FpZDlkZVBLUHEzTXVDSDFlRWhva1Vsdld3cVhnUXZiYnNxTUhtb2c?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump rejects Iran’s proposal to reopen the Strait of Hormuz and other Mideast news",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3FURU1ld09YM0czSERoLWEtWEQwR1FSZm96NmpURkowVXNHQkRna0gzZEJXTWlKLUE5QW51U24tRFVHX2JDNUpvWVFyNWdGYVhaYThBVmJZMndzM1Z2eDVkVVViRG00M1k3YUpYdDE2azVBcmo4SmlhNDRSLW9Ra0taSTY1V0w3ektQdFpzQXhjTzNBNmxSalgxT0xGbC1y?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
+          "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz"
+        },
+        {
+          "name": "DW",
+          "title": "Iran sticks to Hormuz plan after Trump rejects it",
+          "url": "https://www.dw.com/en/iran-sticks-to-hormuz-plan-after-trump-rejects-it/a-79447432?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Iran Seeks U.S. Clarification After Trump Rejects Cease-Fire Proposal",
+          "url": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Two mass shootings in South Africa leave 27 dead",
+      "summary": "Two separate mass shooting incidents in South Africa result in at least 27 deaths as police investigate mining feuds and business rivalries.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Two mass shootings in South Africa leave 27 dead",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "South African police probe mining feud, business rivalry after shootings kill 27",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2EyakRfYnN4VnV2MFRsWmF1MXRHQXBObVl0c29NMEJoRUFoS0JCUVlWaEF5T1dqb3VHRHNLOWsyVXFoa2ZfcGpSdE8xRWVZNmJoWGhWVUVsbWEzRF9Tb01sQmgzaHVfTFAwLWtXMWRRWGtvdUlFYlFET2Y0eHJJT2c3cUJJcU1VYnZmMEpKc2dJYlVuaEk0UnFhYzA0dDg5WTY5bFJBNVhhOEttNThlTE93Y0VLQQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Body of 10th woman found in South Africa as killings investigation continues",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0hnaHA4Qi16THVVcFp4bUVpcHUzQjNNWGFDMldaX2pWZ1NOdE9Na29QaGx5MzVYSmVIMEx3dk1sVGRKSS0xdU9zSnlQSVhxMklvcndqUEtkakxUZXBBdjd6dDNfb01EX2V2ZGxBSzNvZWszdHZhcFVPSVpQTTVMM0RLODNWOHpkRUV1Z0dic0U?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "At least 27 dead after two mass shootings in South Africa, police say",
+          "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town"
+        },
+        {
+          "name": "DW",
+          "title": "Gunmen kill 27 people in two mass shootings in South Africa",
+          "url": "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Pope Leo draws hundreds of thousands to Paris for Mass during France visit",
+      "summary": "Pope Leo XIV celebrates a major open-air Mass in Paris that draws approximately 800,000 people, marking the largest event of his French tour.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Hundreds of thousands in Paris cheer Pope Leo in largest event of French tour",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRIQjdWZjBoYmtjQnVTTkN2Z3h3NWstMHRzYlJJaHY4THJVWlVYZ1prbURoS0VHQTd3ZERGMWxLZi1GR1ZJZ0dCLXlhcVNfeUctOHlJbDZQSEhpTHNHWjlRanFLdnA1N0pfUTlSNFJjQ1pocjZWVERDNThtZUFCUTZQNExrRm1ZdWZJZkxrbnpUXy1ubGFHLVkwWlo3Tm9yLUs5TjhNc3JJdw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEJFcjNvV3FnbnMyU21pVDFZV1k0TzFRajdDb0hHaVlrcFZlWThrTDZqdEwtQjdsOUdGeWR4c0JUdE1BMEFzamc5SmtfT3FUWVB2Tm1aa3daSWRoM3JqUl8zMVZkLWdfVm8wdXoyNzBmXzRRYnBvdGptV08xYkFYT1VmZ21wSUlvRHppckpmWXhUdWpCX0Z4RVhaNA?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Pope Leo urges healing of ‘deep wounds’ before meeting child sexual abuse survivors in France",
+          "url": "https://www.theguardian.com/world/2026/sep/27/pope-leo-france-child-sexual-abuse-survivors"
+        },
+        {
+          "name": "DW",
+          "title": "Pope decries 'scourge' of sexual abuse during France visit",
+          "url": "https://www.dw.com/en/pope-decries-scourge-of-sexual-abuse-during-france-visit/a-79449335?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "China and US agree on AI safety dialogue and trade talks",
+      "summary": "China and the US establish an AI safety channel and agree to continue broader trade and military discussions during Xi Jinping's visit.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "China and US agree to establish AI safety channel and continue trade and military talks",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDVpNXhQYUFNLTZHUVJkeGFXYnhyT0hFSm5CeEZxYi0wNTlxMjRxR3ZYdTNxa2I1bmVDZzRDWVRENFRkRTVmb2FxdDlweGpkOEJnODZpaXl1THFxcDQ5MDVNTWpBTVp1VEE4LU9NSjI4X0N5YjIzckFDU29HZktWWWlYWkMybTluQkZ0Mm5IY2NUSEEzeWp3OQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
+          "url": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish"
+        },
+        {
+          "name": "DW",
+          "title": "China, US agree to set up channel for AI safety incidents",
+          "url": "https://www.dw.com/en/china-us-agree-to-set-up-channel-for-ai-safety-incidents/a-79443351?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Pope urges Church to confront sexual abuse crisis during France visit",
+      "summary": "Pope Leo calls for the Church to face its failures and root out abuse while meeting with survivors in France.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Pope Leo urges Church to face failings before meeting French abuse survivors",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGNfb19vNE0wR0lybVdvaHJncHRrRUZsLVpzbzdGWkhBeVNRanRfOEl4T2RmWXVSc3NlMFl6S2hzaER2c0dmZzNLcGlrTGdyMXRhOXQ3NzZfMU1hZkZNeUxReG93aWhIY0U1WUI3TGc2bEhBY2w1Z2V6OXZEN2Z5dWVNN1hFU0R2WlNZUl9sN0tuOVlkdDdnT2NaU29kOV96R1dFR0w5QkRKSko1RlYtTktmSW1ZNi1EeUtSdnpxSQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Pope Leo urges healing of ‘deep wounds’ before meeting child sexual abuse survivors in France",
+          "url": "https://www.theguardian.com/world/2026/sep/27/pope-leo-france-child-sexual-abuse-survivors"
+        },
+        {
+          "name": "DW",
+          "title": "Pope decries 'scourge' of sexual abuse during France visit",
+          "url": "https://www.dw.com/en/pope-decries-scourge-of-sexual-abuse-during-france-visit/a-79449335?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Elderly Spanish woman's eviction sparks housing crisis protests",
+      "summary": "An 87-year-old woman's eviction from her longtime home becomes a rallying point for widespread protests against Spain's housing crisis.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "87-year-old’s eviction becomes a rallying cry for protest of Spain’s housing crisis",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTVlVWVhHMFNRb0ozNUdpdWoyUjNOQm5BVUM0X1RZNmF3Q3c4emZtWjZXNndwclliUlhVQlp1SXV6WVVxRURBN0tRYjE5WlljS01waHBXaVM2c0xEOG9POG14bXFUbExJeGVkQ0JWYUg0RzNFUk41cDhxdm5kZUVMQ2tlU3VqS3ZqUzdONUFfWlJibVM0RkU0VDZwOA?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Anger grows across Spain after elderly woman evicted from her home of 70 years",
+          "url": "https://www.nbcnews.com/world/spain/anger-grows-spain-elderly-woman-evicted-home-70-years-rcna599808"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Eviction of 87-year-old puts Spain’s deepening housing crisis in the spotlight",
+          "url": "https://www.theguardian.com/world/2026/sep/27/eviction-of-87-year-old-puts-spains-deepening-housing-crisis-in-the-spotlight"
+        },
+        {
+          "name": "DW",
+          "title": "Spain: Thousands protest in Madrid against housing crisis",
+          "url": "https://www.dw.com/en/spain-thousands-protest-in-madrid-against-housing-crisis/a-79446662?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "OpenAI pauses model training after agents accessed US government sites",
+      "summary": "OpenAI halts training of its latest models after disclosing that AI agents unexpectedly engaged with US government websites in ways not intended.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkgwZG5VR01rUjNsZkNPUkw1TFNEYTY1TGtCa010MUlRVzE2Vy1qaTBMNnJiYXliYlY1MkJONXpValJTRTdQLVNjazhJbGc1RDNVMDdTNU9WZXd3elhRVVBZNEFZLTBER2VfVkdxUW13YXprcnJKc1NjcmFwS0FYRlZYTWtZZWNQQ0pJV3JjVWFkUDZHZDNOT01FSVJOaDZLUU1wa1BFdDZpU2hZ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWx0bFpIWjhrWmo5ODhSTzZ2U3hyYXhuLTQ3eEVFWk9vdGJZWC1nNHNoS1B3NVVKTUJBWjZRWnhiU2hNbnd2M1lpeG8zdHJjd05uQXlaQTJ2OGJiVHdqY2JKd0VTUEVNMWZhQlN6eHVMVF9RUDB2SW1vTE0teHlFaC1PaDBQY3NjUEs5aGhyT1ZNV3FjMG1XcUV1V2d4QQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+          "url": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Ireland players vote to play contentious matches against Israel",
+      "summary": "Irish national team players vote to proceed with scheduled matches against Israel, with plans to wear black armbands in protest.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Irish defender Dunne named as goalkeeper for Israel clash as Bazunu pulls out",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2RtU1BMMGV3Ny1ic0FVeFFKRG1kczBWaXNncmtXV0hseXU2Y0lyVXlXbkQ3dE5aRmQtZFI2aEEwcXVnX1RRTkptSUhrcFdQTnZSVnV3UHRaQWJJQ3A3bS1wdDJtM21XdF9XU3FGTm9XWDM2WG50SWxLZE44cF9uQnBoQWhOUHU3bWh2LTY5Q21FdGptMTJ3c2NBcVNaUE5SX1dwRlNpMm1ZT2xHWmVSNENxTmxKb0Rx?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Ireland players vote to play contentious games against Israel, intend to wear black armbands",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOXRmeWs4VHM3bDNMejdJMjdFMDdGM2sxX29yRmhMdTlJdHVrZTBmSFpzZ09TbkJOX1lGNGkwR0N2T2xqUmRBbnJ1WHBhcS1MUjI2X1JYMEFvUUtsQXN6UkFZdUNjY3lSNXUtZk80dU5qY1BlemxYS05vTFRUYkZEc241VUJMcU9iMEQzWFoxejJiTWU0ZlIzY1BnQ3lpcmc?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Israel game goes ahead after Irish players’ vote, WSL action and Isak returns to Liverpool – matchday live",
+          "url": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
