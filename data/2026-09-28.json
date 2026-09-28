@@ -1,0 +1,276 @@
+{
+  "date": "2026-09-28",
+  "crawled_at": "2026-09-28T22:05:19+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Five arrested on suspected terror plot at UK air base used by US",
+      "summary": "Five British nationals were arrested near RAF Fairford in the UK on suspicion of preparing a terrorist act, with investigations examining possible Iran links.",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: Were the RAF Fairford arrests 'pure luck'?",
+          "url": "https://www.bbc.co.uk/news/videos/c65ywnl3dvzno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "UK police say five arrested at airbase are British nationals - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONk93UTV0VmU2MTRiTHp0LXBrbnI0RTVabF9XYkstWm91LTZ0aFBnT0FzeTNENUtaakYwUlloc0M1SHFhSDVsQ09jNGlwQUtVM09iejRseHY1SVkxREx6aFRyYjRNU3JreGNRNXYxNVBhblZQN19OYW44X0hYdEE4d3J1TVlVcFJBOUNrbVBOT0xXYTFHeHoxaFhRNmF3bzRzV3U4bA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "5 men arrested near UK air base used by US in Iran war on suspicion of preparing a terrorist act",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcERWNlhSekhlZGNhNVZ4dTZra2o2b3ZEdGFOeFhYWi02T2JlZ2VPNlZ6ZUQ1ODI1MHc3WElaaVRnV2RlZTlUeHhSR1pSN1NOanZiZkEyNnNtaXhPWS1qYXNrSDlIb1M0S3dwMktBNUJUd244MlZuTHJrNk12SGNCckdRSXBCZWxQWml1MHZHdEkwYjVlSEsyX0FOLTRWYlRZ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "5 men arrested over suspected attack at a U.S.-run air force base are British nationals",
+          "url": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack"
+        },
+        {
+          "name": "NBC News",
+          "title": "5 Arrested on Suspected Terror Plot at US Air Base in Britain",
+          "url": "https://www.today.com/video/5-men-arrested-on-suspected-terror-plot-at-us-air-base-in-britain-270642245507"
+        },
+        {
+          "name": "The Guardian",
+          "title": "RAF Fairford live updates: Iran rejects any link to airbase arrests as police say those held are UK nationals from London",
+          "url": "https://www.theguardian.com/uk-news/live/2026/sep/28/raf-fairford-counter-terror-police-suspected-bomb-plot-iran-link-investigated-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "UK: 5 arrested after 'major incident' near Fairford air base",
+          "url": "https://www.dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Possible Terror Plot Thwarted at U.K. Base, and Amazon Drones Overwhelm a Texas Town",
+          "url": "https://www.nytimes.com/2026/09/28/podcasts/the-headlines/terror-plot-base-amazon-drones-texas.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Trump and Xi summit shows stalemate on major issues",
+      "summary": "Trump and Xi Jinping held a summit where Trump asked about buying US weapons and discussed trade, but major disagreements remained unresolved.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Trump-Xi summit: What wasn't said might matter the most",
+          "url": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Trump and Xi's 'stalemate' summit was a glitzy gift to China - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNckdOZFJWeUkyYVpXMlEteUpGeVhGLThlZ1FvVExvTGFxTlZiU1hIOGwtQXlGRVBjVC1Gb3E5LXlkaWxxb2M5RDlmcEpaRGsyUHlCd3B6cERqZTQzU1JPS04xc0h2QXlhN3RiYy03elUyUXZpeVljdzV0YWhxR014bU8tWG1QR2pPQnk5MWxYT3FJZFpMSjNHcjB1UTA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump asked China’s president if he wants to buy US arms, ambassador says",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0RpWWZ5VnRieXhDRkcyTE9ieGRNTkFCc1gxZzBiMkQ5LTZ5cUdwT1BLbTdSSGtGc042MWxUbXVzanZwTUJJcmpWN1JQTEpWOUdsNFdQdm8wTjZOUlU4eUNyMGdic3NXZG9fUV9pcHVwRi13Z3I0ZDNpdG1yWG9qUFVxczFoRlNCNEdUOE45VVM4TEEzU3Q5dQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says",
+          "url": "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
+          "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Taylor Swift wins record MTV VMA awards; Madonna also honored",
+      "summary": "Taylor Swift became the most-awarded artist in MTV VMAs history and dedicated her top prize to Dolly Parton, while Madonna also won major awards.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: Madonna and Taylor Swift win big at the MTV VMAs",
+          "url": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Taylor Swift becomes most-awarded artist in MTV VMAs history, dedicates top prize to Dolly Parton",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc29LNjU2WGtLN0FVSWF3c01hQmw0M013X0V1U2N3TjNZQTVwdkVlMDh3bkgwQng2T3FRMFFkblFRNnktMjFwZ2VBbnd2SjR2TTBIN0tNUkVBempHWk5TN3lvYlN5OGNRNjUxaktuU1hQUnExeW5hbk5YaEVVU1lRcEQ3UFRTOE5xRmxjV2diSGtPTXBXdDdMWmln?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Watch highlights from the 2026 MTV Video Music Awards",
+          "url": "https://www.nbcnews.com/video/watch-highlights-from-the-2026-mtv-video-music-awards-270634053639"
+        },
+        {
+          "name": "The Guardian",
+          "title": "MTV VMAs 2026: Taylor Swift and Madonna win at awards dominated by female artists",
+          "url": "https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Orange Order march blocked in Northern Ireland amid tensions",
+      "summary": "Police blocked the Orange Order from marching through a controversial route in Northern Ireland, sparking tensions over ongoing sectarian divisions.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Police block Protestant Orange Order from controversial parade route",
+          "url": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Tensions run high in Northern Ireland after contentious march blocked from historic flashpoint",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ3doRTNLTTJvTUx5ajJQbHpnMGtKVWp2SFA2NDZHaEJLSFlRa1ZYRGh3d0M3aGlrWWxsTXRVbERVWXdIb0ZGYV9kcFhRMVVWN3hpZkhWUm9iQW14VS1LRk55bUdaLU9UMVpIQW40alFoRjVGY0Y5WHFrYjVqOU05YlRjcmw1cjZtQ2NBUTQwQWFyLXBMU3NzbWRJcHdFWUZNVG9md3VpVkhsUQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Tensions rise as Orange Order members vow to continue with march blocked by police",
+          "url": "https://www.theguardian.com/uk-news/2026/sep/27/tense-standoff-loyalist-march-portadown-protesters-block-route"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Flooding in Thailand leaves thousands displaced, Bangkok declared disaster zone",
+      "summary": "Heavy flooding in Thailand has forced thousands to evacuate from Bangkok, which was declared a disaster zone, with estimated damages around $320 million.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Thousands huddle in Bangkok shelters as Thai flood damages seen at $320 mln - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaTdpbHdoS0hWdy1aVkZYVVJ2M1N0QUxGS0Vva1ZwRS1RbDNwSzNJRXc2OXdOdFhzTGZiWklBbzRfdDh0bDJqSXhaWEx6Nm5vM081T3BUZlNLMlJKUl9CRjlfOXdtV01SNmZ0OTlTX25JSWtNaV9nTUYxNExTS0ZmQjJKVEg3Z3Ywa3ptOHl6X0xNeDIxN0NRLXBGQUVkY25Sa0Y4TWhlMXhRUmJObWIyYllKek5uY2ttT1YtYXdoTQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Rain eases in Bangkok but persistent flooding forces thousands to leave home",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUjV2OVVsQkF6aEpLM3FOYlBlSVpybTdOenZ2X0o2clBNTF94Nm51eDY5Q08xUV9RZENjMklNdG5KMGtaSzhGNjFBUGpWLXhkZF81cTRkMkZFa2NISnU1d2VmQnd4NkdJc1JjN0hIVWVmd21hWElUbTJlOEdXWTBCdVlkVy1mNU5Vcl9LdTl5Zk4wdHhheW94S1JWWG4?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Bangkok declared a ‘disaster zone’ after flooding, as rainstorms shift direction",
+          "url": "https://www.theguardian.com/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Nor'easter lashes US East Coast, causing widespread power outages",
+      "summary": "A powerful nor'easter battered the northeastern United States, causing flooding and leaving thousands without power from New Jersey to New England.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSm8yTVN4Z0tmWTVURVhPYTdqVWRYOXVqXzllQkJ1ZzRGZ040SXdRQjJ1ZlFLRDNYTlN6aWFyeXBQQXBsSUZ0UmtSWEdHVWtzZTJsVGFaZW9DSmd5ZXpUejdkSldwSHdiN3ZtYUJLNEJ2aFRQX05DVl80NVI1dzhlcUZtNHFDUm1NazZKT2Ryd0xJT1JoT0E?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Nor’easter Lashes East Coast, Leaves Thousands Without Power",
+          "url": "https://www.today.com/video/nor-easter-unearths-fragments-of-19th-century-shipwreck-270639685787"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Nor’easter Weakens but Remains a Threat",
+          "url": "https://www.nytimes.com/2026/09/27/well/noreaster-storm-new-jersey-new-york-weather-forecast.html"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Eviction of 87-year-old pensioner sparks housing crisis protests",
+      "summary": "An 87-year-old pensioner's eviction in Madrid sparked protests over Spain's housing crisis and demands for government limits on evictions.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Protesters demand Spanish government limit evictions after pensioner forced out - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFNVRVdoR0lmSmFhcTNjd0FUZDRtSTluNG5OMXJDLXVmTk4yWGw0WHVfQ001dS1IeHlvQmEtZXp4QW9KcU84WE1uRVEwdVdMQTJ4NGJxQTByd0ZRaWVTQ2c4RFI2dGpSVjhTalVncmpuOUxETzFBSl9BUldfeGZLZHFMbmczUzU3VVk1NldCSG01bmdOOUpCdV9mRWVQZm56aU5JcmEtZFd4NElnYnNJb29FR2k?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Eviction of 87-year-old sparks encampment protest in Madrid over housing crisis",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPajVfLXo0QUJYM3FjWldGS25aQ2dsYnJ5QXB0NFpuQWFETmRGcVdhTFpfZTRaeENKTktaVHZ6RF8tcTBoZGozTmYtdWRTR3JkbXdoelZXblVHMEN6UlVpSmhteFV6YUx3dTByN255b0NhU2VXNjRmUkcxcC1QdWJkc3E3SkVvWmg4cjNGM1lqOXhUNkJiWkh0T21abXpKNUE?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Eviction of 87-year-old sparks protests in Madrid over housing crisis",
+          "url": "https://www.npr.org/2026/09/28/nx-s1-5983303/encampment-protest-madrid-housing-crisis"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Benjamin Satterley, wrestler known as Pac, dies at 40",
+      "summary": "British wrestler Benjamin Satterley, known professionally as Pac, died at age 40 after a globetrotting career.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "British wrestler Benjamin Satterley, known as Pac, dies aged 40",
+          "url": "https://www.bbc.co.uk/news/articles/cmn0749g5gryo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Wrestler Benjamin Satterley, known as ‘Pac,’ dies at 40",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdzAtTVpRZjFLMnBpWGJEZEtBQU94cFY0bjlORWxwbkdFS1JUMVJ1em9IbHNBUndOQzE0NXk3UlJMWW0xcl9jVlNSNzdJd1FrTnpBc28xZ3lZRU5IaWNfNkRaWTRwZnllRGNuUFA3N2pUZ2JsTThRdmpZa1MycEh1SGFKZ3lUbDZ5LVVpWDlSX0MtU013MnR3?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Benjamin Satterley, globetrotting wrestler known as Pac, dies at 40",
+          "url": "https://www.nbcnews.com/sports/wrestling/benjamin-satterley-globetrotting-wrestler-pac-dies-at-40-rcna600165"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "China and US agree to cut tariffs on $60 billion in goods",
+      "summary": "China and the United States reached an agreement to reduce tariffs on approximately $60 billion in goods including agricultural and household items.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "China to cut tariffs on US farm goods, but list excludes soybeans - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcS1oNDFMWG5pMzdiVDYzYlpoWmx2dXh2Z3FDbUJ5T09CbEFBV251Rkc2cFZTcnlPTDZ6N2hJbThrNTRrc255d0NZUWJhendkbXBNc3M4cWRWV1RaVkg3ZXg5Q2ZQVEZxWW1hX1V3UjJUOEJMZGlCRXJEdUpvZzUtQzdreVY5azNfSGxwakVfZFJOa0F0Y1NDWVllMHhaZEQybjRTdg?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "China and the U.S. Pledge to Cut Tariffs on $60 Billion in Goods",
+          "url": "https://www.nytimes.com/2026/09/28/business/china-us-summit-tariffs.html"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Congo Ebola outbreak surpasses 8,000 confirmed cases",
+      "summary": "The Ebola outbreak in the Democratic Republic of Congo has exceeded 8,000 confirmed cases as the disease remains largely uncontrolled.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Congo's Ebola infections cross 8,000, government says - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU1EwLTB4WkZhU1dMLWZTM2NfeVZOeXNOaTYwSERGR0V4N0NCUjF3Z29Cb2M5aDVJRmFYZ2h1T0JocVRmNjktTE1xb3k2MDA2azZQdVZnY3ZuSmtfUVd3TFBiZDN1RlM0Y3FkMmpvZXJNX2ljeGRFRWRlS29JSlBuUmpWcFVNM0c2U3NGRzYxa2tnZG55MzNHVkxicHNtNWRnc1J1bGtWOTFKeUxteXZTRmVRcF9zejR3dnNjTDIwNA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Congo Ebola outbreak tops 8,000 confirmed cases as disease remains out of control",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHhqY2sxMy1CdFpVTmd5SFBWTWx2eEozaFl6NFZBR01jZjY3NWdxZzlBbzVVeW05VHJUcGI1b2ZDNGgwTXBMc2VUckNfSkhsMjdweUR0a25yNmsyeTdXZXpHZXFKOG9vMVBKcnYyNGFZUmcxa0w5LUd5Mm9iVEdZWGRfd2l2WVpVVk9kZUhBRQ?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
