@@ -1,0 +1,276 @@
+{
+  "date": "2026-09-29",
+  "crawled_at": "2026-09-29T22:05:20+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Suspected terror plot at RAF Fairford involves foreign actor",
+      "summary": "Five men arrested near the RAF Fairford air base in the UK were released on bail as officials, including Secretary of State Rubio, indicated a foreign actor was likely involved in a suspected bomb plot.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Daniel Sandford looks at what's next in RAF Fairford investigation",
+          "url": "https://www.bbc.co.uk/news/videos/cmvgy21872nyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Rubio says UK airbase incident involved a foreign state - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFpiaUU2ZUhub0d4T044ZzdtZEhwSklBLXRIMk9RWk8wMUlSUElhV0FydEMyN3R4enJjVmttUS1Cb0xoeklqQmMwOG9Rb3F4Mzd1bmtXSHRVM0ZKSWE3X2oweDN3emF0SHpnXzhGbGJpSUg2Nk0wNlZlUTlLNl9SRU4tRWdqNHp2WHFpck5ha2s3SXhfNk0yREVTak1RQWM?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "What to know about the suspected bomb plot against a UK air base used by the US in the Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQUdhVTVkWElobHVrSHpIOVNTbHRBZm1PeWdrcmg0Z3IxNnlWSzVzTU5lLW9zRWF1TEFYSlVmVnVBc1d6TlZCMTd4eW5fb3dGY2VmQnhvZndBQlEzbGtPbHg5WEd0bWlzczd4N3ZQMkZrQkJLX2Jndjc1NzJEZFUzWDY4S08xeGpzamp2UUVMNG8xa0hoampJUXJfUDByeTU3bkE?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "5 Men Arrested Near UK Air Base by US Forces Released on Bail",
+          "url": "https://www.today.com/video/rubio-alleges-foreign-government-was-involved-in-uk-terror-plot-270709829855"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Rubio says foreign actor was ‘clearly’ behind suspected RAF Fairford plot",
+          "url": "https://www.theguardian.com/uk-news/2026/sep/29/raf-fairford-uk-bomb-plot-marco-rubio-claims-foreign-actor"
+        },
+        {
+          "name": "DW",
+          "title": "UK: US government questions bail for Fairford base suspects",
+          "url": "https://www.dw.com/en/uk-us-government-questions-bail-for-fairford-base-suspects/a-79468803?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Rubio Says Incident at UK Air Base RAF Fairford ‘Clearly Involved’ a Foreign Actor",
+          "url": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "OpenAI delays new AI model release over safety concerns",
+      "summary": "OpenAI announced it will not release its newest Astra AI model due to security and safety concerns, as the AI industry faces increased pressure on safety measures.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "OpenAI scraps rollout of new model over safety concerns",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "OpenAI delays latest model over security concerns, as industry faces new safety pressures",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTlCOGpRYXJUakJJcG5xaWJyd2NFaFFkbkM4VjJIYWRpNUVpM2l5TEVXQVNaTm5IX1hEajgzVXBxME1ueElwMUFyMW1kQ1o4WE5PeV9rRDlzRXZyeDJ5VjJDLWd5Z1JJMW5lQTdrcy1sREp2cDhDaGxzUmRUa2EwYjV3MzUxbzgtSS1Xb052ZDBiM0xyUjh2LXpHY1gtZXpkVVV3WVBqVHRma0ktQkRN?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "OpenAI delays latest model over security concerns, as industry faces pressure",
+          "url": "https://www.npr.org/2026/09/29/nx-s1-5984342/openai-delays-latest-model"
+        },
+        {
+          "name": "DW",
+          "title": "OpenAI shelves new AI model amid safety concerns",
+          "url": "https://www.dw.com/en/openai-shelves-new-ai-model-amid-safety-concerns/a-79467841?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "OpenAI Apologizes for Australia Medicare Hack",
+          "url": "https://www.nytimes.com/2026/09/29/world/asia/openai-australia-government-hack-apology.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Cornell gang rape investigation reopened by prosecutors",
+      "summary": "Prosecutors reopened an investigation into alleged sexual assault at a Cornell University fraternity after a lawsuit was filed by the accuser.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Prosecutor reopens probe into Cornell gang rape allegations after accuser files lawsuit",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY3c4MklqOEFoVTNlT2JxLWZvOW51ODdodUt4cGtTSFpaalNPeG5jNWpYNXVPdGxKd3BNeno2UEJacHBkVElGX1lzQ01KOWJhTmt1MmNSY1BjZ2l5N1J3UTV4c3RVU2ZZTnZXcHRwUGs0RXA0ZXQ5Z0VocGZfN29RQVlXSll3RTRtMm1oXzRiVGdHTmtPNENmLWs5OTJKRDQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened",
+          "url": "https://www.npr.org/2026/09/29/g-s1-145422/up-first-newsletter-fuel-efficiency-standards-cornell-rape-case-terror-suspects"
+        },
+        {
+          "name": "NBC News",
+          "title": "Cornell Sexual Assault Investigation Reopened by Prosecutors",
+          "url": "https://www.today.com/video/cornell-sexual-assault-investigation-reopened-by-prosecutors-270710853527"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Investigation of alleged gang-rape at Cornell University fraternity house reopened",
+          "url": "https://www.theguardian.com/us-news/2026/sep/28/cornell-fraternity-investigation-alleged-gang-rape"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Cornell Sexual Assault Investigation to Be Reopened",
+          "url": "https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Tennessee set to execute woman for first time in 200 years",
+      "summary": "Tennessee prepared to carry out the execution of a woman on death row for the first time in two centuries after the governor denied her clemency request.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Tennessee is set to execute a woman for the first time in 200 years",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVHRfVkxxOEJKd1pjbjJaWUpMRFdiZWhtbjJpM2JsYWE2TWRYM3pwUF9hcW9iUTNCVlpUWkw1WUpFQnVIMnhrSTVmYk9DRmxJRU14RUtHamxRUXB4Qi1UWTNGaHNGTjhXR0ZSMW1HT1l6MUdsUWUxQnZxZXczeVNQSkpZZHFJaWxJWEJSNHF3U2t3cFpra0N6eXh2Z3ZjeWc?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Tennessee is set to execute a woman for the first time in 200 years",
+          "url": "https://www.npr.org/2026/09/29/g-s1-145408/tennessee-woman-execution"
+        },
+        {
+          "name": "NBC News",
+          "title": "Ahead of rare execution, lone woman on Tennessee’s death row says ‘I am at peace’",
+          "url": "https://www.nbcnews.com/news/us-news/ahead-rare-execution-lone-woman-tennessee-death-row-says-peace-rcna600279"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Tennessee to execute a woman for first time in 200 years after governor denies clemency",
+          "url": "https://www.theguardian.com/us-news/2026/sep/28/tennessee-woman-execution-christa-pike"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "SpaceX's Starship launched into orbit but flight ended early",
+      "summary": "SpaceX's supersized Starship rocket successfully launched into orbit for the first time but experienced an engine failure that ended the flight earlier than planned.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "SpaceX's Starship engine failure could impact NASA's moon mission objectives - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVG5vYVlQYmlYam04bTNfSlhBTW1fLVBOVXkwXzBIS3BCYXRBUnZOM05NUVE5dk1aU2tQYmNnTkZWa2l1U0dNNVBINGF1NkpTQjBfQzVseDRCakFkeGs5XzYtMVFtMzFZZXFESmtZR0F3dDN3VTJZNEE0aHAwOWpUVUlqZEMzQ2packNhMkFMNTJEYnJNZ2pfNWszOWw3NFBhSDM1STZOQ1NuY2g5bGhxM3BwTW1BT0dGY1c2dkw5a1ZxVEdickVlU2ZfMmtRUQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "SpaceX’s supersized Starship launches into orbit for the first time but flight ends early",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjNWb0xCanlSdllFdHJENU1SQ0xacUt1LUdCb2ZsQ1ljN19OQjJXMUhCSG00Wks3OVZaRHRfbEVyTkFET29YMUJZVDI5Q24xa05FUVdMeTFUekJ5OVd3RjBMQzJjSDhxZDZtUFZaSjlnUi1GX2VhVmwwa2YwZnhwdjFWRDd6QTF6?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "SpaceX launches supersized Starship into orbit",
+          "url": "https://www.dw.com/en/spacex-launches-supersized-starship-into-orbit/a-79462696?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Estonia blames Russia for arson attack on defense company",
+      "summary": "Estonia attributed a recent arson attack on a defense company that supplies vehicles to Ukraine to Russian sabotage.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Estonia says Russia ordered August arson attack on defence company - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLWRKUU5SVUlNSnZVY0hWZ0pkeWVBU1JBT0piQk1lRnlFajlNenFJYjdpWjd6WVkwb0NVQ2lCcFhpczRCLVpUWndheGlZWThCd0llS1lVOHlZbzVuQzVXazZELWlMN3VRemFySmlHaERVcGhnWVhsUllFR3gybzlVTS1vaVlLamlwQjhzc1ZWR2lHLVBzV3NGNXl5LVJfeld2S0ZRYktISGVWZWVJZTdjRGRxRDJDZVZNc0pwUVZLcFN5VFhQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Estonia blames Russia for arson attack on defense company that provides vehicles to Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb2xSOGRNSUNHU1M5RzVHOHpYdzBya1VaOUZhcFhXa2hjUEd2T0pNZGNGRTIyVXE4U1lOc3owRGxBTFVHY3RvcTRZdDMzSElIOHlnNlJrSVVyRDdPZ255cXpIMW9xSllTQkdiOEdrRXFLT0xmWnJJRkVyQ0Q0Rjh5a0VvbFNZTnRCVzF2QWJtck1rVFlwUzVQWVZDZGwtUVU?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia - Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "US imposes ban on Canadian imports including dairy and alcohol",
+      "summary": "The Trump administration implemented tariffs banning approximately $1 billion worth of Canadian goods including dairy products, alcohol, and motorcycles.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "From motorcycles to booze, US ban on $1 billion worth of Canadian imports goes into effect",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS3J6eURWbnNjOU9RellOZlVKZlR1bGk5Y0I0bTJhSTY0N0VPc3dOVzhUd2pqM1BkTkpxSFM5VkhVX1VkRWYxZ2NjRjZ2c29OQ1hWMjlvSUtUbDhxOTBBZHljVUNBRjJKeFhqSkFEcHU1Q2tLbnhieHBIa1ZPS0E0YU81eXhfbUh6d2FOczRVRi0?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "US ban on Canadian alcohol, dairy products and motorcycles takes effect as trade dispute escalates",
+          "url": "https://www.dw.com/en/us-ban-on-canadian-alcohol-dairy-products-and-motorcycles-takes-effect-as-trade-dispute-escalates/a-79471701?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "US Hits Canada With Ban on Some Dairy and Liquor Products",
+          "url": "https://www.nytimes.com/2026/09/29/business/economy/canada-tariffs-ban.html"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Trump to host summit with major AI leaders",
+      "summary": "Trump announced he will host a meeting with top artificial intelligence executives including Zuckerberg and Anthropic's Amodei to discuss AI safety and other matters.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Trump to host Zuckerberg, Anthropic's Amodei, and other AI titans Tuesday - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump Set to Host Top Tech Leaders Amid AI Safety Concerns",
+          "url": "https://www.today.com/video/ai-concerns-in-spotlight-amid-white-house-meeting-270708805834"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Myanmar airstrike kills 49-50 people near market in Rakhine state",
+      "summary": "An airstrike near a market in Myanmar's Rakhine state killed approximately 50 civilians, with the death toll potentially rising.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Death toll from Myanmar airstrike in Rakhine state rises to 50 - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbEk3YkFTVER5WWhfdE1HbzlHNkRyaWp3YjNmdzgteWZBR2lrUmgyOXJRSGtlRjF6VkpnYzUxeTNQRWdoeWo3TWFBVmpnUGdxWGFVdWVuai1HMXRSYXNLOTlpcHpvVW55aXdyZlZ2WmQwY1RhbTNRYW5TM3ZES1E2ajRDZF9vVzM0NHBCcV92V3JHdzl0WW5abEYtUzRFN0V0ejFwZkN1TWU3dw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Airstrike near a market in Myanmar’s Rakhine state kills 49 people",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2kwWGdxWFhkNnBvaGVoQzF3RzJtQUtfUGNqaXJNZEZTVE11bU0wMDlEZW03cThiUi14ZldIdkI0M21iNHM1bllsOFlGSnBTcU8tSmZkMllKbEdVX3lYMWNSZ2JKd3NKdFU5TnU3aS1SdlYzZExwYWF0VTQwdklNa3Q1UVVaZWVhaEpBa1Z1Q0VMNFFzVkE?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Senate passes college sports bill limiting athlete payments and transfers",
+      "summary": "The U.S. Senate passed legislation that would regulate athlete compensation and transfer rules in college sports.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Senate passes college sports bill that would rein in athlete payments and transfers",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWl1WGdfaDlGZi1ucEtoWWxwdmNEQ0NyQ0VYOC12d0lySW9Ec3ZCNWphUGFRa0RzZVNNenNvUnFFTHBEMl94WUhuNXFhcmJnMXBxRUpNZy12UHFVT3FkSHZuM0hZSWxMMlUzTTZ0MTV3TzN1QW8xWjBlQVF1Z0FsTmVhdjdxa3JTVXRCSElQczdFVmVuY1Q2Sy1xaE1KWUMxZ2x6Vm05MmNZdw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "The Senate passes the Protect College Sports Act, but the bill's future is unclear",
+          "url": "https://www.npr.org/2026/09/28/nx-s1-5977851/protect-college-sports-act-senate-bill-vote"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
