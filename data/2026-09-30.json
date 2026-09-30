@@ -1,0 +1,271 @@
+{
+  "date": "2026-09-30",
+  "crawled_at": "2026-09-30T22:05:21+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Israel-bound FlyDubai flight diverted after reported cockpit incident",
+      "summary": "An Israel-bound passenger flight was diverted to Saudi Arabia after reports of a violent altercation between pilots in the cockpit.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "What we know about the Dubai-Israel plane diversion",
+          "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Israeli officials say diverted flydubai incident may be attempted 'terror attack'",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Violent Incident Between Pilots Forces Israel Flight Diversion",
+          "url": "https://www.today.com/video/israel-bound-flight-diverted-amid-reports-pilot-was-stabbed-270775877830"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Israel-bound passenger plane makes emergency landing in Saudi Arabia after reported fight between pilots",
+          "url": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud"
+        },
+        {
+          "name": "DW",
+          "title": "Flydubai pilot investigated over possible attempt to crash Tel Aviv-bound flight",
+          "url": "https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Passenger Describes Chaos Aboard FlyDubai Flight",
+          "url": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flight-israel-plane-passenger.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "US troops complete withdrawal from Iraq after two decades",
+      "summary": "The United States finished withdrawing all military forces from Iraq, ending a 23-year military presence in the country.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+          "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "The US military says its withdrawal of troops from Iraq is complete",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVd3ZE1qU3YyRlhnTjBFTlVSX0taT0p1MDFpQVNBNVJTSzY5U3pkVkpNVTdmMU5qLWZrMGsxLUdROFFURmFxRzFjME5fWWhhVlZGcTFZRnExRkFhcFNaeXNRYmhkQ3h4NnU3Q09mSUlteG8wZ1dVRlpQME0xQk1jcUlqeU5XMkpVdWNyaW1jN1VRNG84VExtV0NQUkJsd2ZNRUFPdmd0WFM?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+          "url": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai"
+        },
+        {
+          "name": "DW",
+          "title": "US troops exit Iraq after more than a decade",
+          "url": "https://www.dw.com/en/us-troops-exit-iraq-after-more-than-a-decade/a-79481523?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
+          "url": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Andy Burnham suggests UK should reconsider EU membership",
+      "summary": "The UK Labour politician Andy Burnham said Britain should weigh post-Brexit options, including potentially rejoining the European Union.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Move to rejoin EU among options for UK, says Burnham",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Burnham says UK should weigh post-Brexit EU options, including rejoining",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeHFKNWtOV0FDeHFJZ1N6SjVQdTNHaFdPOThkYktaTGZuY09ObnRjNFVJdGpHM21NVGlfQ0hwR0hfdmo1NHZpUkxkODY5czZ4TTliUHNnR3R4dkZRX0Vkaks5cmxBdmN1WE1mTVR5UzhNYWZsWjYwM2pWR1AwN19NNExSSmVWSFJKc1p1bmpOYkJJd0lWNlEyTkUxLWVBNHg4RFVpWXpLczBNOUNvc3dVMGxnNGU?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Andy Burnham pledges a radical shake-up for Britain in a high-risk political speech",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRVpBdHdzY0N3SGhTZGQ3bkEtUHk5MWpaRmNjV1pDdUcxazJDZU1LS0RCNDUwT282Y0tKa2YyaGsxcXpfbnpldGVkQk9DbDNMT282c2Z6QWhGNjBQNUNwd25CX083TG5vN19mbEZmSUM3SEJJWkNZYUpTT21xV3RITWZlZTllTGNTRW1ZNFFpUV9ObUN1MzUxdXUtZHhXZw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "I heard one thing loud and clear in Andy Burnham’s landmark speech: the left has won the arguments | Owen Jones",
+          "url": "https://www.theguardian.com/commentisfree/2026/sep/30/andy-burnham-landmark-speech-left-won-arguments"
+        },
+        {
+          "name": "DW",
+          "title": "UK PM Burnham seeks 'hope again' at Labour Party conference",
+          "url": "https://www.dw.com/en/uk-pm-burnham-seeks-hope-again-at-labour-party-conference/a-79473376?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Manchester City found guilty of multiple financial rule breaches",
+      "summary": "Manchester City was found guilty of numerous violations of Premier League financial rules, including inflated sponsorships and improper spending.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "The transfers that helped Man City dominate while breaking financial rules",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Man City's leadership cannot continue, says former chairman",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdEtlTUgwdmtZalJqQzdfRTZCdmJPRzN6TWQ2TzVjVFkwdnZLbG5ZZ3BDQjl0OWpXX0FGMTVJbHVleTZuXzJPMEpGM1FCaTJXYVlnMzZFOWFtZ1RzeTJWQ21PcG5OQkYtUVZZMEhSZDVsNVVBSFVWQ3MzUDFpVmxDRjF6enZTa1UtTjFhUW9TZjNtaXE3MFBIS1lXZVc2MnJNR09Gc3FEZ0NiaWdmRkEyVnkwYw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Man City scandal: What to know about the controversy surrounding the Premier League soccer team",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUzItMmhBT242RjJSSHJ0RXFadlpkMzZONDFXdThDTFI4blcyOVR6X2doRGtMblZKdVFDVjUzVEFzeXRzR2x1MmJqc2JtZnIwaGwtZURDeGllc2IzUGZ6T19EeUtOa2szUkh5aUdVM1VSS3dEUTdPandNMmVHTnNKYkk0aEV0cmFYclUwRjJRVDRrNFEydFE?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Manchester City could be forced to pay Premier League up to £50m in legal costs",
+          "url": "https://www.theguardian.com/football/2026/sep/30/manchester-city-premier-league-legal-costs"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Cornell University rape investigation draws renewed scrutiny",
+      "summary": "A rape investigation at Cornell University is facing new questions about evidence and consent laws after alleged incidents involving intoxicated students.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "What we know about Cornell University frat house rape investigation",
+          "url": "https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Cornell rape allegations lead to renewed scrutiny of laws on intoxication and consent",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjRSSkVIbkw2TEROTm9IZmJxNGlwTldrTEdMVTlLWE1fYmtaU2pYZFJEQkJzclpXTFpydV83QnNXTTl4cGlLcWFiYnhLLTlxM0Y2UjFzdjlEOVhRS1FHNTFiNFJGRGl0Sk5ZSWVEb1VFT0x6bWNuUS1WTHlmb1dWblU2N2UxU29YTmVRTmRQeVZ0YmV0Q2NaTGZPM01FQm85cWp4TC1qTUZKTFJuLUk0cVJn?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "New questions emerge over 2024 investigation into alleged Cornell rape",
+          "url": "https://www.nbcnews.com/nightly-news/video/new-questions-emerge-over-2024-investigation-into-alleged-cornell-rape-270751301629"
+        },
+        {
+          "name": "The New York Times",
+          "title": "D.A. in Cornell Case Hopes to Speak to Accuser as He Weighs New Evidence",
+          "url": "https://www.nytimes.com/2026/09/29/nyregion/van-houten-cornell-district-attorney.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Supreme Court allows Trump's third-country deportation policy",
+      "summary": "The Supreme Court permitted the resumption of quick deportations to third countries while weighing Trump's immigration policy.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Supreme Court lets quick deportations to third countries resume for now while it weighs Trump policy",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2w1QXVuaHFPaVEyVFIxMkthZmVaZFhuVEc5Rm5aUUgxV25xVU9SVW9ad2YwMS1pX3l0Z0oyQjRPc202Zk8xNTZZNDRUUzFpb1FIRWg1b05xeDVmdmctTmlCZHZIYWhCVWI1SGFOQkZPendNeTE3amw2eGQzYVBUczRJd1pJNE15ZXlacHJtOWxTVzZSakxHZThDbWNSVXp5S3hxNUJYMFQ3WTVW?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+          "url": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai"
+        },
+        {
+          "name": "NBC News",
+          "title": "Supreme Court allows Trump’s ‘third country’ deportation policy",
+          "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trumps-third-country-deportation-policy-rcna599724"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Prince Harry's children targeted by paparazzi near school",
+      "summary": "Prince Harry and Meghan Markle condemned what they described as reckless intrusion after men were spotted near their children's school in England.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Sussexes condemn 'reckless intrusion' after men spotted near Archie and Lilibet's school",
+          "url": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Prince Harry's children targeted by 'European paparazzi' while at school in England",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTVNyTEE5dUNkODdKVXU1V1dBZW1hZGJEYnQyU2xfZW1iRHkzYjM4QVdvcEMwM0p3SERzWEZpYXJLU1d3blJPU0JqeXNNQVlHRzFfVlJnRE5JWnI4azdHbUpCSWRKYnA3cXc5ejdWMWZpWEhaaHAzUnJDN21xWXdPOXNXNG9OMi05LXVETnZHeVYzRWNXQ1NBMUtLcmh4dF9WN1d3UXJxbjd1UXFDMHpRR2pyMVYwbGJncEpv?oc=5"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Russia launches massive attack on Ukrainian energy infrastructure",
+      "summary": "Russia launched its largest attack on Ukraine's energy infrastructure since spring, striking power facilities in Kyiv and surrounding areas.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+          "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Russia strikes energy facilities in Kyiv and nearby areas in prelude to winter assault",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOUJYOFJjVEFrbW9LNnY1V0ZZOWxPVEhBRm9mcW16RnZIX0stUTRWMXpybThGUF9EMVZ1eTBQelpVbkM4NGtyRzlzVzJyZ21CX3UxR1lIVThTU1RUMEF3WFdheW1jTTNXWExLcHExUmJrTDVEQ3Q3SWdUckRicHEzajlnSFMxRTlReUl0LXU3TjdJRlp0S3ljc2ZUQ3FsRldiOFBsZEZ3Y2ZfeEhKY2hjajZrN1h6dw?oc=5"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "DeepSeek and Huawei develop chip tools to reduce Nvidia reliance",
+      "summary": "DeepSeek partnered with Huawei to develop chip programming tools aimed at reducing dependence on Nvidia for AI development.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUg5OUtKZEFWWE1PU3dHYURRTThhbS1fWTM2YzdIekQyTTIwU1daMl8wSW5XNTl4aklKSWlxVHRrazlhRlNjNXZDX0ZHd3RnUldXTUZmbGNuYXJYMUV2SFVvWEZsVWRuajcxazZ5WmZ3eEg5TEMtMVVIMXB1V0ppNHA4VEIyQzN0c0hmZDNjaWFLTE81d3IxLXZQeWVJWjhzWTNrUXBzU0IwYXhaX3NqUXkwNTJmMS1yZlhiaGNPRVUxcGZ0RmNKVFhRRVZrQQ?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "DeepSeek and Huawei Target a Key Source of Nvidia’s A.I. Dominance",
+          "url": "https://www.nytimes.com/2026/09/30/business/china-ai-deepseek-huawei.html"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Prosecutor Jack Smith defends Trump investigations amid Republican criticism",
+      "summary": "Special counsel Jack Smith forcefully defended his investigations into Trump while Republicans questioned his team's tactics.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN3d0TU9DbGtMZXhOcGVuR0luSmpmLTQwaEMzSHRsbkFVVkVIU2VscG9LLVp1RGpxc1pXREpIbURyWUdVdTczR1FyQVFDTnpieGI4Q0VWVkJubDVXSlZKOWZJUEtSbkRPVVp5SWdJNWZxUjRjV1pma2lXLUUwZmhDT1RvUjJiT1g4TDVMLTNn?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falls Apart",
+          "url": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
