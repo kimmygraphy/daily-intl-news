@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-01",
+  "crawled_at": "2026-10-01T22:05:19+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Pilot stabs fellow pilot on Israel-bound FlyDubai flight in midair attack",
+      "summary": "A cockpit attack occurred on a FlyDubai flight to Tel Aviv when a pilot stabbed a fellow crew member; passengers intervened to stop the attack and the flight landed safely.",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+          "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "From textile engineering to cockpit hero: Indian pilot wins praise after flydubai drama",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZExkMVFSOVJSbl9XQTVRNU54VEFkckstWlBXVlZIbzNsNDdhS0NvcmVXa05lQktuWFpCdWVLZlZ3MEthLVgzeUlycFJHRzJWWVBCOFB3cUYwZFlIMldxYlNhZV9MMkt6WnlaaHVyZjUzMHpiSEZWRkl3X1U3Smt5a1dxZ0FfS2ZIWU1BTmxPYk5zZEVnNmNWbUxRbF9ZUjQzZkoxN1VnMG9GQkZrejE5NFlKLUxlQlI2VkwwcA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "What to know about the terrifying FlyDubai flight attack en route for Israel",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDVnRPM016ZnBHZEIyRk9FVHpVSDlFYmNHRWxnUndFNzNmMnMtdUFCSlBSQmdNRWluYjlYUTVScVMyWHZPUUdRYjkxajREZkFIRVhfUVlmOVVlMURUNmRZbjhIdzRNVnNhTkVOeWYyWTVkSjhtZU00cFdkeHdVel8zZWxfR0ljM2tYeHREUmt0b0cteFJ4RkhmUVBJdkJCZ0JKLWEzRWNJYXIwckxn?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
+          "url": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack"
+        },
+        {
+          "name": "NBC News",
+          "title": "New Details Emerge in Attempted Hijack on Israel-Bound Plane",
+          "url": "https://www.today.com/video/new-details-emerge-in-attempted-hijack-on-israel-bound-plane-270839877957"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Should cockpits stay locked from the inside? Flydubai stabbing raises flight security questions",
+          "url": "https://www.theguardian.com/business/2026/oct/01/flydubai-stabbing-cockpit-security-fz-1073"
+        },
+        {
+          "name": "DW",
+          "title": "UAE launches flydubai hijacking and terrorism investigation",
+          "url": "https://www.dw.com/en/uae-launches-flydubai-hijacking-and-terrorism-investigation/a-79497746?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "What Newly Obtained Documents Show About the Cornell Case, and Inside the Bloody Midair Cockpit Attack",
+          "url": "https://www.nytimes.com/2026/10/01/the-headlines/what-newly-obtained-documents-show-about-the-cornell-case-and-inside-the-bloody-midair-cockpit-attack.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Tennessee halts executions after death row inmate Christa Pike survives lethal injection",
+      "summary": "Tennessee woman Christa Pike survived two lethal injection attempts and was hospitalized, prompting the state to halt further executions and pause a scheduled execution.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "US death row inmate survives execution attempt after two lethal injections",
+          "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection attempt",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnVOY1V2MzZrbzhSSC13bUxKQzU1bWJON2RhLVVwU3dSNkJZM3JOeVlhWDF1VTd5VmlsMXZBTDZzQlhrOWhrMkpQUXFtUWpvRWUzMWY1a3V4UXp0eGRIQWFyMTYtSjNQUXRzNjkyWVZFT2Ixb0lFaWJwY2h4dHlMckpTdmFxc0QxbzYzQUJVQWlWSE0tY2Iw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Death Row Inmate Survives Botched Execution in Tennessee",
+          "url": "https://www.today.com/video/death-row-inmate-survives-botched-execution-in-tennessee-270836293984"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Tennessee woman on death row taken to hospital after surviving two lethal injections",
+          "url": "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike"
+        },
+        {
+          "name": "DW",
+          "title": "Tennessee halts woman's execution after 'failed' attempt",
+          "url": "https://www.dw.com/en/tennessee-halts-woman-s-execution-after-failed-attempt/a-79496561?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Tennessee Death Row Inmate Christa Pike Still Alive After Attempts to Execute Her, Lawyers Say",
+          "url": "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Cornell University gang rape investigation prompts calls to revise sexual assault laws",
+      "summary": "An alleged gang rape case at Cornell University led to a university investigation, sparked student reactions, and prompted calls to revise New York's sexual assault laws.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "'I'm very shocked' - College students react to Cornell University rape investigation",
+          "url": "https://www.bbc.co.uk/news/videos/cmdx0x928999o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Alleged Cornell gang rape prompts calls to revise New York sexual assault laws",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdVdoc3RETWpzNHZXVE84ejdpaklYNDVlU213cHRHXzVTZV94SVVjbGpRTlEzRVZ2NGoweUFyZmpaSFBacnZVVHVTamRLSkFJRjBkWFJObXVXNW0zZVdnNGZvUTMybVFNTnh5NDBKQnJwbkVKZmJqcjBDMEhJMTdabkJNRk9DQzM0LTNPXzBQWW1KUzdxanBoMW0xQmtKOGlsRTV4U0c4dlkwZ1ZnRHlXT1RoVE9yYXdycldxNlBLWE85VEZLcnFR?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Cornell Agrees to Outside Investigation of Alleged Gang Rape Case",
+          "url": "https://www.today.com/video/cornell-agrees-to-outside-investigation-of-alleged-gang-rape-case-270838853567"
+        },
+        {
+          "name": "The New York Times",
+          "title": "How a Cornell Student Went From Shame to Seeking Justice",
+          "url": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "US Treasury yields hit 24-year high as global bond markets face fresh selling",
+      "summary": "US 10-year Treasury yields reached their highest level since 2002, triggering a broader global bond market sell-off and impacting stock markets.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "10 year US Treasury yield hits highest since 2002",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXI1RW1CX1BMdXF0WjVYS1hvd3VuOVBzZm9SZXRXZmVESE54QkFQTmxuMDRCeTdyTGdScnB4MnRnQ3dlMEpRVEJkd1otRHY0VUxQUFAzSjBINzFmN2d2UGNyUkoyWnpOT1owWmQxWktQd2ZSNjlYSC0yNzhOaklITTVVYUpHZ2ctbG10MDVUdTVLZGZ1Y0E?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Most US stocks fall after the bond market cranks the pressure higher",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmtnVHpEa0ZTdzJYcHhrUTlwRURkX2tJVVgwTHgxeTFLY3FHeTRKal9wdmVYREZueVZnclVhTnloU0pRZHp1ZEtnT3BhX0pud3NuMlVQWG4xOV9yZUJVbjY1X1RZSlp1TlVVQUZDaHB6TXotdmx6akpNdFBDUklLcU81WEt0bXNLV0xwVE4taGxYMHNqQkZUaVFUWmM?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "U.S. Bond Yields Hit Highest Level Since 2002",
+          "url": "https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Cristiano Ronaldo walks out of Portugal camp after being dropped from lineup",
+      "summary": "Cristiano Ronaldo left the Portugal national team camp after coach dropped him from the starting lineup.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Ronaldo leaves Portugal camp after coach denies rift",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Cristiano Ronaldo walks out on Portugal after being dropped from starting lineup",
+          "url": "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark"
+        },
+        {
+          "name": "DW",
+          "title": "Cristiano Ronaldo walks out of Portugal camp",
+          "url": "https://www.dw.com/en/cristiano-ronaldo-walks-out-of-portugal-camp/a-79497238?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "US military cuts 20% of generals and admirals in 'State of the Force' speech",
+      "summary": "Defense Secretary Hegseth announced plans to cut approximately 20% of generals and admirals and establish a new drone command.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Hegseth announces a new drone command and cuts to 20% of generals in 'State of the Force' speech",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaHliMXBySHRUYlVMMzBfaDBJT21zd3lvVXFkX2pBYWpaa3c3Wk9WMjZ5NVRMT011MklEdUpJekU3elpDcjY4aEViU0JrZlI4SWIwMkFTa1puQjRmSnEtWlpSZHJOLXVmRjBtdURiUGk1dG1uSHN3d3FVenhVRFBjYVg2TC1TR0NINnpPUjhQWUx6dnpzaHFSem5B?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "US military cuts generals, admirals by 20%, Hegseth says",
+          "url": "https://www.dw.com/en/us-military-cuts-generals-admirals-by-20-hegseth-says/a-79495683?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "French student protests escalate with teachers attacked as hundreds arrested",
+      "summary": "Student protests across France intensified with attackers dousing a teacher in petrol and authorities arresting hundreds of protesters.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Attackers douse teacher in petrol as student protests rage across France",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTi02ZkxUMzY1TkRkb0Uwd0Z2MTZHQmcxRkZnVlZvSGpZeFZFb1NaX0x5N0Q3bDRVcXoyMHdiVlVVT1g2TDA5dTVJTnVBZHBGME16VHBkUkktd3ZEOURPNFFRVHk5OFpIQ2h4cTBseEd4SXFnQ1ZKTlczaUIwd01fb0tLVWh3N3FmMnlHM0ZDQXlNeVZ1WHlicVcxR2xpWEd1bnpxSFpMR2g5NU5icmtYMzNjTF8tZw?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "France: Hundreds arrested as student protests escalate",
+          "url": "https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Scottish Sikh activist Jagtar Singh Johal freed on bail after nine years in Indian prison",
+      "summary": "British Sikh activist Jagtar Singh Johal was released on bail after spending nine years detained in an Indian prison.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Scottish Sikh activist Jagtar Singh Johal freed on bail after nine years in Indian prison",
+          "url": "https://www.bbc.co.uk/news/articles/cxr50yln55rgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "British Sikh activist released from Delhi jail after nine-year detention",
+          "url": "https://www.theguardian.com/world/2026/oct/01/british-sikh-activist-jagtar-singh-johal-released-delhi-jail-india"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Iran indicates receipt of US response to war-ending proposal with unclear details",
+      "summary": "Iran signaled it received an official US response to its latest proposal for ending the war, though the specific details remain unclear.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Iran indicates it received a US response on its war-ending proposal, with details still unclear",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzF1aTM5aWNKQThpZ21SMjFCVHFBXzhoVXZSWXJVSGg4VFN4NEhWVlhVUmdJeEJ3OVJLb3BVVHduU1pPSHBJYVg0VEFsbndOTERpekJFNjlja1NwMmU2X1JKeTlfYXlOWk1PX2NjN2dxRDBldV8xTFh4MEdtWUxiN2lxc05vOVdtc3hYWWZaVGpDdzZUeGtsRjhDZWpON3c0dENpWGVubmR4SnduZ1IwV1FpRQ?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "FTC investigates OpenAI and Anthropic over potential risks to consumers",
+      "summary": "The Federal Trade Commission opened investigations into OpenAI and Anthropic examining potential consumer risks from their AI systems.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "FTC is investigating OpenAI and Anthropic over possible risks to consumers",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLUhCdEZlM2xkNVpqTkRoNk1UbHdrQ1lkUWlwdzltbDhMWS1RemN3WEFkTmJYdl9DYXBJQU14VGMtcXQ3OGhRM01pcjBOaDVtLS00THJUeHMwdlcxQ2ZXWWlvUk90azgtQVBLNGV1eGlZN0t6RG1oQkdjRS1nZEZPNnd1dmwyaXp4eWhDdFoybWdXSEI2Uk1YRklFUTBjZw?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
