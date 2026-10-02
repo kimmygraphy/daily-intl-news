@@ -1,0 +1,286 @@
+{
+  "date": "2026-10-02",
+  "crawled_at": "2026-10-02T22:05:34+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "FlyDubai cockpit attack by co-pilot described by Indian pilot",
+      "summary": "An Indian pilot on a FlyDubai flight was stabbed in a cockpit attack by his co-pilot, which he fought off and safely landed the aircraft, with aviation security measures now under scrutiny.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+          "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYW1JN1lJT0NhMWxSTm4xY1NJWHg4UGp5SzQtUlV2UjB6ZHgzdExsbXRIckJkWWpGWW1aY3dHX2ZBLTh5LS1yME1WaWJPQXdkTVluRVpCOTU2WjVhMm9wb1VVUEdsaG5xWlFYQUdPSndwYmhYN1VzMnBBMFJkdzVMTmJrc3R4cWxlcHBRdE5lWFBVc2NMLTJDSnRGazFDeXJXbW13Vzh0Q0QySjFTVVV3VXZiOHg?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "In-flight attack on FlyDubai pilot puts aviation security measures under fresh scrutiny",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWQ0bnZHZTRpU08tcW9kNURFSWpUdzlmUVF4RW1aWEcxQlJwM2paM01Sc1Q1eTZyWkxtSDNWbE1QcjNSR2N6NGtxUjNINF9HYmk2YzJib3p2V0l3NXQ5Smx6c0hhazBIU1RKc2VpcWhpTm5XdzhFckR2MnNxWENHcjlNUm1xemp0RTFQa3dqLUZaVlYzamFzMjdBTnlfUXpGMmlF?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Pilot Stabbed in Flydubai Attack Shares His Story for the First Time",
+          "url": "https://www.today.com/video/pilot-stabbed-on-flydubai-plane-recounts-the-dramatic-attack-270907973584"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
+          "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Indian Pilot Stabbed on FlyDubai Flight Recalls Sudden Attack",
+          "url": "https://www.nytimes.com/2026/10/02/world/asia/flydubai-attack-pilot-israel-india-smit-machchhar.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Christa Pike survives botched execution attempt, sparks death penalty debate",
+      "summary": "Tennessee's execution attempt on death row inmate Christa Pike failed when she survived two lethal injections, reigniting widespread debate about the death penalty and concerns over lethal injection procedures.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+          "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Christa Pike is in critical condition after Tennessee’s failed execution attempt, her lawyers say",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLW0wLTZ5T1N2WjcyMklRc3F6Wkt1Qk1FRGJWV3NqS1c1QlhiZF90eGtzOXZKWVF5dGJFWkxBNjZ4RnJ1ZkI2LUJUVFh3d3hwU0w0SFNVN1UyUEJvcXotUF9iQUdWSnJNN0hiS2FtZXZBOWdIWVlvbmxiMkR6Z3NKZUphZnYxNEFLdnNwY3hzSEZjT043dmpPMDBKNFBEQQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Failed 'torturous' execution attempt on Christa Pike reignites death penalty debate",
+          "url": "https://www.npr.org/2026/10/02/nx-s1-5988832/christa-pike-reignites-death-penalty-debate"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Calls grow for US death penalty halt after ‘torturous’ botched execution of Christa Pike",
+          "url": "https://www.theguardian.com/us-news/2026/oct/02/us-death-penalty-christa-pike-tennessee"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Tennessee’s Botched Attempt to Execute Christa Pike Intensifies Concerns Over Lethal Injections",
+          "url": "https://www.nytimes.com/2026/10/02/us/tennessee-failed-executions-history.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Cornell University rape investigation gets special prosecutor, sparks campus unrest",
+      "summary": "New York AG Letitia James was appointed special prosecutor to oversee an alleged gang rape investigation at Cornell University, triggering student protests and anger over the university's handling of the case.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "'Dark cloud' hangs over Cornell campus as anger at frat rape investigation grows",
+          "url": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "New York's governor removes DA in Cornell rape allegations, appoints AG Letitia James to take over",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUloWXRtQklqSW5VMDFybmQxS2o1RzRwd3RZOXZ1TTNDdnRPRFZxaUlGTzhvSVF1VUxsb1dCX2w1UkRSajRMRlQtcFU4SjJQelF3MDQ3UmZ3STJ5WHNkU09lYjlZV1pxRnlKYTZ4U3o3U0JMeVJqMTkwcjBiTGdsd1dhT2lmcG1FSFNlM3lTSF9KdjFRT19vQVVJWkphMFpzR0FZN3hMX0RkOXM?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "NY AG Letitia James Appointed Special Prosecutor in Cornell Case",
+          "url": "https://www.today.com/video/ny-ag-letitia-james-appointed-special-prosecutor-in-cornell-case-270906437558"
+        },
+        {
+          "name": "The Guardian",
+          "title": "After rape allegations at Cornell University, why are women again being urged to talk to their sons? Why not men? | Gaby Hinsliff",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/02/cornell-university-allegations-rape-women-men-sons"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Why Prosecutors May Face Legal Hurdles in the Cornell Investigation",
+          "url": "https://www.nytimes.com/2026/10/02/nyregion/cornell-investigation-prosecution-challenges.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "France gripped by spreading student protests over school policies",
+      "summary": "France is experiencing escalating school protests that have disrupted hundreds of schools and turned into urban violence, prompting government crisis meetings.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "School protests send shivers down French government's spine",
+          "url": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Students and police clash as France struggles to quell school protests",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFQyTU1FaVBENkY3X1RkbTlmMkE5LVBkTjF3X1lMMExZb1M5anM2THFGOHVTYmJzdWFCQ0VUNU0zN2xYNUI3ZDF6aEl4WXNUcnd1MkJsQmhLako0c2NqNW5Yb3JIbjkyVHN6MWFQNjBQMm15QjA0WDlheUVnSDAxdDRGd2NKQVRyX1lxSlhSa2FuMk55RUp3QUV4RFlfLXdXU1pEQXBLU0Y0OFdG?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "France gripped by spreading student protests as PM calls crisis meeting",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVkNpN2l2enlnYmxURVQwT04yekxLeWZya0hoTklJWG9McVFJbmxEM2ZWVmtqeEZEX2NjVmtsaU9KakRfQTdoVTkwTUtFY2pucFdJRTRMYVJseDZNU3c4d0Y5a2dtTzRodFdVVkgxZlc2c1B0cm8zRUNXMW1Nb0pCU21WaDllaGwyMUdqRnc4dmFCS3JCN1o0bUd6WlVhZkdBOENObjBtaC1scmR1TVRKYzVyLWVHb0V1Qmhz?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Over 560 schools disrupted in France on Friday as protests escalate into ‘urban violence’ – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "France: 400 schools closed as student protests continue",
+          "url": "https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Manchester City lodge appeal after guilty verdict on financial rule breaches",
+      "summary": "Manchester City confirmed their appeal after being found guilty of breaching financial regulations, with officials warning of significant implications for the integrity of the sport.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Man City lodge appeal after being found guilty of breaching financial rules",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Manchester City verdict has big integrity implications, warns FA as club lodge appeal",
+          "url": "https://www.theguardian.com/football/2026/oct/02/manchester-city-fa-guilty-verdict-premier-league-appeal"
+        },
+        {
+          "name": "DW",
+          "title": "Manchester City Premier League charges: What do they mean?",
+          "url": "https://www.dw.com/en/manchester-city-premier-league-charges-what-do-they-mean/a-79485638?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Renee Good's family sues government and ICE officials over her killing",
+      "summary": "The family of Renee Good, a woman killed during Minneapolis ICE raids, filed lawsuits against the US government, Trump officials, and the ICE officer responsible.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Renee Good's family sues US government and immigration officials over her killing in Minneapolis",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFVwZTZRWWRIa1BmbE9Jc0xNeTZNWk95TnVtSU90UDZRQlNfSm1qVFpaeUZRR2xDXzhjc0l3TEp1WEdpZmU0dUc4VUgwaDBXekR6aGpVNnRsSTVSX2hTNkQtOFNpX010Z3JDbTAwM1JpN0xGSEF4cHlrZmlIak11VUl1WGQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Cornell rape case gets special prosecutor. And, Renee Good's family sues the government",
+          "url": "https://www.npr.org/2026/10/02/g-s1-146075/up-first-newsletter-cornell-assault-case-christa-pike-jobs-report-renee-good"
+        },
+        {
+          "name": "NBC News",
+          "title": "Renee Good’s family sues government, top Trump officials and ICE officer who shot her",
+          "url": "https://www.nbcnews.com/news/us-news/renee-goods-family-sues-us-government-rcna600897"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "US and Europe discuss releasing diesel and oil stockpiles amid supply concerns",
+      "summary": "The US is pressuring European allies to release diesel and crude oil stockpiles, with France's president calling G7 leaders to discuss the matter amid elevated fuel prices.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "EU fully rejects any ban on diesel, EU spokesperson says",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNndwb3pvLWM3YkZScFhrZUhjeDNZZU1DUWJkRnowY19lZTVNNFR5bWFOTFZTclA3MVR1c1VEWVZtVjZfRWoxRU5jVF9RbWJzMmZrLVp4cDF5MnA1QlBZU1FNT08tYzNwaTRBVGszTjg0dFFXR3d0V3NPWmFXOEQta3JFdXlxaWZGdlpXa3BJRTVFSl9od1VPMGJLdzMzU2EtR2xNWTRsRQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Why is diesel more expensive than regular gas?",
+          "url": "https://www.npr.org/sections/planet-money/2026/10/02/nx-s1-5988075/why-is-diesel-more-expensive-than-regular-gas"
+        },
+        {
+          "name": "DW",
+          "title": "US pressures EU allies to release diesel stockpiles",
+          "url": "https://www.dw.com/en/us-pressures-eu-allies-to-release-diesel-stockpiles/a-79509571?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Russia targets Kyiv infrastructure with drone strikes and aerial campaign",
+      "summary": "Russia conducted drone strikes targeting bridges across the Dnipro River and a Kyiv school as part of its intensified aerial campaign against Ukraine.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Russian airstrikes target bridges across Dnipro River in Kyiv",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSk5TTks5OXBwTG8wMk1WQ0hCaUxRenlXMnBVZlBNVklSZHBDQmg5SmNTRWE5dkFwb1VpM21IUlljMThNTkpveEZlNlJvemhSMDBuOUJRcldyRThMNUoybnE5dW51LThsNW5tODlZWUd0ZlgxcFhTb01ITVRUT05zbVpwaVJ0dnB1VU40cFVLUVlPM2VBMk8zUFpTUXEzVXg1VUdWc1EtY1ZnWlpMWkJJ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "A Russian drone hits a Kyiv school as Moscow presses its aerial campaign against Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRzlNcnBoZzlORFNMa0lXa0RmYmtOellDV0x5Nkc5OUJCdjFrNnBwOTVIY1p1cUc2aHdkLURvUjJSRjQwR1Zzc1NVTVNSRFQxVWZrbWV5clh4M01iQlRxM0RPdDNqdHg2am1CcGRVRHlhMjYxTG1Xc1dtWW5ldXFXeV9lTjdmbk1Od21GOFNYU2k4dGhfRkd6OGQ5b2Q5eEJtc1Jj?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine: Kyiv bridges shut after fatal Russian drone assault",
+          "url": "https://www.dw.com/en/ukraine-kyiv-bridges-shut-after-fatal-russian-drone-assault/a-79510950?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Ethiopia and Eritrea escalate tensions as Tigray conflict risks regional war",
+      "summary": "Ethiopia and Eritrea are escalating diplomatic tensions and military actions, with the AU urging restraint as the renewal of Tigray fighting risks destabilizing the entire region.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Why renewed fighting in Ethiopia's Tigray risks a regional war",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1Vib2ZuYTBsRWNFRnR5SE16MDh0Q1RYUnRtbHBYVnA5blZ1VURmcXNuVkZkUUVnb1JMbjdpcmVaQ0E1NlYxdzczb3c4akIwV2JHcl81UGM3VHk1dHdTUFFOUVhKbzVYWDc3TzNRNEYzbnlkdHlVUEZlaXJsOGt4NzN6TXh4UXRCd0ZBQkpoRlhhbnh0MHNLZ3RYZnBiWmhVblNmbTNIYks?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Ethiopia expels 10 Eritrean diplomats as tensions between neighbors escalate",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVEZfT29rb2N5M0gwUHlKTktwM05iVWxZNUpndXBObkNkeHN1ZVQxWWZENkJpWllCMXNXYmt4Z0NmOUJMOFh6MDF0aUNMX0ZhS1hZaTc3OUZ3Q0I3QW5MVTRtUnA5MmdUWVFRR1BvWS1vMWt4a2JodVMtSkg2VmRCNGFMY3NJRENVRjZMNGZJOA?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Ethiopia: Who could bring the warring sides to the negotiation table?",
+          "url": "https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Taiwan receives first new F-16V fighter jets amid China threat",
+      "summary": "Taiwan's first batch of new F-16V fighter jets arrived to bolster the island's defense capabilities against China.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Taiwan's first new F-16V fighter jets arrive to bolster defences against China",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemotSUFPaElSNFZ4OHRwM2pXYktMUzh3QmJPcVR6QkdvdVJVbENTVVo1cmxUSUxRZnhjZExnWUhYQTlXT25GWTIwTG5OMGItZlRJeV9BejdXZ3h4U0YzZFByVGE2TmtBb2REeGlNVW82OUpvOUREQktUOHFlWkl0bUVXNUZFM1FTNy1OdDgxYjFDY1hxRFhqcVNVT3Q0QmtPUktoeEZscnpYQVFDcGlGUnpjUUt3T3d5Q0wzbzlzeEcwQWFINEtPNkpMbFYtejE4OEE?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Taiwan: first new F-16V fighters arrive amid China threat",
+          "url": "https://www.dw.com/en/taiwan-first-new-f-16v-fighters-arrive-amid-china-threat/a-79510328?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
