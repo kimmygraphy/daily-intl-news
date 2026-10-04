@@ -1,0 +1,316 @@
+{
+  "date": "2026-10-04",
+  "crawled_at": "2026-10-04T22:05:18+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Cornell University faces gang rape allegations, initiates inquiry",
+      "summary": "Cornell University announced investigations into sexual assault allegations involving fraternity members, with the university president pledging to examine the institution's fraternity system and improve student safety measures.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Cornell president says university 'must do better' after frat house rape allegations",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Cornell president vows 'serious look' at fraternities, sororities in wake of rape allegations",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXFPTFhZZ1JDQXowelZUcmd1RmZjMkV3ZHo3VUp2aWQ2SVV2YlNxMGh0NHI3bW8xdExua0x5d0VlN2Rld2FmTERuTUNKQVNZYW8tT2E4dlQyWmF4YXNuc2pqMHJDa1IzdW9KS24ySDgxQV9YLXBqMmMtME01eGtPN1ZZQ3V3VWM2MmVPMmlNd0FsN1ZONms2VExneTJvLVZYRTQ4YV9SYTZOa0J6d0xmaDRjcTE?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Cornell president calls alleged gang rape ‘deeply disturbing,’ pledges greater transparency",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQci0wQnFndVFSczluY2UzVzRheWMxTml6dzQyY282NEE2WTl1T2tkaVZRS0dqeU53aTRINXNEY0lDT3UyZjdCTVVLTjVfblZYbFdXemRDZ2RmYW4xdFcyX3I2VHFZZlRKdFRId2lORzBLZnp3aTNQVEIyX3hpYXV0bUdGUmZUemJXUTdzbm52UG92UHl2M2xZLVAyWkhQdw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Can the Cornell lawsuit force changes that make students safer?",
+          "url": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer"
+        },
+        {
+          "name": "NBC News",
+          "title": "Accused Cornell Fraternity Member Confronted on Camera",
+          "url": "https://www.today.com/video/accused-cornell-fraternity-member-confronted-on-camera-270983237923"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Cornell University to take ‘serious look’ at fraternities after rape allegations",
+          "url": "https://www.theguardian.com/us-news/2026/oct/04/cornell-president-vows-serious-look-at-fraternities-in-wake-of-allegations"
+        },
+        {
+          "name": "The New York Times",
+          "title": "How Cornell Punished Each of the 7 Men Accused of Sexual Assault",
+          "url": "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Russia strikes Kyiv bridge as German chancellor visits Ukraine",
+      "summary": "Russia launched drone attacks on a Kyiv bridge while German Chancellor Merz made a surprise visit to Ukraine in a show of support, with Ukraine vowing to retaliate with strikes on Russian refineries.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+          "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Germany's Merz arrives in Kyiv to the sound of sirens and explosions",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZE5uMWs0WVBmQnlBRXQ4Wk9IdU1jOEthZ0pQU1p4bUVTZzNOUi15YnBUMTVyZUNRaW9wVE5PQjhCbkRzSUZneHVPODY2STRpNV94c3dpNmUyckh3WU1WS1d0Z2lPX2xDOTBHVERPcU5KMElxanNCVDQ0cTFjS3FYZFU0UnAwUmdxSS1ad1d4QjBmQ0IwdHNFMk5aSm83MWFKM2lfZl9RWW5wY1k?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Russian attacks kill 6 in Ukraine and damage Kyiv’s Northern Bridge",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZzZPOENZalJ1U2RlazVCeF9LbnhXdC00MG4tOXhob1pYOFhVbHZVTmk2N2I1aEYtQmFHT1FlVWVwTkFMY3ZBbHNoOXM1M1RHM0FfZmhGUDRfeHFVOEt5NTRJLTlkZkNhSnpRV0JiSXYwaV81T2JVYkYyVF9CQUV5V3N1QjBJRTZ1SzVsOHVFMDByYkpRRVE?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
+          "url": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine"
+        },
+        {
+          "name": "DW",
+          "title": "Germany's Merz visits Kyiv as Russia strikes bridge",
+          "url": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Tens of thousands protest housing crisis across Spain",
+      "summary": "Large-scale protests erupted across Spain over the housing affordability crisis, triggered by the eviction of an elderly woman and widespread concerns about rising housing costs.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Tens of thousands protest across Spain over housing crisis",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGdrTTNEUjRjbXB0cm1ieHZUVUVhcEc4Q2JJWFdpQUlGMU1yNWljVGVPQldoSkx4V0hoTlhtXzlsWHg3XzRIbXRac1FuaFl6YThmZmRxRUd0cW0yNnR5dVQ1UzktdnMxUktCWVBjT2hQYUNhcGlWb0V3eE80UmhJSXRVYVJuMGxuMUx5TGRPLVRNZGlnd0phaWlXSUMwdw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "What to know about Spain's housing protests sparked by the eviction of the 87-year-old Maricarmen",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY05JdHdoeklqeTVqbU9DU0E5a2F2alRla0l0VUZuaXdnOTRESGZBTVhFellpbEdxQjM4QkFQdFd1Rm9hcVg1Y0dBdm13b3BidkQ4dDZWbUwyTnJPMlJMdHJoMzRHdU8zRHJIV3BlTkFaQnNIRmh3TWlmbFhDbnNlY1NHbzl4eUFFOUVrOTJSRElNQ2ZaTGhoNGVmTUxwYVJLZThWeEg5M0NGT1YwdWVRbA?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘This can’t go on’: tens of thousands protest against housing crisis in Spain",
+          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest"
+        },
+        {
+          "name": "DW",
+          "title": "Spain: Massive protests after housing bills voted down",
+          "url": "https://www.dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "FlyDubai co-pilot identified in aircraft attack incident",
+      "summary": "The co-pilot involved in an incident aboard a FlyDubai aircraft was identified, with investigations revealing he had previously been flagged over extremism concerns and had connections to Australia.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Australia investigating Flydubai co-pilot's links to country",
+          "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Like a 'vertical roller coaster': Simulating flight FZ1073's sudden plunge",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQXhPZ2NUM1ZERDVkWWRpSXJFdlAtdFVxZkpXc0NLQmxQU0FXOEpfdWc1Vnp5enY5Q0Mta1dLQmZXa21ocXZST1hTTzdQRm5zWXkxSGRwX09zX2xmQ2ZOQXpoZWZqV2VWS0JyRkdWYWZTOS1sejBYZ09GYTZuTjNFN2E5X2UzLTBVSmZhOWNQQjk5ZDh3b1lWQ0c5X3dmTFFNN0RpMk13cmlVQ3k1ME9Mbk5aVHFlc0FZa2tMa05sTUpBbm43OEZRaW5kVQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Co-pilot in FlyDubai attack is identified, and other Mideast developments",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOazBZenNaeXhSTEp4SXJwdEJFTWU3TkZPN2pHN09fT3gzOG5WeHBmdXpYZ3NKMnI2c1JvWURnY0Z1US1qNVJFeURpV2lWZ3BOWWJZejVXaHVmajJUWk1MMW5jQ0FuU2tHb0E5dE5JbW8tcWQ5dGhJcG9jbU5ud1FXVEhsZDdCbzNQQWdJaVQ4WTU1Tl9MVG9xWi1VY1ZpLUJuSHVmZXVRU3ZmRnhpd1I5LTNJbGlka1k1Qmc?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "New details about co-pilot after Flydubai incident",
+          "url": "https://www.nbcnews.com/nightly-news/video/new-details-about-co-pilot-after-flydubai-incident-270969925791"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Flydubai co-pilot’s time in Australia being investigated by security agencies after alleged cockpit attack",
+          "url": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Brazil presidential election sees Lula and Bolsonaro ally compete",
+      "summary": "Brazil prepared for a significant presidential election pitting incumbent Lula against Trump ally Flávio Bolsonaro, with polls showing a competitive race.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+          "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Lula ahead in polls for Brazil's first-round vote; runoff likely",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcGpPVHNma3VXOWRVUzJlM1FPTE51V2NDYlVjVk0zeERyY0NRZnNBODRpSVVUbDU5OUx5OGY0SE5LMnZsQ21KN0ZyeGJ1WUdmMzBaVGFGcWViMWJydnZkZ2U4c2VTWGNlRmlsdEJEbk1nTUFnQTdPRHhPNWxOQmtDQ1d1YVZvdENra1g5Mjh1N0xGTG1HWDU2Z1RDdjhiLVJZZU5LSTJUWm8zWlhveDIyNC1tRkxHR0xuV29tTQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Brazil presidential vote pits Trump ally against Lula, who is seeking a 4th nonconsecutive term",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Brazil goes to polls in decisive election for future of Latin America",
+          "url": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro"
+        },
+        {
+          "name": "DW",
+          "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
+          "url": "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Trump posts Arkansas senator's phone number in daylight saving feud",
+      "summary": "Former President Trump publicly posted Senator Tom Cotton's cell phone number on social media during a dispute over a daylight saving time bill.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Trump shares Republican senator's phone number in feud over time switch",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOG5fMmFCNGZWV1djeWt5OXluem9lNTh6bjdxcV9lcFV5RklqdDFpQjVReUF0MWxTY3FubzNKQnJPNmlyZHhmWUlsT2J2enRJTWpacG1NQUxNdUJ3TmZXbTBrR2FfMkk1bHZDRVdRc2pEUWx0cEdOVkR4a1FhbFRGb29Zd1pROHMxekx0Um1QbF8zUU9vc1lyM096eXVtanpYS2RGOFhIaFdUU01PcDJEcU93?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump posts cell phone number of Arkansas Sen. Tom Cotton in fight over daylight saving time",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQckZSXzNaNjdtaXNvU0RwSTkzZWROM3FQRVg3aG1HZHlhM0RpLVo0LUFDd3lNSUtIZnRkN0RoRGVOaTNVcmc5ajE5LXRBWk05eU5HYWNmUnZGU0ZHZ3VnTkhRR0NKWmx5QWE3UjBkWUw0N0VpTTZnbC1YeGstOHp2Sm1vcndOS2xlNEVFb2piSUEwdW1BRjFlNVNNMWJwUUtqeEZLcFM0bVZFWlE?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump appears to post Sen. Tom Cotton’s cell number over stalled daylight saving bill",
+          "url": "https://www.nbcnews.com/politics/donald-trump/tom-cotton-cell-number-post-daylight-savings-time-permanent-rcna601293"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Here’s Senator Cotton’s Cell Number, Trump Says, in Dispute Over Daylight Saving Bill",
+          "url": "https://www.nytimes.com/2026/10/03/us/trump-tom-cotton-cellphone-number.html"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Coast Guard finds debris from missing medical evacuation aircraft",
+      "summary": "The US Coast Guard discovered debris from a missing medical evacuation flight carrying six people that disappeared en route to Boston over the Atlantic Ocean.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "US Coast Guard finds debris from missing medical aircraft off Nantucket",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYUJEZG5keXN3QnVfZldOaUpOa1ZWMnctbU9lWi1mV1BiSWRYY016Rk1FbnF2VU90ZDJVNVJiSEdleFoxanNyTkZTaXJqZFBFNktXM2o4UHZGMmtwX2lieEo5YzdCbjhCVVFHNENDYkllQ3FrNHhuUEg5Vmdxdk5meGJhM0pYRE5OMG1aS3dyQ0hCemx4RE5hdWdhbDJ6VVZkcmYyWVJVSWZYWm9vbHdFR0d3?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Crews find 'debris field' from 6-person medical flight missing over the Atlantic en route to Boston",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcG1SbjEycTFWdWc1cFlQSjVJTEppQXQ2THZ1RExQMjNwMGM5Q2xzQ0lPNF9wWldLVTdFTERaUEcwRFlqVkVUbVYzMEtMZWJWTXpORUdRU0tEQ24yaTU4YzVBUldMY293R3FWOG5HQ0p3UEMyNlFIaTNrMnFxT0tpbUpRQ1VWTk1xRXdBRy1xR2h0TTFMNm9rOUgwRGFBdw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Coast Guard finds debris from medical plane carrying 6 people",
+          "url": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts"
+        },
+        {
+          "name": "NBC News",
+          "title": "Urgent race to find missing medical evacuation jet",
+          "url": "https://www.nbcnews.com/nightly-news/video/urgent-race-to-find-missing-medical-evacuation-jet-270969413927"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Verstappen wins rain-delayed Bahrain Grand Prix in Malaysia",
+      "summary": "Max Verstappen won a chaotic, rain-delayed Formula 1 Bahrain Grand Prix held in Malaysia after severe weather caused significant delays and unusual racing conditions.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Verstappen wins Bahrain GP in Malaysia after long delays",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Verstappen wins chaotic rain-delayed Bahrain Grand Prix in Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkpFcGd1R0xzTFVDb3pCRUlfYUw2VDN3SXZzeVJ1QzV6WFFnV2hHSG4yVzE4dHN3cDlLMnJwV3dmekNNWnBIbmZaOHI4N01mTVp1NWlXakdvclN5Y054alMtel9uUzNSdkVVU1BrOXIzTm1YTWttR3E0aS1lMzlYQVliUU1xVFE5R3g2aUhEV1ZsUWNacTlWdkNDbGI0Y2VCaGJVXzhpWnFNNzZI?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Max Verstappen wins chaotic F1 Bahrain GP in Malaysia after rain causes farcical scenes",
+          "url": "https://www.theguardian.com/sport/2026/oct/04/max-verstappen-wins-chaotic-f1-bahrain-gp-in-malaysia-after-rain-causes-farcical-scenes"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Ethiopia's government forces retake Tigray capital from rebels",
+      "summary": "Ethiopian federal government forces recaptured the capital of the Tigray region and its airport from Tigrayan rebel forces.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Government forces seize capital of Ethiopia's Tigray region from rebels",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXVqai1NbFo5LVhWcnM3RElRUWVwa21sQ3p6dVhFXzBwQVBtN3BGR09DOGZhaXV5Z09BQ0RXN0JfODgtS2VoeUVqV3I0OFd3cVFjMzNLSGV3QnBidDY4eTVIUzc4YThTalE0b3JNRndHbHhQdW43S3MxN25NOWRnckZKUDU2MGl3V1YtZUVaRG5IMF9PUTVWMVM3NUptZGdkaUlYSDdLcTQxMlVxMWlkcg?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Ethiopian federal forces retake Mekelle airport from Tigrayan fighters, residents say",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZkctc2U3eU5ad2dXTEctRnN5VHFTVllRWE42VW1hQ1RsR2pMZklScnI2R3dBd0hvUllFeFdTbU9zckQ4MnBCeFZleTVOekNuX3l2eHl1Sy1BYnJBV0hvVnlQaGk0UEdYM05zcWRsZ2hrNmpHQUYtVlJXTHlreXBPRS1PVzlGMnVWMjZhMVY4cTFuWVFHLVFGdHVjR3RaRVA4UjJ2S004TS1yS2R4NlRycWZ3?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
+          "url": "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "OpenAI safety leader quits, warns company culture is broken",
+      "summary": "A safety employee at OpenAI resigned, stating the company's culture is problematic and warning that the era of trial-and-error in AI development must end.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "OpenAI safety employee quits, says 'time for trial and error is over'",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
+        },
+        {
+          "name": "DW",
+          "title": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
+          "url": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
