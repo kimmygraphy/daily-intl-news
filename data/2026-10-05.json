@@ -1,0 +1,264 @@
+{
+  "date": "2026-10-05",
+  "crawled_at": "2026-10-05T22:05:20+09:00",
+  "feeds": [
+    "BBC",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Brazil's presidential race heads to runoff between Lula and Bolsonaro",
+      "summary": "Brazil's election goes to a second round with incumbent Lula facing Flávio Bolsonaro after neither secured enough votes in the first round.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: How Brazil's dramatic election unfolded",
+          "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR",
+          "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
+          "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Brazil’s presidential race goes to second round as Flávio Bolsonaro leads incumbent Lula",
+          "url": "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro"
+        },
+        {
+          "name": "DW",
+          "title": "Brazil election: Bolsonaro and Lula head to runoff",
+          "url": "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "In a Major Boost for the Right, Another Bolsonaro Nears Brazil’s Presidency",
+          "url": "https://www.nytimes.com/2026/10/05/world/americas/balsanaro-lula-brazil-presidency-trump.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Nobel Prize awarded for discoveries in neuroscience and brain activity",
+      "summary": "Three scientists received the Nobel Prize in Physiology or Medicine for research revealing how the brain processes information and activity.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Nobel Prize awarded for revealing inner workings of the brain",
+          "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR",
+          "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+          "url": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Nobel prize in medicine 2026 awarded for research into mysteries of brain",
+          "url": "https://www.theguardian.com/science/2026/oct/05/nobel-prize-medicine-2026-winner"
+        },
+        {
+          "name": "DW",
+          "title": "German and US scientists win Nobel Prize in medicine for research on brain activity",
+          "url": "https://www.dw.com/en/german-and-us-scientists-win-nobel-prize-in-medicine-for-research-on-brain-activity/a-79544130?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Nobel Prize in Physiology or Medicine Is Awarded for Discoveries in Neuroscience",
+          "url": "https://www.nytimes.com/2026/10/05/health/nobel-prize-medicine-physiology.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Spain's PM Sánchez calls snap election amid housing crisis and protests",
+      "summary": "Spanish Prime Minister Pedro Sánchez announced early elections after widespread housing protests and policy setbacks.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Spanish PM Sánchez calls early election after housing protests",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR",
+          "title": "Spain's prime minister calls early elections as pressure mounts over housing crisis",
+          "url": "https://www.npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Spain’s PM Pedro Sánchez calls snap election after housing law fails to pass",
+          "url": "https://www.theguardian.com/world/2026/oct/05/spain-prime-minister-pedro-sanchez-snap-election-housing-crisis"
+        },
+        {
+          "name": "DW",
+          "title": "Spanish Prime Minister Pedro Sanchez calls snap election",
+          "url": "https://www.dw.com/en/spanish-prime-minister-pedro-sanchez-calls-snap-election/a-79542826?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Housing, Corruption and a Migrant Surge: Why Spain Is Holding an Early Election",
+          "url": "https://www.nytimes.com/2026/10/05/world/europe/spain-elections-housing-migrants-corruption.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "US withdraws bombers from RAF Fairford airbase in UK after threats",
+      "summary": "The United States relocated B-52 bombers from the British RAF Fairford base following security threats.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
+          "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NBC News",
+          "title": "U.S. bombers scrambled out of U.K. airbase after threats",
+          "url": "https://www.nbcnews.com/nightly-news/video/u-s-bombers-scrambled-out-of-u-k-airbase-after-threats-270990917890"
+        },
+        {
+          "name": "DW",
+          "title": "US pulls bombers out of UK's Fairford airbase after arrests",
+          "url": "https://www.dw.com/en/us-pulls-bombers-out-of-uk-s-fairford-airbase-after-arrests/a-79541731?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
+          "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Prince Andrew launches legal action against police over Epstein raids",
+      "summary": "Prince Andrew filed legal action to challenge search warrants that led to police searches of his residences.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Andrew takes legal action over search warrants before his arrest",
+          "url": "https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR",
+          "title": "Former Prince Andrew files legal action to quash warrants that led to residence searches",
+          "url": "https://www.npr.org/2026/10/05/g-s1-146396/former-prince-andrew-legal-action"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Andrew Mountbatten-Windsor launches legal action against police over Epstein raids",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/05/andrew-mountbatten-windsor-court-action-police-epstein-raids"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Russian lab worker dies of suspected plague in Siberia",
+      "summary": "A researcher at a Russian laboratory died after potential exposure to pneumonic plague, prompting quarantine measures.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "NBC News",
+          "title": "Researcher at Russian Lab Dies After Potential Plague Exposure",
+          "url": "https://www.today.com/video/researcher-at-russian-lab-dies-after-potential-plague-exposure-271010885542"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Lab worker ‘possibly’ dies of plague in Siberia, prompting quarantine measures",
+          "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk"
+        },
+        {
+          "name": "DW",
+          "title": "Suspected pneumonic plague in Siberia: What we know about the disease",
+          "url": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Yemen's Saudi-backed government launches military operation against Houthis",
+      "summary": "Saudi-backed Yemeni forces initiated a major military offensive to retake Houthi-held territory along the Red Sea coast.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory",
+          "url": "https://www.theguardian.com/world/2026/oct/05/saudi-backed-yemen-government-military-drive-retake-houthi-territory"
+        },
+        {
+          "name": "DW",
+          "title": "Yemen launches major military operation against Houthis",
+          "url": "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Saudi and Yemeni Forces Attack Houthis to Retake Control of Red Sea Coast",
+          "url": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-yemen-houthis-bab-al-mandab-strait.html"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "FlyDubai co-pilot planned to crash plane into Tel Aviv airport",
+      "summary": "Investigations revealed that a FlyDubai co-pilot intended to crash the aircraft into Tel Aviv airport or a building.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+          "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR",
+          "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, ongoing investigation finds",
+          "url": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "FBI arrests woman accused of spying on Taiwan leader's family for China",
+      "summary": "The FBI arrested a woman for allegedly conducting espionage on Taiwan's leader's family on behalf of China.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "NPR",
+          "title": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
+          "url": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china"
+        },
+        {
+          "name": "DW",
+          "title": "US: FBI arrests woman accused of spying for China",
+          "url": "https://www.dw.com/en/us-fbi-arrests-woman-accused-of-spying-for-china/a-79541849?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Supreme Court begins major term with climate case against energy companies",
+      "summary": "The Supreme Court commenced its new term with a significant climate lawsuit seeking to hold energy companies liable.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "NBC News",
+          "title": "Supreme Court term begins with climate case seeking to hold energy companies liable",
+          "url": "https://www.nbcnews.com/politics/supreme-court/new-supreme-court-term-begins-climate-change-case-seeking-hold-energy-rcna600247"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Supreme Court to Hear Major Environmental Lawsuit",
+          "url": "https://www.nytimes.com/2026/10/05/us/politics/supreme-court-climate-change-oil.html"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
