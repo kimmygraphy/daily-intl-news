@@ -1,0 +1,306 @@
+{
+  "date": "2026-10-06",
+  "crawled_at": "2026-10-06T22:05:21+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Nobel Prize in Physics awarded for neutrino research",
+      "summary": "Francis Halzen won the Nobel Prize in Physics for his work on high-energy neutrinos and ghost particles detected from space.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "'Ghost particles' from space telescope wins physics Nobel",
+          "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Francis Halzen wins Nobel Physics Prize for Antarctic 'ghost particle' hunt",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0hVTTdSN0xhUUhTTVlvRE5ndVE5eE5jUF9rek9ldjVvendOOVNBWnkzNVFueEEwdUxBeS1TX19SeklDYWVURWZ5QW9ZWnVhdXZQNGRJMC1HMWFDY3owd0Z0bmFSUl9OcDlXdGdmQTJ0WlZpQVZrYTdQZmRBTDV0Ymw5MEVfRDE1NVlxVW9xQ0V0UQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Belgian-born scientist wins Nobel in physics for work on mysterious ghost particles called neutrinos",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmJnQWlBaEFuZTZWYXBFREx3WHdNaGk4b3FpRTFuc0Y3TmxfTXBaMl9GV0tTQVVHMkxwVlBwZm15WnBubnhEdUphVlc4cTVGUndzQVctUEVTWUNJTzE3VEhwdEtBZEtGVHl0YTlUOGItOVRhQWw4cjNQVFJkVGVRYlVsYWNZbFR0Rl9qcXgwYw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
+          "url": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Nobel prize in physics goes to Francis Halzen for south pole work on neutrinos",
+          "url": "https://www.theguardian.com/science/2026/oct/06/nobel-prize-in-physics-francis-halzen-south-pole-neutrinos-icecube-detector"
+        },
+        {
+          "name": "DW",
+          "title": "Nobel Physics Prize goes to Francis Halzen for neutrino work",
+          "url": "https://www.dw.com/en/nobel-physics-prize-goes-to-francis-halzen-for-neutrino-work/a-79561506?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Nobel Prize in Physics Is Awarded to Francis Halzen for Work on Neutrinos",
+          "url": "https://www.nytimes.com/2026/10/06/science/nobel-prize-physics.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "German former spy chief arrested for espionage and treason",
+      "summary": "A former German intelligence chief was arrested on suspicion of trading state secrets and committing treason.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Former German spy chief arrested for espionage and treason",
+          "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Former German spy chief arrested on suspicion of attempted treason, obtaining state secrets",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObU8wUVdxRFgxQzZyTGZXbHhIOEhBTHAzR2luYTFzZDkyXzhLV21OZHhtYWFFd1c4TDFTZzFURFc1SzRPRFA2NlJaYm1VbFFNMU4yT2t1NHRBYW8zZmFXVW52clZJbWJVeVZfVHlfYVk4N2hRUnRxcHN3SFhFSHBPOHBIaVRGRkdaZWd2QnpNQ21QSU0tV3FhQlg1Z2tzZzM5MTRWazcwS211bTJrM3k0N0M3MkJLNmFZczE2RkhkaVkxOEhP?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSE1QSWgzLVNrRy1fbFdqc0FwdkctYmcyZ2UxcmxxdWdyRENwM3VKSFpqbnpxVUdpcHJISDlpVV96eDdSV3pyZ0UzZUtRZzR1UEhIQlNhaDdjRVVNWUJrN3dyRDAyMTZjcl9rbWx2QW54ZkV4V1lRNXU5bFJURmlhTG42RkxHODJPWmpOWi1hOWVMVDY1N1phMVJrZWtUSDNOcS0zWWdvZlBBNU1YOFNwWmdYaGMzcFg4ODd2c1dB?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason",
+          "url": "https://www.npr.org/2026/10/06/g-s1-146630/germany-ex-spy-chief-state-secrets"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Germany arrests former intelligence chief over alleged spying",
+          "url": "https://www.theguardian.com/world/2026/oct/06/germany-august-hanning-bnd-arrest-former-domestic-intelligence-chief"
+        },
+        {
+          "name": "The New York Times",
+          "title": "German Officials Arrest Former Spy Chief on Espionage Charges",
+          "url": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-hanning-arrested-espionage.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Major protests in France over education and government policies",
+      "summary": "Tens of thousands of students and teachers protested across France in one of the largest demonstrations against government policies.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: At the scene of student protests on the streets of Lille",
+          "url": "https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Students and teachers march in France on biggest day of high school protests",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmtvTm9vbkpQcVdlWl9Lall5TlIyS1g2aWpJSEh3Z0hKbzdOYmZkRUlNWVRHMkZsOFNaMkwyNjhpVEtfQW9vUjhnTV93VlRGOXVnOUg1M0loSmk1bzF2dFJldExORU9tYTdabmQtTWNMOHkxbWhLZUR4bElDYUp5bWN2RmV2bVhVYVB3WW1KLXJaRVREdVQ1WXpuMUJtUXFk?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Schools blockaded as tens of thousands of protesters take to streets in France",
+          "url": "https://www.theguardian.com/world/2026/oct/06/protests-schools-blockade-streets-france"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France",
+          "url": "https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Trump suggests Iran could attack Los Angeles and San Diego",
+      "summary": "Trump made comments suggesting Iran could 'take out' Los Angeles or San Diego, prompting backlash from California officials.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "California leaders hit back after Trump says Iran can 'take out' LA and San Diego",
+          "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "California officials blast Trump's comment to let Iran 'take out' Los Angeles and San Diego",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTY3RjZOMDVYS2VsdWNRS0ZWR0FoRTU1V1MtQk8wLWdEMmdvTXYwVUxORXFpQXNFM25wbU9uVFFKNnhMSmlYUkFEQ0xhNnNKMk5hTjZURGhtV3piTlhieVVhb3h4N3hCYmtTQUVZZUh5dkhPaERqT0hFWXdPQl8wYVNfemd6VkZqSXVEVHQ0Q2NzWWpQUlVjVUhpdHhDWnZUMWl4RUZKTVplVWp6c3prRDhGZw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Trump suggests he would let Iran ‘take out’ Los Angeles or San Diego",
+          "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-suggests-let-iran-take-out-los-angeles-san-diego"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
+          "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Ship sunk by drone attack in Black Sea with crew missing",
+      "summary": "A commercial vessel was sunk in the Black Sea following a drone attack, with crew members reported missing.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Ship sinks and crew missing after Black Sea drone attack",
+          "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Crew missing after drone sinks ship in Bulgaria's Black Sea",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckYybnBiUEo2ZDZpQ0hkTUlXUkE3ei11ZkJpODRKdTRBa19NVVNDdDFnQjMwbzJIb1ZndFZfMW9CNVpuNFFNNTlhYUxqcFFoYzY4LWtIMVBLR2ZsR0hWWG5VREZ3TjFtd29xWFhkUlhEdEk5UFl0WHpxQlVybWh5WV9KdGdJSnVZa0V4RHJITXlaQUxQZE8xZG9GWU4tSG9Mamc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Bulgarian PM says drone attack on 2 commercial vessels is 'blatant violation of international law'",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaU5DemRLSkhTVjNkckR2UjdISjRuV05vRjh3OHNUOWhTOUpQeDluSnl4QktrUHlad0VBakVfNjUzSHhnUXZvYXd4N1dydU96anliOERsckxiVWJVRXEtZXVyWGhtOEdDczl4VW41YndjczVKM0l0RnY1dGFkLTFETW4tZXhTT1R3UXI4dFVtVkd4dVltNlNiREdVRlVmSWxyVnMxYlI3enZqWHpIQVFZ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine says Russian drones behind Turkish ship sinking",
+          "url": "https://www.dw.com/en/ukraine-says-russian-drones-behind-turkish-ship-sinking/a-79552387?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Kenya confirms first Ebola case imported from Congo",
+      "summary": "Kenya reported its first Ebola case, a patient who had been infected in Congo and died in Nairobi.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Kenya confirms first Ebola case imported from Congo",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWlJLbDdiRHg5YS1UZEJ1anM5UjA4S25hS0hNSnRWNHNvb2xnaGVxYkpBVWhSVC1Pdm9vZ3ltbzJsY2RwV0xYSjQ3TGRhT3hOSkxLTElLSUxqV3QxOHpzOVJPNlhyWFIwYzI4RnlkODBWU0hZR3BWMmhNdkpfZGxYVzN0Z05RcUhnYTFQdldFTFV4SzhYaTk3UDBYY1hkdHJLRHIta1JYc2g1NVhzbkxENU9SZ3RJaDVLWFh4cklWYXhLa1l1SmdtdUxCc2pKQlhz?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Kenya confirms first Ebola case imported from Congo after patient dies in Nairobi",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSDRYelBzeG91azU1X0ZuQjZvdzFBcmEwdTRhWFVZVWdPZ3NyWEVvNXVaX2duTXZmUE41X3hKNEEyMHQtS2xsZnNfNHRLRXlaUlF5aXAyQmVkeURJODBRbmRieWxyMTU0QWxjUTF1clRKQlRibFJPdjZBM0E4U012eHEwOWdiYkZnbnFDWmtUM1RIM2lfdkE?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+          "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc"
+        },
+        {
+          "name": "DW",
+          "title": "Kenya reports first-ever Ebola death",
+          "url": "https://www.dw.com/en/kenya-reports-first-ever-ebola-death/a-79563120?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Russian plague lab worker dies under mysterious circumstances",
+      "summary": "A worker at a Siberian plague research institute died from pneumonia of unknown origin, raising international concerns.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "US 'watching closely' after plague researcher dies in Russia",
+          "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Rubio tells Russia to share more information about plague death",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR0lSVkhkNW9MdjZfdW5FaTNyS3FDSENqYTJ4enhYWDlNWWJwTFhfQlYwNFVHNHRsQ0lXUV9LYWV2emhucTJpMHFMakJKcXJjNU1DOHM3YnpmNDFiR0xDelc0cVk1ODRpUnZXSjBVOVRnNGxmNklIMXFHR0JLTm1oX2dlVXlrTDl2WUFMUTVDSEhNY1BHY29sYlVQUmlINjkweVFvaUk0QThhNlJuQUE?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Russia reports a worker at a Siberian plague institute got pneumonia from an unknown cause and died",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUVxck1SdlF6ZTlSV0ZpLWdmR3g5WTAtX2tqR3FieHVXdnBILWhYUTNTblU1bjkxbXdEc3lNYlN5d3AtdVR1NjVDRmIyRmt6dWEwQ1dLWjZnVDYwZTZIZkVyT2FCMWlwOUJ0M3VNVF93RHYwZ2tzMDdzd0pkbmg2dnFrc1RzMmFEbi12YWhuVk1pNXhEZkh1TWozaGZHS2c1ZjNBSQ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Fact check: Misleading claims spark plague fears in Russia",
+          "url": "https://www.dw.com/en/fact-check-misleading-claims-spark-plague-fears-in-russia/a-79560752?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Paramount completes merger with Warner Bros. Discovery",
+      "summary": "Paramount and Warner Bros. completed their merger deal in a major Hollywood consolidation.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+          "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR",
+          "title": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
+          "url": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Paramount Closes Its Deal for Warner Bros. Discovery",
+          "url": "https://www.nytimes.com/2026/10/06/business/media/paramount-warner-bros-discovery-skydance.html"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Jim Bakker, televangelist fallen to scandal, dies at 86",
+      "summary": "Jim Bakker, the televangelist whose PTL Club ministry collapsed amid sex and financial scandals, died at age 86.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Jim Bakker, who lost his ‘PTL Club’ televangelism empire in sex and money scandals, dies at 86",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1g2aXZOaEtqOVFnZTN0akZLbUpSSGVzS1FzWTlnTnJEZlVCMUt6cF83VU80RkEwa3ZyMHJwaE8xYm1MWURIN0MzdW90Y0k1dW1XNHVmZW44OEVQU0wwUFlhNkdQSU9NdHdIbUduUXVBUFZKSE9hOVBuLUZERE5vVlZoYXVnY1FUR3lBRmZTUXJPeEJfM1JxczA1WTI1U1E?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Jim Bakker, Controversial Televangelist, Dies at 86",
+          "url": "https://www.today.com/video/jim-bakker-televangelist-mired-in-scandal-dies-at-86-271104581853"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86",
+          "url": "https://www.nytimes.com/2026/10/05/us/jim-bakker-dead.html"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Cornell faculty express no confidence in university leadership",
+      "summary": "Cornell faculty members introduced votes of no confidence against university administrators over handling of sexual assault cases.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "A crowd of students protest Cornell’s response to gang rape complaint",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTERaX2dFS1lBNmdENkozTU05UTVKTGx1U3ZubWppbDBuSzEyckJ4NHV2OWNMU2NuMktNNGh3enpBRkptU1lLbFlXZTJZWTd3elVxcnljazFWSm9XeUNIVm13cElYRzExTlNLZlZGdmFYeTlRWndaWnQtcUl6dmxTSGY3UnRuZ1lVT3c2NW50WkF1dlIzdXhSWmQ5WFRNQQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Cornell Faculty Plan Vote of No Confidence Against Administrators",
+          "url": "https://www.today.com/video/accused-cornell-students-allegedly-tried-to-coordinate-responses-271105093584"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Cornell Case Highlights Drop in Resolved Sexual Assault Cases Under Trump",
+          "url": "https://www.nytimes.com/2026/10/06/us/politics/trump-cornell.html"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
