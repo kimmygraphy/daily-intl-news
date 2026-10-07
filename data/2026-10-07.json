@@ -1,0 +1,311 @@
+{
+  "date": "2026-10-07",
+  "crawled_at": "2026-10-07T22:05:20+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Nobel Prize in Chemistry awarded for mirror-image molecules research",
+      "summary": "Henri B. Kagan and Kenso Soai won the Nobel Prize in Chemistry for their work on understanding the asymmetry of life's molecules.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Nobel chemistry prize goes to pair who solved mystery of 'mirror image' molecules",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWHBIX2xmcllqcXMxOGEzOGJjMGhKT08wX2h1YkdmLXpOcXZobkVxal90dkpYMmFiQXRQRS13VWtJbE1rVklCOXljNzhUUW93bE9DMWo1YUl5OTllcFM4cHBFUnJlQXd4bURGMi1xTVFWam5UZnBCeVMza2wyVkZ5QXY1YzJhZkV2ZWpv?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Nobel Prize in chemistry awarded to Kagan and Soai for untangling mirror images in molecules",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRUtiNVNxS0NHT3VOdUNUdHZkY0w1WmZJVGZyTm5Wa0l5bzZSV3JueXFXT0oxMG1BRTRxMS1LSVg3QUVFLXJDV2RYV0JUTVh1bVZiRGZWaWtZWERQUjFZMVV2bWs0d2dJMlk4TGVUMHdpbnJ3UXpGREVBX29ENGw4bGF2ZXBfQnlQQk9qOEFCNnZaUQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
+          "url": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Nobel prize in chemistry awarded for work on mirror-image molecules",
+          "url": "https://www.theguardian.com/science/2026/oct/07/nobel-prize-chemistry-awarded-work-on-mirror-image-molecules"
+        },
+        {
+          "name": "DW",
+          "title": "Nobel Prize in Chemistry goes to Henri B. Kagan and Kenso Soai",
+          "url": "https://www.dw.com/en/nobel-prize-in-chemistry-goes-to-henri-b-kagan-and-kenso-soai/a-79573924?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Nobel Prize in Chemistry Is Awarded to Henri Kagan and Kenso Soai",
+          "url": "https://www.nytimes.com/2026/10/07/science/nobel-prize-chemistry.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Christa Pike conscious and speaking after failed Tennessee execution",
+      "summary": "Death row inmate Christa Pike survived two lethal injection attempts and is now conscious and communicating with her attorneys.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "How did Christa Pike survive two lethal injections - and what happens now?",
+          "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Christa Pike is conscious and speaking after Tennessee failed execution, her attorneys say",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlVhZDM5eFc4bnVrTjVEUGp1RWdYU2RuM3pNOFdQUWtFczMxVmRuSUZSVE00aUZrRjdKOFdqM0pBRTJYLTJVVjRHQ1cwenI0ZVNZRUZZenYzako5a2VDMHBLSUJ5NzZoVXpyRXFGMzhBTUZRRXZKei1MVWc2WXlIcW5XdU8waDQ4aGcwZmIwd1F1ZXRKLUcw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Christa Pike now conscious and speaking following failed execution",
+          "url": "https://www.nbcnews.com/video/christa-pike-now-conscious-and-speaking-following-failed-execution-271141957785"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Christa Pike is conscious and speaking after botched execution attempt, lawyers say",
+          "url": "https://www.theguardian.com/us-news/2026/oct/06/christa-pike-execution-awake"
+        },
+        {
+          "name": "DW",
+          "title": "Christa Pike awake after failed Tennessee execution: lawyers",
+          "url": "https://www.dw.com/en/christa-pike-awake-after-failed-tennessee-execution-lawyers/a-79569867?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Christa Pike Regains Consciousness After Failed Execution in Tennessee",
+          "url": "https://www.nytimes.com/2026/10/06/us/christa-pike-condition.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Israel marks third anniversary of October 7 Hamas attacks",
+      "summary": "Israel commemorated the third anniversary of the October 7 Hamas-led attacks with memorials and remembrances as survivors grapple with trauma and rebuilding.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+          "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Israelis mark three years since October 7 as Palestinians mourn Gaza's destruction",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVEc3R0oyN1N1QkF0Q09Zb1hfWURTdDRRSnFvaVNlQU42cXJCNEhNNXdLOW11NTRsVi1VVlJKV0NSTm1CMVg3c3RMQ3pHcEV3VGpCNGF1UHBobHVhYkFQY0pNS2NvMXBQMWxSTEVhQTF6a01jRzBpXzFKajQ2NWxIZm5BdGQ4azhfYnBwVnh1enVzc04xeElNSTZFMHcyNmlfUElEM2s3RVFRXzFScUcyNUlfbFVrSjA5LVNjMlhQZzVBUQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks",
+          "url": "https://www.npr.org/2026/10/07/g-s1-146776/israel-gaza-oct-7-attack-netanyahu-warning"
+        },
+        {
+          "name": "NBC News",
+          "title": "Israel Marks Three Years Since Oct. 7 Attacks With Remembrances",
+          "url": "https://www.today.com/video/israel-marks-three-years-since-oct-7-attacks-with-remembrances-271173189717"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘All I want to do is cry’: trauma of 7 October survivors three years after the attacks",
+          "url": "https://www.theguardian.com/world/2026/oct/06/trauma-of-7-october-israel-survivors-three-years-hamas-after-attacks"
+        },
+        {
+          "name": "DW",
+          "title": "Israel marks third anniversary of October 7 Hamas terror attacks with memorials",
+          "url": "https://www.dw.com/en/israel-marks-third-anniversary-of-october-7-hamas-terror-attacks-with-memorials/a-79571380?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Russia reports suspected pneumonic plague death at Siberian laboratory",
+      "summary": "Russia confirmed the death of a plague institute worker, with Trump planning to discuss the case with Putin amid international health concerns.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Russia says it properly informed WHO of plague institute worker's death, blasts media coverage",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZjdYWlVHd0loV2ppTV8yblVkRTVOd2VTYXRlUGM5Qm5jQXZTaVVxUkhXblRPaWJBUTk4YzFobTR0OEtvaWlNcWVyS1BNSTViaGYtSWdNVEM0MEI4ZlJ6SkNMd3NMbm5PSmtfU0tOLWpyemxtRl9lSXlCLUppeTJWTmdhc1hlUkwzUEs5MTh0dF84ak1pbThMcnFnUS1oSGZvemxiTm5pSG0tRzJqZElLQk85WkgybnJhV2EtV0FKeW1ZS1B5cG14YXFudmxzNXJEOWdURy1vMWo3UG40Z1g3cDZhZ3UwZGs?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "How Russia and the world are responding to a possible case of pneumonic plague after lab worker dies",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHd5LXpXdGhUNXZhbEdVWVhSa2FtSUp6Zk5Yekk4UEtlQ3FmOFk4SGh3RmZkSHJmbGJpNXFlMWRTZmd1Q0dlZXo4NGxyTzYxNVk3TEZQOGpwVWE1YlFCcmNFNU5EZE41LUQ4dGh6UXB6S2MxSmhLSTVHTFh1dkpFV2R4azFfZTlpMUFwa3Q3RGZ3alRfMVE?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "U.S. monitors suspected Russian plague case as Trump plans call with Putin",
+          "url": "https://www.nbcnews.com/politics/donald-trump/says-call-scheduled-putin-possible-pneumonic-plague-case-russia-rcna601978"
+        },
+        {
+          "name": "DW",
+          "title": "Suspected pneumonic plague in Siberia: What we know about the disease",
+          "url": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Russia launches major strikes on Ukrainian cities killing dozens",
+      "summary": "Russia conducted large-scale military strikes on Ukrainian cities including Kyiv, killing at least 20-21 people in what Ukraine said was a predictable attack.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 20",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Russia kills 11 in one of its biggest strikes on Ukraine, Zelenskiy says",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWmhLUUVKSm9zZnZNQjhTOHVBVTFBaGVQb2JSZHZLcjd1VE04eFpSaXFuYkNUVlRtMlBNWFlaZmRNeGQtenJuWkZxOTk3TFIwbkRzcEppQmdFcGxqblFZcjdmWmw5cVhxSFFYaFlKVFNhOXlvalU2cm5sUVdIVVoxcDRKX051SlFDcFY3Z1ktV3cwbFRuTGM0R0VaRkN6NDY0RWd2NzBEaW5CYzloT1JUZQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Russian strikes on Ukrainian cities kill at least 21 in a major attack that Kyiv saw coming",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdm1KQ2ZLdTNrZ2FXVlpWRW8xV29SZ2dhcElNXzlDQkdGSnZ6RU05VThHSFhuVmtBUkRTeUdZazFDSXFUYUhQdDdON2Q3bE1DNFFSeDRUQUp4OGNzYkRHczNQOVkyQzVyVndNOUJmdGxCLUJjdjBNR01Jb2Fnc3FJSXIzeTctcnprakRZcmxFN0xJTXNN?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Ukraine says Russia bombed apartment block as birthday gift for Putin",
+          "url": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Republican candidates distance themselves from Trump ahead of midterms",
+      "summary": "Multiple Republican candidates in competitive races are seeking distance from Trump while he attempts to influence key midterm elections nationwide.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "The Republican candidates walking a Trump tightrope",
+          "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Most Republicans in tight midterm distance themselves from Trump, Reuters review finds",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWpHUU05ZlNYUVZhUDRvOEtsU2tKOWJWLWM4OUZFWm1PRkJDZDJCZzBIenFyenhDT3o2T1c0QzhJRG4xS2xQTUMxX0VyZVZoSm92ZG8wdGlKdjRmeTI3SldqeHgxM3FabHRZMHI1SXA2dUsySGtza0dWNllWT21ZeVdPWEwwaHdoeUowSEJ2dWdqakxFTDNiQ1dUNkZhT0xyRThrZTM2Z0lmM1JKa2xManNhLUphOVlOOUJ0eVJzdw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Republicans to spend $5 million in South Carolina Senate race as Trump plans trip there",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc2tJNWppNkVSZmxOM3JwNVRYXzJvVm9vSUxpbUl6eUpNYURkQ3NNODdCTWNHOGpiNlFrYTloQ2V5dFBkYl96MXlDZzZUTm1ENkZibDNIZ0FvMGtpY1pydmNtRDM5cjJSdVI0dTFEZFNkdGxXcDFPRkZxWDNYSVI4WFZlUVlrX0tQTVdMdnlWTGthRWFyZmdNUlJiMmEtNEU4YjQwUw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Republican John James seeks some distance from Trump in Michigan governor debate",
+          "url": "https://www.nbcnews.com/politics/2026-election/republican-john-james-distance-trump-michigan-governor-debate-rcna601820"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "France suspends stun grenade use after protester loses hand",
+      "summary": "French police suspended the use of stun grenades following an incident where a high school student lost their hand during student protests.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+          "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "French police suspend use of stun grenades after high-school protester loses hand",
+          "url": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand"
+        },
+        {
+          "name": "DW",
+          "title": "France suspends use of stun grenades against protesters",
+          "url": "https://www.dw.com/en/france-suspends-use-of-stun-grenades-against-protesters/a-79577769?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Eva Marie Saint, actress from 'North by Northwest,' dies at 102",
+      "summary": "Oscar-winning actress Eva Marie Saint, known for roles in classic films including 'North by Northwest' and 'On the Waterfront,' died at age 102.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
+          "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Eva Marie Saint, star of ‘North by Northwest’ and ‘On the Waterfront,’ dies at 102",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVmM0cUhNNndHUlFMSHlzVUpKQk92a1M5Q2xBWElmWXRSSTk1MkJFM1lPdFRIUWF2NHNMRkxjSGwyQndZU3dndnZBMEU5TkNtZTZRdURsOGxxYm92bjZPTlg5OW9KQnZpSFhOQ1hITEluV1ROREJzU1VsbEExcVpLMkJzZFItVkU?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Eva Marie Saint, star of North by Northwest and On the Waterfront, dies aged 102",
+          "url": "https://www.theguardian.com/film/2026/oct/06/eva-marie-saint-star-of-north-by-northwest-and-on-the-waterfront-dies-aged"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Paramount and Warner Bros. complete merger to form Skydance entertainment giant",
+      "summary": "Paramount completed its takeover of Warner Bros., forming a new Hollywood studio known as Skydance, creating one of the industry's major production companies.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Paramount completes its takeover of Warner Bros to become one Hollywood giant known as Skydance",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFA1Sm43WnNqUXFFUzdqVm5yZVF3d205aGJ5ZWVRTHNXNTJfZmZBSTlROTMwZUZjUTJJZlEwS2hWX3p5WTBqUFUzWmtudzFBSGlHRHRZdkhIMVIxMnRwV3ZwTkQybDdZcGRGcFdDdm9YaDV5eXY5al9xNHBIZjZMc01MTVRnNjdKVHN4dUxwY1pJUUdWcTlhYkNyc3dUd3Z2bS1tTEpvNks?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Goodbye Warner, hello Skydance: how will the major merger really impact Hollywood?",
+          "url": "https://www.theguardian.com/film/2026/oct/07/paramount-warner-bros-skydance-merger-explainer"
+        },
+        {
+          "name": "DW",
+          "title": "Paramount and Warner Bros merge into one Hollywood giant",
+          "url": "https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "German intelligence chief arrested on espionage and treason charges",
+      "summary": "Germany's former foreign intelligence chief was arrested on suspicion of espionage and attempted treason, creating a national security scandal.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Germany's former foreign intelligence chief arrested on suspicion of espionage and attempted treason",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSE1QSWgzLVNrRy1fbFdqc0FwdkctYmcyZ2UxcmxxdWdyRENwM3VKSFpqbnpxVUdpcHJISDlpVV96eDdSV3pyZ0UzZUtRZzR1UEhIQlNhaDdjRVVNWUJrN3dyRDAyMTZjcl9rbWx2QW54ZkV4V1lRNXU5bFJURmlhTG42RkxHODJPWmpOWi1hOWVMVDY1N1phMVJrZWtUSDNOcS0zWWdvZlBBNU1YOFNwWmdYaGMzcFg4ODd2c1dB?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "German spy scandal threatens national security",
+          "url": "https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
