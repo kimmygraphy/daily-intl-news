@@ -1,0 +1,326 @@
+{
+  "date": "2026-10-08",
+  "crawled_at": "2026-10-08T22:05:20+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Russian strike on Ukrainian buses kills at least 30 people",
+      "summary": "Russian forces attacked buses carrying civilians near the Ukrainian frontline, killing at least 30 people in one of several deadly attacks on Ukraine.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+          "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Russian strikes on Ukrainian cities kill at least 25 in a major attack that Kyiv saw coming",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdm1KQ2ZLdTNrZ2FXVlpWRW8xV29SZ2dhcElNXzlDQkdGSnZ6RU05VThHSFhuVmtBUkRTeUdZazFDSXFUYUhQdDdON2Q3bE1DNFFSeDRUQUp4OGNzYkRHczNQOVkyQzVyVndNOUJmdGxCLUJjdjBNR01Jb2Fnc3FJSXIzeTctcnprakRZcmxFN0xJTXNN?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
+          "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war"
+        },
+        {
+          "name": "NBC News",
+          "title": "At least 30 people killed in Russian bus bombing in Ukraine",
+          "url": "https://www.nbcnews.com/world/europe/30-people-feared-dead-bus-attack-eastern-ukraine-rcna602247"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
+          "url": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine says 30 killed, 18 wounded in Russian attack on passenger buses in Kramatorsk",
+          "url": "https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Anne Carson wins 2026 Nobel Prize in Literature",
+      "summary": "Canadian poet and essayist Anne Carson was awarded the Nobel Prize in Literature for her genre-defying work.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+          "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Genre-defying Canadian poet Anne Carson wins 2026 Nobel Prize in Literature",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUx4U0FuVzFvSF82M1NoMW5JQ3AwNzVjaVBDRXdoNGxrRmg0NjgtZmZscTE4S1VCMUhoc0hOMHB0WFc2NENraU9iaF9ZUjZwNzNwSVFXWjNKc3NELV8wX2huMVlnV2lVYkdlRFJQQXZiTlBNYXNSSmxSNmhsZ3dqZmN3WGNZb1ZBczJfdktMT0ZyR3RwZGNuOGxXeHQ0WlJ1bU9OTGhXN01SUQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Canadian poet and essayist Anne Carson wins Nobel Prize in literature",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY09mUWtpSkRXOWZETlVRbXc2UUF6VzMzYm9TSmcyLVJ6YVlKRVBKODJnMlMweDVZanJuN1V4WFFlbWJCNkROZDU2NUFTeEItbnI3Uy1uNlEwU3BHZ1JYTEViWmxEVWN5NFRCVnpTaUdWS3B6cWZiRDZuSnNBQkk5V1hKR3RXbW9CU2RDbmRkN0R4Mm5pbk1DOU15WDk2cFhYSGlFeE54SF8?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Anne Carson wins Nobel prize in literature 2026",
+          "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026"
+        },
+        {
+          "name": "DW",
+          "title": "Nobel Prize in literature goes to Canada's Anne Carson",
+          "url": "https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Canadian Poet Anne Carson Is Awarded Nobel Prize in Literature",
+          "url": "https://www.nytimes.com/2026/10/08/books/nobel-prize-literature.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Christa Pike survives failed execution, remains conscious",
+      "summary": "Death row inmate Christa Pike survived a failed lethal injection in Tennessee and is reported to be walking, angry, and confused after the execution attempt.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Trying to execute Christa Pike again would push into uncharted legal territory, experts say",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3RWcUFDQ0puY2U1bDE4NDFHWHdzMTJlUDVOSlp1UmYyQ295cl9TZVFKY1V2WS1zbjBvRVl5RVVpWFItcU1ELTZlYzV4M3l1TnM4ckowYTN0VTk4cDFSdF9XeVZZQkVQdWFHWHVJV3N4QmFMWGYtdmltZFJLS1dGWUJkb3ZqV0Z2bmhuMzZKYmtSX25NVnhTN21hZ2VJVTZG?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved",
+          "url": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico"
+        },
+        {
+          "name": "NBC News",
+          "title": "Christa Pike is ‘Angry and Confused’ After Failed Execution",
+          "url": "https://www.today.com/video/christa-pike-is-angry-and-confused-after-failed-execution-271241797863"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Christa Pike is ‘up and walking’ for first time after failed execution, lawyer says",
+          "url": "https://www.theguardian.com/us-news/2026/oct/08/christa-pike-health-update"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Christa Pike, Confused After Failed Tennessee Execution, Is at Center of Legal Storm",
+          "url": "https://www.nytimes.com/2026/10/07/us/christa-pike-tennessee-legal.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "UK scales back East Jerusalem consulate after Israeli pressure",
+      "summary": "Most UK diplomats will leave the British consulate in East Jerusalem following Israeli demands, though the UK reached last-minute agreement to maintain some presence.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+          "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "British diplomats to remain at scaled-down mission in Jerusalem",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUg1YkxrX0dOY19KSDkyWmR0VWJWSFhkWVhvZ3FYdE1kNG5iZG9GMEdQOXpwNHkyc2FlQW1TTnRpRDhnOVhST3VJM1FZUTlJd3pUNURSNHJjMFljaWl0ak1hR0JNdzNQdDBJQk16X2VlVjVYMDlfM0JRR1doVEhUdEpreVNxSkN5WlYtbmI0NUUxMlExMmRiOEx0RjR5R1JLSDI0ZXhxeXRZOEZPdmZ0VjhJTEJjQmVDTlVlRkxuV2tPTmtBazV0ZGdoeWdfUQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
+          "url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband"
+        },
+        {
+          "name": "DW",
+          "title": "UK scales back Jerusalem consulate after Israel dispute",
+          "url": "https://www.dw.com/en/uk-scales-back-jerusalem-consulate-after-israel-dispute/a-79590790?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
+          "url": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Cornell gang-rape accuser claims mistreatment and threats",
+      "summary": "The accuser in the Cornell gang-rape case reported receiving threats and claimed to have been misled about the criminal investigation by authorities.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC",
+          "url": "https://www.bbc.co.uk/news/videos/ckly0420q7ypo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Cornell gang-rape accuser was ‘misled’ about criminal investigation, her lawyer says",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcnJWT0J4ekxZcnREdEtVTzlqS0phR3pRLUtCMDIzWG40RV9nQ21mU1JFcm1xUXZITVB3WkVVY0NVa3l3TzhEREk3c3o5eTFwSW1MOC15a3NWRC1PblBrcmFpYV9ic0Vab1dPT0ppWWZqRWpDcHBzV3hmX2E2b0lySzVBT05iYjJJUVBCSmdpcHM2cEVIeXRWSlRqWmpFR1Z3MkRwRGdQY0tiZEpfTlRBRw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Accused Cornell Frat Member Seeks to Have AG James Removed",
+          "url": "https://www.today.com/video/accused-cornell-frat-member-seeks-to-have-ag-james-removed-271242309730"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Here’s what connects the Cornell alleged rape case to those before: accused men not being held to serious account | Emma Brockes",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/08/cornell-alleged-rape-metoo-men-victims"
+        },
+        {
+          "name": "The New York Times",
+          "title": "The Cornell Case Exposes What We Can’t Say",
+          "url": "https://www.nytimes.com/2026/10/08/opinion/cornell-sex-consent-rape-criminal.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Houthi attacks kill civilians in Saudi Arabia escalation",
+      "summary": "Houthi rebels claimed responsibility for multiple attacks on Riyadh and Saudi Arabian airports, killing at least 3 people in the deadliest strikes yet.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Booms and flight disruptions in Riyadh as Saudi-Houthi war escalates",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS3RjWlUtbVhIS3V2UlRkMFZOT3pESFlCZGVKcVp5N1lwX1JCTGRrXzI3dXdHT3diVGZUWENHREJ3MW5zQUpRamZpbkV0dTdoNDhRUzl6OW5FT2JZSjZHaHY2T2ltMm1fNTZVNHhuQzdZTmJVRHhSbE1vYnNpZTR4SGJONWhxVWxoYmxBLW1SRkpBNlROdHBxN3VjMUtpcHFaVzgzQ1ZvcmIyVllXcjBhSTY3TlhuLXpQRExkZmYtd29TOEppUkYwOA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Attacks on Saudi airports claimed by Houthi rebels kill 3 people, officials say",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUpvM0tkSFpDT2ZLRGFMcjJjVHdTcHFEc19valhyWEVFanpGWTNRa3hxVkRnRVpMY1BEendVZXRyS2lmSUd6NERTUWl1Q0ZtWU5NMGFfalhWS3M0MVFzTjNrSVJ6ZDBCc3FuR2FJcW1kWnc1amZZZGlkMkRzUlhpTUxVdXRUenR1Wndfd1EwcVNtSXBvVUk1ajJVUlBMUjJF?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Yemen's Houthis claim strike on Riyadh airport, three killed",
+          "url": "https://www.dw.com/en/yemen-s-houthis-claim-strike-on-riyadh-airport-three-killed/a-79587815?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks So Far",
+          "url": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Oil prices surge on Middle East tensions and hurricane threat",
+      "summary": "Oil prices jumped as Middle East tensions from Houthi attacks and US hurricane concerns escalated, with Brent crude rising over 4 percent.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Oil jumps as Middle East supply concerns persist amid shipping attacks",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlloTmR5SkZfME9kcjlVcENtQzFrdmc2cnJfTWthWWJYcFIwZFFGNUs5Y2Y2TkR0MjE2STZ3WXktSXJRRmRiXzZYTnQ4clNNZlNQempZRzFPTERYUXpFM1d0SUJoUzFyN3FLRTg0d3UtckZWbWpWM01DNVJIUEdBTTkyd0dFaDgwX0llWXBtMXV1dVROdXUwVUF6VG9Ca3BReDdJTzNhT0d3RjcwUVF5TS12N1ZWNzJXdlRz?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Brent crude jumps over 4% as Middle East tensions flare, while share prices retreat",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVZ6OTdhWTZlWUJFbTdTSHZOeG1lZEV3UEc2RDdhOVNqYjFWcTFwWUU5Qlk0RU5nTGlTMi1Tc1N5N3ktTGFiYUJUeWtod1lMbHJQQjcxMElFRjZHTlJtd0hlT2V5c0xVS2xqTkdsczJ2cG96NWlsMDEyZjc1TXAyUnhnTVd2RnVPQ1pHM3VXazc?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
+          "url": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Oil Prices Jump on Outburst of Violence in the Middle East",
+          "url": "https://www.nytimes.com/2026/10/08/business/iran-war-oil-prices.html"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Hurricane Isaias strengthens as it approaches US Gulf Coast",
+      "summary": "Tropical Storm Isaias intensified into a hurricane and was expected to strengthen further while moving toward Florida, Alabama, and Mississippi.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Hurricane Isaias is expected to get stronger on its way to Florida, Alabama and Mississippi coasts",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved",
+          "url": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico"
+        },
+        {
+          "name": "NBC News",
+          "title": "Tropical Storm Isaias Strengthens Into Category 1 Hurricane",
+          "url": "https://www.today.com/video/hurricane-isaias-strengthens-as-it-targets-gulf-coast-271241797808"
+        },
+        {
+          "name": "The New York Times",
+          "title": "6 Ways Isaias Is Remaking the Story of This Year’s Hurricane Season",
+          "url": "https://www.nytimes.com/2026/10/08/weather/hurricane-isaias-history.html"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "South Korea recalls ambassador to Ukraine over POW dispute",
+      "summary": "South Korea announced it would recall its ambassador to Ukraine amid a dispute with Kyiv over North Korean prisoners of war.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "South Korea recalls ambassador to Ukraine amid dispute with Kyiv",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVR2ZWxYTDQyR2xGSmg4UUZWMHhCTmcyaDZhMkhtT1luSVg1clZZeHZmUk04LVNWS0haMk1lUUNIcmI5WVpNcmRsd2lQalVwb1VISkRKM2ZiSGkzaWxzdFUwM1ZFWEVGTGRkTjFsTERQNFhiMTlGdEVITEp1T0twc0EzSTEtbVRzdVFpQkZoUWFZYW16cWhna2hGckJhMWtnWU41V09B?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
+          "url": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute"
+        },
+        {
+          "name": "DW",
+          "title": "South Korea recalls Ukraine ambassador amid POW dispute",
+          "url": "https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Russia reports suspected pneumonic plague case in Siberia",
+      "summary": "Russia denied reports of a second case linked to a pneumonic plague outbreak at a Siberian laboratory, with the UN requesting more details.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Russia says reports of second case linked to Siberian plague lab are false",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaFR4cExQYWN6ZW1lM0p4Z2RYZV9IVzNCSndUUTg1ZF8xdy11al94MFh3WXh6V2JYdEJPNnc2VnBxUFY4TEtsMnJjWl9RUmswRmx3UUxTV3EyT0VTT0hvbWx4dm81T3laYl9CYnBVNjc2ZWZ4X0J5c3dNLXdBSDl4SGwyNlpmelplbEFPUGZ1SmNpS1k5NERxU3lFMW5fSmlyTjh2ZXNhSlZuanVTVVI0N3VVbWJmRE4xTE1DaklmX2FlNVRfTkI2Ymx0eU5VbWtjUHZzQllfaw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "UN health agency wants more details from Russia on suspected pneumonic plague case",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVNxZUVSYWs2akY2NUdadlZBU1BadGtSbWx6SlpaWVY2ZVhJWG85Q0lIZlpRYWt4X3lpbzNyZG5HbDFZa3lRWFU4LXo2VG15eHlJWGhJTlBLVi1xb0dtOXV2Z3dZWVVXdlRxYmZzMkR4VUV6U2I2WFVCdWJPQVFqSVNpNFhlRTNQN01mbHNOaGR5Z2RNMkE?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "A Forced Retreat for Trump and Hegseth, and What to Know About the Russia Plague Scare",
+          "url": "https://www.nytimes.com/2026/10/08/podcasts/the-headlines/retreat-trump-hegseth-russia-plague.html"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
