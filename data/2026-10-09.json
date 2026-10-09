@@ -1,0 +1,271 @@
+{
+  "date": "2026-10-09",
+  "crawled_at": "2026-10-09T22:05:25+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Pentagon plans to livestream execution of Fort Hood shooter Nidal Malik Hasan",
+      "summary": "The Pentagon announced it will livestream the firing squad execution of Fort Hood shooter Nidal Malik Hasan, sparking criticism and debate over whether public streaming of executions constitutes torture.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFlfYXBjMDRKS0YzTHZFdFBOSGE4bGxpTEt1aXcxeHlSbktpNjVPNUd4QVVOYjlCNUd5NnBBS3hldGlhYXc5ZlJFWWZCa0JqcUQ0dUZETzJTeC1idVU0eDRkNlRBLWtWNmtTSi1RWFFfb2pKVnRrQjBZTnRpZk85dWhxZi1TSXRLVm9BdHhfbVBaOWRVTVIxUTM4a1o?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Pete Hegseth Vows to Livestream Execution of Fort Hood Shooter",
+          "url": "https://www.today.com/video/pete-hegseth-vows-to-livestream-execution-of-fort-hood-shooter-271322181671"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Execution TV? Pete Hegseth has taken the once ‘greatest democracy’ to a horrific new low | Paul Daley",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/09/nidal-hasan-execution-pete-hegseth-us-military-tv-democracy"
+        },
+        {
+          "name": "The New York Times",
+          "title": "The 2026 Nobel Peace Prize Winner, and the Pentagon’s Plan to Livestream an Execution",
+          "url": "https://www.nytimes.com/2026/10/09/podcasts/the-headlines/nobel-peace-prize-livestream-execution.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Navi Pillay wins 2026 Nobel Peace Prize for international justice work",
+      "summary": "Former ICC judge Navi Pillay, who led a UN panel that found Israel committed genocide in Gaza, was awarded the Nobel Peace Prize for her efforts to promote international law and justice.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Former ICC judge Navi Pillay wins 2026 Nobel Peace Prize",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Navi Pillay wins the Nobel Peace Prize for her work in international justice",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1JaUVE4ck5QdnpKRUpKbVJWWVRDbnUxNzBCbmZXNWt1SmZJaVZzZEMwd2tWNUJSUG1WOEdLaEdxUWRwVTBXc291WTdWTlRaTWV5VVVmQV9aLV9PVy1uV3NGT1A0OS0zc2JNTUpsclJvWG11UjRKRW1jeTFYaXp0WkR5Zw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Navi Pillay, who led U.N. panel that found Israel committed genocide in Gaza, wins Nobel Peace Prize",
+          "url": "https://www.nbcnews.com/world/europe/nobel-peace-prize-favorites-include-yulia-navalnaya-donald-trump-downp-rcna602462"
+        },
+        {
+          "name": "The Guardian",
+          "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+          "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
+        },
+        {
+          "name": "DW",
+          "title": "Nobel Peace Prize 2026 goes to Navanethem 'Navi' Pillay for her efforts to promote peace and international law",
+          "url": "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "ICE officer shoots man during arrest in New York with child in car",
+      "summary": "An ICE officer discharged a firearm while making an arrest in New York, with a five-year-old child present in the vehicle.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "ICE officer shoots a man while making an arrest in New York, officials say",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQenRITllJRDlOSU1JcTdZSlQzeVZOdTFwZW1DM0Myc0ZlY01EVk4yQUctNktRWnF5cDRnTDQ1YmFsNWl3NGUyMUs3TUVKcUk2ZElKeTU5LTRna0t0MWl1SE9uV0VjWnlweXBQQVhycVJqZVRrS05fdkxUYWNJckxzNkxmaHBrbzlmcTBOelJkRUpVMlRxcUxN?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
+          "url": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting"
+        },
+        {
+          "name": "NBC News",
+          "title": "Man Shot in Car by ICE in New York as 5-Year-Old Sat in Backseat",
+          "url": "https://www.today.com/video/man-shot-in-car-by-ice-in-new-york-as-5-year-old-sat-in-backseat-271322693526"
+        },
+        {
+          "name": "DW",
+          "title": "Man injured after New York shooting involving ICE",
+          "url": "https://www.dw.com/en/man-injured-after-new-york-shooting-involving-ice/a-79606159?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "ICE Agent Shoots Man During Arrest Attempt in New York Neighborhood",
+          "url": "https://www.nytimes.com/2026/10/08/nyregion/ice-shooting-nyc-bronx.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "French student protesters demand school resources; government adds teachers",
+      "summary": "Student protests across France over school conditions continue to escalate, with the government promising 3,000 extra teachers as a first step to address grievances.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "France promises 3,000 extra teachers in first step to calm student protests",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "French student protesters vow to keep up their fight after scoring first win",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRG41MmxpUTdXUldjM1JDZFlVbjVyRzEwQUhHS2x5OVZvbUY4T0xiZFl6MFF4VWx6RjBwbTdFMW5CN2VwNDRvU0lkU0QtVVJGUmh5dzlnUjFmaXdJckJLUkt5Y2lKeDRLQkgzeVRSWUxOQzF0dHJjcUkyRDR5c2xIQUI4ekVNUGU5TDlfRUJFb1k5NHN0SmU4NXlVLTdoMTN1bmZzV1RBR01DNFBQekw1YW1tTElmQQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Police fire tear gas at barricaded Paris high school as student protests show no sign of ending",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb214bjlGN0RNUk82a1cydy1GTFVyTU96b1NQXzIweUpCb21hbS1janowMDFRd2ZFeHJqaXZzREVua3R3RDZhOHR5V2Z2bWhPdVFYVGRRVG85LXRsSDV1UkJOZ0FTQ3VTOS1YQmEzTFAxX0hNU1IxbmdWT192eTJRVG1vSDh0RWxlOGVSYXh1bE9Oc3RSVUdQWl9KOUMwUzZCMGJKallqcTJSeFJybVp6dg?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘Nobody is listening to us’: on the school protest frontline, I heard why France’s students feel disowned | Alexander Hurst",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/09/school-protest-france-students-political-class"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Houthis attack Riyadh airport; three Saudi nationals killed",
+      "summary": "Houthi forces claimed responsibility for attacks on Riyadh airport in Saudi Arabia that killed three people, as the regional conflict escalates.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Houthi strikes on Riyadh airport killed three Saudis as war escalates",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEFCQWZhWGJXa25ZeDBOZlE3b3RWQldSSUM5MmRDd1JqdFNvbl83R19nc014ek1YTW1iQlBqbW1paUlManF3UzlNT21BTl81cG5NNGQ5MWhWOWZOMnpQamN6TmxrUFVLVXRCaTl2T0JYclhVc3dvLUpNeG5wY3JSci02OHVtWmRpemp2UExRUGRoTnpyN3lKUGlRQ3FHdS1pZDNvNVM0bWE2djAzNzNvNTg4RVdXVEhw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Lufthansa, Indian airlines suspend Riyadh service after explosions hit Saudi capital",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOai1sVmp3ODM2cUNaOTVzOVRYRFZNSmJ2SVhyeTUtcDlvVnE5bk02Z0NDVmV3WmZ3RGxwbEZxRm9hVi15WUN6dDZ3dC13OUJKUTJYaV9JR00zZzRzWXJJZVlsYjU4Q1Rudk8zRGdRaTVHOTlYWG1rTFRlZ29VdGk5YVVCVGVWbFFBWXV2NGlBR0JjOUxDOWlOTEFZTC0zOVJFcURSeUNMZkx0dw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Three Saudis killed in Riyadh airport attack claimed by Houthis",
+          "url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "South Africa withdraws asylum directive after violent anti-migrant protests",
+      "summary": "South Africa reversed an asylum policy following widespread violent protests against migrants and refugees.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "South Africa withdraws asylum directive after anti-migrant violence",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVldBelcxUlJ3Ym45QWtpUV9FX1hyV0dYQjZ3bG8yNndZbjNtdFVtbF93b0VBeHlmS25rSmNvczYtV01sbjJvV251VFBvY0JIU01UREhzZnBiT3pHRlF4U3dVeEJ5R0JycUVBd0d0ZVdocUhCLWRkbjJFb2t3RnVLRjIwUjF4Tng5ZDlqemdRRzFXbFR4bC16ZHVBWDVJMnIyVUdDOGRzaVlSSDEwMi1JWGFOTmVha2c?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Vehicles torched in South Africa as protests over asylum ruling rage on",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjc2YkVxQlBTUjFxVUpZT1M2YXM2RE9XUDZaU0hIcEllYUZ1dnVLaEI0X2xTQVRJM1VZU3VWMU5BWXlidzZ5czZrZnRzbGZNTWswMGNQazhpdlFDdzlVTjdHX1d2UjJJdmd1eXhCdDFWT1ZqRU1GZ3ozdVdEeGhOdl84REFEajNkd2ZzVFVTZVhoQkQ4VlpTLTZ5ZWNBWURoblNjYjFWZ2RDX0NUbnRjRGlpV0htMjlOcnZOdUtRZ1I0ckh4SjNRSlNn?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "South Africa pulls asylum directive after violent protests",
+          "url": "https://www.dw.com/en/south-africa-pulls-asylum-directive-after-violent-protests/a-79605037?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Anne Carson wins 2026 Nobel Prize in Literature for bold, inventive works",
+      "summary": "Canadian author Anne Carson was awarded the Nobel Prize in Literature for her innovative and genre-blending literary works.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Canadian author Anne Carson wins literature Nobel for 'bold and inventive' works that blend genres",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY09mUWtpSkRXOWZETlVRbXc2UUF6VzMzYm9TSmcyLVJ6YVlKRVBKODJnMlMweDVZanJuN1V4WFFlbWJCNkROZDU2NUFTeEItbnI3Uy1uNlEwU3BHZ1JYTEViWmxEVWN5NFRCVnpTaUdWS3B6cWZiRDZuSnNBQkk5V1hKR3RXbW9CU2RDbmRkN0R4Mm5pbk1DOU15WDk2cFhYSGlFeE54SF8?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Winning the Nobel prize in literature only underlines Anne Carson’s infinite genius | Yiyun Li",
+          "url": "https://www.theguardian.com/books/2026/oct/09/winning-the-nobel-prize-in-literature-anne-carson-yiyun-li"
+        },
+        {
+          "name": "DW",
+          "title": "2026 Nobel Prize winner Anne Carson: Where to start reading",
+          "url": "https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Hurricane Isaias strengthens to Category 2 heading for US Gulf Coast",
+      "summary": "Hurricane Isaias intensified to Category 2 strength as it moved toward the Gulf Coast of the United States.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "NBC News",
+          "title": "Hurricane Isaias Strengthens to Category 2; Heads for Gulf Coast",
+          "url": "https://www.today.com/video/hurricane-isaias-strengthens-to-category-2-what-to-expect-271320133929"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Hurricane Isaias ‘biggest test’ for Fema since Trump cuts, experts warn",
+          "url": "https://www.theguardian.com/us-news/2026/oct/09/hurricane-isaias-fema-trump-cuts"
+        },
+        {
+          "name": "DW",
+          "title": "Hurricane Isaias intensifies en route to US Gulf Coast",
+          "url": "https://www.dw.com/en/hurricane-isaias-intensifies-en-route-to-us-gulf-coast/a-79612756?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Pro-Kremlin Russian military blogger Mikhail Zvinchuk arrested in Montenegro",
+      "summary": "Mikhail Zvinchuk, founder of the Russian war blog Rybar, was arrested in Montenegro.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Founder of Russian war blog Rybar arrested in Montenegro",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaTNGZXhPY2E3ekEyMDFFY3hDMlV0NExyVlByYk1mMlNOelluWXFfR2VaLWpSY0dsRk1qblRsMUlQTmVvTFFwU3JMazRrVXhhTUVDU2RuRnFoaWxzRERhS2RkZ1FQWVBlWTlKOGU2YU1XMUZCQ2VNTDhxazkwUF9qbmh1NnpETjc0TGNZZ3ljaEJ2czlBaDhZN3lyM3VidjZiczJVeDR5al85QTdkTGc?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Pro-Kremlin Russian military blogger Mikhail Zvinchuk arrested in Montenegro",
+          "url": "https://www.theguardian.com/world/2026/oct/09/russian-military-blogger-mikhail-zvinchuk-rybar-arrested-montenegro"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "King Charles pays £1.5 million repair bill for Prince Andrew's Royal Lodge",
+      "summary": "King Charles paid £1.5 million to cover repairs and end the lease on Prince Andrew's Royal Lodge residence.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
+          "url": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Andrew Mountbatten-Windsor granted £302,000 for end of Royal Lodge lease",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/09/andrew-mountbatten-windsor-granted-302000-for-end-of-royal-lodge-lease"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
