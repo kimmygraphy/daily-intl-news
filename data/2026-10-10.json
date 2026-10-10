@@ -1,0 +1,316 @@
+{
+  "date": "2026-10-10",
+  "crawled_at": "2026-10-10T22:05:18+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Trump announces diesel fuel deal with Russia; Zelensky and allies condemn it",
+      "summary": "Trump announced a deal for the US to purchase Russian diesel fuel, which Zelensky and other analysts criticized as empowering Russia and undermining Ukraine during the war.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Zelenskiy says letting Russia sell diesel to US is 'investment in war'",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVJCMFpxdHZyV3d5ZGpwMFJOODA4dW4wZW53NnJ4OHN0MGJWeWtZSzU1ZzhvRS1Jd2VvanVvN3Rsa2hxZHQwRWlqM2p4bV9PM2tYS09PTDZDV0pnbkNtLXJqMkV6ZVpXS05xc29JX3RraVZ0SnM5QmEza1NaeGJnRUJqbTNWZVBLSEtCb0p2SlFVMk5GRW9TTUtnc3FyQmw5RUN3ZFQ1Yl9EeUk?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump strikes deal with Putin to get diesel in sharp reversal of US policy weeks before midterms",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWNGMlZNRlFBTHRZXzVzeUVnMnpVaDMwWU5VN2VKY1o4TXdGbmNXUk5lOTkxWVBNaUZHYTlzV044OXI4Vl95dDVral9GRVNhZ0pPS2tXYXpPSm5CZzhEV2dDM3pMMEFscWFwY3NjVFNFcmh4bmI2ck1oRGJlYWtlTVowOGZjMjZFUDI5MVFWV0VKUQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+          "url": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump: Russia will send diesel fuel to the U.S. to bring down prices",
+          "url": "https://www.nbcnews.com/nightly-news/video/trump-russia-will-send-diesel-fuel-to-the-u-s-to-bring-down-prices-271372357511"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
+          "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine"
+        },
+        {
+          "name": "DW",
+          "title": "Trump, Putin agree on deal to release Russian diesel to US, world markets",
+          "url": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Hurricane Isaias makes landfall in Florida, brings flooding and tornadoes",
+      "summary": "Hurricane Isaias made landfall in Florida as a major hurricane, causing widespread power outages, heavy rain, and spawning tornadoes across the Gulf Coast and Southeast.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Isaias brings flood, tornado threats across US Southeast after Florida landfall",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUXd4cU9kTnZkUXpiWnZCSUFrVXVqRDVVRWNsakotTU1aMTNkZjBra3lkaktVMGtUcnpORW40N1JMemk4WkREeFJGNnFibFBBRTdQMi10dDNlX2hua2pSZVVSWnNpRDZOblhrMW9CbS1vZTd3S0ktU2pSNGtfNWZyVGduR3YzNU52dEpMQkx3UXZYUmxPaGFoZVhSZ2lzNml0bFlZX3gzSTRrWEthTHZrd1lNaEcxRW8yeEVweTNIcVhKYUJTc2Qw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Isaias makes landfall as hurricane, hammering US Gulf Coast with powerful winds, dangerous flooding",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVBiRWJSeWNWZEpGNmRjR3lPblNnZ0xDTXJ6RHRTOVdlbDJELUM1TXFOSUx4dGR5ekxhSUNFNmV3czlUYnJiV2tpTEUzRGJ6WW5qbldudTA1OVRnWEd4a1QzczJGbE80ZExTYXdhdjU2N0Exb3IzcmFKM3Mwb2k3U0x6TzJXczBSNHd5Wml0TmRERV9iQ2RRRzBfT3dhRXRUYU9TZUlhTWxPendla3gw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Isaias pushes further inland with strong winds, heavy rain",
+          "url": "https://www.nbcnews.com/video/isaias-pushes-further-inland-271385157665"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Hurricane Isaias live updates: warning of ‘spinoff tornadoes’ as hundreds of thousands without power",
+          "url": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates"
+        },
+        {
+          "name": "DW",
+          "title": "Hurricane Isaias makes landfall in Florida",
+          "url": "https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "A.I. Hurricane Models Were Front and Center as Isaias Headed Toward Land",
+          "url": "https://www.nytimes.com/2026/10/09/weather/ai-models-hurricane-isaias.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Indian authorities crack down on Delhi protest and detain 'Cockroach' movement leader",
+      "summary": "Indian police detained hundreds of protesters and arrested the leader of the 'Cockroach' movement during a major demonstration in Delhi.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+          "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Indian police detain 'cockroach' movement founder Abhijeet Dipke",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmNLNWdIS2pjUmxPejBKMXVXeHBTNDdyV211WlA0UE1mcl9qZ0xiTGhFeTlGSHdjVC1LemlpMXJNWDN2SHpuejllNzhIU3loZ2RVX2lZY24ycjQ2SXlhb0JrcVB2UWlVZy1aYjVROWNNeXU3cHgxMkpaZTRmVFlUSVQya2xTelNQSnBqUnk3S0pmZnBveFhWbFNJd0tpcThMSTRYa29Hbnhpb3NYLWJB?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "India cracks down on youth protests as anger grows against Modi and election chief",
+          "url": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Police clamp down on Delhi protest and detain ‘Cockroach’ movement leader",
+          "url": "https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns"
+        },
+        {
+          "name": "DW",
+          "title": "Indian authorities crack down on 'Cockroach' protest in central Delhi. Follow live.",
+          "url": "https://www.dw.com/en/indian-authorities-crack-down-on-cockroach-protest-in-central-delhi-follow-live/live-79624339?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "What to Know About the Delhi Protests",
+          "url": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "US plan to livestream Fort Hood shooter's execution draws bipartisan backlash",
+      "summary": "The Trump administration's plan to livestream the execution of Nidal Hasan has prompted criticism from Republicans, Democrats, and international observers over the legality and appropriateness of public executions.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Public executions in the US stopped nearly a century ago, why are they resuming now?",
+          "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Republican opposition widens to livestreamed execution; Trump still weighing it",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaE12czZ4Y1pNSFk4OVRfaVlSc3dXbGxZXzJPZkk1aDJpaDR0THc5aF9TT0YyZS1WWkVnT2lmQjJGQ0JfZnZZY08yR1E1MXZna2NVaXVkV2RoV2sxNmM0RWZvemlVbVRmSFF5a3F4TERQQnZONzYzVUZJMjhxSTJUeXRJc21lQ2NTN2FHZ3pHeGFoVVZKX2tLX0M0WWNKU2NaUzY5Wi1CR2VsU2NDRjA1Yk1jMDU1T0ZYYkFlbnZFbFA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Vance expresses doubts about Pentagon plan to livestream Fort Hood shooter’s execution",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMjd2dDNCOXVqMGF0eldBNDJqR0hwdGVxb2NBcm5XbGgxV2Flc3NfUGgtMGk4VDFJSXV1eDBvSXd1cjgwZmhldXVJTHNPMnhDUzRGclN2WUpoM19ZUGhhZ09FcmpzcmpUT1h6RWx4ZDZfTDl2bnkzeFdFRk9QX3dEM21UZ1ZxU1Vfd3hVQnB6M09iR1U0V1FiUQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Backlash to livestream of firing squad execution",
+          "url": "https://www.nbcnews.com/nightly-news/video/backlash-to-livestream-of-firing-squad-execution-271368773744"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘Medieval’ and ‘disturbing’: US plan to livestream execution elicits global condemnation",
+          "url": "https://www.theguardian.com/us-news/2026/oct/09/live-stream-execution-fort-hood-shooter"
+        },
+        {
+          "name": "DW",
+          "title": "Trump weighs livestream execution amid bipartisan backlash",
+          "url": "https://www.dw.com/en/trump-weighs-livestream-execution-amid-bipartisan-backlash/a-79623920?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "France faces widespread student protests over school conditions and resources",
+      "summary": "French students staged protests against poor school conditions, insufficient investment, and broader education policy issues, drawing comparisons to the more active protest culture in France.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "France's school protests are about more than broken classrooms",
+          "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "French policing under scrutiny as student protest injuries mount",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHl6SHlJTVNheFJ6OFJldVVpYWxNRXJoVzRBX2hzN004MDc2YkpWelhPLUsxSkJRUmQtcm96Q19lVDNqZFViMzl0aVoxdU5SZDBSZDc2UTVydnVRMDBURzFBbFMwRmEwLS1HRk53M0ZoY2tpNU5NUGpSTUx4blUtWWI5R1ZIZVJoZlFaYS1RRGpmbHFnVHlUVFhrYTM2ektFM3BDN2V3?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Angry French students take to the streets. British students don’t – and I think I know why | Kitty Sayers",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/10/angry-french-students-protests-british-dont-why"
+        },
+        {
+          "name": "DW",
+          "title": "Schools crisis in France: Investment fails to inspire confidence",
+          "url": "https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Russian attacks kill civilians in Ukraine following Trump's diesel deal announcement",
+      "summary": "Russian forces launched glide bomb attacks and artillery strikes on Ukrainian cities, killing dozens of civilians including children, occurring shortly after Trump's announcement of the diesel deal.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children",
+          "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Russian attack on Ukrainian city kills 12, a day after Trump eases diesel sanctions on Moscow",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXFuRXk1Sm4ydlg5Tng2TklTSDlLUlhUXy12UldndXpmdWN1cnNYSmhZaFRwRTlSM0pUZWVtZjdicXdNbVlSMUxNYk5YYVhncjczY2FuLThrRlk4MTFPUU8ySVM5bHRlaGdfX19VTHQxQU9ZTXQwazF2MXhKYlUzVTFUMEZ2cjdQSTZGVEN5QWRPMlhPQnZTNElXeTY5QzZJb2NMcENHTUhSUXVVMU1kYjdoN2ZJZGdoTllBMkRvenZ4aU0?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Russian strikes across Ukraine kill 3 people as Kyiv struggles to counter escalating attacks",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSVIwWnFtX3JvdXpubXd6aFNMMzlVbTlYdUdtQVc2YVBCa3UxUUZXTzh5TUNCcW9Rb2JnZmpZU2d6bW8ycV9fc0lXUXo2dlJPYW9IUUY3MGZXZm5SYUJSeWdlY1lWcFBqSkM0TlV5X3RMWFJ4czNMb0xtYS14LXlWVmwzNFhXb2hTUTVkWnNmMWY5OGVJRkU5azhqMWFBckNyUlE?oc=5"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "US imposes sweeping sanctions on International Criminal Court",
+      "summary": "The US imposed new sanctions targeting the ICC shortly after a former ICC judge won the Nobel Peace Prize, marking an escalation in the administration's effort to undermine the court.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "US hits International Criminal Court with sweeping sanctions as part of drive to dismantle tribunal",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXNFcXVnRVZfckpBb0hJMmN0aVhRQ1lxZHlsUlR4MWhLN0J0d0VYdllmYnF2SUlxV3BFN1VGbTAzQXMtaTZjbld2WFg0akNnMjNaUlBTRTlZeE1SQlZ6OXJ6Y3pibHNOQjBreHRHN295WTlVZmtnT0RnX1YwTV8yWTlibFA?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "US imposes sanctions aiming to 'dismantle' International Criminal Court",
+          "url": "https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Nobel Peace Prize awarded to Navi Pillay; Trump attacks Nobel committee",
+      "summary": "South African-born jurist Navi Pillay won the Nobel Peace Prize for her work in international justice, prompting Trump to attack the Nobel committee for not awarding him the prize.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Trump says Norway has 'indelible stain' for not awarding him Nobel Peace Prize",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR0s4c2ZUZWZHSkIyMjRaTDhwUWpKQmg2LV8zaVlUeU44ai1sblA2TzVPX3JySUx3cjc5bUVFZ1MxWjlrTG9Qa2xxclUzOHBMTDhYaFloMVlIVUFxMzBlck9jd1d0S3dnTGVSZjl6ckVNYnlXYkxUMVdpb09WVFBSb2lEcFozcjhndkJ4S0JGXzEyLUo5YkxMVmF2VTh5MDJ1czJnSXFHSGtZaDlGeEJHd2FLTERJNFhPMzVCYU5n?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "South African-born jurist Navi Pillay wins Nobel Peace Prize for her work in international justice",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1JaUVE4ck5QdnpKRUpKbVJWWVRDbnUxNzBCbmZXNWt1SmZJaVZzZEMwd2tWNUJSUG1WOEdLaEdxUWRwVTBXc291WTdWTlRaTWV5VVVmQV9aLV9PVy1uV3NGT1A0OS0zc2JNTUpsclJvWG11UjRKRW1jeTFYaXp0WkR5Zw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump says Nobel committee not awarding him the peace prize leaves ‘indelible stain’ on Norway",
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-says-nobel-committee-not-awarding-peace-prize-leaves-indelible-s-rcna602624"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "EU and China reach interim trade deal on hybrid vehicle exports",
+      "summary": "The EU and China agreed to cut Chinese hybrid vehicle exports to the EU by half as part of an interim trade agreement.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "EU says it agrees with China to halve hybrid vehicle exports to EU",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWFkxRUNzbndIZnJudlpUZmRzdjlPTndBd1cwUzJ5a1pwclM3LWg1U0wwTWd5Z0lkc3NYekstSHpJaEFYcHc3dUZBM3Q4NDJzUUJOQ0FnM2FkYlJ2NUdHU2xZWEx6NThOT0h0dkZVaGtCWDVRb0JqT2g1YmdNeTRZa2JpSHZFdGRYXzN5bUlfN1lxTnpVazdkZ0l6QmRTYnBFbUtXZHhoV0o0WWFmbUE2V3lHNU9USzRwV2FObTRFRURTc2Rv?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "EU and China strike interim trade deal that could cut Chinese hybrid exports, EU envoy says",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTm5ZNlVIY2tFZ2M4aFVENmNnVlBPbFJVSkplZ0x1UWZBMjEtQkR0Y0tpYjRJWEVqakZGakpvbDNvTUs5M0ZWZjZKNzQ3bXpyai1NWElyc1lEc0dxTnYzNEZTeGU1QXdIUmZzYVhtRF9IY3ZVN3VDWDk1Nl93ODhGZzdoaElXd0NOOUE?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "China, EU reach deal to 'moderate' China's car exports to EU",
+          "url": "https://www.dw.com/en/china-eu-reach-deal-to-moderate-china-s-car-exports-to-eu/a-79621394?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Flydubai co-pilot planned suicide attack on Tel Aviv airport, UAE prosecutors say",
+      "summary": "UAE prosecutors revealed that an Omani co-pilot for Flydubai had planned a suicide attack targeting Tel Aviv airport.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJVb2U2eWdVMjdYVEVwMWt0NzJaQTA0aDNCMVB3YVc3N1VIMUszdjl0OUFFNVhCRHNSUEk3MzVsY1pnX2pIU1hfME5sRm5QUThjSEdJd3VHeGtuQzMzTGc4X0VESC1McU1vUXo3QTJGV2MwWGpFMXpacXF3dndjcWNORXU3bWNXaUtwWjRLbHJDNjBBQ3BIQldySU5LWXNjU0hxQkd4aWp2ZjAtYzNyQ0J0MHpLZjFKM19VSjM4QlJkZ2c?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say",
+          "url": "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say"
+        },
+        {
+          "name": "DW",
+          "title": "UAE: Omani Flydubai co-pilot planned suicide attack",
+          "url": "https://www.dw.com/en/uae-omani-flydubai-co-pilot-planned-suicide-attack/a-79621960?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
