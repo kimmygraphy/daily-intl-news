@@ -1,0 +1,336 @@
+{
+  "date": "2026-10-11",
+  "crawled_at": "2026-10-11T22:05:19+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Houthi attack on Riyadh airport kills 12, wounds hundreds",
+      "summary": "Houthi militants launched a major attack on Riyadh airport in Saudi Arabia, killing 12 people and wounding over 300, prompting airport closure and international responses.",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+          "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Yemen's Houthis renew warning over Saudi airports after deadly Riyadh attack",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEo0VkFTZkY2VzMzeFV0OVRVbWN4aHFzaXFjV0FBN05uaEFONHhQVTN2a3JJM09NdFBzY1R3MnRrUFZOeFZfUDItOUd1NkxiT3dfOWduTHJKTlBzSGsyN3VCYTNkWG1ZTWlZMUpzbDdrc1dOZUs3VDRwa0lHN21tNnFNdFhQYUxoNmdfN1Zyb3FMRm04RzRVei0zY3FKN0FoY2JYTGFodjYtemdITVpKVXk3NlR2QXFIMU9YMnUtX004QW1GZ0UzZA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "12 killed and over 300 hurt in latest attack on Riyadh airport, Saudi authorities say",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGZwcDY1YlloN3oyNzFVMFZTcExnWXZqTzVQNEFkNnBoN2xGR0FEWEVjeUU2OVFEQ21hLUtXRzF2WHVnMzFuVUoxWGQzUFBVTjV2cWNmeFhmWTVvQ19iZ0xxV1c2OXRWMjBFOURBSzc2TWlaQUxENnpCU1ptX0Rna0E4Sl8zNE5aRmpNVkhrclRWUFdIcElCMg?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+          "url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say"
+        },
+        {
+          "name": "NBC News",
+          "title": "Major attack on Saudi airport kills 12 and leads Trump to weigh joining fight",
+          "url": "https://www.nbcnews.com/world/middle-east/saudi-airport-attack-trump-us-join-fight-houthis-rcna602744"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Middle East crisis live: Houthi foreign ministry says ‘worse yet to come’ if Saudi strikes continue",
+          "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "Yemen's Houthis warn passengers not to use Saudi airports",
+          "url": "https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+          "url": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Pope Leo undergoes surgery to remove lung nodule",
+      "summary": "Pope Leo XIV announced he will undergo surgery to remove a small nodule or growth found on his lung.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Pope Leo to have surgery after lump found on lung",
+          "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Pope Leo says he will undergo surgery for small growth on lung",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkdPdU5pbElCMXZwdmxCX05ENE44MGdFQ1dMTThyUGpuM0RWYjVsSGtJUERqbG9yY2hEVlZMRXZsclVwdHBSVnBmZDZoN3RwOTlKV0pJUVQxU3JkUloydGFha2dpN3hMSnpzelM4b3NFNmwtb1BSNEFUdEtRVUExQ3owb2FwOE02LXM5Wk9oX052Z2ZUNzdjWjBuVVFROXlpZFY0Mk0zd3h2T1N4WEs1NEFMZDhIQ1JDSXcwNjdsWVFldw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Pope Leo XIV will undergo surgery to remove a nodule on his lung",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUzd2TWpTUTY4aDBlZm00b1RaVHgxenRmVzBCTWYtRERQNW5EczFLcmZFUzFoV1JLdDlORVctV2NEcVctUXJaWV9veEVOWlhISUN3cFZORV81YkVBY05MSjVEUEpUVURTUEJIQlJvd3pnT3VDbzBjekY3b1Z0VDA4aUl4UXVWaUxVZkMtSndaRUdseEE3Vmx1SVNRdXo?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Pope Leo XIV to undergo lung surgery this week",
+          "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week"
+        },
+        {
+          "name": "NBC News",
+          "title": "Pope Leo says he will undergo surgery to remove a nodule on his lung",
+          "url": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-undergo-surgery-remove-nodule-lung-rcna602747"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Pope Leo to have surgery to remove nodule on his lung",
+          "url": "https://www.theguardian.com/world/2026/oct/11/pope-leo-surgery-remove-nodule-lung"
+        },
+        {
+          "name": "DW",
+          "title": "Pope Leo XIV to undergo surgery to remove lump on lung",
+          "url": "https://www.dw.com/en/pope-leo-xiv-to-undergo-surgery-to-remove-lump-on-lung/a-79633735?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "India's 'Cockroach' movement leaders released amid Delhi protests",
+      "summary": "Leaders of India's 'Cockroach' protest movement were released from detention as demonstrations continued in Delhi demanding removal of the election chief.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+          "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYXdTVG9rZnB6T0JIWTR3VHUzWWs1RmVSQkxIaGk5bTdXMG9URUtTYWNZMHl3b0tPMDlIbXpydGItZDZ3bk8xNF9xYkNVVG8xOVRUa1BIc2ZQdjlhbnVaOUUzMlpBbGdVbGpkWndEQmYtX2pkX1NXUlY4VHQybWRhaWZsSW9MN1ZESEFGaVRXcnJrc2NqeVRrOTdRcjlZUnN2TDc4dFhET0RTT2R4cG5acUxEOElrZw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘Cockroach’ party leader released as Delhi braces for second day of protests",
+          "url": "https://www.theguardian.com/world/2026/oct/11/cockroach-party-leader-released-delhi-protests-second-day"
+        },
+        {
+          "name": "DW",
+          "title": "India's 'Cockroach' movement leaders say 'the fight has just begun' after a large protest in Delhi",
+          "url": "https://www.dw.com/en/india-s-cockroach-movement-leaders-say-the-fight-has-just-begun-after-a-large-protest-in-delhi/live-79631190?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi",
+          "url": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Justice Department investigates TV networks over Trump pool boycott",
+      "summary": "The U.S. Justice Department opened an antitrust investigation into whether major TV networks violated antitrust law by suspending White House pool coverage.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Justice Department probes TV networks over Trump pool boycott",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTTFvTk9IcGl4dTJsZ2ZfTkdNSUNURFcxclFramhLaTUzOEw0cU05NTZPOHFWZ2N0RkdSZ1dUT3FLRTFNS0RFSXdLQWJCYzdtcUFxQTVtWDVGTmdLWXZlWXBFSHl2X3hIM1JrRDAxWllPa04zZkhUX2J6Ujd3QzFEVWdXaUlHRDBidC1zNXFEYjdNbEZ4SldnMU9rbmZxdVVHUHUtcDlIQnEycHlmOV9oOV80RFh1WlJMV3diVWdEVGc1TjNJV3c3RmtoeUR4VUVWT2c?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "DOJ says it's investigating whether White House TV pool's coverage halt violated antitrust law",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYnJ6Xy1PUkdWY2JKRXkyTjJFTnV1WDdaV2daaW4xRE1Yd2stb0Q2MkZOTU9QZ1FoR0xDbnZvX1RlbFQ2QXZaeWtJSXdtdDAyakc2YXQwWU9oVVRtTThfbUtwekVhN015MHRMak9LLUl4U2VONHA4NGMtZEdqVFB3WFB0YXhjSlNoelBSSDk5WQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Justice Department investigating major TV networks over suspending pool coverage of Trump",
+          "url": "https://www.nbcnews.com/politics/politics-news/justice-department-investigating-major-tv-networks-suspending-pool-cov-rcna602717"
+        },
+        {
+          "name": "DW",
+          "title": "US: Justice Department probes Trump's press pool boycott for antitrust violation",
+          "url": "https://www.dw.com/en/us-justice-department-probes-trump-s-press-pool-boycott-for-antitrust-violation/a-79631008?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+          "url": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Trump urges new Ukrainian president as Zelenskyy pushes back",
+      "summary": "Trump called for Ukraine to elect a new president and blamed Zelenskyy for diesel prices, while Ukraine rejected the call and continued drone strikes on Russian targets.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Ukraine will stop hitting refineries if Russia halts energy attacks, Zelenskiy says",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTEo5WEZxUk5OcWNWU1Z1Z0g4SGlFQmxKckFxbS05WFd6UUxDNE0xa0NZRzZoR004Tms3azQ3aTVfUVIwNXlTU1ljcW9HLTREUGZBVVFiWlpVWXI3V1c3Zmt2UEJ2ME43azRMb0Vlei1iQUNPbzk4bV94bkRGTzBmREMydnBCRzVSclBoVkhrWkx4TFJ2YWdsRS1COGVOWU9pRDJqSUFNRk1pUnpQM2dlQ3o0eGpYSHYzbWdDX3dtQWtYT2Zz?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump says Ukraine should get a new president as he blames Zelenskyy for US diesel prices",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVE9mQmhMWU5BTVNON25zTDhzTlBzU2VKMDBpa3FmcTI2NE5qNWJYRUx1c2dEdk9kTjhoQm5naDZXQTJKUmRaMDJ4WVhvSklpclRXUGxZSl9USUY4SkN2WTFMaHo1bVVDWGJzS1FGWVV6YlRkNlJ5ZVdaUmp2WUd5eUZKbFZWQXdCcVNzNkZEX01YUXZxeHBXZUlTaXdYQQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Trump says Ukraine needs a new leader after diesel deal with Russia",
+          "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy"
+        },
+        {
+          "name": "DW",
+          "title": "Trump slams Zelenskyy, says Ukraine should elect new president",
+          "url": "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Ukraine shrugs off Trump call to ditch Zelensky for energy strikes",
+          "url": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Migrant boat capsizes off Djibouti with over 100 dead",
+      "summary": "A boat carrying migrants capsized off the coast of Djibouti, resulting in at least 109 deaths including children, according to UN reports.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+          "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "109 migrants, including 15 children dead after boat from Djibouti to Yemen capsizes, UN agency says",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3otdUpMV081a0ZSLTRCeHRwM2ZRV05qYi1nUHgtSHpjMnVPU2FXUV9jZ0JCYjFsTC1xN2lBUzNGTE9JeFNUMmlpV01pcnNkejk2TFdSMkp2WURRRWhNZloyRVRaTEYzamRTNXUwTV80ZkhoUE9OR1gwYWJVMUpwemhuMkVZT2dYLVF5NVUwSnJWNngtRFhJcDFHWkxjNmlDSDZEUlJ4R0hSQTBtN2JXb2s3MmUyaFBMSlJmNHc1WGdJVXEt?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "At least 109 dead including children after migrant boat capsizes off Djibouti",
+          "url": "https://www.theguardian.com/world/2026/oct/11/deaths-migrant-boat-capsizes-djibouti"
+        },
+        {
+          "name": "DW",
+          "title": "A migrant boat sank off the coast of Djibouti with the UN reporting over 200 people dead or missing",
+          "url": "https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Shooting kills 8 in Erie, Pennsylvania before suspect's suicide",
+      "summary": "A shooter killed eight people at a family home in Erie, Pennsylvania before taking his own life.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Erie, Pennsylvania shooter killed 8 people, then himself, police say",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMl9nRTZNVTRBQkNLeVNTSHA4Ul9ZX1lid0dwTXU3MTlUSlRWOFVONF9JU19tcklUSGNMZlpaWHVReTBkVC14SWltejE3OHVQNVhNYXoyS1lNUE81MURFV21pTnJQZUdNR254NUVYRlNUUlF1MHBQdHpMM2lSeUxyVUR1d000aEc5bGhjaVlDZw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Shooter kills 8 at family home in Pennsylvania before turning gun on self, Erie police say",
+          "url": "https://www.nbcnews.com/news/us-news/erie-pennsylvania-mass-shooting-rcna602669"
+        },
+        {
+          "name": "DW",
+          "title": "Shooter kills 8 people and himself in Pennsylvania — police",
+          "url": "https://www.dw.com/en/shooter-kills-8-people-and-himself-in-pennsylvania-police/a-79630735?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Poland investigates possible plot to attack Prime Minister Tusk",
+      "summary": "Polish security services discovered a possible plot to attack Prime Minister Donald Tusk and the defense minister, putting the country on alert.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Polish security services meet after 'serious' threat to PM and defence minister",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM3Zhb3YxM0h0Nm9Cd1E0Q3NNempnci1DZG9CMXNxdUx4TFJvSkwxRnAtZEdJT3BTTnZrMlROOE1JdjdlbXI2OGtGRlhlQXNLY0hKNnVIUHpQal9zcXF0cjd6TUFLUklFM0g5cUs5T3hWNHhPWlQ2Ni1fVkZJc1VBZ0JGX251MkV0Ty1SOTBRcl9ZeE5qOU5vbDhUUHhTMHVBVkJRZGNSMkZlVXNtSkJYMVpYX3JwRHpVRnp4VXBjanVlWFk?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Poland’s police warn of a possible plot to attack Prime Minister Donald Tusk",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTEM0SEhDMFJtcDRlUkZUWnhzT2hKMnZqQnNzS3RLb0t1Uy1TMWx4SGpqUElWYWRBNlZ5VjlibEJ3cnlYTGNLWHN2OEtJazJPQ3NYaXJHY3A5eXBCZmYyVjU5TDNDbTJwbDAwdzBYdlVrNVdteURRX3dTV3I0SEJ2RHpNaGVjeW5POHdtb0c0XzVkQWZCa0tsSEVjcDZNRTdp?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Police in Poland ‘learn of possible plot to attack prime minister Donald Tusk’",
+          "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk"
+        },
+        {
+          "name": "DW",
+          "title": "Poland on alert amid possible attack on PM, defense minister",
+          "url": "https://www.dw.com/en/poland-on-alert-amid-possible-attack-on-pm-defense-minister/a-79633128?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Flash floods hit Nepal after landslide, multiple missing",
+      "summary": "Central Nepal experienced severe flash flooding triggered by a landslide in the Budhi Gandaki river area, with villages evacuated and people missing.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Buildings swept away as flash floods hit central Nepal",
+          "url": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Nepal urges villagers to evacuate after flood triggered by landslide, 5 missing",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcnllV0stREo0VDlyUHJ4RkwxX2pWZ3RSQTZnbFA5OFMwcERqSXEzSFVZVnl5a3J5NjRoaWZrX2RhOFM5ajE2RkhxYVI0VXE3czN1Wk1pbGk0RVdDMW5SUTVJUnVkbmtibVBzczM0RzVvaXVfa05sUFpJSGV3V1Fxa28xc2dYeTZJZDd6SHFIeGMtQUtmREtLQnlXckJvR25PMzZrZWhWb05TZ1BMQWpKOU1jdGdya2x5aFZKN2lCMA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Villages evacuated as flash flood from Budhi Gandaki river hits northern Nepal",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHJiTE5uU0t3VjY2XzhVV09yeXR5OV9OWDdYeHpJMk15WW1ScXplQnZIRFJWT2RkdHpfRHhMZjZhUDdVcmZoUldnUXo0bEtPa1F2Q3JHWGtieFV5YkE5WDdNa29lbVNpWXBaQ2ZhQWNrRzQ1VkhkLVdaUjNOYjlpZHRVTVU2TkZPTlBvM3FSOUpBVmhXMFhYUzVBUHI4UlpUMm5HYnd3RUFSY0pt?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Man dies after entering tiger enclosure at wildlife park",
+      "summary": "A man died after entering a tiger enclosure at an English wildlife park, prompting the facility to remain closed.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Wildlife park remains closed after fatal tiger attack",
+          "url": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Man dies after entering tiger enclosure at British zoo",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ1QyaGlOTFk4cDFNNnB4YnNYVzE4WGx3ZDdVVVh3UTIzNVFPUFhsSzJJb3JONlp0NUVtSXhhb2lIdWFVZ2ZRdHN4Q0RXei1yMmJnYmxCZ2FINWVXN1lRNGdJLTMwbHlQdk1zcG5tU0RET2xoNF9kZ2FCRE10ckp5bWhwd0p5NXhPSE13aGJMMjEtb2QySGln?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "A tiger kills a man who entered the big cat enclosure at an English wildlife park",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTU5Tb29pSjcyMFpHUjgtV1FybTZxSW5jT1U3dU14NWdJRmlCcmx5Y3hKNVNBUkk0QXZxWExNNGhtWnRCRVZTX1BuS01tdkNkQ2dEcG5weGpRYTc4LU9LNnZvMnpiV2x6TkF6Zm8wbUtPRmRHYVphcS1IXy00NlpIeXFiNUF4TGxUSGlIME90VXlkZUpXMGRrdTZpbXpXTDlQTGdJZXREMURaRnB6eW9wU1dZRnZvZw?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
