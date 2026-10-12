@@ -1,0 +1,286 @@
+{
+  "date": "2026-10-12",
+  "crawled_at": "2026-10-12T22:05:19+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Houthi attacks on Saudi Arabia's Riyadh airport kill civilians, close facility",
+      "summary": "Houthi militant group launched deadly strikes on Riyadh airport in Saudi Arabia, killing at least 12 people and prompting airport closures and international condemnation.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+          "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Skies over Saudi capital empty after deadly Houthi airport strikes",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGszbTdESk0xU0twcE1ZOHg4VFpzN2lzeWQ0ZDJseVpKczh6cE44eTNOb3ZDS3dnVnZJN3RCNE1wVDI0djVodU41LTN3WkVIemI0NWlucWpKY0tvU3JMeEM2YVN1OTBsdW5mZDVXeWhFcXdyQ1pGRjBVNTR6SmpBSXhzSXRObWtSTjlYcEJzOUxsX2Ezb28yZ1FrU083bzNpNmd2VlpjUkxnaE5PdEliNWpxeU5QNkp1V1JmcXlFdUJ1S01zcHc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Saudi airport passenger terminal is struck again, a day after 12 were killed",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXk0VFduYU1ldGM0N3RTZGlUVEFiOV9GdHBJTExieVVQT0preW1GRGVHLUZHN3VyZ3pYUzdXbGYzVHdHdUsweFFUekY3Nk13LTl3dWtmdmpiMDh5ZXR3Sm9kZ1VvbFlZNFU3UXgzYlJEaml0VGNHS09ia0E3QUJERDcwRkRsd2UzNWZYWjZlUDJWYUtoZlh6Ng?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Saudi Arabia’s Riyadh Airport Hit With 2 Strikes in 2 Days",
+          "url": "https://www.today.com/video/strikes-on-riyadh-airport-prompts-travel-warnings-for-us-carriers-271428677931"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
+          "url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport"
+        },
+        {
+          "name": "DW",
+          "title": "Saudi Arabia: Deadly Houthi strikes on Riyadh airport fuel fears of wider Middle East conflict",
+          "url": "https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Two American economists win Nobel Prize for work on economic crises",
+      "summary": "Robert E. Hall and Michael Woodford were awarded the Nobel Prize in Economics for their research on how to stabilize economies and manage boom-bust cycles.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Hall, Woodford win Nobel prize for work on how to stabilise economies",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0FkcnNtRHc1MG5POU9PWVhBX0VlQzBDQUtNOUgxRWhiVmotZVRzb1pDWFdVZnBsY3dyYjdya3hnSjJ6WUc2RFdhcDVDSTJxQ3pkcTRUbDBXTk44NU5NUDJwaVVyUEZCZmNlaHNrZmg3LVdQSEdMcUc2Vy1FVHZRbXMzbU1yZU9KT3ZTdDJ0aw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "2 American economists win Nobel for overturning assumptions about how to deal with economic shocks",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUxIN3FQeEQ2NmZOTVRueTY3MlM3N0ExVTlRMlpzaGIxeEhiLWUwdldDRkRpRzRlMGFpMEhJZkxadkZkWmQwVk9OelRlX2FpZmhnWjZZdVFfQ0FVaUk5Yk1xdDVFU0F0aUFrOVRoOEZwalJJVEtEVEdOU1I2NWtQN3h1SjBSNTJNckJtc0d2T1dMQQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
+          "url": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
+          "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models"
+        },
+        {
+          "name": "DW",
+          "title": "Nobel Prize in Economics goes to pair of US economists",
+          "url": "https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Robert E. Hall and Michael Woodford Awarded Nobel for Economics",
+          "url": "https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Russia and Ukraine dispute claims of energy ceasefire agreement",
+      "summary": "Trump claimed Russia and Ukraine agreed to an energy ceasefire, but Ukraine's Zelenskyy said Russian attacks on energy infrastructure continued despite the alleged agreement.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Kyiv says Russia hits energy targets despite Trump ceasefire",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWxLV1J6R2V3UDNKc2FwUU9oQ2dvUGVXd2FQTTNQdFM2QVVBLU54eWN0SFktR25BT0l3U3NIRldielJHYjBLY1lfMTk1OGZGVUZtOG4yMXhINzZSVDhwdXZScWtCUDdVYWxjSkF6RThTcHhyMWN3Z1hrWjNMSFJFMm04eVRKZ2luSkJjWUpKM2RYSXdXa2ZKbk94MjRjaXFDRDRtLXd3c3pMbk1Ld21LOE13WEZMUXp5YWdEcnNYMzc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump says Russia and Ukraine agree to an ‘energy ceasefire’ but Kyiv says attacks continue",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamZWc0pzUzdKd3YzOVM2MXRGdTc1akUwMDBma1pxUkt1OXd3ajk5RUlhLS1xaHJsVVdwVXk5cDVaMlFIcGxqSWtpelg1UUsydjFIZ3VpSXBKMTBnVlh3TTFUMGdjNlBtMWhEZmFpSnFTNVBDMWx1OVN5X2xGQS1DUndqS2RPQ2FBWXIxNGE5QzFhX0wzaW9vWUkwb2VoUHhGZU5Z?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
+          "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue",
+          "url": "https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine: Zelenskyy accuses Russia of ceasefire violations",
+          "url": "https://www.dw.com/en/ukraine-zelenskyy-accuses-russia-of-ceasefire-violations/a-79640911?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "UK PM says Russia interfered in 2016 Brexit referendum vote",
+      "summary": "UK Prime Minister affirmed that Russia interfered in the 2016 Brexit referendum, while defending the legitimacy of the vote and UK's potential closer ties with the EU.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Rejecting closer EU ties would be dereliction of duty, PM to say",
+          "url": "https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "UK prime minister say it is ‘clear’ Russia interfered in 2016 Brexit referendum",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXVCV01mX1Y3VmZHSzNEdmhpcFRSYVdCM2VVSEZCWDJCOXFpS3J2dkNldlpyWV9adHo2MHAwSml2RVlCdlhvQUE0MTdPNWxkTlpMTnlINjdmUXhSVGNocnZmMEtnTG8wM2VXMnR2N2tuREkwOV9YTUpBSE5aMnlaYjZCSmI1Y211NmluRU53NlJ4TWp4ZGpkM0Rn?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Burnham accepts Brexit result ‘legitimate’ despite Russian interference, says No 10 – UK politics live",
+          "url": "https://www.theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest"
+        },
+        {
+          "name": "DW",
+          "title": "UK's Burnham accuses Russia of meddling in Brexit vote",
+          "url": "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Pupil shoots teachers with rifle at French school; suspect detained",
+      "summary": "A teenage student opened fire at a school in southern France with a hunting rifle, wounding two teachers before being arrested by police.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Pupil arrested after two teachers shot at French school",
+          "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Pupil shoots and wounds teachers with hunting rifle in southern France",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXotN0pGdDNYQ2lHMW1rZzU0c1ZTOGVNMUN6OUE1WEZVS1NwakZmbmtJRldoZU1QaFZKZC1mSmxYeUVmdGJwc2FZUzVZb1VoYnR2Mk5hbDNFYVFvT1ZScUZpbkNoMDVDVC1XMmlYTWVCVnFCaVBsQ0hsTk4zQW9SVzlSZU1ESXNmXzZiRnp2eEdiQVBTdWx6NVB2ZjI?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "French police detain teen pupil suspected in school shooting in France in which two were wounded",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdEhfVl9sNm1fRlFvbFktWDNqckIzUmY5dUVXOHlUUmVhVHJxM09aVU9pUEtRWWkxWm10Q0JRMnNyMjNDRG5yV0lOWWJNRHNEQk1qemZLUTdvMkhUNHpTWm5QQ21JTW0yZ2dqV3Bwbk5MaVZoYzdSNjVLSzhEdGxDTDJoZDM2eHhEeFE?oc=5"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Pakistan detains hundreds of politicians from Imran Khan's PTI party",
+      "summary": "Pakistani authorities detained hundreds of politicians from former Prime Minister Imran Khan's PTI party ahead of planned protests, with the president suspending a provincial government.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Pakistan province leaders of ex-PM Imran Khan's party detained, minister says",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVzNGQzJfT2pyWFBUZGlMR2RLZ0FReGVqX0VMOVRlQWdrMV9PRzJhWmpxNUl6SnNRUTRZaV91XzlFMWp3Z2NSUk1paFZQQlZYUkVsdWowbDgtYjczVVJGVVhIWFZHcGNIdGRXNTg2cmZyaXlSWlVJbndjV3NEWV9qeVk3Q1FXQzh2SE0zSmRpbkVUbGRZMHFPMXNqcXhjb0xHSllwNHNhZGhwRC1fNkRReEUyVTdlZ2sxcGx0cW5XTDc1XzB5YVpFdTNxY0I1Smc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Pakistani president suspends provincial government led by Khan’s party ahead of march",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmdLcnFXLWZKdHNHNzFwVklpTS1OYUZDMnVZZDV4cjVOX2daQTZoM3FEWUdmVEJQRVRuZVk0NWpKcGlid2JkbmMwQmlObkZEMWh2bmpNVXctdEJSczJFaUdNN0ZtMVpTdDZOVUU5RDJFbTFUOHJ5VnlhZDlGRjF2U2x6ZE9MYm01c2NHSnZfRWVNNm5WMlVvQVlZcnJrdnc?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Pakistan detains hundreds of politicians from Imran Khan’s PTI party",
+          "url": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Federal agents search Ilhan Omar's home in criminal investigation",
+      "summary": "US federal agents searched the home of Democratic congresswoman Ilhan Omar as part of a criminal fraud investigation.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "US launches immigration raid of Democratic congresswoman Ilhan Omar's home, Fox News reports",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMDJQVmVIaFZGdTRES18xTGZOQTgtMzMyWGVOb2VxOUxpWUpQNDlhXzZIdXU0bE81bHVqZ2dRcnVqeE1NWkhtNXNQMTZHb0RtWUhibjBiVkF5MWdSTHJZLW0yNjJrWFYxRVpHQjBnZHJDWGhwVTBIanpDak5iLWc0Y1NIVjN1VmRhTVV2WXE1X0VHQ2gwZXNwb2FIQlEwaGtDWFVnMGpDTlQzLVd2SlNXcVB6dmpDYzJmMURtbUdQYmVra3dtc0ViRWl6NU4?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Federal agents search Rep. Ilhan Omar's home as part of a criminal investigation, AP sources say",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjdzXzdVOVh5OVVkeXRrSlNpQXBuMTBWQzhqRDUtbG9uY1ZET0trR0xXNmlIQUhBY1hRS1BsVm8yRENMUE1MZTRxaEtsUmFoaEFUSXFuTXpqeVpqMHd5a1ZYOEtnT3ZvV1NhNmZYMUg0WnlGenFVal82aFp3c2psT25Fc0dRSUNWbkNobw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Federal agents search Ilhan Omar’s home as part of fraud investigation – reports",
+          "url": "https://www.theguardian.com/us-news/2026/oct/12/federal-agents-ilhan-omar-home-raid"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Pope Francis to undergo lung surgery to remove nodule",
+      "summary": "Pope Francis is scheduled to undergo surgery in the coming days to remove a nodule discovered on his lung.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Pope Leo XIV will have surgery in the coming days to remove a nodule on his lung",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUzd2TWpTUTY4aDBlZm00b1RaVHgxenRmVzBCTWYtRERQNW5EczFLcmZFUzFoV1JLdDlORVctV2NEcVctUXJaWV9veEVOWlhISUN3cFZORV81YkVBY05MSjVEUEpUVURTUEJIQlJvd3pnT3VDbzBjekY3b1Z0VDA4aUl4UXVWaUxVZkMtSndaRUdseEE3Vmx1SVNRdXo?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Pope Leo XIV to undergo lung surgery this week",
+          "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week"
+        },
+        {
+          "name": "NBC News",
+          "title": "Pope Leo to be hospitalized Tuesday for surgery to remove a lung nodule",
+          "url": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-sticks-normal-schedule-ahead-surgery-remove-lung-nodule-rcna602926"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Hurricane Simon pounds Mexico's Pacific coast with strong winds and rain",
+      "summary": "Hurricane Simon battered Mexico's Pacific coast and vulnerable towns with powerful winds and heavy rainfall, causing widespread damage.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Hurricane Simon pounds resorts and vulnerable towns along Mexico’s Pacific coast",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1JYNEFiNHpwMTFGZFVETFU1SG9OMXEzTzIzbWh1ZmxoVWY4bTNwTzlxZ1A1VWhmaFJ1bWNIbFEtc0VYVmJZZ0FIQ1JBdTkyU21wamtWdXh1azZUMnpWZ0JOVHc3emE3WVNmTlFBVXdjQ2xiX1FldkExelhnbFRJM1NBY0J6ZVJ4LUE?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Hurricane Simon pounds resorts and vulnerable towns along Mexico's Pacific coast",
+          "url": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears"
+        },
+        {
+          "name": "DW",
+          "title": "Hurricane Simon batters Mexico's Pacific Coast",
+          "url": "https://www.dw.com/en/hurricane-simon-batters-mexico-s-pacific-coast/a-79636873?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Roman Abramovich's advisors falsified documents to hide wealth, BBC finds",
+      "summary": "An investigation by the BBC revealed that Deloitte and other advisors helped Russian billionaire Roman Abramovich hide his assets and evade taxes through falsified paperwork.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth, BBC finds",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Roman Abramovich aides falsified paperwork to disguise assets and dodge tax, records suggest",
+          "url": "https://www.theguardian.com/world/2026/oct/12/roman-abramovich-aides-paperwork-tax-records-suggest"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
