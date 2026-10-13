@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-13",
+  "crawled_at": "2026-10-13T22:05:19+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "RJ Mitte, Breaking Bad actor, dies at age 34",
+      "summary": "RJ Mitte, best known for playing Walter White Jr. on Breaking Bad and a disability rights advocate, died at 34.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Breaking Bad actor RJ Mitte dies aged 34",
+          "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "RJ Mitte, ‘Breaking Bad’ actor and disability rights champion, dies at 34",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ194aXBLUGNqUVRSU093dmgwM2ZuY3lxS3BtSVgxUU1QTTJYMUhJRjJyYnZWekFDd1BhWURnSjJoRGMxSDl6cWduTkZHZTFSVzZsM2NfZ1EwcUxYMHFNOFlPeXp4UDVFOGZGZ2o0YUQ1QXpjWk5QOWstMTNCaTZJU3hzSnBkbmM5aXV6M1J0RmU?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "RJ Mitte, actor best known for playing Walter White Jr. on ‘Breaking Bad,’ dies at 34",
+          "url": "https://www.nbcnews.com/news/obituaries/rj-mitte-walter-white-jr-breaking-bad-dies-34-rcna603081"
+        },
+        {
+          "name": "The Guardian",
+          "title": "RJ Mitte, actor best known for Breaking Bad, dies aged 34",
+          "url": "https://www.theguardian.com/culture/2026/oct/12/rj-mitte-breaking-bad-actor-death"
+        },
+        {
+          "name": "DW",
+          "title": "'Breaking Bad' actor and disability advocate RJ Mitte dies",
+          "url": "https://www.dw.com/en/breaking-bad-actor-and-disability-advocate-rj-mitte-dies/a-79646725?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Rep. Ilhan Omar's home searched by federal agents in criminal probe",
+      "summary": "Federal agents raided the home of Democratic Representative Ilhan Omar as part of a criminal investigation.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced'",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjdzXzdVOVh5OVVkeXRrSlNpQXBuMTBWQzhqRDUtbG9uY1ZET0trR0xXNmlIQUhBY1hRS1BsVm8yRENMUE1MZTRxaEtsUmFoaEFUSXFuTXpqeVpqMHd5a1ZYOEtnT3ZvV1NhNmZYMUg0WnlGenFVal82aFp3c2psT25Fc0dRSUNWbkNobw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
+          "url": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar"
+        },
+        {
+          "name": "NBC News",
+          "title": "Rep. Omar Reacts to Feds' Home Search: 'I Will Not Be Silenced'",
+          "url": "https://www.today.com/video/rep-omar-reacts-to-feds-home-search-i-will-not-be-silenced-271483461837"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Musk Pours $276 Million Into the Midterms, and Federal Agents Raid Home of Rep. Ilhan Omar",
+          "url": "https://www.nytimes.com/2026/10/13/podcasts/the-headlines/musk-pours-276-million-into-the-midterms-and-federal-agents-raid-home-of-rep-ilhan-omar.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Death at Six Flags amusement park roller coaster in Georgia",
+      "summary": "A person died after an incident involving a roller coaster at a Six Flags amusement park in Georgia.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "One dead and several hurt after rollercoaster incident at US amusement park",
+          "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Six Flags closes 9 rides after 1 person dies in an incident involving a roller coaster in Georgia",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXhBNGpZX2xJNWNMNFpOZm9SeHM0ZDBWWWlwNGZIT3VkZ3c0TDF3cnhMT0tZNC1UbURkNUZVZTdWMVBkbm9HNjlEdXNlN1I3bjVrd3ZjWktRNGZhQWVldnJMY1lkTHlIdjZ5OGp5Qk5NX3JuWl9EN2lLekVvOUVZMUtqX2NDcTduRWs1N0pJMzF0Y1pM?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Man Dies After Falling Out of Six Flags Roller Coaster in Georgia",
+          "url": "https://www.today.com/video/man-dies-after-falling-from-six-flags-goliath-roller-coaster-271484485723"
+        },
+        {
+          "name": "DW",
+          "title": "US: Man killed in Six Flags roller coaster incident",
+          "url": "https://www.dw.com/en/us-man-killed-in-six-flags-roller-coaster-incident/a-79646793?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Bulgaria reports drone attacks on ships in Black Sea",
+      "summary": "Drones attacked ships in the Black Sea off Bulgaria, sinking at least one vessel and prompting rescue operations.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+          "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Eleven sailors missing after drone sinks ship off Bulgaria",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ0lxazhMY3hqT0E3UUxzMUVWb2d1MUpIQzVReEQtSzI2aGtZQjBBdzNCUEI3SThQZ0J1b3ZjeExrbmFpVnZSZW83MFlrUmhGTF9rWHp0dVVRaW9wWl9vZ25wTHNvZ1RqNkY4ZDIyMmNBTzZlUWxNa3RqdC1ubHV2NTBOdWtFVWltZHhTSV9oVzdEeEdTd2xDY2Zfekcza0ZMQm5ILTFJbw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTJPTHc4YkdLRVc4S2RXZG1kVEFYRTNDR1pzdHk1anYybkY3ZFd1c0xaWS1kZ256M2hGM1dMMU84alVTbUQwVTBwUktsUWVzaXIzUnl0cnBWV3Y0aHFGQnhZZzllSjFfdjI0TjdyVGJxNXdwOFp5Y0liU3VoVE5pYXNTVjVTQTg1cUtvcE8tNzZvbzhjSUE?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Bulgaria condemns Black Sea drone attacks as Russia's war in Ukraine spills over into Eastern Europe",
+          "url": "https://www.dw.com/en/bulgaria-condemns-black-sea-drone-attacks-as-russia-s-war-in-ukraine-spills-over-into-eastern-europe/a-79648001?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Formula 1 returns to Africa for first time since 1993 with Rwanda",
+      "summary": "Formula 1 announced a 10-year deal to host races in Rwanda, marking the sport's return to Africa.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Rwanda to host F1's first race in Africa since 1993",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Rwanda to bring F1 back to Africa for first time since 1993",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSHcxbkNjbGtTU1pqdjBnVnRpUno1aUtuRGNDcmVWQjJLV1FHdFNvcVBQcEQyc2FRZzl2a2RyazBfTkpGbkNHdWQ5WXdOXzdjZm5BMldWUjRLSnpzWjFtZGp2cUtGUzlzWFd3TTgzZ2pwOG9GaS1FT29fTXd6bXBDT0Nsczl4ZVBJODA5MTgtNDBHOTM2TGpYUmwzQ2w?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "F1 returns to Africa for first time since 1993 with 10-year Rwanda deal from ‘early 2030s’",
+          "url": "https://www.theguardian.com/sport/2026/oct/13/f1-returns-to-africa-for-first-time-since-1993-with-10-year-rwanda-deal-from-early-2030s"
+        },
+        {
+          "name": "DW",
+          "title": "Formula 1: Rwanda to bring sport back to Africa",
+          "url": "https://www.dw.com/en/formula-1-rwanda-to-bring-sport-back-to-africa/a-79649217?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Russia strikes Ukrainian energy facilities despite Trump ceasefire claim",
+      "summary": "Russia continued attacking Ukrainian energy infrastructure, contradicting claims of a ceasefire arrangement with the United States.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Russia hits no energy targets in Ukraine for first time since Trump's 'truce'",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVA2WjlXNVNqR1RhTzFnOFd4bGstWUFZMDhCbXBNUEsxNzU4b2N2Tktwck9tMlFvSERMbFVwcnNkMUFTSVBxMjlia2VhMlQwZVllRlo5ZFpaUnl6aWFxSWJGaXhIeFJFcVA1ZUUxRHJqWjNqalNrU1UwMUtfX1hKTXhtN3pNVHdOSW93WGh5NlRuZW5KdVJPOGtsWWVHbG9UMy1tUjZrcWxEWGZkUldicFVURDFjdmdza3Q0?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYk9yd3EweHFPQ2doVnFxQmxCdEJxMmdBdF9FT2tzdExGZmR3eUo0TjFyTmU0azY4UEtmRW56djNGaERmMGdpcmNHZWRPcllwdEhPUVhsNjJqMzYxRko2dXA0VTBtdGZvYUdid1hZZkFMeGtJOGdVX1J0NUU5X29naUJaUVNxMG9LWEw2Q3prUHVTNTlyanVIbjFxOE80Y3oyNTlfX3VhT2U?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "UK MI5 chief warns of threats from Russia, Iran, and AI",
+      "summary": "The head of UK intelligence warned of security threats posed by Russia, Iran, and artificial intelligence.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+          "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Iran and Russia ramping up hybrid campaigns in Britain, UK spy chief says",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOel94VDNzeEx1LXhzdm9vX0xSSUhyQUswNTAwUWhsVklGcEtQRm1KYlpUWXhKOUo5cE1tdTJXQV85eVZic05iV3gyVXNIZTJwV2xCRmo0QkFtMDFXMWNWR3lhaS05dHN2UVNtREJodXZLMllfOTBYdUpHelFKS1JQbUVxUFU4NzhTTUswVVlvX21QcXByY0F4akJ1ZGNtSDZ0aExrZHBYVlR4aGlCYTJz?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Rightwing extremists increasingly likely to consider terrorist attacks, MI5 chief says",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/13/rightwing-extremists-increasingly-likely-to-consider-terrorist-attacks-mi5-chief-says"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Selma Blair accused of assaulting flight attendants and officers",
+      "summary": "Actress Selma Blair was accused of attacking flight attendants and assaulting a police officer and nurse.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "US actress Selma Blair accused of assault after incident with flight attendants",
+          "url": "https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Selma Blair accused of attacking 2 flight attendants and assaulting a police officer and nurse",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUc5WE03aG9UWEFvWUo3NHN6YlktMDBySDVUR2JGbkN1ZDA5Z2h2RTdlaUJpbF9qV2JxMHJPRlU1TGo5QzZTeFFjeFRzOWxGZ2FiR3ZEMGYxalJFZzNaMDBZbUcxNDRCOFRBUmY0ektWZlNZUDRJMnEzZUFKZ2hjVFZzMA?oc=5"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Christa Pike execution botched; emergency calls reveal delayed response",
+      "summary": "Emergency calls revealed that medical help was delayed after the failed execution of Christa Pike.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "What newly released emergency calls tell us about Christa Pike's botched execution",
+          "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Emergency help was delayed by confusion after failed execution of Christa Pike, 911 calls reveal",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ0hHTVVNQzFDSlZnY0l0Tl81dmE1TVcxWmlxdkczSUZEZWRJY2tpc1N5VEhfVUxPWlBmY1RBbnRtREZyWVk4YUFFSmZlekJNczFzYzliMXRmMmg2cXlocWNtRENFRW53em1fN1kzalRyNGdHeEhEWF96Y3NEajE5c242VUdOdkh1WlFuQlp6dHhxenNaMzAzc2FRd1Q2bk0?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Greta Thunberg joins French students protesting climate change",
+      "summary": "Climate activist Greta Thunberg joined French teenagers in school protests over climate action.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Greta Thunberg joins French teens on new day of school protests",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEstM19aVlJXVUoxbDE1a0QwdEVHX3JRNV9sblN5TnVvSWdVSlpETGdkVTQ1dDRzUmJJZVU1WnhieUpRczZFd1U2Rm9wc09jZHBIUFFvTWs0V3ljQ1ZQSTNkc3Jhb0tTRWVwN3pob1NZWUtzR2oxX0MxUjZPOTZKTmxab196V2F1a0xXWWtDcUtUZ004UVdLZ05ZU2VCS3RqU2htMV9HWTVEUQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘Our future is being stolen’: Greta Thunberg joins students protesting in Paris",
+          "url": "https://www.theguardian.com/world/2026/oct/13/greta-thunberg-student-protest-paris-france"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
