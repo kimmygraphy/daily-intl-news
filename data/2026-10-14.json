@@ -1,0 +1,296 @@
+{
+  "date": "2026-10-14",
+  "crawled_at": "2026-10-14T22:05:18+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Pope Leo XIV diagnosed with lung cancer after surgery",
+      "summary": "Pope Leo XIV was diagnosed with lung cancer after undergoing surgery to remove part of his right lung, raising questions about the future of his papacy.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Pope's cancer diagnosis leaves Catholics questioning what comes next",
+          "url": "https://www.bbc.co.uk/news/articles/c678p0ld7z8lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "World prays for Pope Leo after lung cancer diagnosis",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZEhjR1JvdVhXeEhEaEZla2JHSkZ5bHFoeWtBTmxpcWgwS3hhMVdCMExHVzdYalFtZFp5VGhYYldPTU5MZWt1QkE3QXNrSU02ZWhkbEtfVE14RW4zZGZwa0VTUmRwUXo5VjRMVlNrc0ZqS1lhcE5QLUlsak9WODRybU5peXp2ei11N2M0M0hBdFdweEdsOU9Xb21TbTJ4T2NRMTh4UkVvSmVxbWM?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Who’s in charge when the pope is unconscious and unable to govern? The pope",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNlFiQkdFQkJMRWFmU29lbGprd3N1bW15Vm5WR3hkanRRT1dfT2Rmb2Z4c2dBN0JsZTRxV0RVbjQtZ1lWYXNPLTAwRmg0b0JkeG9QU24zOG5IaUQ3NjViNnViQS1YVXgxZklNcEdybFctaS1lUDhuUnFqS1A2Yjc3NHB6am44YndZSUV4aDZwOElicFo0VTEyREF4OXpfWmVTVzBn?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
+          "url": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech"
+        },
+        {
+          "name": "NBC News",
+          "title": "Pope Leo XIV Found to Have Lung Cancer During Surgery",
+          "url": "https://www.today.com/video/pope-leo-xiv-diagnosed-with-pulmonary-adenocarcinoma-271548997632"
+        },
+        {
+          "name": "DW",
+          "title": "Vatican confirms Pope Leo underwent surgery for lung cancer",
+          "url": "https://www.dw.com/en/vatican-confirms-pope-leo-underwent-surgery-for-lung-cancer/a-79647264?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "The Downfall of Trump’s Ambassador to Greece, and the Pope’s Cancer Diagnosis",
+          "url": "https://www.nytimes.com/2026/10/14/podcasts/the-headlines/kimberly-guilfoyle-pope-cancer.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Ukraine reports SpaceX Starlink restrictions disrupting military operations",
+      "summary": "Ukraine says SpaceX has restricted Starlink satellite internet access for military operations, with officials questioning whether the limitations relate to political pressure.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Starlink network restrictions in Ukraine related to political situation, Zelensky aide says",
+          "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Poland's Sikorski asks 'big man' Musk if he is playing politics with Starlink in Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMkplYy1WbldnaVhQUHM3enhiYTNydWFFNnB3T2RfaXZqS01Za3ZOWmRfRjBZdl9ITUhHMEVLWGZCNVFGNWVBRm0zdGZIRy0yR3lJN2ctdUdKbDB3VnJIYm1nNmZNcHN1UlZFN2FOSnRMYTliY1o1LWxqSlVyaUtveE5XX3BIcm50OU1sZWRxTzV2X3R3MDR2TjIyV3RLampGS19nWVdkeHZUVVM0b1FUXzdGU2dTYWt4Rk5wLWRVaFU0M0hZb19PMDkzWHk2dw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Ukraine says new Starlink restrictions disrupt military as it reels from intel gaps and Trump clash",
+          "url": "https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Ukrainian soldiers in combat have access to Starlink satellite internet restricted",
+          "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
+          "url": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Sudden Starlink Restrictions Deepen Ukraine’s Vulnerability as Russia Escalates",
+          "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Houthis attack Saudi Arabia, hitting Aramco headquarters and airports",
+      "summary": "Yemen's Houthi militants launched attacks on Saudi Arabia, damaging Aramco headquarters and targeting airports, with the group vowing further strikes.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Saudi Aramco headquarters suffered extensive damage in Houthi attack, sources say",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEY0UDJsbGo1MXFVX1FoY1RIdkFLeW96R3hMOEkwQTNRTFpLby1wZEFGRy10SThxSkhSaXZKQ1psYmdiQVZQd19uaDFtZFBZa1pJZzZCT0dsd0lSdmV1UWV0dExiRmU2Y2lVUS1SaWs1UzNkZ25lUnRJaklfWnlOeEFVQTg2dDVQTWF4UWp1aTcyR2JsUWN5d0JzSWRqMlp1ZDY3OXpncUZDN2FuVk9tN0VuaGtIMVpXM1F4RU5QX00xek9q?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Residents in Saudi Arabia’s capital hear new explosions as Houthis claim more attacks",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Houthis launch fresh wave of missiles across Saudi Arabia",
+          "url": "https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "A Pilgrim and a Retiree: Victims of the Houthi Airport Attack in Saudi Arabia",
+          "url": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Kimberly Guilfoyle resigns as Trump's ambassador to Greece",
+      "summary": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigned following allegations of improper conduct.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPak5ZbXdiNVNTR2dUSG5BaXVDZlgyWEdLYVNWU2FiTTl6QmRQTk1BcmJ4VXFNWHVtYUFBOVdlRnpaUlNnV1ZFRkJtVDRXQ3JzeEUxMVkyUVhKRF9qQ2hQdFBJcEVTVWhCempCTGZ6cmpTME5RTHU0SWdGd0s1QnQ1R2hlUEFRc3RudnlLd0ZKd2w0VDZVU0I2Ng?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+          "url": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation"
+        },
+        {
+          "name": "NBC News",
+          "title": "Kimberly Guilfoyle Resigns Amid Misconduct Allegations",
+          "url": "https://www.today.com/video/kimberly-guilfoyle-resigns-amid-misconduct-allegations-271547461965"
+        },
+        {
+          "name": "The New York Times",
+          "title": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
+          "url": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Cornell University suspends fraternity parties after sexual assault case",
+      "summary": "Cornell University suspended fraternity parties and gave state police a role in investigating campus assault reports following a gang rape case.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Cornell suspends fraternity parties, gives state police role in investigating campus assault reports",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0hlOWdLdXpsRFVLdTZoNXN0NWxfMXlTSHRTRXBJa2xBeERmME5WMUhuWXlTc2RhNThCREt4ZjBmRngzbThSYnR6Q0ZVdEM4eHpMalpHTXo5dWxQN0d1WHFSTHViT1NJZzZNbWV3MjBsYVdhclBSMnZSOHJYUGRBcGVhcXRZYmwyaHM1ekV2NjNIQmlGeHpnNnZUajN4cVV5aC1n?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Cornell Bans Frat Parties, Promises New Safeguards for Students",
+          "url": "https://www.today.com/video/cornell-president-offers-apology-for-first-time-in-jane-doe-case-271547461977"
+        },
+        {
+          "name": "DW",
+          "title": "Cornell suspends frat parties after gang rape case",
+          "url": "https://www.dw.com/en/cornell-suspends-frat-parties-after-gang-rape-case/a-79655735?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Cornell’s President Acknowledges Missteps in Handling of Rape Accusations",
+          "url": "https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-missteps.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "US inflation rises to 3.7%, exceeding expectations ahead of midterms",
+      "summary": "US inflation jumped to 3.7% in the latest monthly reading, surpassing economist forecasts and adding economic pressure before the midterm elections.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "US inflation rises more than expected ahead of midterm elections",
+          "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHFWOXRoc2RvT291ZElaYW5MOWYyZ01rX1I3N093NGJ4bGNxRU1JS2tLS2J5TjhHNk9WQWNfY0xyMnZvbkdoa0N1LWs2OWlGQ19tc1pCZkdJUG5qTl9mMnJJOVE4cXM3V3YweDVGRG1RNnFPeDE0U1F4NW43TjVpNzNRMVRGZkxGOXh5a25EUm1QQTdBT0YwYk5INHByWl9ILXNBQU5R?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Inflation jumps to 3.7% as gas and diesel prices squeeze consumers ahead of the midterms",
+          "url": "https://www.nbcnews.com/business/economy/inflation-jumped-september-gas-diesel-prices-squeezed-consumers-ahead-rcna603202"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Saudi employee charged with planting recording device in OpenAI office",
+      "summary": "A Saudi national working at OpenAI was arrested for placing a hidden recording device in the company's conference room.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Saudi employee charged with planting recording device in OpenAI office",
+          "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "FBI arrests OpenAI employee accused of placing recording device in company conference room",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVl0SzhGa2IyTHliZXlVSl9jcFY4V1NmUG5YN1F3WWsyUG1jSzhlMzNwZ3M2V2hmZWhfWS1pcFFkYmwtc2RZeTdJLVpRTkwxMmE4YjZkdHV3bUlZenBxeUhUa0tIU0VGeGtyTktPSGt5Z3VnUVRudWZ0VlNzSHJjc3hsY0puM0RTanBmSkJ3?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "OpenAI says employee caught planting listening device",
+          "url": "https://www.dw.com/en/openai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Bank of America fined $1.2 billion for money laundering failures",
+      "summary": "US regulators fined Bank of America $1.2 billion for violations of money laundering and sanctions laws.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "BofA misses profit estimates on capital market weakness; books $1.2 billion charge",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSERjcDdENDA2c180cFVhdW01WTVBaEdQdjRvejB6eGpkNklKUE8xM05mX1YybXZmMExUUXVkVDhMZUxGS0g5MWN0S3NtOHk1TjBISzBTWHB6VElZSjFjTHFUdU5sZXZtcHFxa0VybC1qR2Y2R0doZThnbGJoQVE5LVg5bHBDZmFvUm9ONGVUdUszODFvWV9aWlROdnE4NWs5R0FYZmJIVFAxaHZCQlJVRmtidS1IUlhVM1ZIM09MeEk?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "US hits Bank of America with $1.2 billion fine, saying it violated money laundering, sanctions laws",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORERLcDUxeU5Mb2Y3UzRGMUcxVldIQ0hjNFpUdjNGX0pJUlBodGZFR1pfV21tTnRxX2dHMXlUY0o2NGUzNTF3bnFramYtMTV0TE5vZ18xVC1ybHBQMmNuY1ZCQnF2M1Q2R1U3c3J5TVo5M0ltX1NuUVJnQVMxRWtWdGtHdE5nUkZyUFZqellEc0pyVmpxbWM1bl9IVTE1RjRwbldN?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Bank of America fined $1.2bn for money laundering failures",
+          "url": "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Duane Davis sentenced to 40 years for orchestrating Tupac Shakur murder",
+      "summary": "Former gang leader Duane 'Keffe D' Davis received a 40-year-to-life prison sentence for his role in orchestrating the 1996 murder of rapper Tupac Shakur.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Duane ‘Keffe D’ Davis gets 40 years to life in prison for orchestrating the murder of Tupac Shakur",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVklEcW96WUVrS201dmkzNjV5NDFFWlpoOFl5bU9zSEg5SFd6Ylp4M2RXSFAwTC0xdHRnbGE0TnE4OThsSkhIaVBBYnB0RnYwblNQV2FyNzFCdWFUXzFGWS1JaVVaUXNKQVRPZnNjV0NjaDBORkVLVHdzQ1BGNnQ5OHhnNU1vNF9BcXRwS05qcVNNSGMxSmVRQW9ucw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Duane Davis sentenced to 40 years to life for 1996 murder of Tupac Shakur",
+          "url": "https://www.nbcnews.com/now/video/duane-davis-sentenced-to-40-years-to-life-for-1996-murder-of-tupac-shakur-271513157526"
+        },
+        {
+          "name": "DW",
+          "title": "Tupac Shakur murder trial: Former gang leader Duane Davis sentenced to 40 years",
+          "url": "https://www.dw.com/en/tupac-shakur-murder-trial-former-gang-leader-duane-davis-sentenced-to-40-years/a-79655189?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Tiger attack victim's family criticizes spread of video online",
+      "summary": "Family members of a man killed in a tiger attack urged an end to video sharing, criticizing prominent figures including Trump for reposting footage.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+          "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Family of UK tiger attack victim urges end to video sharing after Trump posts footage",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbGsxSDRHRS1oVkExejZCTUlWU29GbGVZMDIxRUkyRkY0Y2Z2MFR0cGN2alpxeWZwNmFJN1V2STlsZktGZTJNQS1EZ0J3OV9aTHdkMFB5ckFDcVp3YXl4WXJMa3NzNXBQRWtDNHpMSzVOaWN0MGNzRG0wdlhoMVBJODRSVDFRMlVaY2REQzFTODE3MEhrNXdiUFEwWWItXzF5RXJWMkhjNXRNbUdyZEl4U0NKRDJCSWdkckFTTFhrQmxSdw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Family of man killed by tiger criticise online content after Trump reposts video",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/14/william-chapman-family-tiger-attack-online-content-trump-reposts-video"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
