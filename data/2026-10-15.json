@@ -1,0 +1,271 @@
+{
+  "date": "2026-10-15",
+  "crawled_at": "2026-10-15T22:05:19+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Ukraine resumes attacks on Russian oil refineries despite Trump warnings",
+      "summary": "Ukraine has resumed strikes on Russian oil refineries after a brief pause, with President Zelensky declaring the energy truce with Trump is over.",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+          "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Drone attack causes fire at Russia's Ryazan refinery, regional governor says",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0pBZjduSzRvUXQtRkNsY2RuSldmSVlKSThDLVhvbFYwOHlFclo3Ymt1VFptaERXV3h6Xy1ROHVMWWthTDluc1JzQTFHYk40MlNqSjBfSHBYSnVLbWhUWXAxbjJUTHdFZEhxdkRZdnhjbjBld2tSMXN2WDY4YVdxWmZVVkpuZF9IWERVQktOS0JkVkJDQl9XU1RNSDZ3WW0yZEJpNlQySXJtUG1NTGR1WGpQMA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Ukraine resumes attacks on Russian oil refineries, officials say, as US relations teeter",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOanVvOXBrUl9qVzlNb3ljaFNMclJtU0JkcGMwOHg3WngxQnJhSUc4VzZGV0hvRDBBek9DejBaaTNwWVVSd0thaUt4dXJWZGVEVHdaeXNHQXVpV3pmZVJwN2o2ZDFrTXNGTVdaLTcwY1haLXBlWTRRNnpZSXFFSmllQ0xEdTZHLVRhREJCU3Q3WHlycGhCcEdTSXpjX0VDb1BXYXFiaGp5VjBXQQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+          "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war"
+        },
+        {
+          "name": "NBC News",
+          "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts",
+          "url": "https://www.nbcnews.com/world/ukraine/ukraine-resumes-strikes-russian-oil-refineries-trump-starlink-intel-rcna603648"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Russia and Ukraine resume energy strikes despite Trump warnings",
+          "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'",
+          "url": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+          "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "School roof collapse kills dozens of students and teacher in Pakistan",
+      "summary": "A school roof collapsed in Peshawar, Pakistan, killing at least 32-33 children and a teacher with dozens more injured.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+          "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Pakistan school roof collapse kills at least 32 children and a teacher",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPei15OEJPSlpiaEF6a1V6MzN5dWFvNmQzZnFaZUVIbEpWREFXSG5kQzlpTDVyS3lST1g3Tk9XdXFzbTd2UEV5THZMcWdBSUw3LWpWX25mcW95Ui0tYk01RWxNNl85a01TRUdVUnpxV3g5WlA1MEU1eGZ1bGQ1eUl1WnRUaGhyRDd1UC1DcWhOcjQxcGMwZHhGb2hzTGpuQ3dmcTNkcGhmZkdxQlplQndkYm5hdGVEalFEMkFYSkJNYw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
+          "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Pakistan school roof collapse leaves at least 27 students dead",
+          "url": "https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead"
+        },
+        {
+          "name": "DW",
+          "title": "School roof collapse in Pakistan's Peshawar kills dozens of students and one teacher",
+          "url": "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-dozens-of-students-and-one-teacher/a-79666091?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "32 Children Killed After School Roof Collapses in Pakistan",
+          "url": "https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Harry and Meghan make first joint public appearance since UK return",
+      "summary": "Prince Harry and Meghan Markle were seen together at their first joint engagement since returning to the United Kingdom.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: Swimmer's emotional TV plea for cancer research leads to meeting with PM",
+          "url": "https://www.bbc.co.uk/news/videos/cxnv01gylmvjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Prince Harry and wife Meghan make first joint appearance since UK return",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWRpS29iTXprM2w3Z19wY0xITWVabHJwYi1qclpkU085VHQ3eGhlM0xscWRTVVNLLUJuN1pxazRiS05HM25oTThUXzE5eEV1RkZVcllpRHVpcVg2QjY3MWI1QXYySnI4ZjdzQWJoWlFxQk9SSTFTRFJmN21YWHFtc0UwV0ZmYUtxbFB4OW5QbGNoTTRoOXNmMzRZeHBlWUJ0MHhyeW1kUXE2RW5PM216THJOaw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Harry and Meghan Make First Public Outing Since UK Return",
+          "url": "https://www.today.com/video/harry-and-meghan-s-uk-outing-challenges-royal-family-tradition-271616581601"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Trump press secretary Katie Zacharia faces scrutiny over legal credentials",
+      "summary": "White House press secretary Katie Zacharia has come under questioning regarding her claims of being a lawyer.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "White House defends new press secretary after questions about her legal credentials",
+          "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Trump press secretary Katie Zacharia faces scrutiny over claims she’s a lawyer",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMlYyZHRRLXFYSlVLeXpTajNWNXRGSmRHWERoV0Q1VUNLLXFBcjFVVFNtZEh1Wjh3RnlYUXpYQkdjSFJUWGw3eDlNRzk1RUdVaVVUTndiV3hkTTI0Y2w3ajVYaHNPS3lBV2dYcFRxc3hBMHc0eUVOUXNUdUVLcVRLbHh2Q0hLMnlhRDZoelA3LUdDbjNPYkNhSDYtTktHaVhLenA2amRCMzVDcjQ?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
+          "url": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Brazil approves shorter working week in major win for Lula",
+      "summary": "Brazil's Congress and Senate have approved legislation to reduce the working week, a significant victory for President Lula.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Brazil's Congress approves shorter working week in win for Lula",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Brazil’s Senate approves a shorter workweek in major win for Lula ahead of runoff",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObnVEWElSRXpOUmlXck11bDFCalZydGhnSFNSSFVBV3FjZlhmTDl4RXNPbWlLSnBNNF9XQndRVzVnRDZrWmZid0xLSldiTDRFRTdqeWdObTNkTXlkYjNxZk14YVhkcHgySlQ1SFh4ekFPeGxZWDQ3MjN6cXZjTHlER3FKTGVoLUp2VTlGYzF3OFdlV2laczBSQzVFd2M3Vlk5Tk12eWJLYw?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Brazil to shorten workweek in win for Lula ahead of runoff",
+          "url": "https://www.dw.com/en/brazil-to-shorten-workweek-in-win-for-lula-ahead-of-runoff/a-79664991?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Two ships ablaze off Romanian Black Sea coast with sailors missing",
+      "summary": "Two ships caught fire off Romania's Black Sea coast with seven sailors reported missing in the incident.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Two ships ablaze off Romanian Black Sea coast, 7 sailors missing",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWTNEdUVjS3dseHk5amh0VGlyX180YWx6MEZobS1ySVhHSnFzbVYtSFFRTUtqRU12M3pGTnRPOEIyOTg0VnRiUkoyRkJxMmJiYlpZamFOLTVYVXJXbmhCa2J0a1BxbmlaUDF4X1hsNW5rOWVpaEtzTUo5dGZSclVwWUpBSHdOdXZFa2h6TWp6b1piY1VqN18wVlY0dFFNOUtLcFlJcA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Bulgaria says Russia was likely behind Black Sea drone strikes as rescue operations continue",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXRicXJvcXBsM21wZ1F1UmphdlRlTjk3Z3RROTB4MjVOTUtRcVkzUXF1T0h3QVkwNGE4UzRSUFdQbzRBeXlsaFdvQVg5d045d01GQlNJUkgwNTNmbU5YdzNvTmR6cjlwNGxQU0UzNzhwcDQyTkloeWoyU25LSVVHS01vcUc4enNEaDdLQ1N0WEw3d3NubWtSaVlJOW9VdDBZY1daT2p6b3hYRDNXTmJR?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Romania: 2 ships on fire in Black Sea, 7 crew missing",
+          "url": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Albania's leader defies calls to resign amid student-led protests",
+      "summary": "Albania's prime minister has refused demands to resign following widespread student-led protests over government policies.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Albania's leader defies calls to resign as student protesters rampage in capital",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzR2R3ctV19YUFlJRy1QM3RoT0wyV2d1dTlfZHVEanNDcDFJMzZjM2Zyck45b3NMTktPWVVLYl9NUFBmZmRYRGw5YnI0Z3RLbDQ5MVZKck1PNF8yRTAtdlhFUWF5N0R5Z1psX0ZGN2k5ZUZ0RjFtWU9Sblg0MTZmbGxkcjFUeHlHdDd3em44UlY3cGRuUmdjOUtJQmstNFVCX3c?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Albania’s prime minister vows not to resign over student-led protests",
+          "url": "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests"
+        },
+        {
+          "name": "DW",
+          "title": "Albania: Fire at Education Ministry as students protest",
+          "url": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Stock markets plunge as AI debt concerns and inflation worsen",
+      "summary": "US and global stock markets experienced significant declines amid mounting concerns about AI sector debt and rising inflation data.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "CoreWeave shares, bonds slide further as AI debt fears mount",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckxhLTlLMHVuWl93dlRGWngzUjBqY0wxaU85Q2lPNGxaMzg0ZjJhT0ZGd210N1N5SDVpV1lLNl9GOXlNazFrN193TFNFREg1dU5OTkpadm9LVHRxU0ZzQWVWbFV1MnNHY2RGZHVsajI5UWRlWDE5NmtGaDctV0o5ME85dkV3RU5LSEFWdTlNUW5RWXZ5S1BXelNMZkI5ZEZfR05kd1UwNnBZQlQ0MHkyQVN3?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "US stocks drop to their worst day since July as inflation worsens",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0pMamlGY0kzT3haV2dhdGc2UlQwNVo5dS11TzZNNFJlcEZhb0dmNWJRZE95aXY0N3FUc3I4SlNqVC1tVjlOcWswTHJqREI4OHFNWnpScU94UGk5ajJUMkZyRVlNLWZsWFhad2ptaHlrcnBEckN5ekxIZ21PLXhKbmg0aFY2b0UzZm5xTG95ZnhMVUE1WTVEQU1yWWdOaVlfZzlFUkJMSi1pbTl3UFR1Qk9B?oc=5"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "UK economy beats forecasts, giving Finance Minister pre-budget lift",
+      "summary": "Surprise UK economic growth has exceeded forecasts, boosting the Chancellor's position ahead of the Budget announcement.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+          "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "AI-boosted UK economy beats forecasts, giving Healey pre-budget lift",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQclVJOWlaQURzRjZZVzhibFpUTnpjc2F3enRTT1NKZUotUjF2WUpCWjhFT0lzSlY0SXpoZ3ZlZDhMYkMtN1Vfa3Y1UGtZemFmV3N6WVVPQ3p2dld0N3ZubDUzVndDRE52dWdVbmpwOEFYY0UxbzYwR3dGcTNxSG9UcmNxd2ZhSzJVT2FRUTRrbnNldjg?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "North Korea conducts first underwater-launched missile tests in years",
+      "summary": "North Korea has conducted its first submarine-launched missile tests in nearly three years, demonstrating advanced military capabilities.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "North Korea holds first underwater-launched missile tests in nearly 3 years",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjBMMFpHMHM4MzVCcWlvdjk1eXdqOGFDekxUSUlraEVSOUNvNnlMYjd4THhwak0xMDd6MTB4c2QycVlYRXFhaVFyNmF2VXdxajVRdkdOVFh6NG1NSldTbTRQMWhOSTljX3RhNUNfR3VhNUM0RDdSVmQzakRmUEFTbF91NnlibktSYjJPd1VhSEpyaGNZTUlYaEVfbWUzMzEzQzEtYmFR?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Hypersonic missiles highlight arms race on Korean Peninsula",
+          "url": "https://www.dw.com/en/hypersonic-missiles-highlight-arms-race-on-korean-peninsula/a-79667084?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
