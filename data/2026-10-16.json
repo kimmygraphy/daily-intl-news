@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-16",
+  "crawled_at": "2026-10-16T22:05:19+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Teen shoots 4 at Oregon elementary school before witness kills gunman",
+      "summary": "A 16-year-old opened fire at an elementary school in Bend, Oregon, killing three students and a teacher before being shot and killed by a community member.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+          "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Teen shooter kills 4 at Oregon elementary school before being shot by a witness",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUm53TEZKeGNjZ21QOGcxMWJ6V0xQSExrNXN4dU9zY0l2dWVZLXR4THBGRXJOclp3aUNQcDhjRHVsOXdNY1hjSnhyc0NzTS1Da1ZEcW5MS19ON0JySE4wNkNDMHF0R2tDM1JsbnF5R05HbEhhYlRHX0ZoWGM5SUZDei1PMUFUSEx4OUFzV05VNWtuWVBMdE9QWnNlci1sQWJpQWVSN0xrVEc?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
+          "url": "https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers"
+        },
+        {
+          "name": "NBC News",
+          "title": "16-Year-Old Opens Fire at Elementary School, Killing 4",
+          "url": "https://www.today.com/video/16-year-old-opens-fire-at-elementary-school-killing-4-271679557734"
+        },
+        {
+          "name": "DW",
+          "title": "Oregon school shooting: Gunman kills 3 students and teacher before being shot dead by community member",
+          "url": "https://www.dw.com/en/oregon-school-shooting-gunman-kills-3-students-and-teacher-before-being-shot-dead-by-community-member/a-79674849?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "What We Know About the School Shooting in Bend, Oregon",
+          "url": "https://www.nytimes.com/2026/10/16/us/bend-oregon-shooting-victims-suspect.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "EU leaders rally around Zelenskyy as Trump criticizes Ukraine strikes",
+      "summary": "European leaders pledged support for Ukraine's Zelenskyy at an EU summit while Trump called Ukraine's resumption of strikes on Russian oil refineries a 'disgrace'.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+          "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "EU leaders rally around Zelenskiy as Trump calls Ukrainian strikes on Russia a 'disgrace'",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY0hRTnFuN3FTNE1pY1cyNVRLbEJ3MmZ0UWZzUDhWbEhIU3R1RjY4dENuVi12U0hpeXRXM25vQTBOSWFjUFRrYlgxSWo0Y2tZVTU0bk9FQmlJRW9zcjhCMzRiNFNod1RuSWdoUUJwbDVaMmtNYi1peWgwMFhpQnVlbkZRUFZvSXliM3FYRW9IeXpzaUdGdW11Y2pNWlZwUGh2ZWdyRGZ3blhqUW9lUkcwNnI1UVk5OUJ4bk5PUEJLYVRkNVh5aHVV?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump says Ukraine resuming strikes on Russian oil sites is a ‘disgrace’",
+          "url": "https://www.nbcnews.com/world/ukraine/trump-ukraine-strikes-russian-oil-disgrace-zelenskyy-starlink-rcna603848"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘That is my answer’: Zelenskyy smiles at suggestion he is a scapegoat for Trump’s problems – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "EU summit: European leaders pledge support for Ukraine's Zelenskyy",
+          "url": "https://www.dw.com/en/eu-summit-european-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
+          "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Brewers sweep Dodgers to reach World Series for first time since 1982",
+      "summary": "The Milwaukee Brewers defeated the Los Angeles Dodgers in the NLCS, advancing to the World Series for the first time in 44 years.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSGhBMzhBUUxiOE1SYzFtV2NDTWtZemt4UUs4S0dOSElMdVZGWURJOExPa21SSkJpYTdPUC1hNk50dnRmOVEyNkhmZFlBTnpUbWtBM2FMbXJSUEozQjIxOHFJcWhTYnZidUs0VnQ4aGtFSnU4SFpCWEMtT3VxS1V1eFQwNVRRRkdIcXowMXJzMA?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Brewers sweep Dodgers to reach World Series for first time in 44 years",
+          "url": "https://www.nbcnews.com/sports/mlb/milwaukee-brewers-los-angeles-dodgers-mlb-nlcs-world-series-rcna603783"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Brilliant Brewers reach first World Series since 1982 as Dodgers blow 4-0 lead",
+          "url": "https://www.theguardian.com/sport/2026/oct/15/milwaukee-brewers-los-angeles-dodgers-mlb-playoffs-nlcs"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Barn owls establish rare family home on Manhattan's Upper West Side",
+      "summary": "A rare family of barn owls moved into an area near Central Park, captivating New Yorkers and drawing attention to the species in urban environments.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Rare family of barn owls move into area near Central Park, captivating New Yorkers",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVFBkcThRRFE0MzNzZXBhNzlLcklfQnhabm1vQTBLSVhrUHhhVXpfQnFfbDNxY2RycGV4UlN1dHJ2bXlkMkU5VFBRYmhrcjdFM2dVeHdJN0hTcTd3dTRrSGliOU1QT29lT3lGeEV2UG9aYW9JVC1WMHZEN3U3eU1GTlBKXzRtSzNJTm1WQ0s5ak41bWJvaGc0LTBUNUwtVHd3SzZFOHJaeWtRRlFyVjFldEtENnY0ZFR1b1Vfem1KLVA4bEpGRTF3bEJ4YjlFbVlvQXdBS3dn?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated",
+          "url": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Drone strikes in Black Sea raise fears of Russian escalation near NATO",
+      "summary": "Multiple drone strikes and attacks on ships in Romanian waters and the Black Sea raised concerns about Russian escalation and NATO's potential response.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Drone strike and fire on ship in Romanian waters raise fears that war in Ukraine is spreading",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXc0QkVBRmZ5aVBXeGkzTnJkdzlXTlBBVXlCTVB1Mk1HWFRhVmd1Q29tUnJQUVlvUTk1QUJuZmFxTzgzR3NhNncyeUNTV3M3Znc5ZHNseWpFSEFNMGdGUVpGeXZ3dzdQNUJkSUxYaUhNQ0dhckV0RUVudWxidXd4VGFCSkpBZHF4TkVjVmdpMzZPVkZFanFxVVM3SjFFZlVLYnc?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Romania: 2 ships on fire in Black Sea, 7 crew missing",
+          "url": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Israeli settlers attack Palestinians during West Bank olive harvest",
+      "summary": "Israeli settlers attacked Palestinians and burned olive trees during the harvest season in the West Bank, injuring a journalist in the process.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+          "url": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Israeli settlers burn olive trees, injure journalist in West Bank attack",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkU1bHk0ei02ZkZRZndPemRvNGZFQnM5ODdrR2EyTU9WRjBUN3MwcGdtLXY2NnZnWld0UkM2MjBUMDUzWVV6ak1vcGNSV05KMllWVWotQS1TdGNLQnVFOERMRElid09YaVB2bUhGLXE4TlFJelBfRFg3QS1vOVBSLXVJWTV3R01CQ3FSZzVZMHlub3V1ZjFtYlJYNGwwRDRFeUxTeWFzNlJjS1dwSGo1a0xOaXRMc0tiWnlrbVBtMA?oc=5"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Fed official Warsh says inflation focus but silent on rate path",
+      "summary": "Federal Reserve official Kevin Warsh stated the Fed is focused on controlling inflation but declined to provide guidance on future interest rate decisions.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Fed's Warsh sees US resilience, mum on rate-path view",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUpNSUtZSU1FYnJCSDNWNnJRMmF3bmQ1QkdEaVhZb3I3c0lpYWhyQjNSemVVdGttRHE3UTFNOXg0enZ6eHAzcDY3UXBmQUJJRzl1T3gtMEZad0Z0Xy12TTlFcVRGeVdNYmVkZ3NPQThlUWRLUTh5c2J0UHFPVVRKT0hpR2RyU2tlRnJhVnBZZkxxUFhaTzRBVUlkbWFUUQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Kevin Warsh says Fed is focused on taming rising prices, but gives no hint about next rate hike",
+          "url": "https://www.nbcnews.com/business/economy/will-fed-raise-interest-rates-kevin-warsh-offer-clues-rcna603661"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Norwegian teenager jailed for 20 years for UK murder plot hitman role",
+      "summary": "A Norwegian teenager hired by an Iranian crime gang to carry out a murder in the UK was jailed for 20 years.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Norwegian teen 'hitman' detained for UK murder plot",
+          "url": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Norwegian teenager hired as hitman by Iranian crime gang jailed for 20 years",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/16/norwegian-teenager-hired-hitman-iranian-gang-jailed-20-years"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Alberta separatist conference reflects growing independence movement",
+      "summary": "An Alberta separatist conference featured fiery speeches and internal debates about the region's path toward independence from Canada.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "Fiery speeches, LED hats and infighting: inside an Alberta separatist conference",
+          "url": "https://www.theguardian.com/world/2026/oct/16/fiery-speeches-led-hats-and-infighting-inside-an-alberta-separatist-conference"
+        },
+        {
+          "name": "DW",
+          "title": "Carney implies US trying to 'break' Canada amid vote for Alberta independence referendum",
+          "url": "https://www.dw.com/en/carney-implies-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Elon Musk reveals Tesla's 'world's first flying car'",
+      "summary": "Tesla unveiled what it claims is the world's first flying car, though questions remain about its actual capabilities.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: Did Tesla really just unveil a flying car?",
+          "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Elon Musk reveals ‘world’s first flying car’ at Tesla event",
+          "url": "https://www.theguardian.com/technology/2026/oct/16/elon-musk-reveals-worlds-first-flying-car-spacex"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
