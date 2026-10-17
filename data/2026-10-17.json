@@ -1,0 +1,286 @@
+{
+  "date": "2026-10-17",
+  "crawled_at": "2026-10-17T22:05:20+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Oregon school shooting: teacher and armed parent stop suspected gunman",
+      "summary": "An armed father and teacher tackled and stopped a teenage shooter at a school in Bend, Oregon, preventing further casualties after the attack killed four people.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+          "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Teacher and armed parent teamed up to stop Oregon school shooter, police say",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONEwybHNSVWxXcmxXaVN2dWdZX3dmMi1vYzU0Z0VvTEQzb1NHVTdSbWQ3X2dzVGFJWW05Ny1RVjMwZFl0Z3ZPZFl2MGs5WmxJbm1NcmRXcDIyOUNIUGdfME5KNFpmRW5SdS1wQ05zZHVWc3hvV01QREhhV05NWTMtWFFYNHhzUEo5aUVldmg0c0VNYjV5b1NFWGxzMDlTano4eHlpNmtRdUYtV0JQX0E?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlcwLW12UDlEZm1YNlAzTHVxTUJ0Zmh3OFZnZ0h5bmpmSUZzalllbG9XREtXYTZQUjNkYUNzWXpRTTFXWExjLV9vb1VpTVZCX1pBTFdZNGhoeE9lb0lGdTY1a0kwdldpNFE2c3VvUEx2b0JpTTBhc096THIwbWJGdVc2U0diMnhSNlgxZFVhR3pDeGxLc2J6US1tWG1MUElueFNxdGFvUTE?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Oregon police say teacher tackled suspected shooter, who previously attended Silver Rail Elementary",
+          "url": "https://www.nbcnews.com/video/oregon-police-say-teacher-tackled-suspected-shooter-who-previously-attended-silver-rail-elementary-271718469831"
+        },
+        {
+          "name": "The Guardian",
+          "title": "After the unimaginable happens, an Oregon town mourns: ‘You can’t stop thinking about the kids’",
+          "url": "https://www.theguardian.com/us-news/2026/oct/17/bend-oregon-school-shooting"
+        },
+        {
+          "name": "DW",
+          "title": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
+          "url": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Pope Leo discharged from hospital days after lung cancer surgery",
+      "summary": "Pope Leo was released from the hospital on Saturday, four days after undergoing lung cancer surgery, with reports indicating his recovery is progressing well.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Pope to be discharged days after lung cancer surgery",
+          "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Pope Leo to leave hospital on Saturday, four days after lung cancer surgery",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEhiTWpBVEdDa1JjQmtQUDBZR1RGVHF4VmxwaTEzRHhtczZOcHlJZE9idHNKOFpxdnpndFYwLUk5Zy1lZFRFWTUtaHlEdW44aVZKZjlXenBveTRvN29sRzI1RG1JVm0wMGlRcFpoeS1hX0dCZE1WVGdVc3plR3FZay0xeUtSYjg2dk9SZVpUSEJUdw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Vatican says Pope Leo to be released from the hospital Saturday, 4 days after lung cancer surgery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFA3aml3ZXJlRXJ4MkFBeHNZYkZvNGJGempQWkJpZDJxQTlnbFFPb1Nkb3RvNUZCR2JCNWZPT2tqNFQ1Y3NJWHNqWm5WcEtHWkJrMzN3cTdjQVV2ZmhnSUF6Y2tjWXZ0TVp1bnJrVURyYzdTU0psdXpDNFRTQjgwQUNybXphRW93NFYwa3JVdUJHRjYzUE8xTUphLVdLZDg?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Pope Leo to be discharged from the hospital after lung cancer surgery",
+          "url": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-discharged-hospital-lung-cancer-surgery-rcna604005"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Vatican Says Pope Leo Will Leave Hospital on Saturday, Days After Lung Surgery",
+          "url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Trump suspends Russia sanctions as conflict with Zelenskyy intensifies",
+      "summary": "Trump waived Russia-related sanctions passed by Congress, prompting Zelenskyy to accuse him of rewarding Putin amid their deepening dispute over Ukraine support.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Trump waives key Russia-related sanctions, tariffs before they take effect under new law",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Zelenskyy says Trump is ‘rewarding Putin’ as he suspends Russia sanctions",
+          "url": "https://www.nbcnews.com/politics/trump-administration/trump-suspends-new-russia-sanctions-deal-purchase-diesel-citing-nation-rcna603991"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine",
+          "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine"
+        },
+        {
+          "name": "DW",
+          "title": "Trump puts new Russia sanctions on hold",
+          "url": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "White House press secretary Katie Zacharia exits role after less than a week",
+      "summary": "Katie Zacharia stepped down from her position as White House press secretary after just five days on the job, following criticism of her performance.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "White House press secretary Zacharia fired in less than a week after facing criticism",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEYwN214QVdKVU9iMHZiY2YxWTBnSndMc0tycE5xSDItUXJJQ0Nja01Ld2trdjdtaldWVXh5QnhKT3JjWkdzNDNIRWN1a0hHZ2h3SUdjNDVGRXlkc243dE5vRUo0QTBmRzZtUG9Hc2Nnc2NFaW5RalJEbjRPaE1MMTQtRHVXVVNmWUJYZTYzX0ZIdkJTSGJEQms4NWc5YWlNQVZjYmhfVlVCeHQ2?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Embattled White House press secretary Katie Zacharia is leaving the job after less than a week",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkktYkRQVnVXZmFmWVBvdE5LXzJzWnhRN0h4d093YWZJc2F5akw4N0VjTy1pWVV6RjZ2dC00OHZNNFBLd1BENWJ3OGNaLWNDbVhwcVNCYWR0ZlFpWm1IWlhkMzhJWWJnQlFQdXdISEZOc0VteWdrb1NMLW96Q3dYMWNzUmFKdFQ2b1BKdGQ3QUFpYUJ4WG1kR1BSMDA?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Katie Zacharia is out as press secretary, White House says",
+          "url": "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Katie Zacharia fired after five days as White House press secretary",
+          "url": "https://www.theguardian.com/us-news/2026/oct/16/katie-zacharia-fired-press-secretary"
+        },
+        {
+          "name": "DW",
+          "title": "White House press secretary Zacharia exiting role after short tenure",
+          "url": "https://www.dw.com/en/white-house-press-secretary-zacharia-exiting-role-after-short-tenure/a-79684341?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "France faces nationwide protests over cost of living and social security",
+      "summary": "Tear gas and clashes erupted in French cities as protesters demonstrated against rising prices and deterioration of the social security system.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
+          "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Tear gas, clashes hit French cities in cost-of-living protests",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ3ZSMTR3dmZDamlnT3EyMWx2U1hma3VycjFxblg3SmxXMi1mUEhibjJVTV8ySGRheTEyVndBWEF4em1sbEdoZ0pKcU0tS0JVSzVVS3VZdUVrOXdHNVNYdThleU0zaDE2RXpwMWxyYURCNGt1akVuRUF0aWhYY1VkQTV6cG9UeWd2eVRjTXV6U2V2NnpCeS1zMUl5M2N3Wk16a0t3ZQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Nationwide protests in France against high prices and fraying of social security system",
+          "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes"
+        },
+        {
+          "name": "DW",
+          "title": "France braces for nationwide protests",
+          "url": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "California wildfires destroy coastal homes amid hot winds",
+      "summary": "Southern California experienced destructive wildfires fueled by hot winds that burned coastal homes and left thousands without power.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Coastal homes burn as hot winds fuel Southern California fires",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmJmSmdlU0NrdkN0LTJXMGYtbHdsTTk1dTFhY2tGbHVtRENWSUtGWVFHbk02ZVJsWnZwZDJQTGdVbm5xOUpCanFtMXhOUlh1VVdXWVFkQjVkQ29OeFRqWExBdXgzQWFGSXNsWjA1V3lHdjdHNGhfNFpINGlpenlpVHlIRHhvTTdoclNZOUlORk5BakdtMXJXLVNlQkI?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Coastal homes burn as hot winds fuel California fires",
+          "url": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires"
+        },
+        {
+          "name": "DW",
+          "title": "US: California wildfires destroy homes, leave thousands without power",
+          "url": "https://www.dw.com/en/us-california-wildfires-destroy-homes-leave-thousands-without-power/a-79685480?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Firefighters Race to Control California Wildfires as Winds Threaten to Spark More",
+          "url": "https://www.nytimes.com/2026/10/16/weather/malibu-wildfire-wind-california.html"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Timothy Busfield cleared after judge dismisses child sex abuse charges",
+      "summary": "A judge dismissed child sexual abuse charges against actor Timothy Busfield, citing prosecutor misconduct in the case.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Judge dismisses child sex abuse charges against actor Timothy Busfield",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUThReGpCZ0pENGxxMU5MZHp1TUJHV1ZsQzhqOWMzcFJ0RjZ4a001UjZ5RXFLVmJlSFVjOGhXcWI1cXA0bWVFWDNyVFBQT1YyT1ZLSzBQVHlCbmQzczBZYjlQaUlDSWIwU09DNXFidUwtWGN5M3h3dWFGWU5DeTFoWkhZQTdvWFNBWHdTaV9iRzVib1pYeVloOW83RW92aFVEZXI5aDV6ejJ6UzcwMjkzOG8zRC04SFgyTi1BOUw5NA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "New Mexico judge tosses charges against actor Timothy Busfield, citing prosecutor misconduct",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmtWb1JxNnVVTWV4MkdoYzVfWEtoRFV1YTVvNjlmdGg1Ym1MQlNkTnBKSUlJOVlpSmtoTzJmUy12SkNLcUZCa2hQbUdJVl9QT0xhZDZzUG5nWDMzSXNhUmVOVldpRGdEMVlDa0tfRjZwcXV3TlkwUmNiaU1oalBmX0Y5Zms2c090ZE15OHB6akw5VFF2R3prVkNPUHVBNTFX?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Judge dismisses child sexual abuse charges against actor Timothy Busfield",
+          "url": "https://www.nbcnews.com/video/judge-dismisses-child-sexual-abuse-charges-against-actor-timothy-busfield-271724613627"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Three sentenced to 158 years for murder of Australian and US surfers in Mexico",
+      "summary": "Three men received lengthy prison sentences in Mexico for the murder of an Australian and US surfers killed in the country.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Three sentenced to 158 years in Mexico for murder of Australian, US surfers",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2J4RHIwY0c5ZmwzaGg4VmNYbG5kYWNwckU4d3dYSWxyUUVKMDk0U01jcm5fSllLMk91NEFDcDhraTlTS2Foa0dfbkZUQ0Jpa3NHZEp3NkpORkk4bHdzWTJPWlEtTHF5YlQ3SkpwZWYtbm4zb2U2dHBOT3c0ZWs3dEtEY0dvSmxMNGlvYlVDX254N1IyQTNhN2xLWTFncnozWTVsSEJ3dm5JOXhlWjFkMGl2WmpqMmRyRldqNg?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Mexico sentences killers of US, Australian surfers to 158 years each in prison",
+          "url": "https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Russia strikes Ukrainian regions as civilian casualties spike",
+      "summary": "Russia conducted strikes across nine Ukrainian regions, with reports showing a spike in civilian casualties from recent attacks.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Russian defence ministry says it hit Ukrainian steel plants, power infrastructure overnight",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFVaMHlsTTJLMm1FdGE0VlhXN0JmRGhQSzk3SzNNRzBaN3ZmTWV6VmEzeFMzNTJSY3FrcWwyQ1ZSNjVSUGdBOGNoc0ZkZW9Fcldrem1TOGk5Z1hQOUYzNlBmaTNtWUhTU1JEN3M5cXFCRUdzSllIeWZoMDBOOWxIU3NQdUZqNWlibnFEQ0puME9Cenp1bU11aS1tWko4a0JrTnJLSVBSWVQzaUZsbG52cWlrbnlQUi1kQmxSVWpldw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Russia strikes 9 Ukrainian regions as a new report shows a spike in civilian casualties",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkhGZ3BTcW9RNmZaUXE3TVR3czBVeGlhS3NuYXlyZ1NxU1BpXy16emxHOGRPQ3BKZGM0cVFCWDdFeWpsRnVydHI3dFRYaThlSXI4VVVuMGVLa2xCZnJDdUxxbDNrT1gzd3ZYQUV3VERhZl9fWFlhRHo4N2VEYUUwWldBUGlzcWlxc1FhVWFNdnNsb2xVOS1JbU5EV2QtUXhET2VWT0ozeXU?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "UN chief race enters decisive stage with no candidate securing all key powers",
+      "summary": "The selection process for the next UN Secretary-General entered its final stages with no candidate yet securing support from all five permanent Security Council members.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Grynspan holds lead for next UN chief as race enters decisive stage",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWDBseWc1NmlhcXdoLUUwQ2NTYzVOZkVGTXdQXzB0alBKeFpkX285MXZxWUp3VVMzOElaU2hZcTBXRVMwd29NTlpfUXctMWMzdDlWZXV2SVNhM0M1RUpIa3VaMlRnZ0VudTNYZm1hVC1MN211RWx3V2hQVUZUM1hQVnhsTmYwMFI2OVpXMnJBVGl5MkkzeDExTVpqOUpxQ3dXUFFlNFdYV3FBbVdyUUFqNA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Latest vote shows no candidate for UN chief has the required support of all five key powers",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSy1nY1ctYXVCVmRaVk5XZTRUUHFMQ2NqZnVKelNUZF9EWW9uLXFzZGpxcGgyZU9zUWlLVzJJRWI0ZnhmbERlNC1UcVBsUGNOWmtGYWo3dERET3l3QXAtOXV2NkFnR0h6Wm10cmhYR3JhcklabDdpZ1llX2dpaU5GbnBLVXYtcjFOU0JpVHNNZ1k5UUhhNzlOcnhnd0MwNHNaMlRtcEhtQWNGZw?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
