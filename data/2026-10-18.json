@@ -1,0 +1,301 @@
+{
+  "date": "2026-10-18",
+  "crawled_at": "2026-10-18T22:05:21+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Pope Leo returns to Vatican days after undergoing cancer surgery",
+      "summary": "Pope Leo returned to the Vatican and addressed well-wishers shortly after surgery to remove a cancerous tumor, pledging gradual return to duties.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: Pope thanks well-wishers in first event after cancer surgery",
+          "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Pope Leo pledges gradual return to duties in first event since cancer surgery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajlwczZReXZXSkQ1X1JuZWNGWlNjX2VXcW9hNVdlNXYybU00b3NkSFdpdXo4ZXFLZ184OENSdTZRbE9DdDF2ejZIRVpXUWk2MjdJbWM2Y0JMNzVfcGFvYzRxUU5LYUhpTTB6QWpQWHgwR0tEUXZkNnhBMkxJYkd4dTBydU1OWFpVd3lSNjRSSmF3QW9TUmFocVJVa1QyVUtJcFFHeUwwTGg?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Pope returns to Vatican days after surgery; surgeon says he should be fit for Latin America tour",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFA3aml3ZXJlRXJ4MkFBeHNZYkZvNGJGempQWkJpZDJxQTlnbFFPb1Nkb3RvNUZCR2JCNWZPT2tqNFQ1Y3NJWHNqWm5WcEtHWkJrMzN3cTdjQVV2ZmhnSUF6Y2tjWXZ0TVp1bnJrVURyYzdTU0psdXpDNFRTQjgwQUNybXphRW93NFYwa3JVdUJHRjYzUE8xTUphLVdLZDg?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+          "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Pope Leo to gradually resume papal activities since removal of cancerous tumour",
+          "url": "https://www.theguardian.com/world/2026/oct/18/pope-leo-resume-activities-removal-lung-cancer-tumour"
+        },
+        {
+          "name": "DW",
+          "title": "Pope Leo leaves hospital after cancer surgery",
+          "url": "https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Pope Leo Addresses the Faithful a Day After Leaving the Hospital",
+          "url": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Major fire breaks out at Canadian military base in Alberta after deadly incident",
+      "summary": "A serious incident and major fire at Canadian Forces Base Wainwright in Alberta resulted in deaths and injuries.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Several dead or injured in major fire at Canada military base",
+          "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2FXR2gxVGRZLXlocTZDQnduRHpvT3JVUHotdTZsTmczb1B4TDE0OWktQmlDNm1WcGdqcEE2Zm9HTmtpN19Pb29YNnVyVHI4d1hXUG1lb0U2ejg2cDF4VGE5Wng0TGdrVDRaSU85WnNQVmw2WmpOaHhMNlpnTFo0cC1tRkRjTDZJVllKdDJIaUhmM1laR01KS2FrQTRKb1lpQThJZlRIeVd0OVZQUnlFX2tnamx6bHladV95MWZHNUVsSldx?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Major fire breaks out in Alberta after deadly incident at Canadian military base",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Major fire breaks out in Alberta after deadly incident at military base",
+          "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
+          "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
+        },
+        {
+          "name": "DW",
+          "title": "Canada: Major fire reported at military base in Alberta",
+          "url": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
+          "url": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "France experiences worst unrest in years with riots, looting, and arson",
+      "summary": "Violent protests across France descended into rioting, looting, and fires, with police making over 1,800 arrests as cost-of-living demonstrations escalated.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+          "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "France counts cost of worst unrest in years",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Clashes, fires and looting break out as protesters rally across France, joining students",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmRHbHlmZUhGb2xmVFZXeFBmNTFodEJ3U2xmUkZmZDhzdGR2aTEzTHRXOVRIWmx1REtWbHpGY2NQQUFVSk9PaHY3dFRjSUVqZUM3LURoSWlQQ3dDNlEtMnpmQmY3bVJtZEJWNV9vd0hDczg4OGV3UGJ0QmFWX0xLTHpzQ2c3ME5XcE9PN3Zidl9tV0xESXY5aW9R?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "French police arrest 1,800 after violent clashes and looting mar protests",
+          "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france"
+        },
+        {
+          "name": "DW",
+          "title": "France reports more than 1,800 arrests after riots, looting and arson during cost-of-living protests",
+          "url": "https://www.dw.com/en/france-reports-more-than-1-800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "France in Shock After Protests Devolve Into Riots",
+          "url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Israeli settlers attack European diplomats in occupied West Bank",
+      "summary": "Masked Israeli settlers attacked European diplomats and a French mayor during demonstrations in the occupied West Bank.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "European diplomats attacked by Israeli settlers in West Bank",
+          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "EU condemns attacks by violent settlers, including on diplomats, spokesperson says",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcG5pYTJCRkVpNVoxOTVPTVRoNUtwcTBYX2lhZ3ZmMVYxQjRjeG5kMHBHRnlpS1otNzZjWVNyaGJCNjhnU0ROclhuOWYwVGltT19POUY1Z0lOT2pJNDNCSUN0LTFHSkFxUW5iWW91T0ZiOVVTTm42TUpINVc2c1JVbEszT0hBQmhEUU5kemNPbFdqZndpTl9wTG1XeFRxd0JfTXhyam1zSDEzV2hXdWZ3X25xOXY4TkZwWThkLWVXTTBXREpWVFp0eC1XRQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Masked settlers attack European diplomats in the occupied West Bank",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVlRiVjVsUFhzbGdNVXNZRm9JNDNUMGJDN2FrQlRjc00tM2JRTEh0bFNFVjFZdXRwN18teXNLN2lvblRwaHlzWHFQQnVqc1pVSWhHUWtDaks1eXNodVJsYmdHSzR6R0RBQk1jTjRmZ0wxYl9OZm5KQ285WU0tWDVzNDZISzA3bktzeXU0V2d1QklWYVlNWmdoQnNzRHFaQ2E1LUU3MTN4Zw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Israeli settlers attack European diplomats in West Bank",
+          "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank"
+        },
+        {
+          "name": "DW",
+          "title": "West Bank: Israeli settlers attack EU diplomats, French mayor",
+          "url": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Truck drives through Kansas youth soccer game, killing two including child",
+      "summary": "A truck drove through a youth soccer game in Kansas, killing two people including a 6-year-old and injuring multiple others.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Two killed, including 6-year-old, when truck drives through Kansas youth soccer game, police say",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTXduZ3p6ZDh4VG5wY05HRmxTR2lvak9YbnNwN0FaYTlCMzE5enY5S3BpcmxNdk96V0dueGs1dWkzTkEzMmIyZnhFLTd3NW5VQUFVMFpRX2tNYWVaVWhQMmlWSHNCWVRhTUdhYVVzRGVPOU1oT0tlenFIRzdwR2RVU1pTclpfdmNqbHJiNXJ4MGpuaTFMaVJ0dzlzeE5NMG9PcHRHdUdjZENTdEotdkwtRzBjNzNuX1ZydDhjdTBxX1U?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Truck drives through soccer field during game in Kansas, killing 2 and hospitalizing 11",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN21KT3N5VjVzVFVna0lUMTJSdUJXek83VmRmS3pzcEpST2gtXzVlMzJicjBQTnQ3Ym05cmhzSFpqNHFpWDNISnNFeFdrdERlWlkzb1lTaFlseWJPREVGeUpibV9iNkpLdklpY1llNjlyWHVZcDhyWDBMS3pHbXJta0hMOWJzQXZnVHhhUnVYX0toRDNkOFJucy1uaUVTRWY4Vlhj?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Two dead, others injured after truck drives through Kansas soccer game",
+          "url": "https://www.nbcnews.com/now/video/two-dead-others-injured-after-truck-drives-through-kansas-soccer-game-271763525998"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast",
+      "summary": "Hurricane Trudy intensified to Category 2 strength while moving toward Mexico's coast.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Hurricane Trudy gains strength near Mexico's coast, but is expected to weaken by Sunday",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQUdGblRuOW5ZdjFTRUR1WkFYdEZKeDAxbjVscWNybm1RS3ZwelZlT084SVFHOFFRcDY5U1dlNUYtNkJKdHJUZEJITmZBeFBCSEZsR1RfNzdwcTY4ejNON0JycmgxN21xSTRPUjRFM2Uyd1ViNkdaZWdPQUJrUTRZd1dUVWIxOGI0Z1UxYjVkaDlZYUVzN3psc3g0bzF3OGo4MkF0NU9ZTmkzZC1zM0g4SUhRWTRqYUI0NWNaYmljYTFVSHM1eHU3d2pR?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSlJRdElHVjVoLTVtTE01UWdmVjRrNkh4TnllLXNhNXZ1Y1c1RDRyWXVQUlBPQTJLZmVkM0RlNkhHdk1KMXRsZ2pnY05RZ19EdTVrNWZVbVJBNThZVmxPSkRlaGJ3T1RtMk0zY3lxQ3ItVHNWOTFndnpQLWRJTEVLX2VFRmtjekpRZkxfMmx0dzlhb2xkZlVWY0lPczFwVC1OX2poZw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Hurricane Trudy strengthens to category 2 as it heads toward Mexico",
+          "url": "https://www.theguardian.com/world/2026/oct/17/hurricane-trudy-mexico"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Zelenskyy urges continued US support and sanctions against Russia after Trump's policy pause",
+      "summary": "Ukrainian President Zelenskyy appealed for American support and new sanctions on Russia, expressing concern about Trump's decision to pause sanctions.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Trump-Zelenskiy rift threatens vital support for Kyiv",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOS1zSXlGaS1sbWV1RHJiN2s1S1o5WWQxY01nZmh0ZVA2ZHo3cEZ0NUhERFZFT2kzT0FPQXgxVmFqNzhlNUNtNFB1WkFENHZEU2xKdWRuYmt5ZUhTcUJrY1ktbXEtSU1mOGUyZkxYOVF6Y1hqYkFZSGJuZ2s4MWZ1NmRZY09kQThIZXlndE1GRFlIVkNvTWFzbUxhaDJaNEE?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+          "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia"
+        },
+        {
+          "name": "NBC News",
+          "title": "U.S. taking Putin’s side would be a ‘historic mistake,’ says Zelenskyy",
+          "url": "https://www.nbcnews.com/politics/trump-administration/us-taking-putins-side-historic-mistake-says-zelenskyy-rcna604111"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "No Kings rallies mobilize voters for early voting ahead of US midterms",
+      "summary": "No Kings rallies were held across the United States to encourage voters to cast ballots early before midterm elections.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "No Kings rallies across US urge voters to cast ballots early ahead of midterms",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSU9QdGhLZXFkak1MT3B1b3RBZlVIT3gzNEZheTFHNi1hTFpBUjZGcHVkQWhsTjFSRmJsX1RXbklDRUJ0M3dfcklfREZaYUxQWWhqNTZKWmFDZVhEMGZzd3VpLWZ0OG5zY2NIazNGbUpPQXlFc3ItM2p0akRqbkRXSF9oUnVQWHZpZlZuVWtsaw?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "'No Kings' rallies push early voting ahead of US midterm elections",
+          "url": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "4 Takeaways From a Voting-Focused ‘No Kings’ Day",
+          "url": "https://www.nytimes.com/2026/10/17/us/politics/no-kings-day-takeways.html"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Ukrainian drone attacks hit St Petersburg oil facilities, killing at least one",
+      "summary": "Ukrainian drones attacked oil facilities and military infrastructure in St Petersburg and surrounding region, causing casualties.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+          "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "One killed, 15 injured in Ukrainian drone attack on St Petersburg and Leningrad region",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORkdkNk9DVENGZU50OHVsbHF4Z3ZWbnBxcHVqaDJSa1JEWXZ5aFVqbTQwWmwzUGpvZUJsTUFzSnZHd2laVHpqd05XaF9KM2YxdUNUSVV0YUp1SFVKbTBRVHNzcVc0ek84cTY5TTVmZGhPbnhzMVJiejFXaDdXV3pBcTZYeEI3QkZrNDlOOWllWFk3ejFfMVdVd3lQUGJMeXBhNW5xTjZJQnBINTVSTjVDUnZKSm1laDdKaEE3eGdoSUtaQQ?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Man fatally shot during dispute at Midtown Manhattan subway station",
+      "summary": "A man was killed in a shooting at a Midtown Manhattan subway platform following a dispute.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Man shot, killed on subway platform in midtown Manhattan",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVptdmRESFJoczJQTnlZb1M2WnNSUU84eVRXTkcwOFpQbktZR3p4VEhTZHhfMWNvTm9VaVMzeXk4TGZPZV8tX2R3TjdUN2JiNmhTbkk0alNVR0xYbVF5b2NMQ3l6ZDN1bXl4X1pBMlhoQkkxR2RTNHAwRHU0R3F6aVRlNnNIQ0ZGWmVBMQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Man fatally shot during dispute at Midtown Manhattan subway station, police say",
+          "url": "https://www.nbcnews.com/news/us-news/man-fatally-shot-dispute-midtown-manhattan-subway-station-police-say-rcna604061"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
