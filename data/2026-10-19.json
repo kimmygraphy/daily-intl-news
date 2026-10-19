@@ -1,0 +1,291 @@
+{
+  "date": "2026-10-19",
+  "crawled_at": "2026-10-19T22:05:20+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "France experiences violent riots and looting over cost of living",
+      "summary": "France faced widespread violent protests and looting in major cities over the weekend, with the government calling for curfews and officials acknowledging policing failures.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Italian police detain hundreds as stores looted in weekend unrest in Milan",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZWNGMGIzTEZwQjVYM1BNU3lmemRQZTk3OGtQTnhXTWM0UXRFNXhqTTg3WFFQYXdQWVZZTUphR3FGZDd3SE5RaGZlTWdWZ1owRklLYnQzSWN5RlotVjY2OEdjMUtsUGpMZ1RxRk5QS1djT3hnbDZwR0lUSmVwZjlYX243eGIyRHpKLV80NkltM3NmZkk2ZEl0WGNGVEpGRHZUei1LRGJYMnRoME0?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Macron rejects interior minister’s resignation as rioting and looting expose policing failures",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTgxVjJGeG9KQlNaNkVXRVV2RzFVdDlSMUJMdjNVbTQ5MnpHZkMtOEdTM0JONUxrRldZU1Jna2l3WkZrM2wxM2VsazJjSVdVX1QxZm1kU2JTNTNwOXFndFdMYXRscEJFYnFQMTZTWWFxUlRod1pUR2dBUThwZllkb2lNTThrZzk4YmtNYWJuaVdPd00?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Violent Protests Spread Across France Over Rising Cost of Living",
+          "url": "https://www.today.com/video/violent-protests-spread-across-france-over-rising-cost-of-living-271806021629"
+        },
+        {
+          "name": "The Guardian",
+          "title": "French prime minister calls for ‘local and partial’ curfews after riots",
+          "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister"
+        },
+        {
+          "name": "DW",
+          "title": "Emmanuel Macron slams 'failures' over protest unrest in France but refuses his interior minister's resignation",
+          "url": "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "France’s Far Right Seizes the Moment as Rioting Stuns the Country",
+          "url": "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Australian MP critically injured in apparent car attack",
+      "summary": "An Australian lawmaker was critically injured in what authorities say was a deliberate car attack, with terrorism squad investigating.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "What we know about apparent attack on Australian MP hit by car",
+          "url": "https://www.bbc.co.uk/news/articles/cm5ynk1g88kwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Terrorism squad probes vehicle attack that critically injured Australian lawmaker",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLW1uMVltWlJjdTYxR1gxVHpzQ2JDV3BTVE9XV0dhM0VRTkcyQ3UxS25LRVVWdVl6T09DX25weE5vT3o0elFYVlNVUVUyQmdtWDdGUkhKaUo4Ql9jOFR6R29tcXJGM05WQUlVMmoyVmJndWdEM3ZwdURZOWpOdmZuTWo1S1Qxbml3aTF1bnBXZmtOOENtVldPRVZTRzh5dmJtdHllSVJSTHZnYllXY2dCRWpvOEtpUjdfRGc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Australian prime minister says lawmaker critically injured by car is ‘no accident’",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTTBSLXh6S2JGYWxxTC1fSmFWaS0yRFVuMXhZeUhCZF9oOWtFckREd2htWXZBUXgxRU5oaVM2NGFUSWU3Zm9tWDduOUptSkZ1SnJLQl9tYURxV0w4Ynd1MjlQVnR0bjRaTWFXWXpJZU40SlhGcm1sZkEyZ1c5VklYR0lnVFNDSXBoY0tUNFR2QnpaOWM?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
+          "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘Deeply appalled’: politicians condemn alleged attack after independent MP Helen Haines critically injured",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb"
+        },
+        {
+          "name": "DW",
+          "title": "Australian MP seriously hurt in suspected car attack",
+          "url": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Alberta voters decide on independence referendum from Canada",
+      "summary": "Alberta held a vote on whether to hold a future referendum on separating from Canada, with separatist movement likely to continue despite expected defeat.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: The father and son on opposite sides of Alberta’s separation vote",
+          "url": "https://www.bbc.co.uk/news/videos/c6g7xj3d88nvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Alberta votes on leaving Canada; separatist movement likely to outlast expected defeat",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVhpOEEtQU9ScjZPUU5YUnZfaG9LVXh6VHlxYzBrbzJzSGlzc2kweEZqMDZZMGpwNFNSQUtvNmF1bnVidmFNdU5ELUR5MTVaLTNhaTUwdTB3Rnd2cUhOM0ZIQ0k3TTd3VTFucWc4clltY3M4YnNrTGMzcnY0R2dmaXdZQnUxbEQ1eHd1ai1ldV9EUXQ3QTNlRXUwWjZWQlVEUWFCTmVYR05fYXFTbVdidElWcHoyV1RVYWdJVmZPbHA3Q1NheEZjd09B?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Albertans vote on path to independence as Carney fights to keep Canada united",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEF6b1VtZEhfTjVRbnJ2WGFBUUVVaU1BYnJndVVSOVp2R1NValFBX2JnVGk1TVNLYkZTaTc0NTQwSkItZlpUUlRpLTVtMS1PeTFHbDZBeVpTeDhXbmxDSzdkZ3VyLXg4Q2xLNWluZ2hJVDVHZlU3U29KVjExNGJiOENTNG81RnJwelJZcmR6elNGMWtHdDJLM1BFMURpYTZ5ZFMzeDM0bm96dGowOFRB?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Alberta voters weigh future in Canada",
+          "url": "https://www.npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada-vote"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘This is not poker’: Alberta goes to polls in referendum that has exposed divisions, not least among separatists",
+          "url": "https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Israel arrests settlers over attacks on US journalist and diplomats",
+      "summary": "Israeli police arrested suspects over violent attacks by settlers on a US journalist and European diplomats in the West Bank.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
+          "url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Israeli police arrest suspects over settler attacks on US journalist, European diplomats",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUGdXdTZVUC0xd3NJMzJWdlpNS0tySGdmcUlvdl9wWXhIUUdMT3E3WFZPZWFEam1PWDdFUDRRd0trNGduLUZzRWVzWXBoVWt5QkpFMk5lMzhUZU9yNllmbUxlUEZwdk5raGhEUnlyTDBTVldKWkxXSWNndHY4U01Kd3BqM3lEMU85LUZydXF2YUdMOEc5MHh5ajlfb0lNSzh1MXE0TnBEMHNIOXVzX3ZZWGRrRnNrc3Utd2VmTnh4LVIxQ2x3UElRa2hQbm8?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Photographer attacked by settlers in the West Bank feels insulted by Netanyahu",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPay1sclgydEVwSDBaSHdrVFRJUldJSllONTFYRlVRV2o0WGNlX1hTOE1laXRwdnlCbnE0c0ZPYVp1ZzRLZmNBNHVKajZOVUNqQ2s1UV9QZlVuUE8wZkhEeGprOGt3RHE0eTJVWEZUdFRaU2dJWDhOUDV0aUdWcjNyZFVScnRQUTd2ZUF1a3ViZ2l6UjVLc21hUHdfa1ZORWhtLVNJd3VWZHE2X0sxMGt5eHo1RzcwTEk?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats",
+          "url": "https://www.dw.com/en/west-bank-israel-arrests-10-suspects-over-settler-attacks-on-us-journalist-european-diplomats/a-79696514?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Israeli Police Detain 10 Over Violent Settler Attacks in West Bank",
+          "url": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Ukraine launches over 1,000 drones at Russia amid tensions",
+      "summary": "Ukraine conducted a major drone attack against Russia as tensions escalate between Trump and Zelenskyy over US military support.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Ukraine launches more than 1,000 drones at Russia as spat between Trump and Zelenskyy continues",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0JsZHhVNVNkaUhpSndSUTRqNjBFN2dpaktfTUZ4dWxBTkxzQ3I1LW5CRlBQNnR3UmJ5R0JzWGFaenZ5TDg3Qkt2bC05cmpYTlAwZkRSRjBoYlN1elkwelNDNmhPbkhhV1BDT05fWm96V3oxbk5YN09nUkQ2VzlvbTR1YV81Zl9wdzU5WEU1UXN3STc0ZHJlUnhiWUc2dUk?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
+          "url": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says",
+          "url": "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "World Food Programme cuts aid to Palestinians in Gaza",
+      "summary": "The World Food Programme reduced humanitarian aid to 500,000 Palestinians in Gaza due to funding shortages.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+          "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, cites funding shortages",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNenIya2dWLVowN3ZJZjB5eXlJekpqc3VCajlVN0N3eldBMzg4d05JSG9MQXVKQWdqbVZRYnZ3VXlVSGktNEE2MndNU1dZX2FFd0YyeW9teDFfN19WNk9RS09rV0JlM2dnbEluVlgydFFJc3QtQ0RNRkRSWkkxV0V6WjNRM21NX0FqRVZLdnp0WWFtNmFWZEh6YUJXXzJRRVU5Sy1MbmtjRm5pc1VVc1daWk9MTmFScG5yRmh4SHZBNno1eUloQXVDRkRVNU5kUQ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "UN food program cuts aid to 500,000 Palestinians in Gaza",
+          "url": "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Trump endorses Israeli Prime Minister Benjamin Netanyahu",
+      "summary": "Former President Trump announced his endorsement of Netanyahu for reelection in Israel's upcoming election.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ001MUlHYUhFLTdzTlZPTWdsOG12UXhpTFdKOFQ1REFaUFVhWGZJTXk1V0Y3cGNhTTR3d1hnclJVamdMRFJlZ213WjVsblNIODZ6cUstbVp6U1o1STRyUVNMUXRPUkVFUlZJWWppUWo3VWpZOXB2WDlTck4yUXFQXy0wQktGczRPbkVkZ1dheURZcGp1dFA2WXVlaXpLeTNLVzAyVnhGWlRrUVNH?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+          "url": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Will Trump’s Endorsement of Netanyahu Fire Up His Campaign or Fizzle?",
+          "url": "https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Amelia Earhart plane debris found to be trees, not wreckage",
+      "summary": "Researchers concluded that debris previously thought to be from Amelia Earhart's missing plane was actually a clump of trees.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+          "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NBC News",
+          "title": "‘No conclusive evidence’ of Amelia Earhart’s missing plane found in South Pacific expedition",
+          "url": "https://www.nbcnews.com/news/us-news/no-conclusive-evidence-amelia-earharts-missing-plane-found-south-pacif-rcna604274"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees",
+          "url": "https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Trump plans to renovate D.C. golf course despite legal battle",
+      "summary": "Trump announced plans to close and renovate his historic Washington D.C. golf course for 15 months amid ongoing legal challenges.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Trump says he will close historic DC golf course for 15 months of renovations",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaEJLUHBtM3VzdFoybW9zSjNaMnR5ZmY1dkFxdTRmeFM1TUxyV0hWNEMzcE1RMFpWUlQtQVpiY0JrUk5xSXR5SDZDNVZYb2tWNVkzTDlwRkZ2UkVzc21XdnRLSnBsUVZJNGN3ZVo3c2VieG4zd1VBZW9XMW5VQlRSZnhYaTRpWDhHQUE2YzQ5ZzhVNGhl?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump to close and renovate D.C. golf course, despite legal battle",
+          "url": "https://www.npr.org/2026/10/18/nx-s1-6007384/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump announces plans to renovate D.C. golf course amid legal battle",
+          "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-plans-renovate-dc-golf-course-legal-battle-rcna604147"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Houthi rebels attack Yemeni military training camp, killing dozens",
+      "summary": "Houthi militants struck a government military base in southern Yemen, killing at least 18-20 fighters.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "At least 18 killed in Houthi attack on Yemeni government training camp in Shabwa, sources say",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXFqMTJmVlRrSjR1NmNocW1VRWFpV1pSMjlNZDh1YXBsS2gyRkE0c19uRXJCQXN4Nklqajh6Tk4yeHhlRWRpWG81WXJMRVJmWXREaXZ2UkJfT3FNOFJndW9PNHBTZFRvVGJnbmFkeU10ZDlWdWY2N0kzVkFDVTh5NG0zZlZiM0N3bWthZmF2LUJjUXlEd29WOVRLZFdodFA0YlcwRl9fX0ptQ2dyN2I5RjVfRWJxRW1vYmF6VURGWQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Houthi rebels strike a government military camp in southern Yemen, killing at least 20 fighters",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON01aUDFyR0hVZ3ZyLTRLNFpxbGJ4SlBTM0ZyMEpfRFRsZU9UOFZlR0l5TnY2WVBwVmd2TTNVT21pc3FBdVlrd04zRndnNmZoWDFKRUJjWFB0RG5qcllhY2U4bEhVakg5ZHNTQWxRVnE2RjlydXFCb3hmMk5VamV1cmpOYXI5elB4el9NV2ZES1FHdw?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
