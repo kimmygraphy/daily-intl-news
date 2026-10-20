@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-20",
+  "crawled_at": "2026-10-20T22:05:22+09:00",
+  "feeds": [
+    "BBC",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Australian MP attacked in car ramming incident",
+      "summary": "A man was charged after attacking Australian MP Helen Haines in a car ramming incident that left her seriously injured.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+          "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NBC News",
+          "title": "Lawmaker reportedly loses leg as car ramming stuns Australia",
+          "url": "https://www.nbcnews.com/world/asia/australia-lawmaker-car-ramming-attack-helen-haines-leg-driver-charged-rcna604526"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Helen Haines was chatting with locals at a dog park on Monday morning. By the afternoon, she was fighting for her life",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-was-chatting-with-locals-at-a-dog-park-on-monday-morning-by-the-afternoon-she-was-fighting-for-her-life-ntwnfb"
+        },
+        {
+          "name": "DW",
+          "title": "Australian MP seriously hurt in suspected car attack",
+          "url": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Alberta voters reject independence referendum in Canadian unity vote",
+      "summary": "Voters in Alberta rejected a proposal to hold a referendum on leaving Canada, backing Canadian unity instead.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "NPR",
+          "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+          "url": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Alberta voters reject plan for referendum to leave Canada",
+          "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum"
+        },
+        {
+          "name": "DW",
+          "title": "Canada: Alberta rejects separation bid, CBC projects",
+          "url": "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Voters in Oil-Rich Alberta Reject Leaving Canada",
+          "url": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Zelensky prepares Oslo talks as Trump-Ukraine negotiations stall",
+      "summary": "Ukrainian President Zelensky is preparing talks with US envoys as negotiations and tensions continue between the US and Ukraine.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
+          "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NBC News",
+          "title": "Russia Batters Ukraine Amid Trump-Zelenskyy Standoff",
+          "url": "https://www.today.com/video/russia-batters-ukraine-amid-trump-zelenskyy-standoff-271872069950"
+        },
+        {
+          "name": "DW",
+          "title": "Zelenskyy accuses US of delaying Patriot missile shipment",
+          "url": "https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+          "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Tampa Bay Rays advance to World Series to face Milwaukee Brewers",
+      "summary": "The Tampa Bay Rays defeated their opponents to advance to the World Series where they will face the Milwaukee Brewers.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "NPR",
+          "title": "Rays will face Brewers in World Series to produce a first-time champion",
+          "url": "https://www.npr.org/2026/10/20/nx-s1-6008836/rays-brewers-world-series"
+        },
+        {
+          "name": "NBC News",
+          "title": "Tampa Bay Rays advance to World Series, will face Milwaukee Brewers",
+          "url": "https://www.nbcnews.com/sports/mlb/tampa-bay-rays-world-series-milwaukee-brewers-result-guardians-rcna604268"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "France imposes curfews after violent protests and riots",
+      "summary": "French authorities imposed partial curfews in major cities after days of violent protests and civil unrest.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "DW",
+          "title": "French authorities impose partial curfews in Paris, Nice",
+          "url": "https://www.dw.com/en/french-authorities-impose-partial-curfews-in-paris-nice/live-79707186?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
+          "url": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Trump administration golf course redesign blocked by judge",
+      "summary": "A judge is likely to extend a block on tree clearing at Trump's DC golf course redesign project.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "NPR",
+          "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
+          "url": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal"
+        },
+        {
+          "name": "NBC News",
+          "title": "DOJ tells judge that golf course won't close, despite Trumps's insistence after trees cut down",
+          "url": "https://www.nbcnews.com/video/doj-tells-judge-that-golf-course-won-t-close-despite-trumps-s-insistence-after-trees-cut-down-271844933684"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Erik ten Hag accuses Cristiano Ronaldo of letting down Manchester United",
+      "summary": "Manchester United manager Erik ten Hag criticized Cristiano Ronaldo for underperforming and letting down the club.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Ronaldo let Manchester United down - Ten Hag",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United",
+          "url": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Severe nor'easter brings heavy rain and high winds to East Coast",
+      "summary": "A powerful nor'easter is moving up the East Coast bringing days of heavy rain and high winds.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "NBC News",
+          "title": "Powerful nor’easter churning up the East Coast",
+          "url": "https://www.nbcnews.com/weather/storms/powerful-easter-churning-east-coast-rcna604544"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "TikTok staff raised child safety alarms but executives failed to act",
+      "summary": "Court records reveal that TikTok staff raised concerns about child safety but company executives failed to take action.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "NPR",
+          "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+          "url": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "DOJ charges individuals with voting crimes as election tensions escalate",
+      "summary": "The Department of Justice charged individuals with voting-related crimes amid heightened election tensions.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "NPR",
+          "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+          "url": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
