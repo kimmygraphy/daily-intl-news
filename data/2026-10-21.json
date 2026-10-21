@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-21",
+  "crawled_at": "2026-10-21T22:05:20+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Russia releases American Stephen Hubbard during Trump envoy's Putin talks",
+      "summary": "Russia freed US citizen Stephen Hubbard after over four years in prison during a visit by Trump envoy Witkoff to meet with Putin, who discussed potential Ukraine peace negotiations.",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+          "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Who is Stephen Hubbard, the US citizen released by Russia?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFh5SkZ6WDhTdzNGNmFvZV9hd3JLalBDVG1Jd19VenBJMm1WSWRwQ3VHaDNyWll2Tl9qcFFBSlZLcFYtUTI4UXlqclpQLWVnU2tXeG5kdXlDMVBjbmc1dFFNOWlrWmxibmk3UGZOYlRSTkg2cGJRbFVtQ0J2aWc5ZzFTb2MxcnBfU0ROVHlES21VRk8wUXlscXZ3?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Russia frees American Stephen Hubbard after over 4 years in prison, during a visit by US envoy",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2pKWm5lTVpmeW5RRHktWU5US2dTSS1fTDhuVjhVUjYyd3I5b3h2QzVfd0pDcm9WM1BFaFpQZENlZVMtdEoyNUQwTEJwTVhyckl0bVBYYzIxcVl1UW5FSzRUVXdIWUV3a214QnVhb1FJSkNjTFFEU0lfTGhtVTdWQ1RDVFpFQmhneWk1UVFBRHlHX3lmY0xTYU5HOTFYdmxYd09meDFTNkg4cmJ2Tlh6UnRFZGoxRlE?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+          "url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen"
+        },
+        {
+          "name": "NBC News",
+          "title": "Witkoff thanks Putin after release of Stephen Hubbard",
+          "url": "https://www.nbcnews.com/video/witkoff-thanks-putin-after-release-of-stephen-hubbard-271955525713"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+          "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
+        },
+        {
+          "name": "DW",
+          "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
+          "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
+          "url": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Australian MP Helen Haines loses both legs in alleged car attack",
+      "summary": "Australian Member of Parliament Helen Haines lost both legs after being hit by a car in an alleged attack, with her husband saying her mental state remains strong.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Australian MP loses both legs after alleged car attack, husband says",
+          "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Driver accused of intentionally driving into Australian lawmaker was not a known threat, police say",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFFOVnVHa0tBUGhjMHRSUTlkTlQ4clhTSmVkNmpnTXFFRVpsZFprTEplajRtX1hmYmZtVWRLRjdZZXB6ZzVseWtHeG51Q1Rxb21YTUZmOUh3aGpBOGQzYWlpRGhiVXJWZjhwTkJ4STFfbWxZWnRpN0t2a3hxQzNsN0pKMEVsZnBkV085TWNvRkV2VlR2azRaMTB6OTM1ZHlhWGZEYzV3?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Helen Haines has lost both legs after alleged attack but ‘her heart and mind are in good shape’, husband says",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb"
+        },
+        {
+          "name": "DW",
+          "title": "Australian MP Helen Haines loses both legs after car attack as suspect appears in court",
+          "url": "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Elon Musk hints at possible SpaceX and Tesla merger",
+      "summary": "Elon Musk indicated that SpaceX and Tesla are exploring a merger, with SpaceX recently reporting a profit.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Why Elon Musk is considering a mega-merger of SpaceX and Tesla",
+          "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Elon Musk’s SpaceX reports a profit and he hints at a possible merger with Tesla",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlJVZExxcE9vRWtKZWQwc3pCMHQ3SUdoaC15bW1qam9DNFVRYzliR05EZk9rVm1yeEhOVnEwQm0zVndrVjhPTlZmVncweWtrZlFmUEtJdGxwbFlDMFZyaFU1MmIwYmtoQW1xRHJOMmZnbG1tYkdGWlRyVWViWGFMcVl1T0N6U09yb3I0ZHdUaVZhWHcyM0E?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Musk says SpaceX-Tesla merger 'good idea' as companies explore union",
+          "url": "https://www.dw.com/en/musk-says-spacex-tesla-merger-good-idea-as-companies-explore-union/a-79719220?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+          "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "UK approves Jackdaw natural gas project off Scotland",
+      "summary": "The UK government approved a natural gas development project off the Scottish coast despite environmental concerns.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
+          "url": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "UK government approves a natural gas project off Scotland despite environmental concerns",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORG04b2lmR3h1bzYwZTJ0bm5BdjBObWE3OW9XOHBSSzQxTWZGc3V4bmVUclZYekVFdE03VDlRQTYtbWY4YlZuTUlzTzF4VDVGRENhUTBCdUVXczVQREdnTEsyM3hnS3NNSEt1MEVPbjRrUEFDLUFjdGRWRGFDSHBIT0l3T0tQa0h6dmtwSjlDRFF3RmhjSDhuUjh0NFdpU3VMYmsxWGlB?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "UK approves Jackdaw gas field after years in limbo",
+          "url": "https://www.dw.com/en/uk-approves-jackdaw-gas-field-after-years-in-limbo/a-79720557?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "France faces riots and protests as Macron vows stability",
+      "summary": "France is experiencing civil unrest with riots and protests, with President Macron promising no repeat of Yellow Vest-style mobilizations.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "France's Macron vows no repeat of riots as Yellow Vests mobilise",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVk5czJqc091UDJSd2lQbGNRYXlyQXBBd2RxTUZkQXcyU0M4QzI0TE8tQ3FaU0xaa3NwWWlXNWU2OGg2NjBzZktLTTE0Uy10QnFyRDJvZzFiQ0xiaWdNVEdObEpuU2dvMnRkV2NRLTdHX0lWaE56cDlpRlZxcjdrWUpjbU12ZF9WV0psc2Y3bkVMYkRkNU5WMzBJcGRIaVNGN1pUY21mYS0?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "With France embroiled in protest, a look at the nation’s economic standing by the numbers",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjJfX1NXbWZtM1Z3WEJqRWVHS0Q2aExKRnk0dmtLTlpOZkhXR2pQbXN4SGFDOU4xYUpwYmRtTFV6UHRLVWRXdXlmaWFnU2VGWWtDSElpYTBNLXBGalhGZDRWV0ZxdGdBV0JrUTQ5VHBzMDFFcmc1cUJlbk1HTlRzSmROLXdwZEltNWxF?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "From strife-torn France to the UK, rightwing populists win when they stir chaos while promising order  | Rafael Behr",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/21/france-uk-rightwing-populists-marine-le-pen-donald-trump"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Nigeria confirms Ebola case as outbreak spreads westward",
+      "summary": "Nigeria confirmed its first Ebola case in the capital Abuja, with the virus spreading into western Africa from Uganda.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Nigeria confirms Ebola case in Abuja as woman who arrived from Uganda tests positive",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMld1Vl9scHJ2NGVsZkF5QkdRbEdfbHAxcEI5Rm9Nb2tmaWw1MExvZDE1dzRKQml2bnk1YlhfeTVXcEwxaXhnb09VZ0ZlNVBuQk5PNUtCOEFVMUNuYWh6aW5qYXpELXFTTnVsV3FVTktkeGwyeTdJUUhwWVpZQjl5TFBWd2ZlcGJ1bVB4MmZweEVLTS1oaHc?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+          "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest"
+        },
+        {
+          "name": "DW",
+          "title": "Nigeria records its first Ebola case, in capital Abuja",
+          "url": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "FAA clears Boeing 737 Max 10 for airline service",
+      "summary": "The Federal Aviation Administration approved the long-delayed Boeing 737 Max 10 aircraft for use by US airlines.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "FAA clears the way for airlines to put Boeing’s long-delayed 737 Max 10 into service",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWh5TEc3UFM1REZCazFzeGJpZTFXblJEdE9wWWFrU2RzbnFKVnRYQTV6MS10V21tVElVaW9jLTlMc3d2YnRSU0drVlR0RWxvam1SUUdHWGRaMG01OUZaM2RFd2lsZmFnc2NLVHBwbm5KOVhSa3ZiZjJfd2NycXRZdFF4SExsWXFlcGQ2NUdCMTIzMmlndlpISHd2RElFVk1nelNV?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service",
+          "url": "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "North Korea to activate border propaganda broadcasts against South",
+      "summary": "North Korea announced it will restart loudspeaker propaganda broadcasts along its border with South Korea amid rising tensions.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "North Korea to activate anti-South loudspeakers along border",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdHllSVpuQVItNDhYcW9GeTVrUkJHVngxel9VR20xQnZVLUlJcHYxYktzQjFoNEpMWkFLcmlWZS1HU2dFMTFSaDZjX3NrNlNQT2ZFS0JqeGJkZ25lREY0ZUZNbVp6clBlbmg4Y1dDMUlyT0RxajZYMTdZU1VUaW9NbjFURGtPbjB0X09ScFJ4UWVnMFRxMFd6VGRFdTBMeDJlQV83NE94SUFFZzJVeGRuVzlndEpMNUIydDRZcXQ0OVlPTFIwQ2RIV1lpeWxZbzB3?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "North Korea says it will restart border propaganda broadcasts as tensions rise with the South",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWdMcXlGTHpkM1pJUzJvYUpMWVFvV1d1T2lzUC1BdmJKR0l3alFvdzhWVDdHczJOalN3Z3l2SkV2bm1jb0JySlc0ZWtfWEU2azZwTXZXRE5WU1BLVEZjQVhFSV91ZEhuN01GMktOTVYyMUZtWU11UDVtZDVGS054aHV5Yk9KNEhKOTZBdVlXUWpHeXlDdXVDT2xKLUowVmo4UHJiMA?oc=5"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "UK and allies prepare to defend Saudi Arabia from Houthis",
+      "summary": "The UK announced it will send fighter jets to defend Saudi Arabia from Houthi attacks, as regional tensions escalate.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "UK to send jets to defend Saudi Arabia from Houthi attacks, and other Mideast news",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd1EtQlVBeUdvX1BnaEx2cXI4ZVVleTdNSlJ2dUR2eXdWeEpwVl9SandQVEpadDVrdzVEM1k0a2NfRXhpSURuOFZtRzdnOWtsNGZncFhtcV9OZ3kxQ1Y1RDRYN1FLNG11V2Y4dFQwbnRqOXJQZDBySEhMWUxrVGZwQ0tPS0N4TXpZVGxkeFRwU3BTWkoxMnNTa1JsNTlPYjZDSFJhNDZFazJsSXc?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
+          "url": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Drone strike in Sudan's Abyei market kills around 150",
+      "summary": "A drone strike on a market in the disputed African region of Abyei killed at least 150 people.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Drone strike on a market in disputed African region of Abyei kills at least 153",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0RoXzlpbUpReTJGMHFMdkZyRzd0NzlLRkNZdGRqQWk5ZmZLQ0pMSWhIUUlmWTE0TGE3Nm5oQWVGOVBrYlVnbnh2UVVpR0s5LUdSSWc3MnVPNDRmOGVBTkpNcUp3U1RKWnVrUU1UQjB4NUNEVlB5X2lMNnU3N0NjQmd1QU1TSDdXOU1vQXJoSkRzTnBiOHE2dFNITGhwNHhVbWdMUw?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Sudan drone strike kills around 150 in Abyei market",
+          "url": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
