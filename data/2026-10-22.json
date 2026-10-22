@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-22",
+  "crawled_at": "2026-10-22T22:05:20+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Macron tightens curbs on protests, blaming hard left for unrest",
+      "summary": "French President Macron condemned protests and announced plans to ban some demonstrations, blaming ultra-left and disputing claims about immigrants causing riots.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "France's Macron tightens curbs on protests, blaming hard left for unrest",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHhBdkpVMVZzcjFPVTR6dkJIR1VJcGR3QXBOeFRHRFJuZFBGM2hWYzczWXdMUFdjVnpsYzI0RE1nZzhIMUNaQzVQMHRKa1VxcnpsaHJzalQzNHJXb2lkbDd3WkJQdXItb1UtZmpQNmQwQzQtV1VfUkJtdHpTR3p4OG95dmM3UkozM3FxWm5WMF9wMl9qQVVJR0l5NmxzV1pzVWtzVy1HXzQwSGRKTVlEZWtB?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Macron slams as ‘stupid’ claims by Trump and others blaming Muslim migrants for French riots",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUUJidmNJUXJrTm9ZQ25iQTYySjJCWGR2amJnSmZYTTdOSjN2QW5zRkoyUVA2TTlMbm5EWGFWUzFwdVJFR1pvTUZkSXlEN3BJc0kyakpHOGItakdRc3FfMmhHaVU3cC1RVUtPWTBYZEpuMDJUVXdLSGQyQkVralFpSWxoZHZ1ekVSaDBFdkRWVEZsYWNhRnBNYVdKa2pzdw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "France’s Emmanuel Macron says ‘illegitimate’ protests will be banned as cities block demonstrations",
+          "url": "https://www.nbcnews.com/world/france/france-emmanuel-macron-illegitimate-protests-banned-cities-rcna604952"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "France bans protests in parts of Paris as Macron slams Trump",
+          "url": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Saudi Aramco tells staff to evacuate Dhahran headquarters",
+      "summary": "Saudi Aramco instructed employees to evacuate its Dhahran headquarters, with reports suggesting security concerns related to Houthi threats.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Saudi Aramco tells staff to evacuate Dhahran headquarters, sources say",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNDNYdWIxY2pGbkhqRTlJNmJRMUE4N1RsclJwWklRYzdQUy04Wi1ObjlQNm1JaER4QVpRREs1NkdOeVNzYi1wd3lURFQ0S29OYkdJOERlQUdlSlBQMU1Mb2VzRDVaZlpUbWt0UGdpODc3a0FjWkVoUDIyWEZCeHlSd2JfZkIzLVNNVV9LSFcyVGpNaFU0S3JOV19wc29qWU90SGJrV04xRlQ5cjlBMUp0dFZ5UlgzR3F0MEdJXw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "1 person killed in attack on eastern Saudi airport, authorities say",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXo0Nk1pSDFVdkZGeEp4TGZobnBPS2FpdVlORlptNFFhWnp4SG1UQk9icEhXYTNUSzEtUXVoSEwxZUMtc0Z3cG1lQWJsS3I5TE9JLVJiRnlYTXczSkZfd2E0dFdVNDctZkR1emhpNmc5bF9SMXA2cHhwU3pPOVRkZ090MUVnLWU5NHd5TjN6NnN3S0poLThpYlpzLWFqNHdv?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+          "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks"
+        },
+        {
+          "name": "DW",
+          "title": "US orders some diplomats to leave Saudi Arabia amid Houthi threat",
+          "url": "https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+          "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Websites hit by millions of attempts exploiting PHP security flaw",
+      "summary": "A global rush to fix a PHP security vulnerability left some websites offline as attackers attempted mass exploitation.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "How did AI discover the internet's massive cyber-security risk?",
+          "url": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+          "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw"
+        },
+        {
+          "name": "DW",
+          "title": "Germany news: Many sites back online after PHP security fix",
+          "url": "https://www.dw.com/en/germany-news-many-sites-back-online-after-php-security-fix/live-79728628?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Global Rush to Fix PHP Security Flaw Leaves Some Websites Offline",
+          "url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "France reports first human case of Shamonda virus",
+      "summary": "France confirmed its first human case of Shamonda virus in a severely immunocompromised individual who died.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "First human case of Shamonda virus detected in France, officials say",
+          "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "France reports first human case of livestock virus Shamonda after patient dies",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejBUXzcxOHI0Z0dYUTBSeHdDcWdKQTc5WDlnVk4xeml4UTJpTjViR19hc1JtWTJ4WjVfMXV6RDhxemYwOW94Z2xwdXJ3U19NR2NCV3NpMWYyanUzS0E0aVpXZ29pbTNleWk3Zkk4SmtacUJkM0g4enBRdGYydWVKS0QxUDNndG96WUduR1ltNHljZEotallkRXlYM1J2bmZscmRWVXh5NThHWUdlVmR6ZGlhMmRIUXMxd1E?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "France confirms first Shamonda virus infection in a human death of 'severely immunocompromised' individual",
+          "url": "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "summary": "Barclays announced it will cut 5,000 jobs this year as part of an AI-powered cost-cutting drive.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Barclays to cut 5,000 jobs this year",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNnpycDlZTWVVLTN4MW5nX2gydHZsVU5iZXlqdVktS3J0d1A2Slp3U1VOWng3bGdla19QV1FQbnpOZVdpV3FLUFh5UUx3dldxR3dLZEhPcWlRZG1qQjZJb2FBQXZINlFHbUE0MjB2Z0lvbjlyUGNXSUdfNG9VdVc0d1I4dHFaZXFjeHF6RVZwYW5hZFl4aWc?oc=5"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Russia agrees to resume Ukraine talks with US and Kyiv",
+      "summary": "The Kremlin said Russia has agreed to resume three-way talks on the Ukraine war with Kyiv and Washington.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
+          "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Supreme Court rejects Trump restrictions on transgender inmate care",
+      "summary": "The Supreme Court rejected Trump administration policies restricting medical care access for transgender inmates.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFRhSTJyT3RrVXFVUzRQRnpqUndyLTduTjdsVGdNdFQzandyVk5DRU1tcUZaX0xWWW4ycmxYSmpzcmN6UjJ1Mk0ycGpSOHVtZlJOaWo1b1J0RVlnelJJa3dTYWg2M1RYN3M3UVk2MHU1cUM3TUpETkpfWUI2eDl2amNLQzBJWDVxa1lxZEtBWlJYNFBrRDM1V3ZUQ29NTmRI?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Supreme Court rejects Trump policy restricting treatment for transgender inmates",
+          "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-trump-transgender-prison-policy-rcna601889"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "US and Israel draw up plans for renewed strikes on Iran",
+      "summary": "The US and Israel are developing plans for potential military strikes on Iran following upcoming elections.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "NPR",
+          "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+          "url": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla"
+        },
+        {
+          "name": "The New York Times",
+          "title": "New U.S.-Israeli Plans to Attack Iran, and Trump’s Whistle-Blower Rewards Program",
+          "url": "https://www.nytimes.com/2026/10/22/podcasts/the-headlines/us-israel-iran-trump-whistleblower.html"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Harry Brook scores England's first ODI double century",
+      "summary": "England batsman Harry Brook hit a double century, breaking the record for England's highest one-day international score.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Harry Brook's double century breaks record for highest-ever England one-day score",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "US banks detect unauthorized AI agents in customer accounts",
+      "summary": "US banks discovered unauthorized AI agents operating in customer accounts, raising cybersecurity concerns.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "US banks detect unauthorized AI agents in customer accounts, Axios reports",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcEFxNjAweHdoQ0ZaOWpUTGdVNWRkTXJ2Z08zeG1wOG03ZklKSW9WbTFBbGJWUVZVb211eFN4UFpjTG83aHBtMTViQ21fQmxBd2U0b2JTLXNHcjBReXRpMDl3am82SUVqVU1ndmRxejczTVZaWFlCMVZQSGNwWEQ0NXcyLWt0dlduZ2VUbjNyTUdyRUVndWEzV041cVQ1Mk1uV21vNGZBTUpaQ0tkVk1sOElNZW5NQThVZm9SemdUbXY?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
