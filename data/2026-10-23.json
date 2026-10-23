@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-23",
+  "crawled_at": "2026-10-23T22:05:19+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Israel orders full West Bank lockdown after soldiers killed in attack",
+      "summary": "Israeli authorities ordered a closure of the West Bank following an attack by suspected Palestinian gunmen that killed two Israeli soldiers.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+          "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "The Israeli army says 2 soldiers were killed in West Bank attack",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUU10ZzZIODMwNWxTQWN0dm55NUVrYV94T2tlajc3OGlSR1luUlBlZUh5djZiclJWMkdmcHAtSWViYkJSZHJrU0N5TFBkdEZhdTJCRWxlNkFLQlJ6RTRUZTM3ZU1RR3hUUzg4bTh4dkptQ3RoakJSVWJzTmVtWHk0WU1iUGdPdk9nV0NWVGt1aGdWVmJ3bUc4UHVB?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+          "url": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank"
+        },
+        {
+          "name": "NBC News",
+          "title": "Israel orders full West Bank lockdown after deadly shooting attack",
+          "url": "https://www.nbcnews.com/now/video/israel-orders-full-west-bank-lockdown-after-deadly-shooting-attack-272097861757"
+        },
+        {
+          "name": "DW",
+          "title": "Israel preparing 'full closure' of West Bank, Netanyahu says",
+          "url": "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "PHP software vulnerability affects 70% of websites worldwide",
+      "summary": "A critical flaw in PHP software has been discovered affecting a large portion of the internet, prompting urgent patching efforts and concerns about potential disruptions.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "'It's been relentless': IT workers scramble to fix PHP flaw described as worst crisis in years",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV05wYl91MmowMUlxMjZkLXZBU25XR1h4ZWE5dnptMktPMDdkUnpWMkxpUFZrUUl6ajg2NjNlcVBaOTYwWEtqUkRTVlVIUGc1a3FoZjVwendXdm1DUTZxN05fNWkzblg2TEVFRkpKNnlTdjlpaWIzYkljMFFSYkRVa29uQkFWZWJOaWpFRV9ZWUJhSXBUa1NaLS1WZjJxcDQ4NmpHaXpFT2xLb1VYZWtSWElyT2xmTEg1V1FnMjE3NE5wQQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Rush is on to patch a software vulnerability that could impact 70% of websites worldwide",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXNid0stVGgtZWpqaVMyd01mNVgzZndaWHhnUTlFT3FKQW1PZ0daVDBfMWxSbThxUzdCSnFNT2U3YWFnMjZvMDVnVFVyUW1DZENvWnFZZU5jRFNCUnlsRE4zU25FZzNpUEUxcDhUYUs3Um1ZZW5tUEc1Z2FwdUF1d2lqVXZ1Z0JyVVkxR1FrZVJ4QTZVX3J4cGZRN2ZiUQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
+          "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Shooting near Paris kills one person; suspect arrested",
+      "summary": "A gunman opened fire from a vehicle near Paris, killing one person; French police arrested a suspect and anti-terror police are investigating.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+          "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Gunman fires from car near Paris, killing 1; police arrest suspect",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRWRWa2ZyY2MySVU3NVpEWElTQXlveTJMWjlZaXBHTUphcTlTekxveFBQY2ppTFF4enFSWHRrZDVHTDlpMXYwVWlTZ1h3M2dkNEpfTFNmSWc2STFaUVpNRHhrU0hZVnVHSExaMDF0blpEYXNDaThEbWxKeV91UEdGVm1Uc25GSnR6U3R0QS0xbVpZLU9tWC1oN2N4ZkJsZEU?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "One person killed in shooting near Paris, French prime minister says",
+          "url": "https://www.nbcnews.com/world/france/one-person-killed-shooting-paris-french-prime-minister-says-rcna605183"
+        },
+        {
+          "name": "DW",
+          "title": "France: 1 killed, 4 wounded after shooting near Paris",
+          "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Meghan Markle speaks out about allegations against her father",
+      "summary": "Meghan, Duchess of Sussex, expressed distress over claims her father possessed child sexual abuse images and said she was informed of disturbing allegations in 2018.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NBC News",
+          "title": "Meghan Markle Speaks Out About Accusations Against Her Father",
+          "url": "https://www.today.com/video/meghan-markle-speaks-out-about-accusations-against-her-father-272096837878"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Olympic marathon champion Jepchirchir provisionally suspended for doping",
+      "summary": "World and Olympic champion runner Jepchirchir tested positive for EPO and was provisionally suspended by anti-doping authorities.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "World champion Jepchirchir fails drugs test",
+          "url": "https://www.bbc.co.uk/sport/olympics/articles/cwz0vn1yk235o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Olympic champion Jepchirchir provisionally suspended by AIU over EPO finding",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT2dOMTJveHdXNlhRY3hLd0xncW00TnFfbks1UEg0YjZTOTRaYXhKeEdHUlZwU2JIZHNpRnJ5Vmx5LXVTZ0V1YmdCdUIyTmEtVGhWQkdsdGJXdVp0NUU1Z3pWdF9pZmJWTEN6bXNFZzlpWE1PSkRPSE9SaGNfV3VWLV9EY1RIR2tncGZMYk5QZTg1dkYtM0R6ODdMa2t1MUQyeXFldXdLekhnNEhodVhpeTBPYUJsQWVyMEZB?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "World and Olympic marathon champion Jepchirchir suspended after positive doping test",
+          "url": "https://www.theguardian.com/sport/2026/oct/23/world-olympic-marathon-champion-peres-jepchirchir-suspended-positive-doping-test-athletics"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Magnitude-7 earthquake in Tibet kills at least 16 people",
+      "summary": "A powerful earthquake struck Tibet, collapsing hundreds of homes and killing at least 16 people with dozens more injured.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORldaOFZPaTBpbVQ2N05EYjc0VlEzMVFUSHNTY0NZMTlUQnQwRTd2MTk0YU96N1N6WUlFZ2R5c3RnZ0FCNWkwemZlV1FmM3dfSVlFekRYc3AwQ2U4WmhESG5pT0xPT2NDUVNxLUZtMlFQNmFkYjN0TmRfUnF2azNnR3Z0aVVsZE16OGc?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
+          "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"
+        },
+        {
+          "name": "DW",
+          "title": "Tibet earthquake kills at least 16 people, injures dozens: state media",
+          "url": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Melanoma vaccine shows promise in reducing cancer recurrence",
+      "summary": "A novel mRNA cancer vaccine helped reduce the chances of melanoma patients' tumors returning in a major clinical trial.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "First personalised cancer vaccine cuts risk of disease returning in major trial",
+          "url": "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "A novel mRNA cancer vaccine helps reduce the chances of melanoma patients' tumors returning",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa21rSEs4bmdSczAyejNYbnhOLUtnWjVRNTFHNHVqMGZOVTdhUDNRcDlzT2M2cWFpYkZtc3BpRXdCdDFKZEtwZ2llUFFaTktoZXJPanVDbGxWaVhjb0stT3IwUDNwSFJRd2w1UDhteHB5SWtnZHBWQUtKYmdGNE0yeTNpZ3NzUENMZTZPNVpfVHBNcngzQ3VPYmxvb2gtR1ZGZzI5OERsclVYLUU?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
+          "url": "https://www.nytimes.com/2026/10/23/well/first-of-its-kind-vaccine-ushers-in-new-hope-for-cancer-patients.html"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "France deploys 70,000 police officers for weekend protest security",
+      "summary": "French authorities mounted a major security operation with 70,000 officers deployed as the country braced for a fresh wave of protests.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "France mounts major security operation for fresh wave of protests",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkg2U21rX0FPY3pMbWlwRW5TYmJ1OEVLUUFpWGE0NG1ud3JCTkEzSzVaaGJDOGs3UFdOcDFnX0NBMTI3YWtQLXRrWjFkV3YxdWlGNnI2LVNoLWpkQ0Z6QjBoNUVXYkNRcG9KWm0tcmJKbExKaWtXYTNuSGdMZ0l4MzQxQlZmcGhiVWxpOG1lX0t1c2wzUUpYd0QzbXl3RkxZbDl5cWI4Ry16dmZYbHhqZHVUaEIyUQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "France to deploy 70,000 officers as it braces for weekend of protests – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
+        },
+        {
+          "name": "AP",
+          "title": "Thousands gather in Paris after a court lifts a protest ban despite fears of new violence",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNGlhWmUxSkoxRjVmNFNQc1E3Y24tRWxiT2k0d1d3TlNESnVPR2VqVEtOSURGTy1pNWtLcDVBZEd2aFJtVjI4dzhqVzVaUEJMUWRpQW5neW1aX05PQ3NJV0hKOXhlcVJmRVFuN0NhRU9hMWM5bHB4SXVCWDRkUUdzbzRVZXJSSHdqU2tIU3hzYUdtaldXX0RieDRR?oc=5"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Seven killed in shooting at church funeral in Jordan",
+      "summary": "Gunmen opened fire at a church during a funeral service in Jordan, killing seven people according to state media reports.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
+          "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Unidentified gunmen open fire at church in Jordan, causing deaths and injuries, state TV says",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd2lOTkU3cVRlN2NTOWxzMWZYZnZUSjBZeWV6VHprNk44Q0pWLXdaMjF6QU1iS1JjV2RLdkFkM2NyVUtTOXpDdHg3SThHN2tFZFozTGZIdlVaVzBqUFV2STZCMXcwbjMycDNTNWppUDdSTVZBaWxqTTR4dk5kWkFrTDM2TzVkYi1oNTNwTjluU2NmTmY5cHkxbEhhWGR4VUt5QTJub2hkalo1WExtNVc2MEoybC1YWkQxbnNoZ3l6QzB6c1lOdGJhZTdB?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "UK government advises public to stock emergency supplies",
+      "summary": "British authorities recommended that the public keep three days of emergency supplies at home, with Manchester's mayor suggesting tinned food and bottled water.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Burnham suggests stocking up on tinned food and bottled water",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "UK tells public to keep three days' emergency supplies at home",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmRBVlhXaFdmTFBac29hb2o0NWNXRlJsYWRNYUJKeWtPLWN1c3FqcVh6RWhsemJPeFFzZThhM0dUWnNRTVFoWlNxemgtcGVfTnNBYy1vNlF1aEc0QU44Zy1KdVhiNGstRFFOU0JqVk1XMzFrQ1RTcUJvNmcwYVo5RUI1bkZBTFFDUERMYlRLdXh0VFU1Z0p0UlRySjk2QkxhX2Mya3NPaEw5TFR2b0o0T0VpWlRJRjJZTUE?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
