@@ -1,0 +1,306 @@
+{
+  "date": "2026-10-25",
+  "crawled_at": "2026-10-25T22:05:20+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Mass protests sweep across Europe with hundreds of thousands demonstrating",
+      "summary": "Hundreds of thousands of people protested across multiple European countries including France, Italy, Belgium, and Spain, with clashes between protesters and police resulting in over 1,300 arrests.",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Protests sweep Italian cities amid heavy security presence, some violence reported",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkVjV19ld3VNNFRlLXZaOFh2aUhReW5lUXgyblRhTHJPWEM4bUg0QU5XeFVXd0tKelV5LVFhSGJKMndmNjg1aFJLcmtITDNjTVpFVFU3YUFtcGdSc3ZGTDQzMHJTN05nZldOVkM0WDZyS3Y1TF9RbUVtMFh5MENrajRfRFRlOTR6Vlc5MWV4aklwMi1ielVIUEVmelIzMkVKaDAyT09wWWs2NXU2QVJwNUp0bXM?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe"
+        },
+        {
+          "name": "NBC News",
+          "title": "Widespread protests expand across Europe as thousands take to streets",
+          "url": "https://www.nbcnews.com/nightly-news/video/widespread-protests-expand-across-europe-as-thousands-take-to-streets-272178245507"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Hundreds of thousands march across France in protests over schools and policing",
+          "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing"
+        },
+        {
+          "name": "DW",
+          "title": "France: Hundreds arrested after nationwide protests",
+          "url": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
+          "url": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Brazil holds presidential runoff election between leftist Lula and Bolsonaro",
+      "summary": "Brazilians voted in a runoff presidential election between leftist Lula and far-right candidate Flavio Bolsonaro, with final rallies held the day before voting.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+          "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "With his first smartphone, Lula seeks to catch up to Brazil's online generation",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTR2TkpZcDQzTkVTUGxOTlJDZFJReU9TaGpsZ2p4N1VneEVPbm51aHY2cUJLbjhORTU2NnVxMTFoWFUyVVNCQmRRcmpGVW54ZHpPZFBSZ0JfWFY1QnZ3SklldVlqYVZfczF2T2lEcU5BMlBEZFdSQ0J0aWFrX2owS053eEloM3RUTGNhbFZLd2hSQkVoaTVGUUN1U1dSRVhaM0Z2c2FZUGltLWU2ZFJLOWY2S0lhMW9qX2Z2Z1Zicw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "What to know as Brazilians choose between Lula and Flávio Bolsonaro on Sunday",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXJEbXYtVm45V3lUY3NuMmNFSUxHcjNYdzhENFJ1SXhCRjJyU0dGYnROb3BWVjA0S0NFa1FHSHkwOVJZODRsalpSSXFGQk9vNDE4NDkxTDFOaDFDX3ZrSmtFbjJOUnBPMU1ZN0RHV0o4UWxpUE0yZjBodDFWMWZ6c3FBWVpZSFhheDViTDJ6MkRaei1R?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+          "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election"
+        },
+        {
+          "name": "DW",
+          "title": "Brazil votes in tight runoff between leftist Lula and right-wing Flavio Bolsonaro",
+          "url": "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
+          "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Elon Musk says SpaceX restricted Starlink connection to Ukraine, service restored",
+      "summary": "Elon Musk stated that SpaceX had restricted Starlink's capabilities in Ukraine to prevent military use, and the service has since been restored to normal operations.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Elon Musk says SpaceX closed Ukraine Starlink ‘loophole’",
+          "url": "https://www.nbcnews.com/world/ukraine/elon-musk-spacex-closed-ukraine-starlink-loophole-limits-hit-drone-rcna605494"
+        },
+        {
+          "name": "The Guardian",
+          "title": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
+          "url": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine: Starlink satellite speeds restored to normal",
+          "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Obama campaigns for Democrats in Michigan while Trump rallies supporters",
+      "summary": "Former President Obama campaigned in Michigan for Democratic candidates, criticizing Trump and his allies, while Trump held campaign events in the state.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUdEaVdfMFowR19ySTVVTVhyUkxlV2d0VDB5VFlxLS10TzJzRTV4ajZDV1F6UjVTUW5RYVVCTEhSVy0wdGdfRGdYWVpqMWxiTkd2NVhtV0lZRkpYTWhSMUY3aE5KTUcxN1VxNEJ2djlPbjFxY1ZhYVZpYmxRVUlya2tvUGdWLUhsMGlDakYwX3YzTnJNUlBrMlNZbng5WVhvRnZnMm05Sm45N3VuVUNqLU9n?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkp6bHg5OWk2TXZXZndoNmVFcGlkRmktbEtieHpmckduS1BiSFB6dHN4N3dnamM2YUc0OVQ1d2VMSGZOUS1qQzRmRFZuZV9sQ0d5cjBwS1JJemtkRFBIZGdBSFpKVDd0bzdCWEpXSkJkZWE2ek9Pd1E1MXpSN0NVNUQ0enlqcEV6bFFhT1dJNWVjeUlxZHRjZFhtazV5TnpCZlBlUEc0eXA3SGZzQkdn?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Obama seeks to shore up Abdul El-Sayed with Black voters at Michigan rally",
+          "url": "https://www.nbcnews.com/politics/2026-election/obama-seeks-shore-abdul-el-sayed-black-voters-michigan-rally-rcna605457"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
+          "url": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Saudi Arabia and Houthis escalate conflict with drone and missile attacks",
+      "summary": "Saudi Arabia intercepted drones and missiles from Yemen's Houthi rebels and reopened its Riyadh airport after weeks of attacks, while the Houthis claimed responsibility for targeting Saudi oil sites.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Saudi Arabia intercepts drones and missiles as fighting with Yemen's Houthis continues",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Saudi Arabia reopens airport as attacks by Houthi rebels persist, and other Mideast news",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeDUtVElsazdRYlBXZDhiR2lBRF9VMVFCaEVDSTQ2THNuTlpGM1BOUkF1amNpbE12eHBkNTBlV1IwMmlYRWJLWE5RcEF2Zm0yTXJnazVsV1pMbERNNl8tekRrOHdVNlBUSEVYRURPQXhpakw2aTVtX3VUSnc2aXdndVZyREsxZGF6TUdDdHhrZEQ4UQ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
+          "url": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
+          "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Shooting near Florida A&M University in Tallahassee injures multiple people",
+      "summary": "A shooting near Florida A&M University in Tallahassee left approximately 11-12 people injured, including several minors.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Eleven shot near Florida A&M university in Tallahassee",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWtZTlJpR0w5THFmMVVrNzNLeVpBOGF4UmJwOFdkWE9oTVNmWHBmbWFlQzY0ZUg4TThoaE5Vb3ZFX1NKQ1lsWEYyU1Z4V3ZKZXh5QWROS0ZsRnB3SGc4dnlQZFhScGE2OVdSRVkwNkZaM0xZdmZwWUFVeHVJZ0xFRU9uS3VHZThiakdtUEFCVDdsQWUz?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "12 injured, including several minors, in shooting near Florida A&M University stadium",
+          "url": "https://www.nbcnews.com/news/us-news/tallahassee-florida-shooting-florida-am-university-rcna605484"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Eleven sustain gunshot wounds in shooting near Florida university",
+          "url": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Trump announces Audi will build $4 billion factory in Georgia",
+      "summary": "Trump announced at a Georgia campaign rally that Audi will construct a new $4 billion automotive factory in the state.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Trump announces Audi will build $4 billion US factory in Georgia",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGx3Y2FFQnJqWm4xQzIyem5aQXhBRWU1UkwyblYyU1BTQmR5TllmeUF6aGpDYjNQZmJNZlRWZXRzTDg5dlZYUGNXalE1ajdLUzc4blptZWJVaWdqYUFWcjViR1gxazBrSXp6bHFScVBRV3hQNEpLbi1fRm1CTGlPNUMtMDJTS0gyN3lzU2lrTDZhQjFoaWZtMXQxUThHV19oNmxzTFFGNnRlMlEyb3JQeDF6dm16bE5odlEzcGZ6THBEUDVEelktZmhHV2ZSM28?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTFJejhGVHpHM3RQVWQ4UzVmaWJfSUVsUkJJaENrN1h0bjA0aHhvaDVvREd0QllZQnU1Q3J4RnBKNmg3aVRWRWxBeDNuMmdQRVpKamNEWmQ4bnlxYzJGVTRMdGpjaU5kNGZ1Skt5VE5WNi1Sa1d5UENGVUo1dko1YVM4OGFMcENiTHVBU2RTV0psdks0ZkVzU0N4Nm5IM3BhY2R4ZEN3?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Trump announces Audi will build $4 billion factory in US",
+          "url": "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Israel conducts military operations in West Bank ahead of election",
+      "summary": "Israel launched military operations in the West Bank, displacing Palestinians and closing crossings on election day as part of an escalating crackdown.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+          "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Israel presses ahead with West Bank army operation days before election",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ05mRWNJRXpxeTlzSlRPbVlWVjdKd1NJcWlwTy11ajRlRFJieFkyd1I0dTBaVnM4Nk9keDdvcE9xYnBZbVoyeDRYN2k1YXZtLWdfeF9uV3VmU0ZpQWQ3OTZxX0tpdWJlZnhlRUJuQWhrbjNKTEZjdUhUSEN4dHVxNkhfckRUTUNZOEsxTmtYQVN1Tnh6MEliQXYxcFN2NVF0MkRuYW1Xaw?oc=5"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Archdiocese of New York settles sexual abuse claims for $800 million",
+      "summary": "The Archdiocese of New York agreed to pay $800 million to settle abuse claims from survivors, with the settlement approved by abuse survivors.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Abuse survivors approve $800 million settlement with Archdiocese of New York",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2Ixc21EUXZ4UEhWVEtXSkJzV1EwWm5tT0V5dlFkbWlKaXJidVNoLU4xZEJScWpKZnlYajJyQUJITE95cXpwRm0wdE1jSGhOV3VpWEk1b1FtRU80ekFYZ0xsTEdPMldZU1EyRkZ1cXU2alZ3eDRBUU5xVGtpM3kxa1FqQUR5Nnk5Q1luX2ZZbkJUMHM2THMxa21GTUlabXgzMWljZWtkM3BxS1RRbklkWlZHNmNzaVhVeGg4U1RWWWV5d0E?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
+          "url": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement"
+        },
+        {
+          "name": "DW",
+          "title": "New York Archdiocese to pay $800 million to sex abuse survivors",
+          "url": "https://www.dw.com/en/new-york-archdiocese-to-pay-800-million-to-sex-abuse-survivors/a-79753347?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Iran ramps up efforts to target US personnel, intelligence warns",
+      "summary": "A US intelligence memo warned that Iran has escalated efforts to target American personnel, with threats reaching advanced stages and risks of pushing US-Iran relations toward full conflict.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Iran has ramped up efforts to target US personnel, intelligence memo warns",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnBGckdpTkdaSnNZeFIyenI0MVVDMHd6R2ZDcTlUX3I4OWNNMlRjd0FTXzhCY09zakU1MWx2RzBpRW1QYTRxY2M3UWpBZHR3S1JlNjQ0WlIyRlh3ZnhNaVZ0OVcwU21YMjUyVVF0RXB0VXFLMWpGdEVtak1DUktTdUdLWmQyWGRFQ0xmb2Z3WG1nSHdfVUxlbUlsc2RJRmNmWVRHS1Qtd0RCVU92d2t1S19HbjlFVzdoREJONTRNYk1iZw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Iranian plots to kill Americans in Middle East have reached ‘advanced stages,’ intel memo warns",
+          "url": "https://www.nbcnews.com/nightly-news/video/iranian-plots-to-kill-americans-in-middle-east-have-reached-advanced-stages-intel-memo-warns-272179269503"
+        },
+        {
+          "name": "The New York Times",
+          "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
+          "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
