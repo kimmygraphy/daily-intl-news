@@ -1,0 +1,281 @@
+{
+  "date": "2026-10-26",
+  "crawled_at": "2026-10-26T22:05:21+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Brazil's Lula wins historic fourth term, defeating Bolsonaro",
+      "summary": "Luiz Inácio Lula da Silva won Brazil's presidential election, defeating conservative Flavio Bolsonaro in a tight race, though Bolsonaro has refused to recognize the results.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Lula is declared winner of Brazil’s election as Bolsonaro rejects results",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSElINHZmYXlEYkdaa0FvWkZVOVU3Tm4yQmdjZ2tXMXJveURKTkt6TVJDN2lEc2ozZTM5M0F3cWZsamgwa2ZtVFRKajJuU1NXd21kVGdad2hBdnJwdlZLOXFrNjhTbFZIZE5QX2tzYUhrendRVTFuSHpjcU85NEotX29VdjJvd3hvZmlfaUlHSnl0Ym9IYjROMm5tblBjbXNTYzAxLTdRTjJqcDlQTU0yZUlB?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
+          "url": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva"
+        },
+        {
+          "name": "NBC News",
+          "title": "Brazilian President Lula wins a historic fourth term",
+          "url": "https://www.nbcnews.com/video/brazilian-president-lula-wins-a-historic-fourth-term-272213573962"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
+          "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election"
+        },
+        {
+          "name": "DW",
+          "title": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
+          "url": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
+          "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Serbia's student-led movement ousts veteran ruler Vučić",
+      "summary": "Serbian president Aleksandar Vučić lost his election to a student-led protest movement in a seismic political shift, with celebrations breaking out across the country.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: How Lula turned it around to beat former president's son",
+          "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Kremlin hails defeated Serbian ally Vucic as student election win adds to its geopolitical woes",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNU5NcVYxMk1JeGN0c1ZnRWJXaVo0OGdWTk9Vd1JfSmRRbUxsNXZON3ZJXzFYQUg2NlM4bmlDUjdndVhXQlpnNHB4VWp1TzRIclNfSHpQbThQb2RtNzd6Y3pYUWpTLWJCSkQ0bXdJY0lSYlZnNTlaZUJCU3ROal9kZzN5ZXc2RWpKcmtMX1kzaC1DaEdTMDJpbFkzMnFyOGViOENqN1o1eEFWY2dWTFdFQ0VObHlwVE1td3QzaGJPRTY?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Serbia’s political veteran Vucic outplayed all opponents. Then the students came",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWDdtZ1hWbUZINk5VcFBWaVlqd1J5V1hjNmlUZ1p6MWxxdmlsbDVCdzNUaWpDcmhQQ2c3aWVnNXZETkM1VGNyNDZVMFVINUY1a3JiYlhMdU1pZUtZX3BOcWJWeVpUazV3YWV0eE1PRGtubDBFZFlhUUFRU00xTWx4al9xWnhMVTFuTmVkUGFkTkZXNU5rYV93aGpmWUJBM1JsdVZ3?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "Serbia election: Vucic concedes defeat to student-led movement",
+          "url": "https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Israel prepares to vote in consequential election since October 7",
+      "summary": "Israelis are preparing for elections described as pivotal and consequential amid ongoing conflict, with Netanyahu facing a battle for survival.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Israelis prepare to vote in one of the most pivotal elections in the country's history",
+          "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Who are the leading candidates in Israel's election?",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2g2RGFiQXBkbmViQkVPM3ZxX0hlUF9XczIwMFdzOVFmRE1VZEVlM0ZYamdScHdyaTBYYTRRWDcyTF9NT0tSRjh0WWVmbWlfcWNtUmlrekFLRWlhTzZfTVlDZUQ5ZEF4ZGhaNjF1VFN0QVRHRzltRmJEbDlWM05nX1JGUkI0UDJpOE9xSWZFSjc3MENNb05vLTJUdGVjQQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Israelis Set to Vote in First Election Since Oct. 7 Attacks",
+          "url": "https://www.today.com/video/new-polls-show-netanyahu-in-tight-race-against-main-rival-272215621721"
+        },
+        {
+          "name": "The Guardian",
+          "title": "What you need to know about the most consequential election in Israel’s history",
+          "url": "https://www.theguardian.com/world/2026/oct/26/what-you-need-to-know-about-the-most-consequential-election-in-israels-history"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
+          "url": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Venezuela's opposition leader Machado returns from months in exile",
+      "summary": "Venezuelan opposition leader María Corina Machado returned to Venezuela after months in exile to crowds of supporters welcoming her back.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Crowds welcome Venezuela's María Machado after months in exile",
+          "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzc4d3hfVTk4Q0w5QlFPbV9hSTlxdTBKMkxkX0x0bU9DZ3FOdUFyNnZDN2pPXzNRQjloaVRPd1BZZnVJY0ZhQVVoczlCUTBzbUx2cFh0NWZPX1JULV9QODF4YjRjSGVlb3NvZVkyQWo5dGtTam40NDR0VWFubEFtNW5BQ080Wk10T05hVjRya1NDWVhzbnY3Z2xQdWVCN1k4QTZaS1FkeTZIUVVYakNsUHVScFE?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Venezuela: Opposition leader Machado returns from exile, received by thousands of supporters in Caracas",
+          "url": "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "María Corina Machado Returns to Venezuela",
+          "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Trump intensifies anti-Muslim rhetoric against El-Sayed in Michigan",
+      "summary": "Former president Trump escalated anti-Muslim attacks against Michigan candidate Abdul El-Sayed at campaign rallies.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan, drawing Arab American rebuke",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEN2Q1hmYmZsdU81ZmZldHBYWWctbmJ5bkxwa2pfMVZFM1IydWhjNldKaUZpZ2JXcVhfdWY4T0lXdXc3RHFyQmZaU2g5b2EtR0dyREthV2VGNjRkUXlUV0JoTkZtUDhDR1VVWG9lTGJvd3VTN0lsVy1USUVXejhPdVNZX2pRSEVqVVNjYUtadGJsaWdfdDFQZkloV0RweFFrTUw3bllNWl8?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+          "url": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump leans into Islamophobic rhetoric at Michigan rally",
+          "url": "https://www.nbcnews.com/politics/2026-election/trump-leans-islamophobic-rhetoric-michigan-rally-rcna605572"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Three arrested in Jordan over deadly church attack",
+      "summary": "Jordanian authorities arrested three men suspected of a deadly church attack following a shootout.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Jordan arrests three men suspected of deadly church attack after shootout",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Jordan arrests three suspects over deadly church attack after shootout, state media says",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMHVaa0dtU1RzeGQ3ZEhYLUVIV1ZpY092c1JBdE9tVE5xbk8tNDZpbF9GZDkzdG9mUUxOaVV1ZjBvYnFCV1V5WVFsa19xdnp4Tmc5anppU1pVbGhwYjdyeE9ybGFnc0x0MDZHVHA2SndrNnRyQWdhZFlRQXJwREh0S042cG1SeHpjUHJaWnNkcHdMODMyeUNacDN4aGZob2hhcUYzM2tJdGVpNF9wRG8yc2tRUQ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Jordan: 3 arrested over deadly church attack",
+          "url": "https://www.dw.com/en/jordan-3-arrested-over-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "London's Oxford Street becomes traffic-free pedestrian zone",
+      "summary": "Oxford Street in London has been pedestrianized, removing bus and vehicle traffic from the historic shopping street.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "What is walking down the newly-pedestrianised Oxford Street like?",
+          "url": "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Buses out, shoppers in: London's Oxford Street goes traffic-free",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmhHLVQtWW5oc0hEcHFSTVdkbC1KWXB1amJYeVYyVTZtcXpZdnBNaTFRb1kzcHk4cFdnLVVDYmZrVU5rZ0V4N2NLR2JwdWh1WHFIZ3UzZkZDN29aR2E5aHBBQ2hacnROLTh4MzU3TW5uZDNycXd3Ukk4QmFZUVF3VTJwcldIQkphekZDczJwdGluSVpUYjk5RGJ2TkJfdWh0MWRJZ3JTc1VnVG5PTkZFckp0SjhUblRwNVRV?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "The Guardian view on Oxford Street’s pedestrianisation: cities should be designed around people, not cars | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/25/the-guardian-view-on-oxford-streets-pedestrianisation-cities-should-be-designed-around-people-not-cars"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Ebola case in Nigeria prompts investigation into origin",
+      "summary": "African CDC and scientists are investigating the origin of an Ebola case in Nigeria, with a patient being evacuated.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Ebola scientists to probe Nigeria case origin, Africa CDC says",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUkhwcTByU3NVa1k0UWdTQXJXQWdVd1RzajM0eDdFdFVSY1hQVF9jenRZSVIyVUptelVNREQ5ejZjTWk3d2hUSXpBczV1bjdIUTI4NTNCc3d1WVBaYnlROFhXWmVXR1l0RFJZbktzTnpNajFvWHlGWjI4WjNfZzcwX2twaURndHdRVXBUUHdHNHN5QkhDdWhsUlJiVlZGWVJyT01Xb28ybW82eHkwaHExRlVTU21FdEJYZmVoQmJSYWlGN21tSlV1aVlB?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Attackers kill nurse, severely injure health worker responding to Ebola case in eastern Congo",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03SlN6UGxrSmJNMjdIZ0R6Z0VKQk9oTXBtc0hkNHJxMm9vV0VKZHA4MzNDYnJ4cXd3RmFTSGtRVHdyRlR1WFRESWp1TWl5ODlfZlRnU1dnampZem54YlF2cW5MZXl0dF9RSko0c2hZMkJCUkxCaGNGSmV0aw?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
+          "url": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Real Madrid defeats Barcelona in dramatic late Clasico victory",
+      "summary": "Real Madrid secured a dramatic late victory over Barcelona in a Clasico match with a Mbappé goal.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Late Mbappe goal earns Real win at Barca in dramatic Clasico",
+          "url": "https://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller",
+          "url": "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Kimi Antonelli wins US Grand Prix, tightens F1 title grip",
+      "summary": "Kimi Antonelli won the US Grand Prix and strengthened his position in the historic F1 title chase.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Kimi Antonelli wins US Grand Prix and tightens his grip on historic F1 title chase",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX3VBLXRxaHJDdTVQRU1uQTNZemNPX0d4RktRaHctM3c0bHhlWEFzbzdERVhlMHNVazdRckpsNUZ1a3RzUExBeVNHTXdka21lRmJJRjFOR0xkUEZ0aVB4YXMyQV9wMnVGNjdDZGg0VXpRTTJfODdUT3I4UGJiV3pTS210ZG9Ud1NYUjRVQXAzOA?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Wolff hails Antonelli’s US Grand Prix demolition as the Italian’s ‘best race yet’",
+          "url": "https://www.theguardian.com/sport/2026/oct/26/toto-wolff-hails-kimi-antonelli-us-grand-prix-victory-best-race-yet"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
