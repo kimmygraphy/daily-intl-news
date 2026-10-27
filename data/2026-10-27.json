@@ -1,0 +1,306 @@
+{
+  "date": "2026-10-27",
+  "crawled_at": "2026-10-27T22:05:20+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Israel holds first election since October 7 attack amid high turnout",
+      "summary": "Israelis voted in a pivotal election with record turnout as Prime Minister Netanyahu faced a political battle, with implications for Gaza policy and the wider region.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+          "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Voters in Israel are deciding whether to oust Netanyahu after 3 years of war",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Voting Underway in Israel as Netanyahu Faces Battle for Survival",
+          "url": "https://www.today.com/video/voting-underway-in-israel-as-netanyahu-faces-battle-for-survival-272309829597"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Israel goes to the polls in most consequential election in its history – live updates",
+          "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates"
+        },
+        {
+          "name": "DW",
+          "title": "Israel election: Israelis vote for 1st time since October 7 terror attack",
+          "url": "https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Two Visions, Two Israels, One Nation in the Balance",
+          "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Harry Kane wins Ballon d'Or, first Englishman in 25 years",
+      "summary": "England and Bayern Munich striker Harry Kane became the first English male player to win the Ballon d'Or award in 25 years.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Kane becomes first Englishman in 25 years to win Ballon d’Or and Putellas wins her third",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVFRV0NrZERLS0JsYi0ybFV2UTh0bU82S1NxOW11NUE4U01CcVhlcWxqN0FQZmRRTk1OV3ZneGVMWW41ZksycldfX21HcTUtRmJHYjIxWC1JM0pJczRNX3BxbkctaDlVdnlNT0VvOUwxQWgwRzFYY3UtdmJhR1JyT19mdkY1WDdoSGFpWFdBb3JoemtYeFNsR2REVEZld1M5YU56d1l3?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Harry Kane becomes first Englishman in 25 years to win Ballon d'Or",
+          "url": "https://www.npr.org/2026/10/27/nx-s1-6019097/harry-kane-alexia-putellas-ballon-dor"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay",
+          "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-triumph-ceremony-barney-ronay"
+        },
+        {
+          "name": "DW",
+          "title": "England and Bayern Munich striker Harry Kane wins Ballon d'Or",
+          "url": "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Mbappé apologizes for 'ill-judged' Mao Zedong comment, faces backlash",
+      "summary": "French soccer star Kylian Mbappé apologized after making a comment about Chinese dictator Mao Zedong, leading Chinese brands to drop endorsement deals with him.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+          "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Mbappe apologises to China for 'ill-judged' Mao meme comments",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdUEtRWJxSk5SSk1MQUh1TXhtZlNxa0VwOHFZaWNaMEVHZlpneEJza25scXpwaE5tSFo0MkxDVWwtSzZXWVp1X05EaUpHTFFJQ1JWMXVmdjhTc29ldVF6d081emZhYlduWS1fYXVzMmdLOEdhN3RXemYzR0J6amN1MXRyRHNyZ205dWxqaXcwZXJRaG1IQlR2RkJTUGJIZjJWUEpLVkZEWVBfTWd6c21zdlFBLUJaeVZKekpkZWhMWQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Chinese brands cut ties with French soccer star Mbappé over ‘Chinese dictator’ remark",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTQ4UjVlWS1MVlhxNUFHOVlZSk1IWHk2ai1tRGdfRkNxQ2RBUmd1eDZKMXkxTTR5cjJYTDRxem5CXzRrQ0lUd3VkMFlTVUhHVlVReEk5MWZna1NPempEXzA2UUlqREZzNGNPazdRQlNWdWJqdUZxMTktZHBBV0xkNHAzcHFBbmVhVEY0NHNaYTZmdWpTaHViMg?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Memes, Mao and Mbappé: Chinese brands drop soccer star in fury over ‘dictator’ joke",
+          "url": "https://www.nbcnews.com/world/asia/china-kylian-mbappe-mao-zedong-memes-brands-la-liga-rcna605873"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment",
+          "url": "https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Ceasefire begins in Ukrainian city facing starvation crisis",
+      "summary": "A U.S.-brokered ceasefire started in the Ukrainian city of Oleshky, where residents had resorted to eating weeds to survive amid the conflict.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+          "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "US-brokered ceasefire starts in Ukrainian town facing starvation",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcmNDbG5UNU9BQktvTmJ4MW8yYWptYlVPd2ZRYUhZakItODJtZ2l1RHhOeFJEbGZfbDAxYVI3aGpYU3RyVEtLLWZHNHE2SkZnYUk0V1VsWHAtR0p5TkhBNENFMmpJTmU5OHI0bld6VEtuV3VCU29CdVVSOE1aRGFOLUVyVEhSMXNUbGdoS2tqdHl6RElKajZmbUd4S3RHSmNqdTFhSTJiTTZUcDc3YV9QNXdsT2oyS1ZfeU9VaDhjMzhPRHAx?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Localized ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin and Zelenskyy",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Melania Trump-brokered ceasefire goes into effect in Ukrainian town ‘on brink of disaster’",
+          "url": "https://www.nbcnews.com/world/ukraine/ceasefire-brokered-melania-trump-comes-effect-russian-occupied-town-br-rcna605667"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
+          "url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Two men charged in UK over alleged Iran plot at RAF Fairford",
+      "summary": "Two men were charged with national security offenses in connection with an alleged incident involving Iran at the U.S. military base RAF Fairford in England.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Two charged over alleged plot to assist Iran in RAF Fairford incident",
+          "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Two men charged in UK with helping Iran over RAF Fairford incident",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQTFPZl9fajZtLVJ5V3dXM00xVHAtT2p6VUF5X1loNWtHZ2hSZl9CY1ZtdW01SHgxalNGbXpRVTdkZ09LanNSdVBhZ2YtRzJabk1JdFdEU25pWVMyRU40UmhnZ1UwcXpmMG4yVGJzZ1Y5QWlZYVViWVpvMVJUdGlvU0tUYnRuZUhhRHFzNkpsLURLd0w0dXBocjktUXo0Y1IxOWNMOHdGT29kcFBra2NrT2UySTNNbHNXZGFF?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "2 men charged with UK national security offenses over incident at US-run military base in England",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcnpOTW4tbExWTl84STYxUkMtQTN0S2JhelRIWFBtbkVsYjFXaDI4bjJhdm1lMWQ0aGZsbzhUS095SktDcXRGR1ZaVzdlaHZ6eXNVMVZENlJ5bnc5NlhTMndjSW9YZ0Q5MWFRM0Q4c0Q1RVFrV2l2VzNyYXJBZVlmMkFzcXRDbXBmWGc?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Two men face UK national security charges following an incident near RAF Fairford, with police suspecting Iranian state involvement",
+          "url": "https://www.dw.com/en/two-men-face-uk-national-security-charges-following-an-incident-near-raf-fairford-with-police-suspecting-iranian-state-involvement/a-79773432?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Anthropic files for major IPO as AI company seeks public funding",
+      "summary": "AI startup Anthropic filed for an initial public offering that could potentially be one of the largest ever, as the company expands its AI services.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "AI startup Anthropic unveils its public IPO filing for the first time",
+          "url": "https://www.nbcnews.com/video/ai-startup-anthropic-unveils-its-public-ipo-filing-for-the-first-time-272224837929"
+        },
+        {
+          "name": "DW",
+          "title": "AI company Anthropic files its IPO in hopes of raising $100 billion",
+          "url": "https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Israel’s First Election Since Oct. 7, and What Anthropic’s I.P.O. Means for the Whole Economy",
+          "url": "https://www.nytimes.com/2026/10/27/podcasts/the-headlines/israel-election-anthropic-ipo.html"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Lula wins Brazil's presidential election in narrow victory over Bolsonaro",
+      "summary": "Left-wing candidate Luiz Inácio Lula da Silva won Brazil's presidential election in a close race against far-right incumbent Jair Bolsonaro.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Lula mobilized millions to win Brazil's election, while Bolsonaro contests loss and Trump cries foul",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWDd1SUhWZmlrNUdQMU92ZFk5R19pNEJBRTI5eWJMYUpvY0x0V3dCb25TRWhIbHJYM3VQMFhkZlp2WDVzY3hmMG5Ub1IyZW5zQmVfclg1WEd0ZjVZWGcyNE1DaE40aE9mTHpKOEl3QTE1Z1NxcEVTUUx6eHkyX2hkcHAxMzBORi04OEJXWUhvMm1WeF81Tm9NZGRmT1hkR1pvZ0xSYzFOaHU5LUNzUWc0QjFCSQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+          "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election"
+        },
+        {
+          "name": "DW",
+          "title": "Brazil elections: Merz, world leaders congratulate Lula on his win",
+          "url": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
+          "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Congo's Ebola outbreak surpasses 10,000 cases amid spread concerns",
+      "summary": "The Democratic Republic of Congo reported over 10,000 Ebola cases as the outbreak continues to spread, raising fears of wider African transmission.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Congo's Ebola cases surpass 10,000 as fears grow of wider African spread",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUFIUG9BWUhXLUlUbkJBaWVyaEhLRm93el9SZWN2ZUpmWVc5aHJFSWwxNW5rTjJiNEJJUFFXRHBDS1doMjV4SERTSHNDNzJnOHEweDQ3bFlUVThHRzlYcGwxUXVSa3haLXh2dm9vdGtja2lvVWVud25XcWZuMFg0WmpuRF9YU3JSek9OMHJYS3ZLbS1PX3l3UXZZNDJoVjBMamVuN3dQVWU2QnZfN2xESmtwVUhYZExfY2ZtcGd6Q2NXN0U?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Congo’s Ebola outbreak tops 10,000 cases as authorities race to slow the spread in African countries",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlBHRG5jakZCMG5CbnJSZ1ZfdUZnRlRsMU9BYTRER2h4VEN3ZVJPdGxyTGRfaXQ2VTNrSmp1WmhpQnBFOTIzR0RjSXN4ejUzZ2Z3MTBwVnp3V3JZUy10ZFJkWUM4SGhaNVRWdWxXLVB1WE1UU25DY1FFMmxHN3FNUy1zWHBncDROX2k2NFBqdFlabWdkdGc5RnR4bmdDcWtQSU40?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "DR Congo reports over 10,000 Ebola cases as the outbreak spreads abroad, with no approved vaccine or specific treatment for the Bundibugyo virus",
+          "url": "https://www.dw.com/en/dr-congo-reports-over-10-000-ebola-cases-as-the-outbreak-spreads-abroad-with-no-approved-vaccine-or-specific-treatment-for-the-bundibugyo-virus/a-79773667?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Former FBI Director James Comey faces federal charges for third time",
+      "summary": "The Trump administration moved to prosecute former FBI Director James Comey on new federal charges.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Ex-FBI chief James Comey faces federal charges for third time",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFhiQXJoSHJjeFJsN3VtWEpEbTEzcktHWnRFU0ZpSW02MXJQcVpWaUEyMW81U19Ea2lBQnA2Nk10QlI5cTlMUGhuZG9ZSDlQVWh3OEV4STB2WXYwc2FCelZRak5PV1hCYmNHWGFCLWhMSUt4WFRKVFlaeldwdExWaXlHR210NllvNFR3ekxNakxOWVVuR08xU0lSSUo?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "US seeks new charges against former FBI chief James Comey",
+          "url": "https://www.dw.com/en/us-seeks-new-charges-against-former-fbi-chief-james-comey/a-79771256?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Finland and Norway leaders call Putin in rare diplomatic engagement",
+      "summary": "Leaders of Finland and Norway held rare calls with Russian President Putin regarding Ukraine, breaking with previous European coordination practices.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Leaders of Norway and Finland call Putin in break with previous European stance",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2g4YXlhMGFuazRpZ0pOWmZpaFBZWGpCNWMzb3JOQkFMWjFVQ1c3bVo4MjJGZDZPS1h5Z3FUMUxEZllDODNtd2NkSWRUQ1hZNzR5X19OVVphRlEyZTYzb3dqclBOd0hrNXRPLVdWZ1M3YzF4TUtJSWhXZjgteXZuM2pfTTR1b1h5UGJiNW5NV2xDbFhzcDdXTDRlaWlpbnZCaXgyNU9wSzZ5UDhmalJtUXhR?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Finnish and Norwegian leaders hold rare ‘frank and substantive’ call with Putin on Ukraine – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despite consultation with Ukraine",
+          "url": "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
