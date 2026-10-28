@@ -1,0 +1,296 @@
+{
+  "date": "2026-10-28",
+  "crawled_at": "2026-10-28T22:05:19+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Israel election results show no clear majority winner",
+      "summary": "Israeli elections produced results with no party or bloc securing a clear majority, with Netanyahu's bloc in a slight lead as coalition talks loom.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
+          "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Exit polls suggest no clear winner in Israel’s election, but Netanyahu is far from defeated",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+          "url": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak"
+        },
+        {
+          "name": "NBC News",
+          "title": "No Clear Winner Yet in Israeli Election",
+          "url": "https://www.today.com/video/israel-election-no-clear-winner-yet-as-votes-still-being-counted-272390213582"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
+          "url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape"
+        },
+        {
+          "name": "DW",
+          "title": "Israel election: Netanyahu-led bloc in slight lead with more than 80% of votes counted",
+          "url": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-more-than-80-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "For Israel’s Neighbors in Middle East, the Election Offers Little Hope of a Reset",
+          "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Spain train collision kills at least 30 people",
+      "summary": "Two high-speed trains collided in central Spain, resulting in at least 30-31 deaths and dozens of injuries.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Overturned carriages and makeshift medical tents at crash site",
+          "url": "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "At least 30 people killed in Spain when two high-speed trains collide",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "At least 30 dead in crash between two trains in central Spain, media say",
+          "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster"
+        },
+        {
+          "name": "NBC News",
+          "title": "At Least 30 Killed in High-Speed Rail Collision in Spain",
+          "url": "https://www.today.com/video/deadly-high-speed-train-crash-in-spain-leaves-at-least-30-dead-272390213641"
+        },
+        {
+          "name": "The Guardian",
+          "title": "At least 31 dead and 80 injured after two trains collide in Spain – latest updates",
+          "url": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "Death toll in Spain train crash rises to at least 30, with rescue and recovery operations ongoing",
+          "url": "https://www.dw.com/en/death-toll-in-spain-train-crash-rises-to-at-least-30-with-rescue-and-recovery-operations-ongoing/live-79785087?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Flávio Bolsonaro flees Brazil for United States",
+      "summary": "Brazil's Flávio Bolsonaro and his family departed Brazil for the United States after the election defeat, with Trump's administration confirming visa approval.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Confusion about Flávio Bolsonaro's whereabouts as Argentina says he flew to Ecuador",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Flavio Bolsonaro expected to land in Miami shortly after Trump offers Brazil exit",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTXM0WlJ4eWFnOU96alFqZTd5VklwV1pETlVBNjdhejYzX0hXUHQzZFczWkxRMzhxOGhzOWJqSGdwRTlubFRqMTJQckJ5NXljSFFqYzB2UXRReTVCc0lDR3BvOVlhcERydVBUU3duZFA3THNRZmt1OGZseURzeDAwX2ZCSE5tX3pRUUJ0elpaMU5odHFkcmhJQVU5OS1yRGp4N0FPVVVEWWJQMXFWNHQyOExkVWVjVFQtVDl3SGcybkt3ZzRE?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Brazil's Flávio Bolsonaro and family will get US visas after election loss, State Department says",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVBiQjE0QTJza2Y3LV9qZi1mSWh6QzY4ZXRqYmVzNGZDb2UxU0VaODliT1N6WTFlY1pjcTJhdnB2dHFRWGhUMnlPSHBnemIyVnBiaEpwaWF5NkxNLWZPZElRTjM4U0xwRkpoZnhSekEtdllFT18wdThnQS1vU2EySTA1UlIzTV94bG5aSl9yZW1xQXBlYmJWVDFYSmNuZw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil amid election defeat",
+          "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
+        },
+        {
+          "name": "DW",
+          "title": "Flavio Bolsonaro flees Brazil for US amid investigation",
+          "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation/a-79781094?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Flávio Bolsonaro Flees Brazil for the U.S., and How ChatGPT Laid Out a Dangerous Medical Plan",
+          "url": "https://www.nytimes.com/2026/10/28/podcasts/the-headlines/bolsonaro-brazil-chatgpt-medical-plan.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Serbian assailant killed after attacking officer at Israeli embassy",
+      "summary": "A man was shot dead by Serbian police after attacking an officer outside the Israeli Embassy in Belgrade.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Policeman kills knife attacker outside Israeli embassy in Serbia",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ09lVDktVzU0MWp0RUxkY2V2SWhzNjVpMDMzdG1hZjVHTUJFUTFfWWlRRXFtZGJtTW0td25oeHhsTVRTbXZyNG0wTURZeEhQSndxeDFxdnlPd3k0ZGdqSTVOcjNJT1ZEdmdoREFLUFVQSWVMR2tyWGFxSk9NVEhCVWVub1k3UWQ3UWlQYm9WNnhqRFJGbXBkVUJLcnllN1g1YUF5YWxB?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Serbian police say assailant killed after attacking officer outside the Israeli Embassy in Belgrade",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1hja3hGcG1XTFEyajJxMVdPaUZZdkVnd1hMOUlEUDU1Z091NHlvR3FmelozWjhFc2Z6YjVsZWJBR1FoS3F2OU1QU0g0T3ZkWmVqSkFkYXhhMEludXdlaTJNdnU1bE5zNVFVYTZLeURJWUtNY0hSTWJ3ZUt4cWJ1dlVjMi1nWGtNc3Q1RlNJSGFjdw?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Serbian police shoot dead assailant at Israeli Embassy",
+          "url": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Federal Reserve expected to hold interest rates steady",
+      "summary": "The Federal Reserve is likely to skip a rate hike despite elevated inflation concerns as it enters a wait-and-see mode.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Fed likely to go into wait-and-see mode on rates",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Federal Reserve likely to skip rate hike despite elevated inflation",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Fed expected to hold interest rates steady as inflation tops midterm voters’ concerns",
+          "url": "https://www.nbcnews.com/business/economy/fed-interest-rates-inflation-midterms-trump-rcna605905"
+        },
+        {
+          "name": "The New York Times",
+          "title": "The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.",
+          "url": "https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Cruise ship passengers stranded in Cambodia due to fuel costs",
+      "summary": "Luxury cruise ship residents who bought cabins as permanent homes were left stranded in Cambodia after fuel price increases forced the operator to offload them.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+          "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Cruise ship residents left stranded in Cambodia after fuel prices soar",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb3J0MEVjUDYzWV9pcnBYVTBRcFd3SHZZVVF5d29naldtQjRmRGhlOGZkemtiUEdCWU0zUXFNR3FvLS05Mjc2SFRHSXU5SlZpSnRTenZOcFYxV3lyVFBXRmlKZHNxX0lOMXZkRUJHYXNHZGFxMVgzN3kySVRJU2ctb19hYUZYRElpQ1JYY2hmTkhyeFFJVy1GWVZZc08tUERFb3RhR0wwdGM3YnNxWTMzalJISUdJRTRiN3YtczZrRQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "They bought cabins to live on a cruise ship. High fuel costs got them kicked off in Cambodia.",
+          "url": "https://www.nbcnews.com/news/us-news/luxury-cruise-ship-high-fuel-costs-got-kicked-cambodia-rcna606031"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Kylian Mbappé apologizes for Mao 'dictator' comment",
+      "summary": "Soccer star Kylian Mbappé apologized for an apparent reference to Mao as a dictator, leading to Chinese sponsors dropping him and TV broadcasts halting.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Real Madrid apologise to Chinese people after Mbappe's Mao 'dictator' comment",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYndKWEVTQXdYMEhHNEM1UnVNb2xtdnRfUklGbDdEWUxJNjF0dVhDV1JOanNfS0tPOF9wazg4SExIVk5zWERBa19aRWpGX0REZEZ3WUZ0MFpqZU1lS0JQUzAtUzhYdVhXTUJFUFV0eUdjR05NUDlFc21KS3VyNEJYWjR6djNMbm1Sa0FDNUhBMWpFS0JXcWcyQkZlbUl2UTRYN1A3UHY1bU9RZU5OMVVPbndxZUFrck0?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Soccer star Kylian Mbappé apologizes for apparent reference to Mao as a ‘dictator’",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTQ4UjVlWS1MVlhxNUFHOVlZSk1IWHk2ai1tRGdfRkNxQ2RBUmd1eDZKMXkxTTR5cjJYTDRxem5CXzRrQ0lUd3VkMFlTVUhHVlVReEk5MWZna1NPempEXzA2UUlqREZzNGNPazdRQlNWdWJqdUZxMTktZHBBV0xkNHAzcHFBbmVhVEY0NHNaYTZmdWpTaHViMg?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Mbappe apologizes as Chinese sponsors drop him and TV broadcasts are halted over Mao dictator remark",
+          "url": "https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Grand jury declines to indict Cassidy Hutchinson",
+      "summary": "A federal grand jury refused to bring charges against former White House aide Cassidy Hutchinson.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Grand jury declines to indict former White House aide Cassidy Hutchinson, source says",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSEEtdXNuQzdWYmJsM3R1M29Ka29aVmZhNk1nSk1EVlNzQS1mUHMwMi1kcU52cVVMQUNxeTJsMmtOTDY4VzdkanUtVW5md3hpLVFLZTdNSEkxQjRQVlJLd19qT095VUVUa3RuV05aVHUzZ05YaENjbE9Ed0lEai00MFg2WEFLRTRxMFkxTEtQc3V1TUpLXzNYSUtzUHEtQWxoalFlUzZVZGQ0bWtmdWNfakNsc21pSDZmQmhpTWFFVDRwNGFRVnJhNA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnBPa2VzUUoxM3RCb0cyd0Fmem05T0lHMVJrejNkdGdGLU1xRmZGQ0g4UDA5N2g2NVRSU0QyTkVWUTFaYXYxUVhDVUZuZElEaDA3dkNZTW9nM3VjXzlyR2R0LXA5a0doNmh5SF9WVVd0UDlYb3hRRHVnalJuZjdGSkNxYWVmUnVLZlJVMXFzX0tReVV0MnVDQ2Jodw?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Grand Jury Declines to Bring Charges Against Cassidy Hutchinson",
+          "url": "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "China's old-age dependency ratio now exceeds children",
+      "summary": "China's aging population has reached a demographic milestone where elderly dependents now outnumber children for the first time.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "China's families are now supporting more old people than kids",
+          "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "China's old-age dependency ratio overtakes children for first time",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ3pUZTR4N3JoWDREVnl5cDA4bW1nWXJ5NUtuR0dlNDJscE1ycmRPVXBwT3Yxa3l1UUVjVjY2Ukcxd2F0YVRzRm1wcldxZGtmUmpzTzVlTXkyUU0wdnhXaTlSaWVuZ3hOTXdWckhaTzFrTWVBX3RtQjNyRVVzYWVGMnVtRVBuaGFIN2lnNmQ4cThVb3Q1ZTA0RlZQUTd0MUk2Sy1PcXdTTXZjaFhrbUE?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Russell Brand tells court allegations had devastating impact",
+      "summary": "Actor and presenter Russell Brand testified in court about the impact of rape and sexual assault allegations against him.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Russell Brand tells court allegations had devastating impact on him",
+          "url": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Russell Brand says he couldn’t find anyone to give evidence on his behalf in rape and sexual assault trial – latest updates",
+          "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/russell-brand-evidence-trial-latest-news-updates"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
