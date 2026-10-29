@@ -1,0 +1,301 @@
+{
+  "date": "2026-10-29",
+  "crawled_at": "2026-10-29T22:05:21+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Spain train crash kills at least 68 people in deadliest incident this year",
+      "summary": "A high-speed train collision in Spain resulted in at least 68 deaths, marking the country's deadliest rail crash in recent years, with investigations focusing on control center communications and traffic controllers' roles.",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+          "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Spanish rescuers search for victims as train crash death toll rises to 69",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYm9UODU2NnZwekhXd0lSNnVsalJxQmNPbllDOEJBdllTdUwyTFFwY2NIb0F5YXBfWWgzVmxLUUNIV2JnTXgyY2tZNEZGUy1pVTRxT2ozdGFJMXFSck40ZFhKNC1LRXBMQ0ZXd2NHbWg0bk1FT1IwM3oyNHVMbTZJTnB0SjBaeTFwLW1ncFVzUElyWFpVeG5BQ0E4b3g5Sk5wY1BiME5FUGVHN0ZPNWpZQ3lRWGVwUQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
+          "url": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates"
+        },
+        {
+          "name": "NBC News",
+          "title": "Death Toll Rises in High-Speed Train Crash in Spain",
+          "url": "https://www.today.com/video/death-toll-of-high-speed-train-crash-in-spain-rises-to-69-272456773872"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Spain begins mourning period after train crash as search continues for victims in wreckage",
+          "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash"
+        },
+        {
+          "name": "DW",
+          "title": "Spain train crash: PM Sanchez calls for investigation as 3 days of mourning begins",
+          "url": "https://www.dw.com/en/spain-train-crash-pm-sanchez-calls-for-investigation-as-3-days-of-mourning-begins/a-79792085?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "At Least 68 Killed in Spain Train Crash, and Democrats’ Secret Effort to Stack Alaska’s Ballot",
+          "url": "https://www.nytimes.com/2026/10/29/podcasts/the-headlines/spain-train-crash-alaska-ballot.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Israel election results show no clear winner despite Netanyahu leading",
+      "summary": "Israel's election produced results with Netanyahu's bloc holding a lead with nearly 90% of votes counted, but no clear winner emerged, raising questions about government formation and the country's political deadlock.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Israel's election deadlock is a sign of the country's deep divisions",
+          "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Explainer: How could Israel break the election deadlock?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmd1MXZMRF9mb3JPLXFuaUViRXVEX0ZpdUF1LXBWRFZPWkt2VE1TLVlsZk54ckJUd0huTlBSd3ctUm50T2xxRmtPNnQ2Znhaak1sR09jWkgxMDFiV09scHUzek5MbmI4SXRWRzdWMnBuNnVzUnRNbWdUcHFsTENKeU5rZWlrYVN1NXZDX2kzMjN4TWNKelRaX2R3?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Netanyahu and top rival face postelection choices that could redefine Israeli politics",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Israel election results live: president warns against ‘tarnishing an entire community’ in defence of Palestinian vote",
+          "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news"
+        },
+        {
+          "name": "DW",
+          "title": "Israel election: Netanyahu-led bloc holds lead with nearly 90% of votes counted",
+          "url": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-holds-lead-with-nearly-90-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "How Netanyahu Used Fear, Again, to Win More Votes Than Anyone Else",
+          "url": "https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "European Central Bank President Christine Lagarde to resign nine months early",
+      "summary": "ECB President Christine Lagarde announced she will step down effective February 7, nine months before the end of her term.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "ECB President Lagarde resigns effective Feb 7",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3FmVnJnVlFQYVZ3U0k0TFpoWDdmQWVHZ0lZU21uOVZLZUVhZ2d3djg0YzJNc2RURmxMTkVULURKZTBKcy1wMlJ5ZldxTjRQSkJ3ak55MU0yU1ItalNRYmZDbHZzWkh6UmN3OHlucWFhQWhrSkYtcjZnSnNINWhybXdLLTh3elNvY3dvenVUQnp3TmpQUExzUkpzYzkzcU0?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "European Central Bank President Christine Lagarde will resign Feb. 7, nine months early",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0t1M2lJYVRDeHhmSWRYc01ONFJxdlNybDhYZWpzNzJBdFd6OGJ0TEh2SkdwTndiRzVsM3B5eERhaG10eng3MDZzM0JpMko2dnFiQkZSc0tNVXppX0xyck5wNmxQMV9LcmJuOEQ3cFpveldnRlRkcHh2MFkwRjVOU0JYTjdIV0JQTHVBYmo0ZkNyUQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Europe’s central bank chief Christine Lagarde to step down nine months early",
+          "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early"
+        },
+        {
+          "name": "DW",
+          "title": "European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends",
+          "url": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Christine Lagarde to Step Down as President of European Central Bank",
+          "url": "https://www.nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Milwaukee Brewers win first World Series title in 57 years, defeat Tampa Bay Rays",
+      "summary": "The Milwaukee Brewers defeated the Tampa Bay Rays to win their first World Series championship in franchise history, ending a 57-year drought.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Brewers win first World Series in 57-year history",
+          "url": "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Brewers beat the Rays 4-1 in Game 5 to win the first World Series title in franchise history",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFZ2anRlVUNUajFKLW1RSnltNXo3dWs2U1NRWms5a2pQTkxGNHJBTzJIVjhQRjlGX0p3OG11U2NISlBvdjJjZnMySnpzZ3haUUI3aVp4b1E1VnNTZkIyYjhUYWNsVjYydzFPWWJ5OWpiSDFlOS1ydGlpdUcxWGRQWEJJcVM0eG8wV2NLaGptamJKMFVvWVpR?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Brewers Win World Series For First Time in Franchise History",
+          "url": "https://www.today.com/video/brewers-win-world-series-for-first-time-in-franchise-history-272456773933"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Milwaukee Brewers close out Tampa Bay Rays to end 57-year wait for first World Series title",
+          "url": "https://www.theguardian.com/sport/2026/oct/28/milwaukee-brewers-tampa-bay-rays-world-series-game-5-first-title"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Flávio Bolsonaro arrives in US after losing Brazil presidential election",
+      "summary": "Flávio Bolsonaro, the defeated presidential candidate in Brazil, arrived in Miami with his family and declared himself a leader in opposition.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDM3hOQUxUMmVMYTJUeWxDVXAyRnh6Y0xSaFR0cTdHeDY0aW9LNnFDdUxXczNGenlLM2FpbXhrLWpnbFVVYkRUUFJfUDdMX3Y2YktHa1prTi1TRE9NSndVWjQtbkIybHRJdTZxUmYtR00wMHE0ZnZvcTFUSnRNMHY5OFJCbUE5dVVseExuVHNOUG53bXVfbmpZYThFSmlwQkpERnV4YnR4TjhZLUhV?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Brazil’s Flávio Bolsonaro arrives in U.S. after losing election",
+          "url": "https://www.nbcnews.com/video/brazil-s-flavio-bolsonaro-arrives-in-u-s-after-losing-election-272444997786"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Flávio Bolsonaro’s defeat is a major blow to Trump and his orange wave",
+          "url": "https://www.theguardian.com/world/2026/oct/29/bolsonaro-defeat-trump-orange-wave"
+        },
+        {
+          "name": "DW",
+          "title": "Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil",
+          "url": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "RFK Jr. expands access to unapproved peptides despite FDA scientist opposition",
+      "summary": "US Health Secretary Robert F. Kennedy Jr. is taking steps to expand access to unapproved peptide treatments despite concerns from FDA scientists.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "US Health Secretary RFK Jr to expand access to unapproved peptides",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8nwd748v3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "RFK Jr. eases access to unproven peptides despite opposition from FDA scientists",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOanQ5LWFuekk1QTdOVThIM2R2TXYxSzdXTlZpWGdDcTFLeDdNR2U0NjRSWVpxV2hRQ3FObVdnNFFwR1BTYjNhVGNTeDl5N0VfYnYxMGVSdmlpZElVYnBUU0lORzhPZDFaZHlWTmR2aDVOV1dyTUI4WFhVazdtbENGeXZ0MEN6QnRpenM3cFVDa01zUQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "RFK Jr. takes shortcut to make some unapproved peptides available for use",
+          "url": "https://www.nbcnews.com/health/health-news/rfk-jr-takes-shortcut-make-peptides-widely-available-rcna606133"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "North Korea fires ballistic missiles toward sea as tensions with South rise",
+      "summary": "North Korea conducted a ballistic missile test, launching around 10 missiles toward the sea off its east coast as military tensions with South Korea escalate.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "North Korea fires around 10 ballistic missiles toward sea off east coast, Seoul says",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNnZ5bUJlNUMySGJ0bkRrSWk0b0RFeXVlLVZEU1FJbHBQUTNESXZyWkdtdm5hOFY3T1UzaTNmWGJXNkNIcDJrUGR2MUd0djRRUTJ3WHcyS1VncEt4VnpELUhvdk9ZVlNod0I2djAyVHUzeDZQd004bHNkZTNKQWdsVk9udEE4SWFuemZFS1liUnNYNnY4MFdVX1B4UlJDNVNrYlJEZmk4cHdEVWw0LUtnNkd0bmw3a1JOQUtGU0pRcUtVTlN2dlZEdUNnWXN3UUdm?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "North Korea fires missile barrage toward the sea as tensions with South rise",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzkzSFBERWxpTVJFbFIyemRsRnZILXJwMGZwQ3VUVmp2RW8tOXBJVmFIZ3NCZEpGaC1QZ19JTThvTWtrU01vTFBvUXUwSUpDWGpoLUNCYnFlVDdBdTJqMkNVWGl0WkdrS2hmdHZ2eElUTmRMUWdmOFgxZ3M0WWVabkswb2ZGTjQ1LThhdmJ6X1BrNmM?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "North Korea fires around 10 ballistic missiles into sea",
+          "url": "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Russia strikes Ukraine train station in Dnipro killing at least 13 people",
+      "summary": "Russian drone attack on a crowded train station in Dnipro, Ukraine killed at least 13 civilians during ongoing military conflict.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Russian drone attack on train station kills 13 in Ukraine’s Dnipro",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVJMbm5Vb3NTVmNud01fMHc3WHJUWTNvWl8zSmJYZjVUUHhRbm5VWGZxVWZmbGpQdHZNZUlCQVFuLWxWb1FoR0xTZThVSmRTRVBlWUlLaWNKUTZzVnV1dTYyellibWN0XzFXNGpsUk45U2o1Z2hzUndOUEJYM0Q3WmUxSHFteS1WRXpyRk5JcmdTaEdyNVMzV2dwRGxCc0hGMlpQRElXQzMxZXdj?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station",
+          "url": "https://www.dw.com/en/ukraine-13-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Russian Strike on Ukrainian Train Station Kills 13",
+          "url": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Russell Brand denies all charges during rape and sexual assault trial",
+      "summary": "Russell Brand took the stand to deny all charges in his rape and sexual assault trial, while his wife testified about his character.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+          "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Russell Brand denies all charges as he takes the stand at his rape and sex assault trial",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeExxRDA2aS1mWkRKRzQyU1MyZmJBVDh2THBPeGpReFVaWTRwVU1NSkVRSkYweXdxakZCRmNoS0RlQUdURTlYTERpbjJjSWVadjVfTjdEYkMya3BjSkRjcm10Q1g2ckdiN3hySlY0RTNzMVJZOEMyR0pNbWQxZG50SXBVdUtsYUUwbTN0NWF3bWlxdzlrY1VXSWt3Z1NsWjRUQ2xPZ0FfWmo?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "From sex ‘obsession’ to losing friends, key takeaways from Russell Brand’s testimony at trial",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/29/russell-brand-trial-evidence-testimony"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "DoorDash acquires Instacart for $17 billion in major grocery delivery deal",
+      "summary": "DoorDash announced it is acquiring Instacart for $17 billion in a merger that creates a dominant player in the US grocery delivery market.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "DoorDash strikes $17 billion deal for US rival Instacart in bets on grocery delivery",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORW5SOWQwSzcyUFRocHlTSmRhdWJtN2QzXzRCM3FPSjdXeDlBREVZSERWdGRiZUQ3OU1kMldlT3J1TnpwUFl3dEk1S1hkM0lpYmlDTlNfcllDdWc4VkYzZ2hzT0FmNm4zY2JNOEtJYUx4OVN4X045a2pXLWs5Wk9sMHdrMWFFMFI5R0VXV09uLTV4TFpnNTBPV3BNUHMxM2o2dEloNlJpWks2NjJUci13Vzd3QXlPeXdVQVpsUlhaQ1JyZk81aU5sdw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "DoorDash to Acquire Instacart For $17 Billion",
+          "url": "https://www.today.com/video/doordash-to-acquire-instacart-for-17-billion-272458309807"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
