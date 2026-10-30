@@ -1,0 +1,301 @@
+{
+  "date": "2026-10-30",
+  "crawled_at": "2026-10-30T22:05:23+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Binance suffers $6.3 billion cryptocurrency hack linked to North Korea",
+      "summary": "Cryptocurrency exchange Binance flagged a major security breach affecting approximately $6.3 billion, with blockchain intelligence firms linking the hack to North Korea.",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "What we know about Binance's $6.3bn hack",
+          "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Gone in 20 minutes: How the biggest heist in crypto history unfolded",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1Rmb2RtNmFkU05Yc3pUTlkwdmEyMllIY01kTTVPQ1A5SFRBRmt6NTR1MUl2b0tMZDRsR1dVMTFWZjRIOTNnYWV3TFYzdDQyQThELW95bUlkaFJlSkwtTmpqdElyaWVHSWt2U0paQ0xPZkdiTnlEZE5WbXhlRzdVeG1hV2NiVkFUM1pwdGNUcnBManBNRUhPRVBKa2EwQXlXUlhPR2o2d0lCSkxDYmY4?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Binance flags ‘potential security issue,’ says approximately $6.3 billion impacted",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmNFOVU3dkJheHFpZnlQZ0d2RVd2dDZFdjBlVldUczQteU5yUUlIeldzeVR6d2lJem9aWkh6RV94Uko1cXpZS2RhV2FGR2E2djNHZGJaNG5BOTFvSnZkLWp5c2tSanlNalhnaTJ6RFlxVWNNMHo1NnpzNGVQWHdJZkw0ZkxkWUNQdnRnZGU1Y1JCQ3NuRGc?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+          "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
+        },
+        {
+          "name": "NBC News",
+          "title": "Tech Stocks Plummet; Hackers Steal Over $6B in Cryptocurrency",
+          "url": "https://www.today.com/video/tech-stocks-plummet-hackers-steal-over-6b-in-cryptocurrency-272526405851"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Binance hackers using ‘never-seen-before laundering patterns’ to hide proceeds of $6.3bn heist – business live",
+          "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "Binance crypto exchange suspends trades over North Korea-linked hack",
+          "url": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
+          "url": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Patrick Stewart, legendary Star Trek and X-Men actor, dies at 86",
+      "summary": "Sir Patrick Stewart, the British actor best known for playing Captain Jean-Luc Picard in Star Trek and Professor Charles Xavier in X-Men, has died at age 86.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
+          "url": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Patrick Stewart, legendary actor of ‘Star Trek’ and ‘X-Men’ fame, dies at 86",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3cxRGJjSXBXVU1QdWZQa0tFZnJiR1pvRW1WLXZJSmRBZlpsV180RVNPdEZBUzJFazlsS1lfZ1VNM212VzFCTEo2ajlMcm9TLU8tVktRTnYzazJpWWxmcV9TS01xWW1jdTh6ZGVQRGZuYV8zUnJ6V2R6WnhoYjdrcnFhYmxWS1E?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Iconic actor Patrick Stewart, known for ‘Star Trek’ and ‘X-Men,’ dies at age 86",
+          "url": "https://www.nbcnews.com/nightly-news/video/iconic-actor-patrick-stewart-known-for-star-trek-and-x-men-dies-at-age-86-272502341949"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Patrick Stewart brought gravitas and complexity to the screen, from Star Trek to X-Men",
+          "url": "https://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero"
+        },
+        {
+          "name": "DW",
+          "title": "'Star Trek' star Patrick Stewart dies age 86",
+          "url": "https://www.dw.com/en/star-trek-star-patrick-stewart-dies-age-86/a-79803071?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Patrick Stewart Brought Elegance To ‘Star Trek’ as Jean-Luc Picard",
+          "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-captain-picard-star-trek-the-next-generation.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Rare Russia-Ukraine truce enables humanitarian evacuation from Oleshky",
+      "summary": "A localized ceasefire between Russian and Ukrainian forces allowed civilians to evacuate from the besieged city of Oleshky through a humanitarian corridor.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+          "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Russia and Ukraine say Oleshky aid operation and evacuations under way",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWRLMEk4OWxzWDJXa0ZLLTBMVFFicnVjZ2lKV3QzUENDOWdPakJtUG1MT2RnMTN1Nm1hWV9qVUxES0JkQ0xISU9qUkljbDc0NElkUkNHREQxM3NSdERlSy0xSDJRZTExSjVNMWc0T3NQdVo1YkRadTg3QVlwZ3RlZFlTT05aTmcxTURZUmE5S3pyUTN3dF9TNkVnLWFVM2NqZmN4V3VYOTZLZlJGNE11d2psTV9yeGM?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "A rare Russia-Ukraine truce allows a humanitarian mission to reach the stricken city of Oleshky",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE50dDNzNWRrQWd1b0g3RHBwMHBNREZ2UUtBQjBGQ0VSSHB5ZkxrTV9aa1VoU1ZWVXJMcHpNSVh4T1lWT2lDeHBVa2hCY0o1eXhTR1F6b0d4UWsySUFsbXI5YXFVdVN0UzY3U2o3QjNSSld5TmJEeDh2dlFkc0JLeDB0WndsaWFvaC16eFg2dmpaTko2OHNj?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Evacuations begin in Ukraine under localized ceasefire brokered by Melania Trump",
+          "url": "https://www.nbcnews.com/world/ukraine/melania-ukraine-oleshky-evacuation-russia-ceasefire-leo-rcna606509"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Rare Evacuation Announced by Melania Trump Begins in Ukrainian City of Oleshky",
+          "url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Israeli election results show Netanyahu and rival unable to form majority",
+      "summary": "Final results from Israel's election show neither Prime Minister Netanyahu nor his main rival achieved enough seats to form a government independently.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Israel’s election results are in. Here’s what could happen next",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaWVVeUpwMzVxRDdSZ3V5aEdiRjFqYnhtek9XSEh3WVRjNkpjdVFkY3JSS0o5NC0yWEd5V0ctWkhycWt5dHJKdFNSM1Y0bnI3dGExanhKMTQxeWxYWkxzM0tkWXVpb19qczU4b3JmNExfZTRjZGdNbm45VjhnRHcxTEo5eTFKNlpmN3RFbl9rT3cxckM3VHlDS1RmSGpZYllOTmpSdXJyMA?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Final election results show neither Netanyahu nor rival can immediately form government",
+          "url": "https://www.nbcnews.com/world/israel/israels-final-election-results-show-neither-netanyahu-rival-can-immedi-rcna606290"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Netanyahu accused of smearing Arab voters to hold on to power",
+          "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power"
+        },
+        {
+          "name": "DW",
+          "title": "Israeli election: Netanyahu, main rival fall short of majority after all votes counted",
+          "url": "https://www.dw.com/en/israeli-election-netanyahu-main-rival-fall-short-of-majority-after-all-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Israel’s Election Is Unlikely to Change Its Policies and Global Isolation",
+          "url": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Tech stocks plunge as Amazon and Intel spending fears rattle markets",
+      "summary": "Major technology stocks including Alphabet, Amazon, and Intel fell sharply as concerns about AI spending and weak demand weighed on investor sentiment.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Intel warning sparks chip rout as PC weakness clouds turnaround",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2NqOERFZ1pGS25NV2RwTVlCSUVMbXdBQ0QxRzlmWTdWd3EzT2N6YUo4QVNHanQwUC1aRHdqcmtOeWdDUGpQcTg1X1pFWDdydHhyQWUzNnVUQk9Tc3h1Z29WbWxHa1VFZmdod3Z6bG1LNzkwQ3h2a3ZHdlA5cEF4X3d6LVdCUEVEc0RkVTNYcG5IQmlZcy10cmhDSmxDcndVeGFtUURSOXc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "US futures fall as Amazon, Intel and Alphabet weigh on Wall Street",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0NzZS1PMzlOVF9Hc0hrbW5sOGZ0bWhjTzNiTC1LWkZ5R1FFNDNBMGNxblJfWTBxaklaSjhwM1FXX1JSVFFGd0I4TXYta3RvczdQeTlUUjJMLXZ1bmY3TW15NU14UVAyMlRhcHlsTTZkUFdVM21yQXZpWThuN3Z5cVd4UEU4VTNnNDRvT1Jwc2E5QXM?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Tech Stocks Tumble, but Broader Market Is Holding On",
+          "url": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "North Korea linked to major Binance cryptocurrency security breach",
+      "summary": "Blockchain intelligence firms have attributed the $6.3 billion Binance hack to North Korean threat actors using sophisticated money laundering techniques.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Blockchain analysis firm TRM says North Korea behind Binance crypto theft",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc01IcXZiYm9zemhhbHhBenBOeFE4NDlHMC1TNGxUOHNlVFJIQmY3QTF1cnpqZmRBcGlic184TnhyRVEtSEVkSTNGdzBxejNaUVlqSEkyMllicG50YkY1TURzUWtnVE5nVlhSYk1ROWwwdDdwQWg2NlZVVEgxc2NuQVZwUWxrOVBmRzNHb2dYUUJiQ2tmTFhfT3NGblYtTjhPdDNmUE5VVFJ1RnRTbnJnRXdSNm55VzRBSVBySTc2Wnc3aDJ2?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaS1PbC12ckM5dTFzWDZISy0zcmVfWjc2ODREc1dFMnlOem5RUmpWWGdxR2dKSlNQS0JrZXVvZGI4VDN2aXRQQkpIaHF4bWdwSjJvYjduMkFQUmdDaEdGS01lQThMQXpjTS02SW5YenA5U0ZQZUZsazg5SnhyZzFZel9YWTZqUmVVYUcxYTEyTDl3V3Z5dEZ6RTZCS3U5ZkUwWFBna2hDNnZ3dHo0?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+          "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
+        },
+        {
+          "name": "DW",
+          "title": "Binance crypto exchange suspends trades over North Korea-linked hack",
+          "url": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Russian newspaper Novaya Gazeta closes under government pressure",
+      "summary": "Russia's prominent independent newspaper Novaya Gazeta has shut down, citing pressure from state 'special services' as press freedoms continue to erode.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+          "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Russian newspaper Novaya Gazeta to close, citing pressure from ‘special services’",
+          "url": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close"
+        },
+        {
+          "name": "DW",
+          "title": "Russia: Critical newspaper 'Novaya Gazeta' to close",
+          "url": "https://www.dw.com/en/russia-critical-newspaper-novaya-gazeta-to-close/a-79805693?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Spain train collision kills multiple people from 27 nationalities",
+      "summary": "A Spanish train traveling at 160 kilometers per hour struck another train, resulting in multiple deaths and injuries among victims from numerous countries.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Spanish train was travelling at 160 kph when it smashed into second one, report finds",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRV9TX2dvSzg4YWNtOXhJMDAxa2xObng5REx4dXlXNm0yTVZZQ3oycjlxLU05dnBTTFB3SXhuZVlNTUxBT3l1QXdDbTh5MndYNUpUc3pnZ3VZNDcxUm1CMXNkSWF3Tlota2x4eUVJcXBTVWtYWHdFMV83Uk1UR0pmLXA2b3kySEsxWURMOVlhSnZna3gxcGxZSXR3c00yMjJ2VW0tX0VyVGZSQTAySUowZlhLejByY2pvcjJSa2RxdFBHQQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Italy faces widespread strikes and protests over cost of living crisis",
+      "summary": "Italy is experiencing a wave of strikes and protests as workers and students demonstrate against rising living costs and economic hardship.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "NBC News",
+          "title": "New Wave of Protests and Strikes Erupt in Italy Over Cost of Living",
+          "url": "https://www.today.com/video/new-wave-of-protests-and-strikes-erupt-in-italy-over-cost-of-living-272526405858"
+        },
+        {
+          "name": "DW",
+          "title": "Italy: Students and workers rally over living costs",
+          "url": "https://www.dw.com/en/italy-students-and-workers-rally-over-living-costs/a-79807668?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Trump cancels in-person campaign rallies, switches to tele-rallies instead",
+      "summary": "Trump canceled weekend rallies scheduled for Iowa and Kansas, instead opting to hold numerous tele-rallies to reach more voters before the midterms.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Trump cancels rallies in Kansas and Iowa, opting for telerallies to reach more voters, RNC says",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjFUTkJXRlZDN0E1bEFRZS1lNkZLVzNtQThKbEZIRFVjS21PYTVFUG1RaFp5b01CZUJOTi1IVnd2cWVjNlZOdnI3QTJwcUQ4YUN6OUhOSmNGeDMyaVM5WFVJNUhueWd3VU1UVmI2cncxanJGeHZEUDdJRFdaTURUOUtOMEt0UFhWb1V0YTYtX3JiZFo2ZE1mUUlWLUZHa2RZTlEyM1VTMk1EVWl4c0E?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies",
+          "url": "https://www.nbcnews.com/politics/2026-election/trump-cancels-weekend-rallies-iowa-kansas-favor-holding-numerous-teler-rcna606487"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
