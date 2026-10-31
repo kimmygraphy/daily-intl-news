@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-31",
+  "crawled_at": "2026-10-31T22:05:23+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "G20 foreign ministers cancel group photo over Russia presence",
+      "summary": "G20 foreign ministers meeting in Atlanta failed to reach consensus and cancelled the traditional family photo after European countries objected to Russia's participation.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+          "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Rubio to host meeting of Indo-Pacific Quad, wrap up G20 gathering",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcjhmcnV5dnZWRFFnSkw0WUF5b3hld3Q2RmhYWjAzYVM4STJWUno1b1ZMMmpzMUZseDltNkgxZWdlbWdJQTVjZ2FoMVptRkZfdUlxcnZZMlpORXRoQTFCM1pBRjhrdU05Q1dQbU54WE5wejBhQnpmdjh4SF85RkVQMnViNTE4eWpyeU9FVF9feGpNTEpvQmpjbXhGSHZwMFlycmdTT1ZTQ0hWQQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "G20 foreign ministers to end Atlanta meeting without consensus on key issues",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNXzNPdDBVU2FTV3NVXzdETklrdGtSQXZBVWFZVm1pNGYxRDY4aHR5QlUzbjBHWVljNnFHU0lUbzVOSWxWNE5TYUdIVXJzX2d3Q2IwYndMZzJqQUhSMGM2amlNVjdCTTdWZGp6cnJEMnk5LVV4NklLd2FZLXdiTEZmNlNLTTh3WWhPcldua0I3bVI4Nk9jUVE?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
+          "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia"
+        },
+        {
+          "name": "DW",
+          "title": "European diplomats shun Russia at G20 gathering in the US",
+          "url": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "North Korean hackers suspected in $6.3 billion Binance cryptocurrency theft",
+      "summary": "North Korean hackers are prime suspects in a major hack on cryptocurrency exchange Binance, prompting crypto exchanges to call for strengthened security defenses.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Crypto exchanges call for quick moves to bolster defenses after Binance heist",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3JLSjZvamdLbG1LSWxKR0czYXlpN281cDZLZ0J6ZE1OdmYxNFdIUzVKQnMzQVdWMVlQRTVzdVh2OHFybGkwVy15STRoOGV3N3E3RXppU0pJS2poMTRlRWFaZVEtVUhjTkFMTjAyOFpLc19RWjEwS1BkTEdXWGtOel9qd1VuNXlzWDBUS1IzSHAtUUVHREFBWDVDNGQ4Vm9zMGRKRHB1VE5LbmN5QmZJZ2NZZ2Q1Y2h1c19ONV9HLXU?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaS1PbC12ckM5dTFzWDZISy0zcmVfWjc2ODREc1dFMnlOem5RUmpWWGdxR2dKSlNQS0JrZXVvZGI4VDN2aXRQQkpIaHF4bWdwSjJvYjduMkFQUmdDaEdGS01lQThMQXpjTS02SW5YenA5U0ZQZUZsazg5SnhyZzFZel9YWTZqUmVVYUcxYTEyTDl3V3Z5dEZ6RTZCS3U5ZkUwWFBna2hDNnZ3dHo0?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Binance crypto exchange suspends trades over North Korea-linked hack",
+          "url": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "UK PM Burnham open to slavery apology but rules out reparations",
+      "summary": "British Prime Minister Andy Burnham said he is open to a formal apology for slavery but rejected calls for financial reparations.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Burnham 'open' to calls for slavery apology but not reparations",
+          "url": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "UK PM Burnham says he is 'open' to formal apology for slavery, but rules out reparations",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVA3cGlMTWRrZGNBV3NsQkdPb1ZJQnBfbG5EMjZrcUFWMmVldTlySld2cWtOcEhxS1hhZ1VnSTluNDk5dHZxdEs0TFpZbXhfRk92a3BTV0hxUXg5VTNVRnFMN2dBRmZ5R3R6T3BBdVA5WFdqS2dSTWRFSmVaZ3lkU01xRENrOGU3LWxkYVFVVlVoRzhKMUhCV2Ffc0duOFhsXzh4eXd4UHhEZTYtUF9oalhwc1lQYzdaalhN?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "U.K. PM open to slave trade apology but rules out financial reparations",
+          "url": "https://www.nbcnews.com/world/united-kingdom/uk-andy-burnham-slave-trade-apology-reparations-king-charles-rcna606670"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘Reparations now’: King and Burnham face protests at Antigua Commonwealth summit",
+          "url": "https://www.theguardian.com/world/2026/oct/31/protests-expected-king-charles-reparations-slave-trade-commonwealth-summit-antigua"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Poland's Constitutional Court chief suspended, triggering protests",
+      "summary": "Poland's Constitutional Court chief was suspended, sparking protests and police responses in Warsaw.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Polish president turns back from Senegal trip after top court chief suspended",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2p4TC1POGdvdHlLdGMyVVl1Nmw5dHhWdEZkS0FCZVBMazc3dzdQaElfeXBIcGRNV1NxZTRENXBKSHJRTkZnb2ZkelBMd0VlQjJHYkE3MFFCbGwtTFhfOEQwbHJYSDJlMGZSd2ttNm16ejVQTzg2SHBrOHZCZGk0ZVR4dUp5b0lZMWpkRU1NLTFzWDRHUl9RdDRLNmFyTW9tVXhLYmZOeGdBTFFlRl9UM3Q3SElzdw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Police secure Poland’s Constitutional Tribunal as protests erupt over court chief’s suspension",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONTN6V2ZLYWRNNzFWb3hYckNxQzgzMXZlTHY2MGN3NldSRW1BUGEtX0NUVTRzREhQcTdldGtuNkFVRzY4ZFlYRUYzS2Q0Y0tuT1hYbmpVMmZ4T3pjQjB4Si1sRndxN1haVVJ6dnlVbElWRW5vWC00Mnd6dnRsNkFsZXc2WUlRTnlxM3pmNHBUN1BERGdJcElnb1hrbGpudHFMbzJaWGxrdmx1T1c3cDJYOUplUnk?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
+          "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended"
+        },
+        {
+          "name": "DW",
+          "title": "Poland: Protesters clash with police over sacked court chief",
+          "url": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "US approves $2.1 billion Patriot missile sale to Ukraine",
+      "summary": "The United States approved the sale of Patriot interceptor missiles to Ukraine to support its military operations.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "US approves $2.1 billion Patriot missile sale to Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGRTc1V3SzhDNWZQUUVuQ3hsWmlKcUY3V3ZJb0poUEh6ZGZjSVZlNzlaWlF2SVVwU1M3RklET3hzdmtnVU54NXEtb0ZCYUc1WjZMR3Vya1Vfa0ZhSzhEUEg1NkF6bjlIODVJQW9mN0htVWM3dDRKbFF1MjVsMjkwQUdmNGpmNHBkWWl6dmtDeVFIYmptQ2VZZ0FyTHhqWVplU2RkZFhONnZNN3F0UWVWQUlJeno?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "US approves a proposed $2.1 billion sale of Patriot interceptors to Ukraine after alleged holdup",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGx4RUtRNkEya28zdk1wR3JiSFhtTDZGVFR0am5PSlZXRUZ6TmtQT2VLLXhSUzdoYjNoQ3ZSclB2T3pqTGFJWGJoOWRrZURNUXF4Q0g0T1NpNkVsN0V6cVlUTncyY1lPTFVvU1h1VGxmeFNxNWlKSm5FejE2d0tabHRjOU40dTFDbmNLTVVlbjZBYmtXNHQxd1Y5RHh3a1dROGM3Vg?oc=5"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Residents evacuated from Russian-occupied Ukrainian city",
+      "summary": "Residents of a Russian-controlled Ukrainian town were evacuated to Belarus after conditions deteriorated.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Residents of Russian-controlled Ukrainian town arrive in Belarus",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFpDMzF1UGlpLV9sdTZxWXRVLW04dWROZEtPTXE2V0JpNDM1c1pjOS1HbVlUNnd0THlRNnkzQTJfa1JxY3ZmR1llTHJTMnFpcll4SjN5TWdKMnY3VWRVWklVTkFxbkFJSEl5X3owR1FoU0RJZE9oUUJpTl9CUXpoV0k2al81eHpfWGNjclVrZU5lOXEyUnA4Y0JSd1dwVnR4LWVscXlza19fbF9nZmMwYlBITndMREZZTUlweF8tcTJSWDg?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine: Oleshky residents evacuate war-ravaged city",
+          "url": "https://www.dw.com/en/ukraine-oleshky-residents-evacuate-war-ravaged-city/a-79812327?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Trump administration orders ethics investigation into DOJ lawyers",
+      "summary": "US courts ordered ethics investigations into Department of Justice lawyers and directed the Trump administration to stop threatening election officials.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Judge orders Trump administration to cease threats to prosecute election officials",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTNRRm1aNHlxQUJIU2doMEdoZnBOVVNyc0U2QXk1NjA1am9nZmZYQ3F5TW5BcDJQcEZqVV82TG1vQVFmVFAySkpfRDZlODVVYXpSTVFialFSTXhpSmYtbXBwSFQzdDhpdGY3SFlsaXE2MG1zUGhvQVB1T2ZRd0llbDdwTS1YN0FaNVQtMkc2Tld5RTQyWjZ0UlBxdlhmX3JzYlhQUzNBZE45TXNBVzY0ZVJ1SzM5Sy1Nd3Jtam9nZ2dhUnRzZjhGYg?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Judge wants to know if Trump attorneys violated ethics in one of 2 cases to change the DC landscape",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTTdtcU1ZbjNCZ3hxcVFRcThqaVVkM0czZ2k2STBfenVGRkNfclpnbkpaU3lNNWo5Q0FSRkJrREJpRnJUMFBaX3FDaFVabmRyVGJwalcyeHBRcGY4T0lNc0NfVDFMRXFkRm1OOHNzQm9HaXVtekJQUzVnT0hVUEVKVUE1enZCYW5WLXJCdG1GMG13NUEweUE?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Judge orders Trump administration to stop threatening election officials",
+          "url": "https://www.nbcnews.com/politics/2026-election/judge-orders-trump-administration-stop-threatening-election-officials-rcna606659"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Canada and EU announce new alliance open to like-minded countries",
+      "summary": "Canada and the European Union announced a new alliance partnership as relations shift amid changing international dynamics.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Carney eyes June deal for Canada to become EU associate member as Trump reshapes alliances",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcXYwSnRTOGhSNzN0ekpKMjZreU8tS3RqZ1h1UXhiRjR6d0ttbFljQV9LQ1dlbHhNM3o5bzhwejFXMXV3akVmT19rYU1xYURiUGYtTXFHSmoyalJsV1F4TUNYcXJyN0FkcUdlVGFaVXJ5ZXJDSGRpWFYxUllCR3lVNEs4VlZacFJ2c2c?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Canada and EU announce new alliance open to like-minded countries",
+          "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance"
+        },
+        {
+          "name": "DW",
+          "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
+          "url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Wall Street suffers worst day since June as tech stocks plummet",
+      "summary": "US stock markets experienced significant losses driven by declining tech stocks and AI spending concerns.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "October ends with a thud for Intel, Reddit, AI stalwarts",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnVOYWtuZ0pscDhrZzNkRldHcFVCZmc2SHlBcDBhQ0JoSkQ4bURFRjBrWDlUb184bWFYcC1hR1c3SXpldTlvd3NBMkowX3loazVVdWlxUjhlYmwwSVhUVWdxamtMclpLTjV2WW5QSjM1YTl2b3hrOEkzclRmX19QSkp4a1FfckFTWWwtb0VfemJjUmVHNndxWU9fcXpWVVAwZThIbEF3OA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "How major US stock indexes fared Friday 10/30/2026",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjFMbmdVWW96RXBVc2lWc0R5NWNrT3U4M2ZabTFzcFZUQ0FmZ0RwajRhUnRJOE1uRFZWNDhodV9PeE4wTjcySmU1MVYzVE9EbXBIdGpPTnVubUw2MWdMM0lCZXBLOWdOY1p4dldpVHE4WGJjeGplMG9kVlFyWUhMQkpFWTZBWnpDMHZWY1JDYUc4OTQ?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Judge orders Trump administration to cease threatening election officials",
+      "summary": "A federal judge ordered the Trump administration to stop threatening prosecution of election officials.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Judge orders Trump administration to cease threats to prosecute election officials",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTNRRm1aNHlxQUJIU2doMEdoZnBOVVNyc0U2QXk1NjA1am9nZmZYQ3F5TW5BcDJQcEZqVV82TG1vQVFmVFAySkpfRDZlODVVYXpSTVFialFSTXhpSmYtbXBwSFQzdDhpdGY3SFlsaXE2MG1zUGhvQVB1T2ZRd0llbDdwTS1YN0FaNVQtMkc2Tld5RTQyWjZ0UlBxdlhmX3JzYlhQUzNBZE45TXNBVzY0ZVJ1SzM5Sy1Nd3Jtam9nZ2dhUnRzZjhGYg?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Judge orders Trump administration to stop threatening election officials",
+          "url": "https://www.nbcnews.com/politics/2026-election/judge-orders-trump-administration-stop-threatening-election-officials-rcna606659"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
