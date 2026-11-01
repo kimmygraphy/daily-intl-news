@@ -1,0 +1,266 @@
+{
+  "date": "2026-11-01",
+  "crawled_at": "2026-11-01T22:05:18+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein",
+      "summary": "A federal judge dismissed Trump's defamation lawsuit against the Wall Street Journal regarding reporting on an Epstein birthday book.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2dXRjY0R0EzUzFSNXBrYmRsZGJFdXEzTEtvZHFJYmFwUEVoNndYRzVGWkRyTVlOcHN6LUZFYThjRFFkVDVjZTFYdlRfekxWTE13VTZYRnF4RXlvdmJtQkMzOFViVElDWVdqdW5tXzlCZ0tCSjBZR2dReVlCbVVWZ3NxMGFaNUJydXpoYUFRZVZqRjV2QkJhZE5YeExkZ1AzYUdaUnJ3bmtJRVRmRFE?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter"
+        },
+        {
+          "name": "NBC News",
+          "title": "Judge dismisses Trump’s $10 billion defamation suit over Epstein birthday card story",
+          "url": "https://www.nbcnews.com/politics/donald-trump/judge-dismisses-trump-10-billion-defamation-suit-jeffrey-epstein-wsj-rcna591049"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "India's opposition party holds major rally demanding poll chief resign",
+      "summary": "India's opposition Congress party held a massive rally in New Delhi calling for the resignation of the election chief over voter roll concerns.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "India's opposition holds mega rally seeking election chief's resignation",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Thousands join Indian opposition protest demanding poll chief's resignation",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOakVrd3NyN2t0ZzZVTURGaTFwXzREVHc3eEUzd214OHdGOFcwQTdwYnMwSUN3dVhXV0RlTGtqNjJWV2xtSnVfbmJHUDBwX1c1R0VJaGx5V3IxTDdpUGttcHNrOGQxUWtMTk53WmhnempCczJLOUU3V0xfSjlJS0VicGQ3UEtxenEzaHhwNlYxeENNRmEtZUl4M0g1MjlkelRUdjZNdVc5SjBxQkoxVnhTNGFjd0oydWs?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Indian forces tighten security in Delhi ahead of big opposition protest",
+          "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi"
+        },
+        {
+          "name": "DW",
+          "title": "India news: Opposition holds major rally in Delhi over voter roll revisions",
+          "url": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "India’s Congress Party Holds Mass Protest in New Delhi",
+          "url": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Binance resumes withdrawals after North Korea $6 billion hack",
+      "summary": "The FBI identified North Korea as responsible for stealing $6.3 billion from cryptocurrency exchange Binance, with the company recovering most of the stolen funds and resuming customer withdrawals.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Binance resumes bitcoin, ether withdrawals after covering bulk of stolen $6.3 billion",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ042d3hwbUp6LXNrZ2JEY2RSVEgzX0xJbGZ0QTFsVnM1X0tYUFBONzljRXRIbFJCRlRWeUkyeEJwaElZZnN6Tnluc1h3ZURja0tMTHhjSDkyb2FnUHRPejdmUjZmaU10ZlBuTW82bVZmV0hKNFJMbmZ2VjFyS2h2NUVZRnVtZVdIQVo3VnRPVFhsX1ptRzJQaklyXzZIU0hxN1lyQ3lTNjYtMGZvQ1Q1T0laQzBHU1dHdEk1RXJXMGhRSVJT?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkM3dmhycV92Tk5Oa2xmTVhpMUI3RnluVVRpV1dlUGtIVXo4NjBqX0RDcjlLVW5FaGN4TGhZOXpEMlhBbzhzZ0gteVMwWUx2dVFoVzhnMzkxeU5tZzlDaHpZZE5LUVMxYllLTVBfTzhTcEZMaTl4eXhKT2l4ekwxWFFWOHc3bjJrWXhHRkVQQTFhOUNXMzlJSGQyZw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+        },
+        {
+          "name": "DW",
+          "title": "FBI says North Korea behind $6 billion Binance crypto theft",
+          "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "German Gen Z protests turn violent with looting and destruction",
+      "summary": "Shops were looted and violence erupted as young German activists protested rising living costs and military service proposals.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Shops looted as German cost of living protests turn violent",
+          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NBC News",
+          "title": "Stores looted in German riots as Gen Z activists protest living costs, military service",
+          "url": "https://www.nbcnews.com/world/germany/riots-loot-stores-frankfurt-european-youths-protest-living-costs-milit-rcna606782"
+        },
+        {
+          "name": "DW",
+          "title": "Germany news: Gen Z group calls for new protests",
+          "url": "https://www.dw.com/en/germany-news-gen-z-group-calls-for-new-protests/live-79814961?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Virginia and D.C. sue to block Trump arch construction",
+      "summary": "Virginia and Washington D.C. filed lawsuits to prevent construction of a proposed Trump arch monument.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Virginia and DC sue over Trump's arch, adding to legal challenges as government wants work to begin",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWdIdnZjbU5ESzhYMXdsdHlpbWVNbC1GRFdmSGN1UUwxbUluTk5SQzF4VktaaV9JQ1dGN1VyY0IwWmg1QUtXNVFFSy1mRkkwWTFtODdoWWNoeHZWUU9ZLUNKT29EUFpIN3NsYjRWdFcybFlZeU9ZS0ZpeTh0U1ZFR2o4OElGVjN6LUtCQjVYbWhYUlNMX1oydVpPNkVNSi1qNFNjNlNiczJvM3BNNFZCeEpkUEVJQQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Virginia and D.C. sue to block construction of Trump arch",
+          "url": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch"
+        },
+        {
+          "name": "NBC News",
+          "title": "Virginia and D.C. sue to stop proposed Trump arch",
+          "url": "https://www.nbcnews.com/politics/white-house/dc-virginia-lawsuit-stop-proposed-trump-arch-construction-rcna606705"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Poland's Prime Minister Tusk defends Constitutional Court overhaul",
+      "summary": "Polish PM Donald Tusk defended the suspension of the Constitutional Tribunal president amid ongoing protests over judicial reforms.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Polish PM Tusk vows support for tribunal amid court crisis",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1FQZ3BaNHVzYUlJRnloRE0wc0hFS2xrV3RJb2pkLXlXbXpBX1Y1eURkSUpCTVFhQjc3cWJmS2ZnNGM5eE1YTmxqN0t3cHVNM3NLMjlvSFpMMXJ4TkxjS2N6XzV6bVhlcExudmpBdzZPWHdyVHVYVExqZVVuNkdlVE1Mb1dpel8xdDNWSGlOS2o1R0tQVU5wWnE5WWJ5VmJ5cmsyYjA0cTJ0d1U?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Tusk defends suspension of Poland’s Constitutional Tribunal president as protesters gather again",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVVIM1owQ1djXzREamhGRFhZUHl5ZTBxN1FYUjBuZW5HVG90TGZfY2R5c1lkVmplYkhGbUNIZ3Q5Z3NXUEdzWndIS29xZzFINmVlcmZOV3hFcDZnS3JBRDZUdFBhTUh6VlVFY19vOUNjXzluSzNXRV82NWlrNXpteTNDemRDMnlSTzgxdmdydWJOWkkwUmw5b1J0cHZnZXYwcXFqdlFfVnZTQQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+          "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Bulgaria holds presidential runoff amid security concerns",
+      "summary": "Bulgarian voters participated in a presidential runoff election marked by regional security threats.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Bulgaria votes in presidential runoff after tight first round",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWVuZkFvVFlJOEJiem9lZWhrb1hTLXVaS1ZyWnhwLUZpNUpUcm9VM3JYb1BLeGxxUTZ3NXVkWWVMOGNKQUVtdFNZNWFnajRrdi1uYWdKRUFyRjltZVZsTUdQdDBpdFFoX0dseVJTY3UxMzlOeTRNUjY1b3pqZGE1YXRjWmZNRExQUjYyNXJwZTBXbGRvbWNjdl95U1U4WHF1b1E?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Bulgarians vote in a presidential runoff marked by regional security threats",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUpHTEVONW0yRVJoVzhBci1rTVpaUXZwR2JmTUFwYy1zSzdpa0lsdTMyVGV3WnNoUmJoVkkxcWZJQTJzN3NSby1MSF96TGFNcUhERjZlekhTZDhSdXpjbEF5Qm9XZWdfV1hEUENLM1d6dUx1cU5HTE55MWFaZ0dMN1VLRHprT2FZTlVTOTQtVWdFS3BmQjgzSHE1S2xFd2V1UlhLeXE2ZHFGalN2R0J2dw?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Bulgarians vote in highly polarized presidential runoff overshadowed by Ukraine war",
+          "url": "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "France experiences weekend protests with some turning violent",
+      "summary": "Youth-led protests swept across France over the weekend, with some demonstrations turning violent and resulting in arrests.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Police clash with masked rioters after largely peaceful protests across France",
+          "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
+        },
+        {
+          "name": "DW",
+          "title": "More than 290 arrested in France as some weekend protests turn violent",
+          "url": "https://www.dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Evacuees from Russian-occupied Oleshky reunite with families",
+      "summary": "Ukrainian evacuees fleeing from the Russian-occupied city of Oleshky crossed back into Kyiv-controlled territory and reunited with their families.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Evacuees reunite with family at the Ukrainian-Belarusian border after fleeing Oleshky",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX0JsVDBfeVVaYnBubzFPN3ppVGJZa2tlU21wZVRaUVZ3eVF5S0FaeUNXek5MNVUySkxNYUdfeWJLakN5aWF6VFdNUi1BeUREYWpxQzRXQjVtWU1tRENaTGNtNUt4aDN3Y0dGYVlaT3Zqbms1ZzRWM0JFcHk1Vy1IMGYwYUIwZ0tkWnhZNC1yVjE5UkdSMVFGX2wzUzFEQQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
+          "url": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
+          "url": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Golden State Valkyries win first WNBA championship",
+      "summary": "The Golden State Valkyries defeated the Atlanta Dream 68-63 in Game 7 to win their franchise's first WNBA title.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2lBQVM2dU1OS3Nvb21jTmphSEdXdGhfdGp4Z2pIT1RwSWRybmJSZC1neV9WQ0pqMTNsUmRPd2hJdmd6NUREV3o0akVCODUxQ2lvaThjMjUxcGJNRUw0RjlBTmFGS1hRN3Rjd3Vha19lRlR3X3U4VS1fWmIzYjZFNnBhbGNMY3p2eGdiNEVPNTRKRzlrRmFnYm53?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title",
+          "url": "https://www.nbcnews.com/sports/wnba/golden-state-valkyries-defeat-atlanta-dream-franchises-first-wnba-titl-rcna606267"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
