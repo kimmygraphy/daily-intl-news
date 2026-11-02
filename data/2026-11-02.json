@@ -1,0 +1,301 @@
+{
+  "date": "2026-11-02",
+  "crawled_at": "2026-11-02T22:05:26+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "US midterm elections held with economy, control of Congress at stake",
+      "summary": "Americans voted in midterm elections with focus on economic conditions, healthcare, and which party would control Congress.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "What Americans are voting for in this election",
+          "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Trump Justice Dept breaks with tradition to intervene in midterms",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbWJ4OEdSNHdJYTROYzVOdzhEelFyMGI3WFJ6SGprem95MjFQYTZrbUZrWWJ5Y3NpSmlfUEZ3bEMzVE5URU5LWU16MC1nWHExQ0RPbGZXX3dQV2g5dUhpZDMtS3JUWlNaSjMwd2JncWRELVRHSTZXOW15QmZPUjdtQXgxQjhwZFA5Y3BzWko2WDdRMkMyb3k3V3VhU0l1YWdUeXFGaFNEYUNsakExdFZBQ0hn?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump is giving his closing midterm pitch at problem-plagued Lincoln Memorial Reflecting Pool",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTdUMkROUkZWSFVLOUVHWDRfck8yZjJleFdpeno4azFMWG1jNmxoNHZYMm45OHhMazBtNkZqa2pNOGRxMkhRdUVlSTZnSmRuQV9LenFsb1BqMTJ4T3k3SFJtSS1YNUk4akVUbno4NW5JRTRocE5weW1MWnA1anhYanF2TXpRdzRRaXpORHpLWE5JUGRXTGdtV1U5NTZ4VW54X3hDMEcybw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "6 things to watch for on election night",
+          "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night"
+        },
+        {
+          "name": "NBC News",
+          "title": "Five charts that explain the economy’s role in the midterm elections",
+          "url": "https://www.nbcnews.com/business/economy/5-charts-2026-midterm-elections-rcna606589"
+        },
+        {
+          "name": "The Guardian",
+          "title": "These midterms could effectively end the Trump era – but neither side is yet ready for what comes next | Nesrine Malik",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/02/us-midterms-donald-trump-democrats-us-politics"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Parties End the Midterm Election With Their Closing Arguments",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/midterm-elections.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Business jet crashes in Florida neighborhood, killing all 9 aboard",
+      "summary": "A Learjet crashed near a roadway in South Florida, erupting into a fireball and killing all nine people on board.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Nine killed as small jet crashes on Florida street",
+          "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Jet nosedives and erupts into fireball near busy roadway in South Florida. All 9 on board died",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3VPQVE0dmE3bnM0TVptc2lUeHFmSHNfc1pEdHJPdG01UTRZMW1NaWVZXzRQbWRBcmN3WlJqTTA5YWpOZURQQlUwNTJSNXY2azVQWmVFbmpRWldybndPMzNlWGFnQk5Na0dTdlFmeWRzbW56ZkpOV091MEdmWHViUW1IWFRqOEEzN3c?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "9 dead as jet nosedives and erupts into fireball near busy roadway in South Florida",
+          "url": "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash"
+        },
+        {
+          "name": "NBC News",
+          "title": "Learjet Crashes Near West Palm Beach, Killing All 9 Onboard",
+          "url": "https://www.today.com/video/learjet-crashes-near-west-palm-beach-killing-all-9-onboard-272681029972"
+        },
+        {
+          "name": "DW",
+          "title": "US: Nine killed in Florida jet crash",
+          "url": "https://www.dw.com/en/us-nine-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Learjet Plummets to Ground in Florida, Killing 9",
+          "url": "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Ukraine and Russia emergency apps hacked with fake nuclear warnings",
+      "summary": "Hackers compromised emergency alert applications used by Ukraine and Russia, sending false nuclear threat notifications.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+          "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NBC News",
+          "title": "Fake alerts warn of nuclear danger as Ukraine and Russia report emergency app hacks",
+          "url": "https://www.nbcnews.com/world/ukraine/ukraine-russia-emergency-app-cyberattacks-alerts-radiation-kyiv-war-rcna606964"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Hackers send fake nuclear threat alert to Ukraine emergency app",
+          "url": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine, Russia report hacking attacks on emergency alert apps",
+          "url": "https://www.dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Kimi Antonelli becomes F1's youngest world champion at age 20",
+      "summary": "20-year-old Mercedes driver Kimi Antonelli made Formula 1 history by becoming the sport's youngest champion.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "How 20-year-old Kimi Antonelli 'blew everyone away' to make Formula 1 history",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c6m2dj7ze9v2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSDRjbm1UVmlEekhIWkxOX1NLSGNsSUVnRW5SSlF2VDg3d0NTOEI1YllqZWJrc1V0dmRzRGluTlpPYjlvcnNJWkNpa2JsN3YtQTNjeU44Zzdock9VRGMzR2pjSElfQm12UzRiaW5DMkg4TGdzbWY1Mm9odjVvVzVwWVZjWXhIU0x5UXNFMU44VkFVT1BZNnhrNWluOGxzZWJKRkJiQw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "How Kimi Antonelli saw off the grid to become F1’s youngest world champion",
+          "url": "https://www.theguardian.com/sport/2026/nov/02/how-kimi-antonelli-saw-off-the-grid-to-become-f1-youngest-world-champion-united-states-grand-prix"
+        },
+        {
+          "name": "DW",
+          "title": "Kimi Antonelli makes history as youngest F1 champion",
+          "url": "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "King Charles addresses slavery in Caribbean, apology under consideration",
+      "summary": "King Charles III visited Antigua and Barbuda where he addressed Britain's colonial slavery history, with UK government considering a formal apology.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
+          "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Charles left without umbrella in rainstorm fit for a king",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFcxajFVdE1sQTZZS0FEem9WMmU0RU1IWkVhQkJjSHBLOTExX05zTEhYWXphYmlJdWQzOUI1NzdRaHYwMEFLdkZGb3pyZWNsR2ZaYktGSTdUczVGcTVVWHJkbEE2NW9lVGppbVNoeXpDbldURmx4eWpSZzBXaS1saHJCOHY5cDVab1BKVUpSQnU2WkhYeU9zSERXT1lVcERKQVFXQktVSFRfS1k?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Memo to King Charles: if the Dutch king can apologise for slavery, why can’t you? | Raoul de Jong",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/02/king-charles-slavery-apology-caribbean-tour"
+        },
+        {
+          "name": "The New York Times",
+          "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
+          "url": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Democrats incensed as Haley Stevens endorses Republican Mike Rogers in Michigan",
+      "summary": "In a surprise political move, Michigan Democrat Haley Stevens endorsed Republican Senate candidate Mike Rogers.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTZaeEZ3WHhrS2s0VVVXSWpRLVVLb185QTR6djh1R3UtZ1F0SFJCS1BWbDBaUmZxeEI4ekkyMVBObTV3R1RyZktuX0dISE9rTmFVd2tVY3NnMm8xTUQ5SGo1VFc1bWoySVdkNHp2c2JmR0g4a2hQOEJfdFVVaFZTQ2hSZWwwMHc1Sm81clYxelpTN1JGbFJZOEpEMlRVWkRBSTdCU0RzX1VWdDRrQXc?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "New twist in critical Michigan Senate race",
+          "url": "https://www.nbcnews.com/nightly-news/video/new-twist-in-critical-michigan-senate-race-272667717513"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘A despicable betrayal’: Democrats incensed by Haley Stevens’ endorsement of Mike Rogers",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan",
+          "url": "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "European supermarket freezers hit by suspected cyber-attack",
+      "summary": "Freezers in supermarkets across multiple European countries were affected by a suspected cyber-attack.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Shop freezers in six European countries hit by suspected cyber-attack",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "European supermarkets hit by new fridge cyber attack",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObF9LUXZ2TVpjZm13eW9HNXZ0MkZFVDM5eHl5RXc0aDkzODdvc0VKYVE4YV9MSDZITjVTR01CM3l6ajdCVEFZMXlmdmx3MzBRWHN5QVkyTFU2bkR2Sm5VQm5OWUVfLVJoeHFZaXdrc0F1QTRnT0tHYXRvcVd4S0V2QUxmV3ptOEszT2EyWmFpVjYyUnRwODF1eGhXbGpGcUV2UXRwZFFLOGhPLTY1MWUxal9TY3M0Qm9MOVpSeTFHazNxMUNGSnVfdzVvOE0tUGM?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+          "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Binance users withdraw $3.6 billion after major cryptocurrency hack",
+      "summary": "Binance crypto exchange suffered a significant hack prompting customers to withdraw billions of dollars from the platform.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Crypto ‘scammers on overdrive’ as Binance customers pull billions from accounts after $6.3bn hack – business live",
+          "url": "https://www.theguardian.com/business/live/2026/nov/02/crypto-scam-binance-billion-hack-business-live-latest-updates-news"
+        },
+        {
+          "name": "The New York Times",
+          "title": "The Final Polls Before the Midterms, and a $6 Billion Crypto Heist",
+          "url": "https://www.nytimes.com/2026/11/02/podcasts/the-headlines/midterms-polls-crypto-heist.html"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Martha Stewart apologizes for homeless Halloween costume drawing backlash",
+      "summary": "Lifestyle guru Martha Stewart faced criticism and apologized for dressing as a homeless person for Halloween.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Lifestyle guru Martha Stewart says she 'really screwed up' with homeless Halloween costume",
+          "url": "https://www.bbc.co.uk/news/articles/c8zxle6qq4q0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NBC News",
+          "title": "Martha Stewart responds to backlash over ‘hungry’ homeless Halloween costume",
+          "url": "https://www.nbcnews.com/news/us-news/martha-stewart-backlash-homeless-halloween-costume-rcna606837"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Martha Stewart says she ‘really screwed up’ after dressing as homeless person for Halloween",
+          "url": "https://www.theguardian.com/lifeandstyle/2026/nov/02/martha-stewart-apology-homeless-halloween-costume-backlash"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Bulgaria elects Iliana Yotova as first female president",
+      "summary": "Bulgaria held a presidential runoff election resulting in Iliana Yotova becoming the country's first elected female president.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Bulgaria elects Iliana Iotova, ally of PM Radev, as its first female president",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdjN2Q2FvbFlwQ1R1Y1h0T2sweW5XdmFzLThZS3JLWE5HRnoxdTFoc3VQX09hNy05NGcxeXhzblBkd0JEc0tkOUM5YVkzTkVRZzRBVDQyNFNXekVXeVhhRjJjWGhpM3BHZVpjbTd2UFRhQzJlVGdmSzhmSGRwNXRPRFNzYVNUZXh4V3lSVmVIdVRmVVJjTWRraVl6SDRqN0gwNEliX0tEcjVMLU9ZeG1LMEZUajM?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Initial results suggest Yotova wins runoff to become Bulgaria’s first elected female president",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUpHTEVONW0yRVJoVzhBci1rTVpaUXZwR2JmTUFwYy1zSzdpa0lsdTMyVGV3WnNoUmJoVkkxcWZJQTJzN3NSby1MSF96TGFNcUhERjZlekhTZDhSdXpjbEF5Qm9XZWdfV1hEUENLM1d6dUx1cU5HTE55MWFaZ0dMN1VLRHprT2FZTlVTOTQtVWdFS3BmQjgzSHE1S2xFd2V1UlhLeXE2ZHFGalN2R0J2dw?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Iliana Yotova wins the presidential election in Bulgaria, portraying herself as the 'president of peace'",
+          "url": "https://www.dw.com/en/iliana-yotova-wins-the-presidential-election-in-bulgaria-portraying-herself-as-the-president-of-peace/a-79829019?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
