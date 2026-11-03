@@ -1,0 +1,281 @@
+{
+  "date": "2026-11-03",
+  "crawled_at": "2026-11-03T22:05:20+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "US midterm elections held with control of Congress at stake",
+      "summary": "Americans voted in midterm elections widely viewed as a referendum on Trump's agenda and policies.",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+          "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Prediction markets face US midterms test as election bets soar",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2hIb2RkVE5NOGtSTm13ODFQYkxHZ2FhVEFlNGdidjFJVVpmTy1UekFuX29Xd2xEMTdRNjNzbEFaTzNNcFNqRURrbl9XVXZjdkpsUFgycVJaWXo1SUFJSFFiSGpSUHQ1U1gzTl9IWWhPS3RSd1hsNF9zV2xXYy1ZclBPMk4xd0tJV1dxZms0MWJGU3djMDNEbWFyNUtkZTduX3c2OTgwTWNRSVdGLWRoT3Jn?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Midterm elections coming to a close as voters pass judgment on Trump’s second term",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
+          "url": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy"
+        },
+        {
+          "name": "NBC News",
+          "title": "Voting gets underway in the midterm elections",
+          "url": "https://www.today.com/video/voting-gets-underway-in-the-midterm-elections-272752709589"
+        },
+        {
+          "name": "The Guardian",
+          "title": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting"
+        },
+        {
+          "name": "DW",
+          "title": "Can US midterm election really change Trump's Iran policy?",
+          "url": "https://www.dw.com/en/can-us-midterm-election-really-change-trump-s-iran-policy/a-79840683?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "What’s at Stake in Today’s Elections",
+          "url": "https://www.nytimes.com/video/us/politics/100000011228221/whats-at-stake-in-todays-elections.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "US military strikes Iranian targets ahead of midterm elections",
+      "summary": "The United States conducted defensive strikes against Iranian military targets on Qeshm Island in the Strait of Hormuz.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "US strikes Iranian island ahead of midterm elections",
+          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "US has conducted defensive strikes on Iranian targets in the Strait of Hormuz, US official says",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "U.S. military carries out limited strikes on Iran’s Qeshm Island",
+          "url": "https://www.nbcnews.com/world/iran/us-conducted-defensive-strikes-iranian-targets-strait-hormuz-us-offici-rcna607161"
+        },
+        {
+          "name": "The Guardian",
+          "title": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+          "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island"
+        },
+        {
+          "name": "The New York Times",
+          "title": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Tenerife footballer dies after on-pitch collision with goalkeeper",
+      "summary": "Spanish footballer Jesús de Miguel died aged 30 after suffering a collision during a match in Tenerife.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Spanish footballer dies after collision with goalkeeper during match",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Tenerife striker De Miguel dies after collision in match",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWVoMHNNZXR3NlJHcU5VaXdOUEFqa3pxcmVaS0hlcHhYRkdqcFZXdWxuMUhEOFdaaHNHZ2lieXBBX29RQUVVTU1CeFJyQzhUX241X0d2VGpUaHNEUzlGUzB6akFqaEFMMDUtZGxNQVN0b1VVWVQwRTdMZXNpNmlwVFA2cndwVG9iSUNMVURHSlp0U3Nqd21SOEtUSlJOTVFrRU5USzBIMkJUemtPVnc?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
+          "url": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision"
+        },
+        {
+          "name": "DW",
+          "title": "Football: Spanish player dies on after cardiac arrest on the pitch",
+          "url": "https://www.dw.com/en/football-spanish-player-dies-on-after-cardiac-arrest-on-the-pitch/a-79839398?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Supermarket freezers across Europe hit by cyberattacks",
+      "summary": "Cyberattacks targeted supermarket freezers in multiple European countries, raising concerns about broader technology vulnerabilities.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+          "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Supermarket freezers in several European countries hit by apparent cyberattacks",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTQ5eVVHbDA4NkpVWmNlWmNrc0ZYZGxxSC1wdFphVmljMnVMX3BDWUNVQkl4akdHOU9leWNKTFdJS0xQVWI2X1VOZUUtYkRzOFN5aDlJcXpXeTVWV0EyeWVzS0JON0ZCb0w2bHBua0JfbDQxcHVsYk11ektjbjQyV1hNVzRnNjBlay1KZnpxVEVySlZ5b1FwbURIYll4aXJmRlN3?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "A new cold war: hackers target fridges across the globe",
+          "url": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges"
+        },
+        {
+          "name": "DW",
+          "title": "European supermarkets targeted in second reported cyberattack",
+          "url": "https://www.dw.com/en/european-supermarkets-targeted-in-second-reported-cyberattack/a-79831139?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Helicopters collide near Mount Everest base camp, killing one person",
+      "summary": "Two helicopters collided in Nepal's Mount Everest region, resulting in one death and two injuries including an Indian tourist.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+          "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Indian national killed after two helicopters collide in Nepal's Mount Everest region",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMUZVUllrZGwycGFhTjBKcnB2eVg1Sm1yZUlUUTUzaG1kQ25qX3FfVE1fdG9GdTgtUXlMNFA0RE5jMm0wOFNsMHBNWXpwb3NfM3dWUXNiY21aM1lOQk5yTm5SZkVzT0M4Mk50UWFzQ0xCUlIxRUFoMEpJb1U3VjlFejNSSWc2R0UwTFRJd0tkRTlkY1FzcFVXbVBfM0FCeUFsaXp0NHNMWkVPbjIzZmtvWGlMa2JzSzduY0w2LXJ0MUZCLWtSYUhn?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Helicopters collide below Mount Everest base camp, killing 1 person and injuring 2",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEg1YUtlWm5XOFZadlZwVVhuTXNDLWlQYnpQa01Kbm4tLV80UGFKVzF3SENvNF9SRFZSaDNEejYyNVU0MVdJeVNDYjhGc19EdENMZWZXZ0dvMERTQXg1LUxiWlkxaTBsLTdhWFYycFdyWGRyUDRWNjVOdDBzczZLVndJWGFud3hFRnJNUGtncjg0STBL?oc=5"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Florida learjet crash kills nine including tech entrepreneur and family",
+      "summary": "A Learjet crashed in Florida killing nine people including a 20-year-old copilot and a tech entrepreneur with his family; investigators found parts may have broken off mid-air.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
+          "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Victims of Florida plane crash include a 20-year-old copilot and tech entrepreneur and his family",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbThMQW1IZnBRT0dBUlZ6dmRaZTFMY1hkWE5nUlZhdzNZd2hvQmFhSTRpd1VIaThyTGVPUnVpbGplbDhjM1U5SE1peUt5SEQ0eEFnU0ViV1djMVF5V1J3SjJKcnBjRndRQ3pmdTV4dkpLZFVsRFhmTWpiNEh6SFh3WndlUm9qOTEtZzFSa0x5U3Y?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Co-pilot and passengers killed in learjet crash identified",
+          "url": "https://www.nbcnews.com/nightly-news/video/co-pilot-and-passengers-killed-in-learjet-crash-identified-272729669541"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Russia strikes Ukrainian aid center, killing at least 26 people",
+      "summary": "Russian forces bombed an aid center and shelter in southern Ukraine, killing at least 26 people with dozens still missing.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Russia bombs aid center and shelter in southern Ukraine, killing 26, officials say",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjQxRVBYSHRNOF9zQ2l4RldLcXhabTFZWjVtWkhRaGZ3c25xemVZZmJjU1FiQUxMYlpzdmFvQkp1RGRFcWpaVGlOel9vLWx4ZDdfdDdlbm9DWTBXU1B2ZTNHQVFfU1EyQ1VaSHE2NFNqTXEwSEdxZmJEM3piSHhQc1YwUnM0SmxQVFFXYkQtM3BkdW5hclJpdEZwNXZ0M01mRXVUWQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+          "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine: At least 26 killed in Russian strikes on aid center",
+          "url": "https://www.dw.com/en/ukraine-at-least-26-killed-in-russian-strikes-on-aid-center/live-79825079?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Supreme Court rejects Trump administration effort to block California ballots",
+      "summary": "The Supreme Court quickly rejected Trump administration attempts to set aside thousands of allegedly noncitizen California ballots.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Supreme Court rejects Trump administration push to set aside thousands of California ballots",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUTBndDdTam9fRTJHOThoRXMtenJuVDU4a05vbllPTlkxalRLWWI4VzlxTENCWGtNdDFQbC1xQ2g4MDFSZkM5RU5wNlFsM0FkaXBpM1VHR2NSRkJaRFpwWlNPVXRfUTc3WlR0WjhIa0pCNnE4SGI2WFFiMHdkbVZsVVZtdlhtNjdmQU15QW5tYXo5dlNOelVyblJwUnJnVmd5MWF3Z3hJRkZSU00?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Supreme Court quickly rejects Trump effort to target alleged noncitizen voters in California",
+          "url": "https://www.nbcnews.com/politics/supreme-court/rejects-trump-effort-target-alleged-noncitizen-voters-california-midte-rcna606607"
+        },
+        {
+          "name": "DW",
+          "title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
+          "url": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "UK and EU agree deal to remove Brexit checks on food exports",
+      "summary": "The UK and EU reached a draft agreement to scrap regulatory red tape over food and animal product exports.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "UK and EU agree deal to remove Brexit checks on food and animal products",
+          "url": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Bomb threats reported on multiple European passenger flights",
+      "summary": "Four separate flights from London, Copenhagen, Manchester and Israel received bomb threats and landed safely.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Bomb threats reported on two passenger planes to Warsaw, both land",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU3p6WFp5MDNvNDdBY3d2ekZROTM3REtEZk5fNWdBSS1ZSndENEJkcm5nVUFKOUY0cUNxUkFNWkNQS2swdURVeW8wWThUZFlrUVZNeXozVEp4bWdVV1ZhanpFRGdkWFFNQUZ2cUNsaDJWVHlnWk1QQXdKZzJ4eXNGWkx5aW1hRHdTb0hLeGFGMm5CYkRHQVF1aUJIeURKQzdlcHlidmJhX1hlakxyaC11aUh3WGJueVFJblQ5dHJQQQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Four separate flights from London, Copenhagen, Manchester and Israel affected by bomb threats – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
