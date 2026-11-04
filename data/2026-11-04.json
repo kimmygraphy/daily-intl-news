@@ -1,0 +1,291 @@
+{
+  "date": "2026-11-04",
+  "crawled_at": "2026-11-04T22:05:22+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Democrats win US House and Senate in sweeping midterm victory",
+      "summary": "Democrats won control of both chambers of Congress in the 2026 midterm elections, delivering a major rebuke to Trump and Republicans in what observers called a historic 'blue wave.'",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Democrats seize Congress in sweeping midterm repudiation of Trump",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0lOMEdFS2NKSF9XVlZQUnNpWEgyRFN5d3prSnJKUFgyUmFZUEw5SWhQN0h5MEhEZk1GaVlyc1R2SzBsMmlSNjJtVDZ2YXMyN2ZPZGd2ZldGT1ZEQU51OElNNVA2emJPd2RnbFdxdmo0TWFaZHdmUXltbHlveXVnbHRPT21UTUJyX19ySlVNWk1MR0pZZlVzMzdrZTlOTUJKMi1UeWp1Q1BlOVlUaW1zSUxn?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+          "url": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control"
+        },
+        {
+          "name": "The Guardian",
+          "title": "US midterm elections 2026 live updates: Democrats take control of Congress in major setback for Trump",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates"
+        },
+        {
+          "name": "DW",
+          "title": "US midterms: Democrats win House and Senate from Republicans",
+          "url": "https://www.dw.com/en/us-midterms-democrats-win-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Democrats Take Congress in a Landslide, and Trump Says He’s ‘Willing to Accept Those Results’",
+          "url": "https://www.nytimes.com/2026/11/04/podcasts/the-headlines/midterm-election-results.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Trump suffers historic losses as voters reject Republican candidates",
+      "summary": "Republican candidates, particularly those endorsed by Trump, suffered significant defeats in the midterm elections, with analyses highlighting the party's worst performance in years.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Five reasons why Republicans lost so badly",
+          "url": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Trump's midterm drubbing demonstrates the power of data-centre opponents",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ0RKVlY1MlliV3dhVWp3b2FVOGNsTGEyYnZLb1ZENVpINVdLdDVFTnNsazZ5b3FsbmVocktWZUhacFZmRU83cEFLOTNnOVBKZXJ6RUFoTjFncjJsNHB4Z25QMHlVLTNPRnE5TE5KNU9NN2JQQ09rQmo2N1N4dHFGNUEySXhLUVFhZVlJU0ZUd0V6aXhKVy1OT3JIa3lwdUpDT184VXpQYkthTXg1VWc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Takeaways: Voters punish Trump, and the GOP suffers historic losses",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjkyWmJqMU9FSGNlZDU1XzEzZ2IzTUNlZ25OV1BuYmxTREU5NE41R0tldnU4Z3lCclBGYzltRFJySF9jMldXMDZxTTBaaGtYTU4tbHVJcXNCemdqblJfUXY3QTk0alF6VmJtWjBBS3kwaWVZOV9GTzdrM05aVXFRSlpjZTBPcWY2RHlDbnF6b21kRUVQZDNsUk5ZOUpwNnN0VkNENlhzWnBwQzdzTDkycVpyM1hJa3VYRC1SUWdWbGlGdw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "US midterm elections 2026 live updates: Democrats take control of Congress in major setback for Trump",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Angry Voters Usher in Beginning of the End to the Trump Era",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-trump-voters.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Democrats flip key Senate seats in Republican strongholds",
+      "summary": "Democratic candidates won major upset victories in traditionally Republican Senate races, including in Maine, Kansas, South Carolina, Texas, Michigan, and Ohio.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Abdul El-Sayed becomes first Muslim elected to US Senate",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUxudWs1SWpxeDFHNWctVVdQNXA5N1gwT0N4ZG92R3FoRFdURVBRQ1NrNm1EZ0R0WFNqVl9KUlUtRWFrLVp6cXQzSXlBWHFuUzgwR2xjVVZmNjNzbklqLV9iZU9lMjRrakpHSUhFOHF6M1dneXc4RkpQZm95S1prNnJfckVzbGpoQWFmcmxBekR1MnY4Y1FYZUZtLU1qSUU?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Democrat Amy Acton defeats Vivek Ramaswamy in Ohio governor’s race",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUHRnVE8wNVB6dmFhLWpYUkstZHdzeTlIeE1YUnA3ODlJN0tfb04xV1lDZkQyakhUUS0wS0gtLW91SlJJNXBCMUs1OWJKclRsWHk3b0JQSkRINlF2WTVWR2xFYXdiekIzUk1mVGZ1ZlV0R281R1FMQlRGYXJxZUJ4U0Fac3lBNG1DLWtQbjVkWkViazlLak1mUmJTaUdBWFRHczdXZGRwV0hkMGFN?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Democrat Abdul El-Sayed defeats Republican Mike Rogers in key Michigan Senate race",
+          "url": "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers"
+        },
+        {
+          "name": "NBC News",
+          "title": "Democrat Abdul El-Sayed wins Michigan’s Senate race",
+          "url": "https://www.nbcnews.com/politics/2026-election/democrat-abdul-el-sayed-wins-michigans-high-stakes-senate-race-rcna603315"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "International reaction to Democrats' midterm election victory",
+      "summary": "Political leaders and officials from around the world, including Iran, Israel, and other nations, commented on the implications of the Democratic victory in US midterms.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Iran's chief negotiator says Americans voted 'no to war'",
+          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Iranian officials gloat as US voters deal blow to Trump",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaERuaWNXaEtzV2Vjb0RCZUZiWkx1VE52SGpCLTBjaFI4THBXUUJGWTF0Y2kzMHZvY3FrTVlKRmJaRkFYSmgyb21EczFNeUxuQ1dPT2JpRXRGN3JaRmtIeW90Y0xRam5BdUdlVkswTHFqa2NjR3lxVHRHWWlzdUNtVTNDbTh1bW5uR0lRR0MteWFNTU9Jd010NHNGaTRweGlOdS1MZGlB?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Iran’s chief negotiator says the US must act to prevent renewed war, and other Mideast news",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2pBMjlPX0dlMUxUN1BQVExSMVRwRTBnQkx6TkFaRW4zT1NsTE9jNzhHbnZSMVFXd1lHQ3gwWFJEbW85aGdhbTJVY0VWN1FyTVZLTUdSblVHYzAtTHVoN2ZvZkNyWWtPR3pVVWRBSUxaTWZldUR0QktaZWlMSm42cEdiWFNhcUIwNFdpUUN4a0JjQQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "World reacts to Democrats' midterm elections victory",
+          "url": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections"
+        },
+        {
+          "name": "DW",
+          "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+          "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Abdul El-Sayed becomes first Muslim elected to US Senate",
+      "summary": "Progressive Democrat Abdul El-Sayed made history by becoming the first Muslim elected to the US Senate after winning Michigan's Senate race.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Abdul El-Sayed becomes first Muslim elected to US Senate",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUxudWs1SWpxeDFHNWctVVdQNXA5N1gwT0N4ZG92R3FoRFdURVBRQ1NrNm1EZ0R0WFNqVl9KUlUtRWFrLVp6cXQzSXlBWHFuUzgwR2xjVVZmNjNzbklqLV9iZU9lMjRrakpHSUhFOHF6M1dneXc4RkpQZm95S1prNnJfckVzbGpoQWFmcmxBekR1MnY4Y1FYZUZtLU1qSUU?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Democrat Abdul El-Sayed defeats Republican Mike Rogers in key Michigan Senate race",
+          "url": "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers"
+        },
+        {
+          "name": "NBC News",
+          "title": "Democrat Abdul El-Sayed wins Michigan’s Senate race",
+          "url": "https://www.nbcnews.com/politics/2026-election/democrat-abdul-el-sayed-wins-michigans-high-stakes-senate-race-rcna603315"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Record number of women and minorities elected as governors",
+      "summary": "The 2026 midterms saw historic firsts with Democrats electing the first Latina governor of Texas, the first Black female governor of Georgia, and other minority candidates to governorships.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Midterms launch wave of historic firsts for some states — and for the nation",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUE1lVWRlWlptbUNFLUoxdUxhVDBGQXJaalludXNlLWhxQ05GSlhkaUxSRlZ1OVVHN3Zuam5wNWxZdmFqbjQ5cTlQNllScnpmSDkwVTNkc2NkczBFcnphSTl5MmJsZEV6LS1zeVZyYzVLRHl2SmNlMkc5MWxYSksyWVV2b0NXeGRlWUF4ZTNqa0JMUWhSejk5YkFodmFEdlIwV295NU9PQkdkcnpGbEc3SC0yV1ZldlQ3SXpVd3dB?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "These 9 candidates for governor just made history",
+          "url": "https://www.npr.org/2026/11/04/nx-s1-6028546/governor-candidates-history-election-2026"
+        },
+        {
+          "name": "NBC News",
+          "title": "Record number of female governors elected",
+          "url": "https://www.nbcnews.com/politics/2026-election/record-number-female-governors-elected-rcna607366"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Stock market reacts to Democratic midterm sweep amid AI concerns",
+      "summary": "Financial markets showed mixed reactions to the Democratic victory, with investors concerned about potential regulation of technology and data centers under Democratic control.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "US stock futures rise as investors assess Democrats' midterm sweep",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Stock futures rebound as Wall Street confronts the ‘blue tsunami’ threat to the AI boom",
+          "url": "https://www.nbcnews.com/business/markets/stock-futures-blue-tsunami-ai-boom-rcna607351"
+        },
+        {
+          "name": "The New York Times",
+          "title": "How the Stock Market Is Reacting to the Midterm Elections",
+          "url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Goalkeeper Owono's teammate defends him after De Miguel's death",
+      "summary": "Following the death of Spanish goalkeeper De Miguel, his Andorra teammate and Owono's team-mate provided statements defending Owono and expressing that he would not intentionally harm anyone.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "De Miguel death: Goalkeeper Owono 'would never intentionally hurt anyone', team-mate says",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Andorra teammate defends Owono after collision with Tenerife player De Miguel",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONEdxVE5zU0NZWW5xdExKNW5xUjJ3aWJHUEdER2RIMjhOQTJWR3VvajVDM3JKQ3FmMFBQdml1ZXo3blBhMHBiaVZrRWw0bkNSTjBoeDFRODVWVFlIdWt3VXJ5NFZpMzFCUU8tZnptc3FZYi1fX1NyUm96NlRnZThVcktaQUMzWlgtTzFKTHA4QjJOR1R2T1k4V0JpcUdvdU1QdUNKaVBuMTZUUHlXN3NSdHZUUF9seDdQdENWZlhEV0s2NGJSVEE?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Goalkeeper Jesús Owono ‘deeply affected’ by De Miguel’s death, teammate says",
+          "url": "https://www.theguardian.com/football/2026/nov/04/goalkeeper-jesus-owono-jesus-de-miguel-death-tenerife-deeply-affected-andorra"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Iran's chief negotiator says US voters rejected war in elections",
+      "summary": "Iran's senior negotiator claimed that American voters' rejection of Trump and Republicans in midterms reflected opposition to US military conflict with Iran.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Iran's chief negotiator says Americans voted 'no to war'",
+          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Iran's Khamenei says US hostility will persist regardless of party in power",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRGVfN21sYmhQcnl4Rm1tdnM0Qk8wcnFQT0pKT0dPbjlaU0wzUU5STTRnbkZBZVAxR3ZlTnlISnNCRl95VldVTkV3QzhEWFZhMUtzaUxqa1ZUS2kxSGdsMzlKT2FqUkc4LXdfeFVKYUVVOHRoM1dPYV9NZS03NllQdVZzcUZnMmI2V2E4b1BXRTRZUVZIb3VoTXRXZzBPdXR6LTIyODNHZEIxUXZGWF9Fc2J5ek9PNGUyT0kwWmJNaw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Iran’s chief negotiator says the US must act to prevent renewed war, and other Mideast news",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2pBMjlPX0dlMUxUN1BQVExSMVRwRTBnQkx6TkFaRW4zT1NsTE9jNzhHbnZSMVFXd1lHQ3gwWFJEbW85aGdhbTJVY0VWN1FyTVZLTUdSblVHYzAtTHVoN2ZvZkNyWWtPR3pVVWRBSUxaTWZldUR0QktaZWlMSm42cEdiWFNhcUIwNFdpUUN4a0JjQQ?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Hakeem Jeffries poised to become first Black House speaker",
+      "summary": "House Democratic leader Hakeem Jeffries is set to become the first Black Speaker of the House following Democrats' Congressional victories.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Hakeem Jeffries poised to become speaker of US House of Representatives",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdV85RkhlZ3psbks1UlVEVWxGZkx2SVBMS3YxZnFUNVRiVVJBXzdkVWkxTWRleUJPcVA4ek4xb0ZIYllReHBNQ2dFVkVZR2pSdHB4b2ROQ0NYRGdwYk1NUDlCb0VkTF9ybWE4WG5abUlTWUtjS2NJZEZidEpvR2VvS25fQW80SThrR1V1Wm9iekxKNzktTGN0UHM0dzE4NmpSVHgybXoyeThNSFZxX2pYT2VWNXFUZw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Hakeem Jeffries is poised to become the first Black speaker of the House",
+          "url": "https://www.npr.org/2026/11/04/g-s1-150030/hakeem-jeffries-speaker-of-the-house-midterms"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
