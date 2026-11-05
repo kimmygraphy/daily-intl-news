@@ -1,0 +1,306 @@
+{
+  "date": "2026-11-05",
+  "crawled_at": "2026-11-05T22:05:22+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Democrats win historic US midterm elections, taking House and Senate",
+      "summary": "Democrats achieved a historic victory in the 2026 US midterm elections, gaining control of Congress and delivering a major defeat to Republicans and Trump.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Midterms over, Democrats plunge into wide-open 2028 presidential race",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdXdzQ2lsb2Z4akFLZzFiR3otamdxek1RbXM3WWVWTE9hcXJRR28yMlZ1LU8zb1c2RWpGQ1NRNmVNSXVXVU5BSkJBYmgzeTRoTlNiUFpGX3B0eEdkVWM3ZlVrTVRBRHJOc05WUVFGY2dvcG9YLVhSUlN4S2NhdnlUZk1ZVDRjMGNIa1lBUWVNbGNsNmEtRnBFeDZSdjBRVzJfV2pnWkdSU19yb2JqNERLR1d2NHl0alhPbDVJSlV3?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemZtNHA3MndVd0YwZEZjYVZSdXA5NVpnXzhpUnY5Mkp5U2lBTnBtNEV6dVB0LUJZVXBDV2lUNnNHbTczNWFVVEtXUVhFdlUxdm5sOWl6U0JFMjhGXzgzQ19GNXdrNUVJMlB4czlkenlNOUctMGllMmFLRTJrVXl0T1hoQ1ZUcmI4N0xxU18wTEhuQUNHYm5mNFhNc0pVRjJqY0s0clotUW42czd0TTRCNw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "The South flexes political power in midterms, sets regional influence in 2028 election",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6029818/blue-wave-south-carolina-georgia-mississippi-texas"
+        },
+        {
+          "name": "NBC News",
+          "title": "Kornacki: Why the Midterm Election Results Are Historic",
+          "url": "https://www.today.com/video/kornacki-why-the-midterm-election-results-are-historic-272905797903"
+        },
+        {
+          "name": "The Guardian",
+          "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race"
+        },
+        {
+          "name": "DW",
+          "title": "What the Democrats' midterms win means for the US economy and Trump",
+          "url": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "French unions stage nationwide strikes and protests over wages and conditions",
+      "summary": "French unions organized widespread strikes and protests across the country demanding higher wages and improved working conditions.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "France holds new strikes and protests as unions demand immediate answers",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Police clash with protesters in French city of Lyon",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTHdQNTRZYUZObjV0d3hRRUQza2thc1Ricy1GblZzUzFGOUxybnlvbVgtMldCRkJDUGlxQlB6dTJvSS14ZzVtSVdGZndrVnNLTTJCQXNpRVlweTBsOHdicU9Qbm1Qbkw4Y1dkWG9MdnIwTTM5WW41VDBPM25yZ3pFSEZObkNNa3A0U1g4NDBvSlBISEhYb1k0YjVtTm5TUVAzTE5XMm91RmNocW1PVHdwblQzVnU3R2JRMTBaWg?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "French unions unite for nationwide strikes, piling more pressure on Macron’s government",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZEJaYWtWXzlvUUg3S0dxQ29sX2J2YzlEb1I3YUhzUjVtTVJKa0piZnNnS1B6VGJLZmZtaVFlUDA4YmpUQjl2NHFTN28xaklmbnNuWHJXMHVURGw4RkJBd0hTVmFqMkJtRVVwS09XaktkZWNsZVJYcmVnOFUwUFZvY3J3YW9vUkZuRy1kc0kyOWRGSkpJOC0zUk50TlM0NXUza1ZSZjM5cmQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Protesters join street demostrations across France on day of strike action",
+          "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living"
+        },
+        {
+          "name": "DW",
+          "title": "France braces for fresh protests as unions strike over higher wages",
+          "url": "https://www.dw.com/en/france-braces-for-fresh-protests-as-unions-strike-over-higher-wages/a-79860616?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "After Riots and Protests, French Workers Are Going on Strike",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Cristiano Ronaldo announces retirement from international football with Portugal",
+      "summary": "Cristiano Ronaldo announced his retirement from international football after a long career with Portugal's national team.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Cristiano Ronaldo retires from international football",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Portugal's Ronaldo announces international retirement",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVlZWHk4XzU4N190TEhTREdrcTJFU1R6QjZVRnp1VW9tYVN1OGc1ZUl3dkszbkFxQXN3TjhfbWpycVpIOGpYZXJST2FGRDdrUl9EbDUxeGNBeXpfZEZDT05XdHJoT25Tbkg3elc1ZF91YjFuZURRRV9GSVJSQVo0VmdDR0RucEEyaEN6VUhHWkVOY1U5by1lT0lLM2wwRVBKYU5sa3NvZVZHS1pqMEZUMFNScw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Cristiano Ronaldo announces his international retirement from Portugal",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaEVWTFRWMmRwQU1YbE5ldWpVMlh6UHVZM2g4ODZYWnhlU0IybGRnNDRsYWpUQkRtWEJ6MUR5QkE0WGxTV2VabHc0UXQxRVY0OW1yNWwzX0tGMm1NWXNCamYxelY2akFCU3hnUlk2RnpmTDdxd2loZXQyM2lybTZtQ0JjdmpQdDZlQ2ZKZzU4Zk1IS3ZBYTRETkllQ1RpQQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Cristiano Ronaldo calls time on Portugal career after 234 caps and 146 goals",
+          "url": "https://www.theguardian.com/football/2026/nov/05/cristiano-ronaldo-calls-time-on-portugal-career"
+        },
+        {
+          "name": "DW",
+          "title": "Cristiano Ronaldo announces retirement from international football",
+          "url": "https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Multiple bomb threats target flights across Europe, causing diversions",
+      "summary": "A wave of bomb threats hit passenger flights across multiple European countries, resulting in flight diversions and searches.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "New wave of bomb threats hits passenger flights across Europe",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0V3ZjRGOFpfcWJ6dm9VUXR3bGNxXzhrLXYtV29sRkR1NTc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Multiple flights in Europe diverted because of bomb threats after earlier hoaxes",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblN6SXBxQ2x2LUZZYXBQd1ZlLTc5SE9sOXZYV0JyelE0X0p5RlNFOHV2MzR5T1lTTHZORlRzWmdVQndTcjhESjhvbV84eU1IeXZsVmwwV2VNMElhbTlJVFhzMV9fRy02Z01jX2Z0X1hTbFVwV3lzVUhKUURQQkYtU3Voc2RpOHFSNHRDNXUzb2NsWVB0dHRoN19wU0dvTVd6OEhnV1VYclpqdw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Wave of Bomb Threats Target Flights All Across Europe",
+          "url": "https://www.today.com/video/wave-of-bomb-threats-target-flights-all-across-europe-272908357814"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "Several European flights receive bomb threats, some divert",
+          "url": "https://www.dw.com/en/several-european-flights-receive-bomb-threats-some-divert/a-79861216?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Elon Musk's record campaign spending fails to deliver Republican midterm victory",
+      "summary": "Despite record-breaking spending by Elon Musk on Republican campaigns, the party suffered significant losses in the midterm elections.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Musk has little to show for his record spending on Republican campaigns in US midterms",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLW1HNDhJZmxwMWdaVVZTX05ZVjhhTkRhV19Wb3RJOVhfWjdCa0MxLV9uWXZ1YWRKVUZ5bGZHN3duOTJMWGdrQ0tDRDdORGtHTlIxVWlhOXozR1J2MXBxV2JreTY4b2c3empONmg5QXl0ejFvelFlTjRSTzZZd19fSy0zT0E2T1NjWXE5Y29pdXFVQ1pYbDFrQXlwZ0ZRSkhuRS1oR2RYU2FFdDVmN1JJS2t6Yzczbk1Ydnc?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Elon Musk will face scrutiny from Democrats after midterms",
+          "url": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress"
+        },
+        {
+          "name": "NBC News",
+          "title": "Tech moguls suffer defeat as midterm results show young men swinging away from Trump",
+          "url": "https://www.nbcnews.com/video/tech-moguls-suffer-defeat-as-manosphere-swings-away-from-trump-272884805508"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Was Elon Musk the US midterms' biggest loser? – Stateside with Kai and Carter",
+          "url": "https://www.theguardian.com/us-news/video/2026/nov/05/was-elon-musk-the-us-midterms-biggest-loser-stateside-with-kai-and-carter"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Elon Musk’s Very Bad Night",
+          "url": "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Hong Kong activist Joshua Wong sentenced to 10 additional years in prison",
+      "summary": "Hong Kong pro-democracy activist Joshua Wong received an additional 10-year prison sentence for his activism.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Hong Kong activist Joshua Wong sentenced to 10 more years in prison",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVJKOWdMTUYyUUxqRVNtLXBGc2hjTTYwa3NQa0FNVXpKb3dnQzFySkJIY2I1MkhmZ0pscjE5SlFaQjEwZUROUjA2TlJlT1RVSjdYVkVycHZXcndMdW5Ic2Jtc1R3VW8wbWdvMm9BR2haOGZQblF6MjloYVFkU0t0ZU1tUTFkb1lVdm1QTl8tY3FFN2tBdGRMN3p6RUlLQ2NyZ184ejJJelYzVzdiNVVV?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+          "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘I worry people will forget Hong Kong’: Joshua Wong laments city’s fate from inside maximum security prison",
+          "url": "https://www.theguardian.com/world/2026/nov/05/joshua-wong-hong-kong-prison-letters-sentenced-10-years"
+        },
+        {
+          "name": "DW",
+          "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 more years",
+          "url": "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Trump's Iran war blamed for Republican midterm election losses",
+      "summary": "Republican losses in the midterm elections were attributed to Trump's military involvement in Iran and its political consequences.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Vance walks Trump tightrope after blaming Iran war for election defeat",
+          "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemZtNHA3MndVd0YwZEZjYVZSdXA5NVpnXzhpUnY5Mkp5U2lBTnBtNEV6dVB0LUJZVXBDV2lUNnNHbTczNWFVVEtXUVhFdlUxdm5sOWl6U0JFMjhGXzgzQ19GNXdrNUVJMlB4czlkenlNOUctMGllMmFLRTJrVXl0T1hoQ1ZUcmI4N0xxU18wTEhuQUNHYm5mNFhNc0pVRjJqY0s0clotUW42czd0TTRCNw?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Midterm Election Losses Complicate Trump’s Options on Iran War",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Trump's Washington arch poised for federal approval despite legal challenges",
+      "summary": "A proposed arch monument in Washington DC is on track for federal approval despite ongoing legal efforts to block its construction.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Trump’s Washington arch poised for approval as judge weighs bid to block construction",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlhvZGtKal8wM0d0dVZKaENBa2tkS1VZY0RTV1A3TzNkSTFCOU9aMWFaQ0JfWG9xVDMyRExlc0tYRXVsZ3RBbllwNHQ0a2FGOXhhNUhobzUwOWw5Mkh3bGYzZWtpWkFxMVNhRzhFMFk3QzdyNkI1VXcyMDgwaHJfS2lNZFZpRTM3VXZ5cV9XRVVpVzB2eW1FR1o4WDFZTWNCUFlzbVQwX09zdU1BdExpcjhTWDdqeGtXSXh3?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Triumphal Arch Set to Win Final Approval Despite Court Challenges",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Stock markets surge on midterm election results and falling oil prices",
+      "summary": "Stock indexes, particularly the Dow Jones, experienced significant gains following the midterm elections and declining oil prices.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "S&P 500 futures steady after midterm rally; Nasdaq lags on chip weakness",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObTdYYmZaZmRqRUt0TDhBbERraDF2VlpSTDJ4M1NyZ2dRRkNUUVJ0OVFHdzJyc01uNDZOV2YzZFprbU90aUNzTEtYTEdNWU5Jc19VVVlHc24tNkZ2VFhqOWg3b0swVDFnY2hHaGxuNVZXVkE5S09xZXV2eGRQb1kwdWFEZWxpeGMybDZRcGtyWW52Q1JfaHY4MVo1YmJfRW9KZmNsdVJqS24zeGRZVUpaV3VB?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Stocks surge, and the Dow soars 1,500 points as oil prices tumble following the US midterm elections",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSEtETVdDVnpDVFhqVmpJNTdBUURHcFg0YkhsOVdwcFo2YzNqSTl5Q18zUXVZV1Vrck8tLTFtcEYtOEFOX2hMMUo1UXJyMDRPQWp2Qld4Yk9iSWszUEtuMkc0dUo4d003eTN5V0VnRmEwVG9VUjBiMGVxVlc3SWg2TC1YdGFmb0FMMlFuVlVJOE1BalE?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Bob Dylan meets Pope Leo at the Vatican",
+      "summary": "Legendary musician Bob Dylan visited the Vatican and met with Pope Leo in a rare appearance.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Bob Dylan comes knockin’ on pope’s door as Leo welcomes legend to Vatican",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2J0LXl6djVuN2xHa2VndjNMcmZQTTdzNDRRb1RIVzU3NHpkMWxHcWNxUWxaUHctOHlQbFM0VEFDS3ZtZE9xcFBid0pDalZ5dlpWb0Q4Z21rOFRrb2V1VHZwNTlIVE9sUUx0bGQwam9YZHdXa1pLckNfaG5TZHd0ejVaVGtxcHhvMFhfVWFfdw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+          "url": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
