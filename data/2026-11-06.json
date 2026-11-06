@@ -1,0 +1,276 @@
+{
+  "date": "2026-11-06",
+  "crawled_at": "2026-11-06T22:05:24+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Global stocks tumble as AI spending fears grip markets",
+      "summary": "Stock markets worldwide experienced significant declines following concerns about artificial intelligence spending and investment returns after the midterm elections.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Nasdaq futures rise after steep AI selloff as chip stocks stabilize",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQang5czlMS1c0LVRiTWdNdXItcDlKcTgyOXplSVVGRHljMGVrVG1KVGJTclR0TmtjWjFob0t1QWh6OTdkNzltaDJhTi1fdUdkM2tOb01JaVVlaVRWcWVTdkZFbmdBYlgxY2ktWVh6eFdZRVczekVTdFRCSWtOSzBGVnNCWHpFNFFXWFE2WDVQUjFCa19tbUhzNzdlNksyNFBqek4tcXdrcjVIVTQxMkE?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Asian shares skid after AI worries send Wall Street tumbling",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUlicGFDcFJmWW5nQnZ3R2wzY25vSzFIczhmanhycWtxaDVsOGhrSW9sUkFoN29MaTJKX1pKbmEwSl8wVVZhX1RpZ0JFTUMycHQwSXo1ejh0YVpSRkJkdkxZTVBUQ2dySDFFYlhBSEhZTFJpeElqZXU5MEJQQURwb0RHZU16YV8tczNyUVo0NF8?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Global market rout deepens after midterms intensify AI fears",
+          "url": "https://www.nbcnews.com/business/markets/global-markets-tech-stocks-ai-midterms-democrats-asia-europe-rcna607794"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live",
+          "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets",
+          "url": "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread",
+          "url": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Judge blocks Trump's arch project after federal approval",
+      "summary": "A federal judge issued a court order halting construction on Trump's proposed monumental arch in the Washington D.C. area shortly after it received federal approval.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Federal judge orders 14-day delay on any work beginning on Trump’s monumental arch",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHlScU9rQWNvSC1DY3NqTjlfSmV0ZTZNNFJ6UkhodWtmQVljUDFtY1NGODBoanhvcDcyNm1RbjdVN2xrTnMzY3NtVkZpenRxM0I2RXNxTlVlWVBnMTZ1aUFQMW9YNkNYcmUwUUNZWlZESEMxZVVEVzdLTU5aTnpQZlplcEJnSlZpRFRoSENTaDkwcnVmUWh5bklwcU01UF9HNko4?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+          "url": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon"
+        },
+        {
+          "name": "NBC News",
+          "title": "Judge blocks construction on Trump’s D.C.-area arch after commission’s approval",
+          "url": "https://www.nbcnews.com/politics/trump-administration/trump-triumphal-arch-approval-opposition-asks-judge-to-block-rcna607642"
+        },
+        {
+          "name": "DW",
+          "title": "US judge temporarily blocks Trump's arch project after panel approval",
+          "url": "https://www.dw.com/en/us-judge-temporarily-blocks-trump-s-arch-project-after-panel-approval/a-79871690?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Europe targeted by wave of bomb threats affecting airlines",
+      "summary": "Multiple bomb threats were made against European airlines and media outlets across several incidents within days, forcing flight diversions and evacuations.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Some media outlets evacuated after bomb threats",
+          "url": "https://www.bbc.co.uk/news/articles/cme8rr30n55ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Wave of bomb threats afflict European flights for third time this week",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1hGX3FNRUVaMDhGcnI2WkxBSk53bDZLT1A3RDZvZFktR0wyZy05Ym8xc2hsTFlQMDJzT3lHeHZkTl9UMkttb3RocE9KSDB6OGNmNG9iNFY0aFdVelhFeXREVWJ1OUpUNG1zWEFMUnZueUVMdGhXNVVuUFBCY2lhMm1EY0pxUEsweDVveC11eF9ZRmwwSEdVUy1Jbndzdi1GWXd3M282NHdpdkdqeU83T1FRcmtXZ2RGSDRFN2pKRzg?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "European air traffic targeted by new threats in at least 3 incidents",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWZQMnRNaU1EcUtVVmRJSFpGOE5qZk5vZFE0eWNPVXFWcVRnMnRvdE1jeDBUZkFCUGlHVFhtQndfVVg5RXB3NWlBWjlqV1BTX0JoVVdTSElfQ0l0X3RselczRU5GQURCMzFjR2dOQ2ljak1QM1AxdDNaWk1yUEdJcjBETlhReDJsQzdHUkYtOE0wUE1s?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "European skies on high alert as more airlines receive bomb threats – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live"
+        },
+        {
+          "name": "DW",
+          "title": "New bomb threats target Irish media, more flights",
+          "url": "https://www.dw.com/en/new-bomb-threats-target-irish-media-more-flights/a-79875884?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Pope Leo begins 12-day Latin America tour after lung surgery",
+      "summary": "Pope Leo embarked on a major tour of South America, his first significant journey following recent lung surgery.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Pope Leo starts South America 'homecoming' tour a month after lung surgery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONl90NmlUNWYxUFhzeDE3VV9vSW5HckhqVjBfNHQtX19GRWdyUFFtOWVtU0tXSnRfdkdDOVlTS0VManRpSXYyejRtcXgyVFNfZHZ3SDdNU0ZOOHZxcUZwWVpqVGlOelZLNjVudVAyazhFTXVGTjNOVkVMU3FHWmZRTXFWdVRWX1pPYURTa24zUDJldGJiRnlINkE1anNkWjFRZVpkcUhXdk5NRjN4OGttYndibmlVRUV3Ni0yazJ3?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip"
+        },
+        {
+          "name": "DW",
+          "title": "Pope Leo sets off on 12-day South America tour",
+          "url": "https://www.dw.com/en/pope-leo-sets-off-on-12-day-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
+          "url": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Russell Brand convicted of rape; judge signals prison sentence",
+      "summary": "Comedian and actor Russell Brand was found guilty of rape, with the judge indicating he will receive a prison term, and police urged potential additional victims to come forward.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Met chief says he wouldn't be surprised if more allegations made about Brand after rape conviction",
+          "url": "https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Russell Brand is convicted of rape, and judge says he’ll get a prison term",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHdmLUw5N2gyTG9jUURDdEtNLVVJRmlOcnhEWEJ2OWJrNUQxT1hWWlZFZjNGZWI0LUt5RzVrTzh1X1FGZ29iTGFQWm4yTTR4bHVPSTQ1amxQY1FHdjZuUTRjQmNTNHhaUzEzTFQteXc0YnpETGtzX1pBVzJ6bzlUZTRIQUpPdWVEZE1QRVhBVVg4RFd4Z2VDeVZ4RVJkUWZL?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Met police chief urges potential victims of Russell Brand to come forward",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/06/met-police-chief-potential-victims-russell-brand-come-forward"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Bus crash in eastern France kills at least two people",
+      "summary": "A bus crash in eastern France resulted in multiple deaths and injuries, with authorities confirming at least two fatalities.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Two dead after bus crashes in France, officials say",
+          "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "At least two children killed in bus crash in eastern France, authorities say",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDM4YlUwUzVPa0VhbS1wVTlvVXpPbWZ5Y1EwUUFfSG1Cbk5xR1NSeTNLZnhNLU1Lekk0eDVuaWtCQndUSTd0bDRELWNXdGJJYllrYmJUYkRqMkl4b0VwWVRCWF9Tc2doN3lIRm42eV9YQlBha3JfNHByNDFLb1RxV3RkdkZyRFZJRnVsc0VybnBGUzdJRUw5LXVMMl9zMGNrb05EeWFXVm5KYnVnNGYzMTNQd3oxcGJDZVlVUlFDTlJSeHAtUGc?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "French bus carrying school children crashes, killing 2",
+          "url": "https://www.dw.com/en/french-bus-carrying-school-children-crashes-killing-2/a-79873221?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "California Governor Newsom commutes all death row sentences",
+      "summary": "California Governor Gavin Newsom announced he will commute all death sentences in the state to life imprisonment without parole.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "California Gov. Newsom says he will commute all death sentences in state to life without parole",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXM0d1k2ajhHSTBsWmVGM1daSlByM2dqRmttVU9uZjZJVF9fSm1wRTh5TmRFeEhDdlVDREdVcWlpMmIyWElvUm03Tnc5UkZIV2xlUGh0YmEzTTFmb1Etal8xQzB4OW43empXWVJXQVNTRnJkejN0VFc4MGFKRUN5YXdxdlFjbVg4cFFSaHg0T3NMTy1NclB5NUVpR1QwYlJSYlllLWluZmM?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "California Governor commutes all death sentences",
+          "url": "https://www.nbcnews.com/nightly-news/video/california-governor-commutes-all-death-sentences-272966213517"
+        },
+        {
+          "name": "DW",
+          "title": "Gavin Newsom commutes sentences of all death row inmates in California",
+          "url": "https://www.dw.com/en/gavin-newsom-commutes-sentences-of-all-death-row-inmates-in-california/a-79870988?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Former Malaysian PM Najib's house arrest transfer halted",
+      "summary": "Malaysia's attorney general intervened to halt the transfer of former Prime Minister Najib to house arrest, keeping him in prison.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Malaysia attorney general intervenes to halt ex-PM Najib's house arrest transfer",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMU9QWnpxNEFiTkQ5dlYwYXVaVWdhZHZFSUNpT0dCQ0xpc3FLV0lzb2VnOGR5SEhoZjYzSWpqcm13UDlaaURCY2lkbVBWcDN6X3k5TDJGd2haR3Q5OXExWWpYLUN1STNXOFRrV1h1WlcyanFiZGdCbl9BaGNuaDVMSzJpN0wtUzZOSGJEb0J2bHV3X3dOR19JTTBNVXdPdy1MUjlwQjR3MS1Hd1oxYkQ2Vm83QmFPMDBBS21FQ3QzbmFtcDl2dlM0MDk3OA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Former Malaysian leader Najib stays in prison after house arrest is put on hold",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMm5tanF0cml5SUE3cVJuUE9ZTG10Tk1YNUdSS1pSRUNGQUVWMVpQcHE0SGdWVWxkUW1mM244amhndy11blJnZ3Nzb055bmJ0Y0I2dnpqaUJDUzFmRXdkcFBLU0hOTnVKck95RWZVNzNQaHZGWHFJWlpoRjF3YjMySmlTQURzeXFYMUQ5U1dFOEY4eWRnZEZYLTdXWDJpeEFfOEE?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Malaysia: Ex-leader Najib seeks to leave prison for house arrest",
+          "url": "https://www.dw.com/en/malaysia-ex-leader-najib-seeks-to-leave-prison-for-house-arrest/a-79872493?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Nithya Raman defeats Los Angeles Mayor Karen Bass in election",
+      "summary": "Democratic socialist Nithya Raman won the Los Angeles mayoral election, ousting embattled incumbent Mayor Karen Bass.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Democratic socialist Nithya Raman ousts embattled Los Angeles Mayor Karen Bass",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYjhIMWFLekdpYW92dVlfVkVsU0RuMUVLVURERkh2eVhqdDBPSEowZVN4VTNfeGJzNjFZenNTQTdPY09veHJILVYybk9fRFlPMmZrbk9YVWF0RGM0YkxBVnAycHFPMFZMc3JHaU5ReGhQNU9MNTlkWXN1OG44V3FJRllKdVZBeEhEMmFVdWwyZDVVQ1pa?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Who is Nithya Raman, the democratic socialist who will be Los Angeles’s next mayor?",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/who-is-nithya-raman-los-angeles-mayor"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Cricketer banned two years in 'Clicky Ponting' cheating scandal",
+      "summary": "A cricketer involved in a cheating scandal using audio cues was banned from the sport for two years.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "'Clicky Ponting' cheating scandal cricketer banned from sport for two years",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘Clicky Ponting’ cheating scandal cricketer banned and club relegated",
+          "url": "https://www.theguardian.com/sport/2026/nov/06/clicky-ponting-cheating-scandal-cricketer-brian-devine-banned-club-relegated"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
