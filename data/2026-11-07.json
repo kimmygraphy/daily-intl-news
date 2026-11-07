@@ -1,0 +1,281 @@
+{
+  "date": "2026-11-07",
+  "crawled_at": "2026-11-07T22:05:19+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Stephen Miller named Trump's White House chief of staff",
+      "summary": "Stephen Miller replaces Susie Wiles as Donald Trump's White House chief of staff following the Republican midterm defeat.",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
+          "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW9VOFJHVC05elRKeHJYaUVfalhSNTJYS0dhNkJobGVIaGU1ZVlLaUNlakI2SURhTHNqc2c2ODFYcWpVaE5uUXpoNEI1d1h3MjFxbTlqNHQwVVJmNEFyUl9uRWktTWdRMGs1Z05GUXRxU2FwVC0wV19JSExCbi1DM1pPNHZVUzFZcVB3ak93TWM4MUk?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Stephen Miller replaces Susie Wiles as Trump's White House chief of staff after GOP's midterm defeat",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHdReU5NTkhUSUdyRGlEeFF3YVVOaW9PMjdJOUtSd2YwdEpzUUM5WmhtRlJ1NFNrekdLZjM3Y0RSeTIwQ0xwQW5xaHJhUnFrSlhHZm1HZmdzcjFlZzcydHVhV3dLQ1U4X21vakg3a01ONi1VREdFc1pJMVB2S3JXVEN4clJyR182NnBBSG9WcWQtQXNpSVQzQw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff"
+        },
+        {
+          "name": "NBC News",
+          "title": "Stephen Miller named as new White House chief of staff",
+          "url": "https://www.nbcnews.com/nightly-news/video/stephen-miller-named-as-new-white-house-chief-of-staff-273042501821"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
+          "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react"
+        },
+        {
+          "name": "DW",
+          "title": "Stephen Miller named by Trump as new White House chief of staff",
+          "url": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda",
+          "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Meghan Markle's father arrested over child sexual abuse material",
+      "summary": "Thomas Markle, father of Meghan Markle, was arrested and charged with possessing child sexual abuse material.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Thomas Markle, father of Meghan, charged with possession of child sexual abuse photos",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3ZsOHM5bmJFSVZCX3dsS3g1cUIxWEE5SHprTWZubEpyNW1xajlvdnBYZnpvZGlqVnhBRF96NFBKZEhDTXpTNVE0VzVLbGd0dVVFcmVCeUxQenRvdlpEUTA3Q2hYZ2EwcmJRdkppV1JUcE1OQU5vLTU4MFdDNzJyTVFyOHYzZ3BUU05iQVJscG12UzByNDN0WHlKb2Q?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Meghan's estranged father arrested and charged with possessing child sexual abuse materials",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNHpGTGhqcHRFbVlLRWRncDVhUFJnU25fSGFTclFBam5RNWpJSDBxanJTRkxGVmFaWjU3WFRXaHJQaldNU2ZURXBuRzRXLUhYUmdrR083a3FaaTJEdG84QUVFMzdxNVJ5NmVuYkstV1AwVVg2YmREMzAwRFEzYmlLODhzbGUwZHpTV2YwVzdNekFGZjk1MnEyMXhCTDFaVjg?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Meghan Markle’s estranged father arrested and charged",
+          "url": "https://www.nbcnews.com/nightly-news/video/meghan-markle-s-estranged-father-arrested-and-charged-273045061694"
+        },
+        {
+          "name": "DW",
+          "title": "Meghan Markle's father arrested in US over child sex abuse material",
+          "url": "https://www.dw.com/en/meghan-markle-s-father-arrested-in-us-over-child-sex-abuse-material/a-79879676?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Paraguay president impeached and placed under house arrest",
+      "summary": "Paraguay's President Santiago Peña was impeached by the Senate and placed under house arrest following a banking crisis.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Paraguay's president impeached after collapse of bank",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Paraguay ex-president Peña placed under house arrest after impeachment",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjV6S0FNdm9aN3JPcUdrX0p3Y3pOZFlRZTVRUzlwTXpwWmFDenpqam51UFBrY2xjTDdCVUlDQ3B6NHdoMjNWWlgtU0N4cWhHUGluUnljcE1lSFZhUHpIVExodGs5OU42WUxfSHBqa0ZnLVk2SVQ0OGhkd2tsWUlfb1p2cEI4dl9yQU5jLWJGSnNZcEdXWXhDakVFWlZCaExOWnZvNUdVZUVhVTlNaHluYndwUVVqc0JOR1E?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke",
+          "url": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena"
+        },
+        {
+          "name": "DW",
+          "title": "Paraguay: President Santiago Pena under house arrest over bank crisis",
+          "url": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Pope begins South American tour after cancer surgery",
+      "summary": "Pope Leo XIV arrived in Uruguay to begin a multi-country South American tour less than a month after lung surgery.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Pope in 'pretty good health' as he starts Latin America tour",
+          "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Pope Leo XIV arrives in Uruguay at start of South American tour less than a month after lung surgery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0ZpbFlMQ1c0aUdqYzRvblJSaWtBV2JYeHdsT09uM2JzUlVEMUZ5XzAzUE1iNklJN0hrWnczZzJ0M1ItVl9zR2NwNHRjX1RkV21jdE1fUEtPZDJtSFFTWGczT0hmR1dwYUZqVmYtd0NtTHlHUkZlT2JrZDBqTkIxd3ZPRnhwMks0ZENNRldhQnZ1ekdURUpkdXpTbGI2bnM?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery"
+        },
+        {
+          "name": "DW",
+          "title": "Pope Leo arrives in Uruguay at start of South America tour",
+          "url": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Russia strikes Ukrainian power infrastructure around Kyiv",
+      "summary": "Russia launched fresh airstrikes targeting power facilities and infrastructure around Kyiv, damaging a major bridge.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Russia says it hit targets in and around Kyiv in massive overnight strike",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkpxUWQ1cUFXSEJhbTI5OFNqVGZNOUFIb3ZoY3lZWmdEUHNYMHYwWXowdnNQZ1dlcWJ3dDF5engyV0VaaG1XUEVia2oyTjNJTEgwYUI3VHhCaml6RTdZMEQwbm9YZ1BTcUZjekdhOHhwQ2gwcFI5YkpJcTV2YUQ3WjVWampRdS1SZk5JQXA0WW04OV9ZMzNQcklSTDhIS2IxT3I4OE14VkRBN0huQzhmdktR?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+          "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "New Zealand election results remain too close to call",
+      "summary": "New Zealand's election with over 95% of votes counted shows National and Labour in a neck-and-neck race.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Conservative bloc takes a slim lead in New Zealand election that’s still too close to call",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVZ6SS13ZlhVYVFPcXFkeXljMDY3M1dXTWNfZHVGb3Y4NXU4ZWw3SU5HSXRlMkRJNVUzcWVxRXhOZUVmeTNHblM3Wnd3MzYyNExaMWNKTXgxWWowb0VmTVFwT05CajhMV0d5ZGE5ZGtSV3ZZdXlidUc4dFpveG9XQnBldFQ2c2syWHY5MXZWaUd5Q0VHRmlmM3ZiYmVtTjlUUkJXR3hLckRpcjhCUFE?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
+          "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls"
+        },
+        {
+          "name": "DW",
+          "title": "New Zealand election too close to call with over 95% of votes counted",
+          "url": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Knicks defend Taylor Swift against 'fake fan' claims",
+      "summary": "The New York Knicks defended Taylor Swift after two players called her the 'fakest' celebrity fan.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Knicks defend Taylor Swift after players name her 'fakest celebrity fan'",
+          "url": "https://www.bbc.co.uk/news/articles/c6rmyymw1zz1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NBC News",
+          "title": "Taylor Swift is the ‘fakest’ celeb Knicks fan, 2 players say; team rushes to her defense",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/taylor-swift-fakest-celeb-knicks-fan-players-say-team-rushes-defense-rcna607909"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Bad blood? Knicks defend Taylor Swift after players accuse her of being ‘fake fan’",
+          "url": "https://www.theguardian.com/sport/2026/nov/06/taylor-swift-knicks-tyler-kolek-miles-mcbride-fake-fan"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Tesla Cybertruck production to wind down after string of problems",
+      "summary": "Tesla is winding down production of the Cybertruck after years of hype due to cracked windows, delays, and recalls.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Tesla Cybertruck's bumpy run: cracked windows, long delays and 11 recalls",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlZoWnUxVlNKWGwzMk1oMUUyeEFfdFh4ek1IZWQ0d3R1SFRCUTZPNnhaMDVILTU3VkNrcWxDNWlXNkdNVEZXYW8wY1JDZTBHTEJYWW1VMElFX1gzdDVCUXpJUm9wVUF0UmNlWXJTNV9mNmpjejJMN2JfOE55WkowQ2Q3aDVlNUlmQ0FzT1Iwal83VWVSaTZMNm92ZEVJM3J5ZTF5VEszR1ZCWndXMEk0V3J2WDYydElnUzRaZnVSR3c1TWE2TkZjUExLNDg?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Tesla’s Cybertruck heads for an exit after years of hype and division",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkdNclU1NURkXzBzcmRNRDZKSDdGaDZTdC1aSThJc09TM2pPcEJTZktIQllOV1ZrX0N6QXk4eEhHR0prbE03QlJjS28wMWp2VVYzMVhUeTlKYzBuRWtiazFEaThCNUhLNUQzUG9rb0xPaEQ1bF9KcFo4dzQ0a2FxSWNEM2JYWEkwQTRLQ2ZCSkk3c2luaWhqUERaZUhkLUVsdFpaQlFR?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Tesla to 'wind down' production of flop Cybertruck",
+          "url": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "US jobs report shows continued employment growth amid inflation",
+      "summary": "The US continues to generate jobs, but inflation is eroding spending power for millions of Americans.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Four things to note from Friday's US jobs report",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcl9IZFVuS00zSjQyMTVpYjM4TldkamZJUDF5LWlKWkQ3NFE4VWtXbmFrVVhORkdKckRRcXU4cU5HQW5HQkF6NDNEYXJoXzR5eEFGV25aS1o4ZUlQQkwwRHV5M2ZSTVVTZG0zZnN2VUdyN1UwcnhtUC1HeERRQTBZVGlXNVhUUWUtWmFxWg?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "US continues to generate jobs, yet inflation is eroding the spending power of millions of Americans",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdC02VzNDWTRMSy1CbmNhLWl2akxnTjZDNldNZW9IUC00ZTJGWWxyZEljUW5ZZHRVZEdHS2lsR3p1VkRod19USGJhR1N0b0lvaDBaZXNhazNaZVFOMXZRT21kQXBHX2QxWW43TkJrVlhOTzV5V21vZVRwQl9oZlR1U1BXSEh4S1ZjQVczMHNuc1F3UFIyaUliRnJqTFRMaEpTSEpZ?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Australian cricket team knew about sandpaper ball tampering",
+      "summary": "Australia player Khawaja revealed the entire team knew about the sandpaper ball tampering plot.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Whole Australia team knew of sandpaper use - Khawaja",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘It was all of us’: Khawaja says entire Australia team knew about sandpaper ball tampering plot",
+          "url": "https://www.theguardian.com/sport/2026/nov/07/usman-khawaja-australia-cricket-team-sandpaper-ball-tampering-plot"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
