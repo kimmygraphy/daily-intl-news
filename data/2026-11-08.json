@@ -1,0 +1,286 @@
+{
+  "date": "2026-11-08",
+  "crawled_at": "2026-11-08T22:05:18+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Dana White offered White House press secretary role by Trump",
+      "summary": "UFC chief Dana White said he will meet with Trump on Monday to discuss an offer to become White House press secretary.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Trump asks UFC boss to be White House press secretary: 'Dana, please take the job!'",
+          "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Trump says he wants UFC chief Dana White for White House press secretary",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWlGRlZPRzhRc1dTV0p6YVhZdFFnR0hjYWZ3NUN1N0FQdkp3RllrU0NoNWtnSkd0eXBWLU9uSjBHR1drSUdyZ3VXUDV2MEpyMGMyOUxVdkRDdE1Ja3gyNkR3QXdlRHd1b3BOQ1NiQkxET0cwRFdRUG5fNzZreV9pU2FRM2FsUlFYNERPdzVxWTFaMnZGMGJCcl9NMU8tZ1hWbGJWQkNFbnVwSjFBcnBfT2FZSHJfQQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2FyWVhVOHdId05JN1ZCTzFidHJyRktaVjg5NkM2WVV2ZFlrLWFrLXlWSHFkQlZ6a1BUSWV2Zzk4cWlmTHdTOFNWc3FpenFDYVpkYnQ1ZXYtdWdLRlFTVldySXU2c0VuTlhvWFZDVDRZenIzOGtNOUdSZWplX3FDaFdjdmpsa2xtLTQtbHFpQ3I4OGFEU1IwRkhsS0Y?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+          "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary"
+        },
+        {
+          "name": "NBC News",
+          "title": "UFC’s Dana White says he will meet Trump on Monday to discuss press secretary offer",
+          "url": "https://www.nbcnews.com/politics/white-house/trump-offers-press-secretary-job-ufc-ceo-dana-white-rcna608039"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
+          "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary"
+        },
+        {
+          "name": "DW",
+          "title": "Trump offers White House press secretary role to Dana White",
+          "url": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Israeli president tasks Eisenkot with forming government",
+      "summary": "Israel's president picked opposition leader Gadi Eisenkot to attempt forming a government, in a setback for Netanyahu.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2hLdHByWTZwTzZfZ1oxdmpTcXltazRXS3hxcEczRm1taGhHd0JJSW9KVEdmMDlUMjRsai02SzdkbkNwWFRwZnBXelM5TldhSG10anV2dE1tSGVXbFRERHdBSWI3bkN3bC1pTDkySGZEakxPUWd0X2xsa011SWxYcFFR?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+          "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+          "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+        },
+        {
+          "name": "DW",
+          "title": "Israeli president tasks Gadi Eisenkot with forming government",
+          "url": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+          "url": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Gunman kills 6 in Krakow mass shooting with far-right views",
+      "summary": "A gunman opened fire in Krakow's main market square, killing 6 people, with authorities saying the attack was motivated by ultranationalistic or far-right views.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Poland mourns victims of Krakow mass shooting as security fears grow",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjUxVkw1TWRaU0FNWjdiZlUyUk9KcmFRMjlobjltclhvd2xEMFZic2QyLVJ1U2M4WEtOVWJ0S3J6WHdkT19pcUJwQml5Z3UyLV9PalUtQWV5X1J0dzJVMnFyc2pDQllBWTNKNTh2dVNkUVFMQWZ0OWlnUFp0Tm5LZmt0YXItSUprX09QVE93dElVd082LXpyck04QU0xemMySklEV0xSVDZRcWx5LVdUWA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Polish gunman who killed 6 people in Krakow has ‘ultranationalistic’ views, authorities say",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3JpbnhmUWhOUkNrNkUwYVdXYkk1cDFHbEVsVGlsOElHU1dkOUNWa3JVLUdsWkdlQ1A1aWlqbkRQMmVxMk1iRko4Vng5cWdKWTA2cVdBR0xaVUVWU3pQbjJveEFwbzhmTktUX0dyQWFxX3R4eU9zbFFaWTBBM3FRaDE1TW1pZFJHUlBJbVpGMHZCVnpZVV9FUGVn?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, authorities say",
+          "url": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15"
+        },
+        {
+          "name": "NBC News",
+          "title": "6 killed, 15 injured in shooting at main market square of Krakow, Poland",
+          "url": "https://www.nbcnews.com/nightly-news/video/6-killed-15-injured-in-shooting-at-main-market-square-of-krakow-poland-273079365572"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
+          "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation"
+        },
+        {
+          "name": "DW",
+          "title": "Poland begins two days of mourning over Krakow shooting",
+          "url": "https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Pope Francis visits South America, meets with Argentina's Milei",
+      "summary": "Pope Francis is touring South America, making stops in Uruguay and Argentina where tensions loom over President Milei's austerity policies.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "With an ode to mate tea, pope urges faithful in Uruguay to build bridges of fraternity and faith",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONEJXOWR4cEZFc2ZCSUozaVVxQ1ZTNGFqc2taVW96VVNXRkkwR2Z1ZFpEYU9wbWZjSGRzMTY5cV9EOElweEl0T0tVY1dfX0JoMEF0SWJNUnN2aF95S3hGbm5yWXpPQW8zZnBrNmJVMUpRYkxIYVFaVXJZRnM5bGtiQ0xMUGlhVlZCWVRJZmY3aEk5WndxUlhhN2s5T2U?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+          "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei"
+        },
+        {
+          "name": "DW",
+          "title": "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay",
+          "url": "https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Houthis say airstrikes kill 33 near Yemen's capital Sanaa",
+      "summary": "Airstrikes near Yemen's capital killed more than 30 people, according to the Houthi-run health ministry.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Airstrikes kill more than 2 dozen people near Yemen’s capital, Houthis say",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2phS1lmT1dSeWRnSGpVanhOVE5iNGVSbldWSTFDMjdLVFAxSW9FcWNTUkVYX1ppMXJ1aFRLYlF2NDY3STIwZGdTaE9lOEtOOEU3ZFZKd1RXbXhhWDVsZ1ZiRGRZU0pEdkx2LXZHUXBKeGVWOEFrT3RMaUx6UUZnZk1tSG13Tzh6VWlOT01tVQ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Yemen: 33 killed in strike near Sanaa, Houthis say",
+          "url": "https://www.dw.com/en/yemen-33-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Paraguay's ex-president Peña charged in bank collapse scandal",
+      "summary": "Paraguay's ousted president was charged with crimes linked to the collapse of a major bank that left millions broke.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Judge orders Paraguay's ex-president Peña held before trial",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Paraguay’s ousted president charged with crimes linked to collapse of major bank",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaGdEQkFnWDY3dUY3dkxiZlhQQkxPRTU1UWRVSWJxckJCS3dHMEthWXU1ek1oVFB3TnVYQVI5cEF2dWUxQjVYN2o0VWpGVVNNQ0VRS19LbDlYYk5PWmkyYUt2dXJQdmV6SG83Z0RXSW9QcERyeENTVkVDWFA0aEV2NGhoY1Njc0RGb1dPcnFnb2VucFNtLTZZTw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke",
+          "url": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "US military fires on commercial vessel in Gulf of Oman",
+      "summary": "The US military said it fired on and disabled a commercial cargo vessel in the Gulf of Oman after it attempted to breach a naval blockade.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "US military says it disabled cargo vessel in Gulf of Oman",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3Z5Um5vZGVEQndERDNUZDljektyalQxMjB1SVk0SkNJOWRSSWJRLVBUc0czRzIxMWtFSEs0WnFoVk81XzN6V0xKOGZkNkUzYXFiM2wwdGE2cks3Uk05RlRpQk92SWp3REllTGF4cUVFV0IyelBXbFJNRzVJem5DRkVCLWRKQ0tPQTNVWi04NU5yRlJEeE1MUmVreHVHQ2RrYTZrUHpuLUs?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "US military says it fired on commercial vessel in Gulf of Oman after it attempted to breach blockade",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeW5HVVl6cDF0V1htbGY0eU9zSmtxbjdEOW9ETW02b0JLVlJwSW1oODJBSDRFOXBrMXpfRElCa0NXeHdrUTlUYlo2MmZadHFZellGd2dkUFNyWG5BNy1INUhwa3hGRDRMX3hIcFpFMmRzdEtGRjJSUXZJTXZ1OHV5QjlSTUJvOW9mTURuX0wwVDRyQkRyR2tZaDhCRjZZTHpnZmFoSnpHRDZ5R01r?oc=5"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "New Zealand election results leave weeks wait for government formation",
+      "summary": "New Zealand's close election results require a weeks-long wait for coalition negotiations to form a new government.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Who is Qiulae Wong, the outsider who could decide New Zealand's next government?",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSGgxdHhOeWFyaXMxUGlZYkJXV1pLcXY0VmtIcGM5MXlUMnZWSnJ5YXdSaklLbjBoclNxQ0hLUl9xb0pvaG1FR3JfNHltc1VFa0tHYUhWSUh4Vjk0UERoX0FtSEZuX2toWjhPeC1Gc3hZY21FRDduOWJ6R3I5OHI2YzhPaVdrWmpoNU1XRU1vMVBaMDJ1MHl5aXFPSXU1NE13VnNOZGhhWUNxMmJzV2FQc2NSNWFfVlRaZnBoeHU3WFhOUzZyS3Vn?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Who won New Zealand’s photo-finish election and why special votes could change everything",
+          "url": "https://www.theguardian.com/world/2026/nov/08/nz-election-who-won-results-explained-overhang-special-votes-new-zealand"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Australia defeats Samoa to reach Rugby League World Cup final",
+      "summary": "Australia crushed Samoa to advance to the Rugby League World Cup final, with Reece Walsh scoring a hat-trick.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Walsh-inspired Australia crush irate Samoa to reach World Cup final",
+          "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cqd0914z959do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Reece Walsh hat-trick drives Australia past Samoa and into Rugby League World Cup final",
+          "url": "https://www.theguardian.com/sport/2026/nov/08/australia-kangaroos-samoa-rugby-league-world-cup-mens-semi-final-match-report"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Berkshire Hathaway accelerates stock buybacks despite profit decline",
+      "summary": "Berkshire Hathaway bought back $9.6 billion of its stock while reporting lower profits.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Berkshire Hathaway speeds up stock buybacks, though profit falls",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa29SbTRWcFpWdFpiekRVRjRvNmZjM1BnNzhOeVY3ajB5S25PaGgxVFAyTTItcjRDZkRmcHROSkJIZ3lNdXZkaGp0R2hOZE51eHBzR1U3MXlFRXhGOUhzV1pJR0I2RWtUZnRrQU1MVXZaSm1haDUtTHo3NEJvNGJhLU1rM2N4a240NWp2VFh5Vkd5LW1DOTd6emN0S1QyengzS1ZjdE04LVluRGppX19oSkxtVktEcDdoWXVIVk93?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Berkshire Hathaway buys back $9.6 billion of its own stock but its profits declined",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONm1sSktDYTlXMklSU3JMV21ZR2NCM2w4aG1xbUpwMTRJQlB6TVJJWTlyRzlsMURveU45cV9kX3oyczZ1Y1Bid01wLTV4d1g5Qzl4VUFkS0FpVWp0Qm14OEpEQmR5UmdocmlaRm9pQzd3TkVGRTJYdjZVcmtJZm5LMU1SeHVCc0FqWkRqcTRVcWM?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
