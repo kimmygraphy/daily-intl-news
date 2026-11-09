@@ -1,0 +1,306 @@
+{
+  "date": "2026-11-09",
+  "crawled_at": "2026-11-09T22:05:19+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Nvidia CEO Jensen Huang investigated over alleged Chinese spy affair",
+      "summary": "Nvidia launched an investigation into CEO Jensen Huang after he admitted to an affair with a woman suspected of being a Chinese spy, raising concerns about potential espionage and corporate security.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: What do we know about Jensen Huang's affair?",
+          "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Explainer: What we know about Nvidia's probe into CEO Jensen Huang",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzg0SWNIOFJSV3ZySXd6Ml9OWmdJS3ZlbDRMVWFOUVhRa1g5bE91N0VRTkJTQlVpbjhiWXJnSEt0ZlVmM3NVUVFyNk9nV2FVNG9jdXNWUFB5bnpESTd6M1Z4eGJPWGJHZUNYcEdPUDRqaVdXQlRaSjk4NEpHZVRxbkgtYnNTSERpUjJvczFDU0x3WE1CZFB6RG0zRm00SEc3RkRzMGlGend0WjdSenc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy with whom he had an affair",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzB5YTdpVVRqQUNKMHhoR3ZQNEdMb00yeU1kQUpTM2tDT2lHbTRmb1p5NHpmdDZqZ21EQlVNTEIzd2tlbDh2cUIwM1RNOVVQeFF6bDdjbXplNjhnWU1VUTR1NndXOFRGTUJlbHJGcmstaWgxWGdSX05SWW9qWmRaUlpLVTBGX1VNc3RnOEpqSktRZW96d0lVYVd0SEg5ZGlnd1FFMDNpdWo?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Nvidia Announces Investigation Into CEO Over Ties to Chinese Spy",
+          "url": "https://www.today.com/video/nvidia-ceo-had-affair-with-chinese-spy-intelligence-officials-say-273120325951"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Nvidia shares fall after ‘honeytrap’ investigation launched, as China denies spying claims – business live",
+          "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "Why Nvidia CEO's affair with alleged Chinese spy matters",
+          "url": "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters/a-79898338?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Is Jensen Huang too Powerful to Be Punished by Nvidia?",
+          "url": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Krakow mass shooting suspect with far-right views dies in hospital",
+      "summary": "A gunman with far-right political views who killed six people in a public square in Krakow, Poland died in hospital following the mass shooting.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Krakow shooting suspect has died in hospital, police say",
+          "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Krakow mass shooter dies as political dispute over motives builds",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2JCSWlLOUNwYXJVdFZDNkd6QndqWm4tVGxvT2piU202T3NWeXV5VkxEcjVIclV3cG9aa1Yxa1BMUmlSeHVuV1lvc0FYVzRZQXBrVE16Q19uVXJPNWZPbTRKdjcwNWIwNFhxeXRCS19wSEVPU2xoWk51dGdmU0p3U1VZeWRDUFFxUi1ZcmxUenBFdE05cm5iQU5hWjJhLWRDZFkydU9rRlZGNG1qbFhOag?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Gunman with far-right views who killed 6 people in a Polish city square dies in hospital, police say",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3F0cG9XZEVlN0pBaEFzQTlWdjFka082QUE5eDRWd0RUMEpvQURHTG4zNHVpb0haZ1E4OVFiQmFXaHE2djVpVHhCcHRzSXp4cWF4cmRDcnotMXRlZ3UwNXR4NHprdWZBMDZnMXBTWUFYRnE2QXAwTjJwQXh5eUR3eTlrR3ZsTVNJZ1E?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Gunman with far-right views who killed 6 in Poland shooting rampage dies in hospital",
+          "url": "https://www.nbcnews.com/world/europe/krakow-shooting-gunman-poland-attack-dies-hospital-rcna608248"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Kraków shooting suspect who killed six has died, Polish police say",
+          "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead"
+        },
+        {
+          "name": "DW",
+          "title": "Krakow mass shooting suspect has died in hospital, police in Poland say",
+          "url": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "2026 set to be among the hottest years on record as climate talks begin",
+      "summary": "Scientists predict 2026 will be one of the four hottest years on record as the UN climate summit COP31 begins in Turkey following a year of extreme weather.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Scientists predict 2026 hottest year on record as climate talks begin",
+          "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "This year set to be one of four hottest on record, UN report says",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObWlnVkhBY0RvUmE0YzRlbnc0VU1IR3pmT1R3TVltcGhvX0tBNTZ4b0FfQkpobXphVi1iMGRrLUo1aDMzSG1FckIxbnBweUJ6UnFpbzFuazV2ZGxQcUpLSzEzNTRBR3BuMHN6Y0Vfb2kzd1RiVlNCZkZpOTdpV1B4MHpwX19hR3k2aDlDUFJ1Qm1XQkRvQnV4NEhXbFpoaGVUMVZMZVVxbkNlQ1BRRWtF?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "UN climate summit kicks off in Turkey after a disastrous year of extreme weather",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObU8wcnlKSFdOUDFITlRFV21ZNHVjNF9kQktSTi12UTZGX3dtbC13OG5YMkkzdVVuYS0wcFREbGpCWkd4R2x2cDdvTnVacE5VVTNUTE5SS01tSW1wbEZFQkQza3RaLTg4QWoxdEJHRDBORTVJRWN5bGRzV05MUmZnNzBFaE1xZFhZYlBDaU9EWXd5ZVlFX3pkRWtR?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "U.N. climate talks begin today. Here are 3 things to know",
+          "url": "https://www.npr.org/2026/11/09/nx-s1-6026787/climate-talks-antalya-turkey-cop31"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘A new age of climate extremes’: Earth accumulating heat at accelerating rate",
+          "url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-extremes-earth-global-heating"
+        },
+        {
+          "name": "DW",
+          "title": "Turkey pushes for transition at COP31 as coal burns",
+          "url": "https://www.dw.com/en/turkey-pushes-for-transition-at-cop31-as-coal-burns/a-79871687?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Trump says deportation policy was too tough and hurt midterm performance",
+      "summary": "Trump acknowledged that his aggressive deportation policies were 'too tough' and may have damaged Republicans' performance in the midterm elections.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "NBC News",
+          "title": "Trump says deportations were ‘too tough’ and hurt him in midterms",
+          "url": "https://www.nbcnews.com/politics/trump-administration/trump-says-deportations-tough-hurt-midterms-rcna608208"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Trump admits deportation policy was ‘too tough’ despite promotion of Stephen Miller",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration"
+        },
+        {
+          "name": "DW",
+          "title": "US President Donald Trump says deportation policy was 'too tough' for voters",
+          "url": "https://www.dw.com/en/us-president-donald-trump-says-deportation-policy-was-too-tough-for-voters/a-79895321?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Trump Says Immigration Crackdown May Have ‘Hurt’ Republicans in Midterms",
+          "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-immigration-crackdown-republicans-midterms.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Trump jokes he was kidding about Dana White press secretary offer",
+      "summary": "Trump clarified he was only joking when he offered UFC executive Dana White the position of White House press secretary.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+          "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Trump says he was just kidding about making UFC’s Dana White his press secretary",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlc5NzVpTG5kRGdUZ1U5di16ZmM1TExpYlE0TlJMaGVGeXVaNW1JZy05VkVRWTJxNndRRTdKcUE4S0w1X3o3WUQ5LWkyek5ocEVZZU1oWnoycWdvM0FRRVBjbldUUTZxNEs3WUt1ek1SOGNOMlAwZHRVcUpOR0RqZV9GTmRhWUpqNFdjMmNKcUlmcUNEU2szUzQ2M0lHWWJT?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Trump Was ‘Only Kidding’ in Asking Dana White to Be His Press Secretary",
+          "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-joke-dana-white-press-secretary.html"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Trump’s pathetic Dana White gambit could not mask his midterm humiliation | Howard Bryant",
+          "url": "https://www.theguardian.com/sport/2026/nov/09/donald-trump-dana-white-ufc-midterms-sports-politics"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Migrant boat sinks off Senegal coast, killing dozens",
+      "summary": "A boat carrying migrants bound for Europe sank off the coast of Senegal, resulting in at least 34 deaths and highlighting ongoing maritime migration dangers.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+          "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "At least 21 dead after boat carrying migrants sinks off Senegal coast, interior ministry says",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXdCUmJHMFNmV25BSjlQbEZWSHlrVDE4cGF5amtpS2ZPUmtJNHdiMjdpQmk0ZXdfX2ZwblhmN2NfN2p0SGpNLWJjX1EycDRaLWZmTkxybDRSOXQzdVlsRmJ3ajV3RTFDNTlMNkh1WGJKaC1mOFpzaUc4U0o1ODJKTmkwTkNjTGtlQ09TVW5vcGNJZw?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Many killed after migrant boat sinks off Senegal",
+          "url": "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Russell Brand faces sentencing for rape and sexual assault convictions",
+      "summary": "Actor and comedian Russell Brand awaits sentencing after being convicted of rape and multiple sexual assaults, facing a significant prison term.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Russell Brand faces sentencing and significant prison term for rape and sexual assaults",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3k5bUZCVzZ3bmpKMWtIVlVJM3YxWHRkUFpyQ0hjNE1WNWpUUkhwNldwZ0tkSmZxLWFUNzlZSzFSUjdIallGc3hDazdfMkUteWhyUFFhdmVFUTJscWNNQXJfMk5KRmdfN0Z5RTJ1anNrYWl2RXVpWlljR3AzMnhnc1FGVHd2elp2UW93Zkh6VDJvOTBDRWF2MERMclFObmJtNUdQdkk0VVJEVzFVWEZTdHJOVQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Russell Brand awaits sentencing as he faces ‘significant’ prison time for rape and sexual assaults",
+          "url": "https://www.nbcnews.com/world/united-kingdom/russell-brand-sentenced-years-british-jail-rcna607799"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Prosecution calls for long jail term as Russell Brand is sentenced for rape and sexual assault – latest updates",
+          "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "South Africa's ANC suffers worst election results in party history",
+      "summary": "South Africa's ruling African National Congress achieved its worst-ever election performance, accelerating the country's shift toward coalition politics.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "South African voters rebuff ANC, accelerating shift to coalition politics",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0RIU1gtMURBQXJvZkZSTnI4MXVuYUdfdU9HNVRlUzMwZzE1TG9tY19LRnRNTjRYb2cyN0FqU2ZodTNrVTk5TW1zcER6WTQ1WFZ3SjdKWlhkYW5ZZExGaTUwU2IxcUFQSWt5dXhDTFNzaFRJaThHeEthYTZOS2RUUEhVb21ralBsa3poUHZTSlRSdFQ2ci1UeXAwcVR2VDJ3bzZocFJZWDVGTEszUFp2VTRuNU9IQVBLM0E?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "South Africa’s ANC is humbled by its worst election results as it continues its decline",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEE1M2QwamttWi1XNENfaUhIZlRYRDRNaGhkazExNHlqWHFSelh2WEpZLXp2d1JiVmNuUHdIRS1jeTdCdFFVa3RkV0FKUEhsSTNoa1BEbnAyX0RVRnFwV0JFNV9laXE2MzZ4TTZHOVdmV0RSQVBiQUdjQUl5OENxWGIwN1JwTk8yX3FKSDFNOEo0RGdaMk1DRFBPQjBHVVdFeDNZN1BDMktuSHN6?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "South Africa elections: ANC marks its worst-ever performance",
+          "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Pope Francis tells Argentina's Milei to prioritize people over economy",
+      "summary": "Pope Francis arrived in Argentina and delivered a pointed criticism of President Milei's austerity measures, urging him to put people before economic policy.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Pope arrives in Argentina and tells Milei that people, not the economy, should come first",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXBvT0ZhMHZPdk1rbTJiZ1FtQlJJWEZMZE1CU2h6dlNBNTRZa2hsWFIzMG1mMU9qYTNIV1lTUnh0Ni03c2lOVDg1dDhleUliSmpzcnZmdlhaZ0dfWTlyYlRtOFo0dVYwdVpWV2NnMGxLZWZpMlJGOXJLMHF2SjNRVFoxZ1JlRjBtWEliSTBBcVVKeTU1dW9NbWFFUHdrMDhxNXc5NENMdzl5Q0l3RDNxNGJ5Q0JzbUdKWWc?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+          "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
+        },
+        {
+          "name": "DW",
+          "title": "Pope Leo urges Argentina's Milei to put people before the economy",
+          "url": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Israel's Eisenkot tasked with forming next government",
+      "summary": "Israel's President gave former military chief Gadi Eisenkot the first opportunity to form the next government after recent political developments.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Israel’s president gives Eisenkot the first chance to form the next government",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2xtdC1iNFRNSEZwNjVlM1hTeFVjREM0MlU4ZFlaWkVBYnQyNmxEdnZKeXRLQXBmbVVOeHI1U1l0TFN2cG1tQS02TFV0OElNUzhqZ1dRbUVfS3BtTVphOVFud1R6N1hZdGlpVl9GVE45dk93akNtcGRhUFB6cmpOd0FZbC1GOXBFendqUmtmalYwcUJybFo2WWRtOA?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+          "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
+        },
+        {
+          "name": "DW",
+          "title": "Israel: Eisenkot officially tasked with forming a government",
+          "url": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
