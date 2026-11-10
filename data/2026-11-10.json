@@ -1,0 +1,296 @@
+{
+  "date": "2026-11-10",
+  "crawled_at": "2026-11-10T22:05:28+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Nvidia CEO Jensen Huang investigated over alleged affair with Chinese spy",
+      "summary": "FBI and Nvidia's board are investigating allegations that Nvidia CEO Jensen Huang had an affair with a woman suspected of being a Chinese intelligence agent, raising national security concerns amid US-China tech competition.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Nvidia CEO's affair with alleged spy aided $7.5 billion in China chip shipments, Information reports",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Internal probe into CEO Jensen Huang and 'foreign intelligence' weighs on high-flying Nvidia shares",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXdpaDhrWVBiWm9zYjdnNTlEczJPX1g2YzExNUhpVml5WGZldkgtdXhnRWZ5QTVPWkFBLTAydEJ1MVhvNXBQZ0otcmlYNFZMRVY2bC1xb0VfVEFiZG5kUjN0VG1tU2duOWpZUHlfSTJpZEp2cDFqYnFCUGVaWTF5cDVvLVNNVFlqQ3ZSWmNPSXNMZlE?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "What are the national security implications of Jensen Huang's affair with an alleged Chinese spy?",
+          "url": "https://www.nbcnews.com/video/what-are-the-national-security-implications-of-jensen-huang-s-affair-with-an-alleged-chinese-spy-273160773529"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+          "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
+        },
+        {
+          "name": "DW",
+          "title": "Nvidia shareholders sue Jensen Huang over alleged spy ties",
+          "url": "https://www.dw.com/en/nvidia-shareholders-sue-jensen-huang-over-alleged-spy-ties/a-79905809?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Nvidia’s Board Has a History of Letting Jensen Huang Get His Way",
+          "url": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Ukraine peace talks begin in Abu Dhabi with focus on security guarantees",
+      "summary": "US-mediated negotiations between Russia and Ukraine commenced in Abu Dhabi, with discussions focused on security guarantees for both sides as Russia seeks European security framework involvement.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Russia sees European security framework as main thrust of Ukraine talks, delegation source says",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeV9jM2c1bUNuM1JEalVybmVybVZfM1docm42TjZ6QWdiNFZmeWItTndYZjk0dExkMUhnQzlLWTRGWDJuVVoxR2NBMlQtZW1nY1owdE5IaWM5SVBoTXp3NjdROWhRcjh3Z3A5SFl6VExpWGJ2WFl5TnZ0UUxQamgxcXdUNE1BSER5cUdqVVdwc3pJcWYzc1dGNmlmS1FkdmJMb1o3T282eU9FMDM1ZWw4VURkQ3BXQUJqdEVkUGZndl9vSTNWWGc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+          "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "US, Russia and Ukraine start talks in Abu Dhabi",
+          "url": "https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Pete Hegseth faces impeachment push as Defense Secretary holds news briefing",
+      "summary": "Defense Secretary Pete Hegseth held his first Pentagon news briefing since May as he faces impeachment threats from congressional Republicans over his conduct and Iran war policies.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Hegseth is set for his first Pentagon news briefing since May as he faces possible impeachment",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUNXMkxGenZWcWlHclR5OG1zTlBOY1FCaktDemppTUVxd1R6aVdEU0t1Yld1U1h2empESzVJWXJxa0VYREVJenNGbVg4cmdKY3RkYkdwbmdsZGJiWmF2Y280dDYzbjJkcnRWbEp5MjJ3YzlUUEcySW5PcEYydzI4OHJoNWhKSHZvTlhMd3NRMll3VEwxTkpJOWhyUnFQV3dneTVV?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
+          "url": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump defends Hegseth as he faces impeachment push",
+          "url": "https://www.nbcnews.com/nightly-news/video/trump-defends-hegseth-as-he-faces-impeachment-push-273163845760"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Pete Hegseth to hold news briefing as he faces possible impeachment – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "US Pentagon chief Hegseth faces impeachment push over Iran war",
+          "url": "https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Hegseth to Hold Rare News Conference as Impeachment Vote Looms",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-news-conference-impeachment-vote.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "US military aircraft evacuated from British base due to Iran threat",
+      "summary": "The US military evacuated aircraft from a second base in England amid escalating Iran tensions, as Trump indicated the situation with Iran is militarily 'effectively over.'",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "US military aircraft leave second UK base",
+          "url": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "US aircraft evacuated from second British base due to Iran threat, WSJ reports",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNFRRSTBsbG02aEtlczAwSUpUMTd3ZkFRQUp6emg3SHZpclZSTXZiQUl6TWRMUVJuZ0U5T1MtdFhkblNEYWtiN1B5YnBtNnVaSVFyV1NqTk5Jd1g5SHU5eWFjWk45TWVYLUdJbi0zb2R2c2tZMXlvT2tZMVRaUjd1ek51NTFQcWJ2SXpMMkZqZ29UbkRkTWlyNmpleE5aOTJlZ3FDb21FQVRyNlVoalM3MWVUdw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "US Air Force evacuates tankers from base in England due to Iran threat, Wall Street Journal reports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbUZjbGJEc1RFR3Q1YkEzSmt0RFE3SWRhb21YSEpfYm9sQnIzWmpTeHpINXJ3b1RQS0RWMHV6eWs3UlBXTmVXZ0s4bXFKQ1o5aC1yWi1CNjZsdlQ3ckI0VDYxcFNjY3pBMmx0amxzQlRPWlVWc1ZtY3pXZHBBbU1yTldGcmtDOXhRaGllWmt3?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "U.S. moves military aircraft from British base amid Iran threats",
+          "url": "https://www.nbcnews.com/world/europe/us-moves-military-aircraft-british-base-iran-threats-raf-mildenhall-rcna608501"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Poland mass shooting in Krakow kills six people, gunman dies",
+      "summary": "A gunman killed six people in a mass shooting in Krakow's city square; the shooter later died in a hospital, and investigation revealed he visited websites about Norwegian mass killer Breivik.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Polish gunman visited websites about Norwegian mass killer Breivik, minister says",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1g4bkg3aWltVnpoMlRzcGs2YzJVY1lYVzd0VGwxRklfR1RCZDRwdUhwVVYxdmV6a05LYXJyNGdpMmVFeHZmX1FKeXJ3VEdJaUlMTnEyZ2lzY2I2MGoxMWgxci1DSGJZZ0pLeDYxQUx5Qi1pTWxyeUZ5T3dvdU5odnAtb2E0bmhxR3BickZ0QnFLTFJvZEFMZmdtRFA4ZGJWMF9aNDczWmx5NG5XWDI3NTk5Rlppa01zYmNPRC0zS3dFWmdWVkRVSw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Polish gunman who killed 6 in Krakow square dies in a hospital",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3F0cG9XZEVlN0pBaEFzQTlWdjFka082QUE5eDRWd0RUMEpvQURHTG4zNHVpb0haZ1E4OVFiQmFXaHE2djVpVHhCcHRzSXp4cWF4cmRDcnotMXRlZ3UwNXR4NHprdWZBMDZnMXBTWUFYRnE2QXAwTjJwQXh5eUR3eTlrR3ZsTVNJZ1E?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Polish leaders join thousands at silent march in Kraków for mass shooting victims",
+          "url": "https://www.theguardian.com/world/2026/nov/10/poland-president-pm-silent-march-krakow-shooting-victims"
+        },
+        {
+          "name": "DW",
+          "title": "Fact check: Online disinformation rife after Krakow mass shooting",
+          "url": "https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Anthropic plans major IPO with valuation targets up to $1.4 trillion",
+      "summary": "AI company Anthropic is planning a blockbuster initial public offering with valuation targets ranging from $64 billion to $1.4 trillion, testing Wall Street's appetite for AI investments.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Anthropic to raise $64bn in major stock market listing",
+          "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "EXCLUSIVE: Anthropic sets modest $1 trillion IPO valuation target in test of Wall Street's AI fervor",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+          "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Bulgarian motorway pile-up in fog kills at least 11 people",
+      "summary": "At least 11 people died and dozens were injured in a multi-vehicle collision on a Bulgarian motorway caused by heavy fog.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "At least 11 dead after motorway pile-ups in Bulgaria fog",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Eleven dead, fifty injured in Bulgarian motorway pile-up",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlFFZTl0aVRsZGZUcGswcDE0ZVdyZGsxV0pqeXg2Z2xUUDl3dDNBS2tNX3RuVUs5ZkFKaGFMbW5sV3A0SEpYMWFoQ0sxYV9Qb21uM0pmZ25xYmNKdHh2aDgyRnhDZEdNSmx0UEFDVDJSYXp6WFk1TldsMEI5Y1J6SG1BUEdKNFBD?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Bulgaria highway pileup kills 12, dozens injured: PM",
+          "url": "https://www.dw.com/en/bulgaria-highway-pileup-kills-12-dozens-injured-pm/a-79907978?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "France attributes supermarket refrigerator cyberattack to Iran, warns response",
+      "summary": "French officials blamed Iran for a cyberattack that caused supermarket refrigerators to malfunction and summoned the Iranian envoy over the incident.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "France summons Iran envoy over supermarket fridge hack, warns of response",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbFRPZy1SWjNiT21UM05JSTBmN3JnWW9Gb3pweVRYSFhxZzNfRlBtbEpCNEZ6VHJQZnhpaFZaZ05jTkpWOTNWaGhZMVlISGdxSzlVX2xKRmE2VXZzTmZ3ZElya0ZLQUs1UVM4MXRMNnR3al84MXZOREM1SzhjZHAzTTJYVkpiMzFTOUJ0VC1SNnJvRE5KTEVpUkE2SkJ1RklfSjREc1BzdGV5aGlWaElrYXVDUUt4bmh0dFE?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "France blames Iran for a cyberattack that heated supermarket refrigerators",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3MxdFVOdmN3Y2lHVWlZVHRIdjJLbElKcTl6YnN0N3RwZXZXalAySVdselJLaEVMSXp5Q3MzVU9UNWxBSmhMWXJCYzF2bV94bEgzM0x2UUpwbS1CWUgtaDBpVmEwRTluSGNtVlE1N2QyWTJURWg5OUpFTy1WQm41RWEyYUxfWXhoZjVEUVNVbldOX3UySFh1VjctSWNqN0NPaTMwVlprWF82UVg0OVE?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "French officials blame Iran for supermarket fridge hacking",
+          "url": "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "California voters reject Proposition 40 billionaire tax in midterm defeat",
+      "summary": "California voters defeated a ballot measure proposing new taxes on billionaires, representing a setback for progressive causes in the state.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Billionaire tax measure on California ballot defeated",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbFdWbU1ZUk42YWhpQlVMeHB0WE9YV0w0cWM2Vk1MZ0VGSDYzUllzYUhWbjFUN25YMnFUalBlNjV2Z0FNbVRGUVBHVndHUkJIZ0t6QzhFOXZ1Rl9tR2k2bzdjdWprYnU3OGR0eDFaUDF5d212Q1JXT3pPS2tOQllDX2NHM3lqeFRyejBiWmxZWW5aR2pzMm5BczhVd1hSdUY3Q1M4TGFn?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "California voters reject new tax on billionaires in a blow to the left",
+          "url": "https://www.nbcnews.com/politics/2026-election/california-reject-billionaire-tax-ballot-measure-prop-40-rcna603382"
+        },
+        {
+          "name": "The New York Times",
+          "title": "California Voters Reject Prop. 40 Billionaire Tax Measure",
+          "url": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Oil prices fall as Trump downplays Iran war escalation threat",
+      "summary": "Oil prices dropped below $90 per barrel as Trump indicated a military conflict with Iran is 'effectively over,' easing market concerns about energy supply disruptions.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Oil falls below $90 as Trump downplays prospect of escalation with Iran",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
+          "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
