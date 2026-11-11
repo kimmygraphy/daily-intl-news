@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-11",
+  "crawled_at": "2026-11-11T22:05:20+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Pete Hegseth impeachment effort blocked by House Republicans",
+      "summary": "House Republicans successfully blocked a motion to impeach Defense Secretary Pete Hegseth.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Pete Hegseth impeachment effort blocked by House Republicans",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUNXMkxGenZWcWlHclR5OG1zTlBOY1FCaktDemppTUVxd1R6aVdEU0t1Yld1U1h2empESzVJWXJxa0VYREVJenNGbVg4cmdKY3RkYkdwbmdsZGJiWmF2Y280dDYzbjJkcnRWbEp5MjJ3YzlUUEcySW5PcEYydzI4OHJoNWhKSHZvTlhMd3NRMll3VEwxTkpJOWhyUnFQV3dneTVV?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
+          "url": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases"
+        },
+        {
+          "name": "NBC News",
+          "title": "House Republicans Block Motion to Impeach Pete Hegseth",
+          "url": "https://www.today.com/video/house-republicans-block-motion-to-impeach-pete-hegseth-273259589897"
+        },
+        {
+          "name": "The Guardian",
+          "title": "GOP branded ‘sinking ship’ as Republicans block efforts to impeach Hegseth – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "US Republicans derail push to impeach Defense Secretary Pete Hegseth",
+          "url": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Republicans Turn Back Effort to Impeach Hegseth",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Three Iran-backed operatives charged with plotting terror attacks on UK airbase",
+      "summary": "U.S. authorities charged three alleged Iranian operatives with plotting multiple terror attacks including an assault on RAF Fairford and targeting Jewish communities.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+          "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "US charges 3 men with plotting terror attacks, including planned assault on UK air base",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM0EzV2laWjJ3YTZhWW4wRTlqaER3MnhEWlk4bG52RUIzeTlFYVFHekl2UWhFSExiUVNqUDktR25SQUVUdEU1eFlwQmJhNEV2YTRCQ1VxUEZiUjlGeHlpV0w0cENrd2NFbVgyMnZVcFRtSExnTU9lckVOTl9abERDc1hyLXdXWHhKM2pnRmRLM1RlM0h2MEFrU1c4b1ZrQQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
+          "url": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases"
+        },
+        {
+          "name": "NBC News",
+          "title": "U.S. charges 3 men with plotting multiple terror attacks, including on British air base",
+          "url": "https://www.nbcnews.com/world/united-kingdom/us-charges-3-men-plotting-multiple-terrorist-attacks-planned-attack-uk-rcna608647"
+        },
+        {
+          "name": "DW",
+          "title": "US charges 3 alleged Iranian operatives over plots targeting Jewish communities and a UK airbase",
+          "url": "https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "David Walliams accused of sexual misconduct and grooming allegations",
+      "summary": "British comedian and children's author David Walliams has faced multiple allegations of sexual misconduct, including grooming a teenager, with reactions from colleagues including Jonathan Ross.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "British comedian and children’s author David Walliams accused of sexual misconduct",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzV6eGhta1EwczFLWGx6NDg0eDZieUUtTUd6bXlIc3NRSlhmZnNEOWRBSHV4X0RvQktrMmZDNnZVRU5LTklpY1Z5WVhBTnh0SFRUTFdMQm5ucEtOem15d2l4WktkX3VCamgwWWtTSy1LaUxOODJvUGlnVzFVSG5saTZldTNNcDN6UkNhSG8xaG5wdXVKR0JJZlRTaWNZOEFXZEpwZG9uU0plcDFNcldQTjk1bw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "David Walliams: Power and Silence review – some of this footage will make your head spin",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/11/david-walliams-power-and-silence-review-itvx-youtube"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang faces investigation over alleged espionage plot",
+      "summary": "Nvidia launched an investigation into allegations involving CEO Jensen Huang related to a potential espionage scheme with national security implications.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHhUdHFXb3pRd05pMHh1LWcxVldiZEQ4ZWhnaDdPMnFuTk9DUU9iWENpZ2ZaUUZ1cnZNNDU1cDJtNTRVeG5wMVpDdFlmQU9SRWJnYmhWZzVMQjlvdi12c1Y5NlRDZWZhVFF3MUFpaGlpOWtzbVA5ZEx0NV82T3Uxeng4bzlEX3F4bTllU25GVDdkWGZGNjhUaXZCRzdVam5ZUTZVYVhFQlY?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Nvidia names outside council for investigation into CEO’s affair",
+          "url": "https://www.nbcnews.com/nightly-news/video/nvidia-names-outside-council-for-investigation-into-ceo-s-affair-273239621784"
+        },
+        {
+          "name": "The New York Times",
+          "title": "This Trader Raised Alarm About Nvidia’s China Entanglements Months Ago",
+          "url": "https://www.nytimes.com/2026/11/11/business/nvidia-megaspeed-christian-lamarco.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "US soldier arrested in Britain on suspicion of spying for Russia",
+      "summary": "A U.S. soldier assigned to a NATO unit was arrested in Britain on suspicion of espionage linked to Russia.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "US soldier assigned to NATO unit arrested in Britain on suspicion of espionage linked to Russia",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUE1BdG9yN2hIRmJMbEFZdlEzZi1fUWpETU5WYU44WjJJZEJBTWYxNFF6X1pkSmVQUU1KbnRLWlJuMk9JTjZEd2VScHdHZGMxQTQ0bDgxclBIdmZqWVVPWFlzTjFBM3lUR0lWN04tZ0FfTlY1UTR5eHgya3VRVVQwTy0xZ1h4ZXNpWWI0ZXQ4V0V0WEN3OHlETTE0Zw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "US Soldier Arrested on Suspicion of Spying for Russia",
+          "url": "https://www.today.com/video/us-soldier-arrested-on-suspicion-of-spying-for-russia-273260613726"
+        },
+        {
+          "name": "DW",
+          "title": "British counterterrorism police arrest US soldier accused of spying on behalf of Russia",
+          "url": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Russia and Ukraine hold US-mediated peace talks in Abu Dhabi",
+      "summary": "Russia and Ukraine conducted nearly four hours of negotiations in Abu Dhabi with U.S. mediation, showing some progress.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Russian negotiator reports some progress after Ukraine talks, sees no EU role in process for now",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV2RpSFF1Ym9mZkNRLTAyOFVnRk5JbzJmMmEydmFjMl9TS0lBdER0LVNieEZiSWlveXBwdjZtRkZuVWlWalBpdnNlZnZ6RmEtX3A2S0trZFF6OElSa0UyM1IxY1hUd1dnXzZzb2NZRVRkNUxJQmcycHhLN3JhRGo4RUo2N241cHpVeHMxWFlVeENaTFVtYk5GUUR6R3NYX2RxdmthQ0dKNlhKUkprN2tpNDVtVFhfWGVxUHlVbnN0bjRrUDA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Spain stages first general strike in 14 years over housing crisis",
+      "summary": "Workers across Spain held their first general strike in 14 years as anger over the housing crisis and lack of affordable housing reached a peak.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Workers across Spain stage first general strike in 14 years as anger rages over housing",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcmd4bjFKTVdpSHgwbmZibHdXbWJNdzYwYkRDekc0MjNIcm5HV0xHVjYxc1BTdDhWRWZ1UDVkR1ZpTW1seTF4MmpRejhKUGd4NlVUdUNnNTRZUVBYY0JYbEU5cWZvZTRDWkdsZkxFVHJsMVJIVXl2N3pHWFZnQm42RFZlZVR2cDUwRUVJb2o3SnZTcExZQ2R0MGFGUVZaMGF1WF9tY3N5R29HNVRPRVE1dW5QRURKZFhMWHRvS05rTTlvUkRUVHloVjJNMndLNlU?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Spain's first general strike in 14 years demands solutions to housing crisis",
+          "url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike"
+        },
+        {
+          "name": "DW",
+          "title": "Spain: Housing crisis prompts general strike",
+          "url": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "UN climate conference addresses inadequate climate action and pledges",
+      "summary": "World leaders gathered at COP31 climate talks amid concerns that commitments to tackle climate change remain inadequate and progress too slow.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Climate crisis is 'outrunning us', UN chief warns COP31",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcy1FRWhTbVJwQjAtOUVzaXJGczgtR0hGWV9UeXlXZkwtT3Z5TXBKUV8yU3lEajg0NFlmdmMteW50ZlNYWnpaX3Jud2o5SWF1dE1mWkhBbXhNY05GWW1HLUdaM1ZnX2pEUEZfbUg4NGZLWlMxYl9uRVBiNHNWekFGM1lqWGJrRUxKZHZKMF9RZE1HcUo0VDI4aWdlUERkd2EyeUs4bTFTb2N5UFNsWDJDVDc2RQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "World leaders begin UN climate conference talks as concerns raised over inadequate, slow action",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0NNSmRNNW5UOE9yWE0yRVVJdEdDX09OeG9PRWo1ckJtSmhBWU1RaFQ0Mi1pWF9QX3JsbVgyd213RHl2NjdhY0tnTGVpY01zLWpGNkQtUTBqMGgyUmZYNVcwTVFydU9veWp4NUlnczBBU2NBbHlQaUIxSF9haUJCWm0tNmZsT2xSczBrLUQyNEFsREJXZENIMlpDNE9pc3lYaExj?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Cop31 live: ‘Fossil fuels must go the way of the dinosaurs’ - UN chief hits out at industry lobbying",
+          "url": "https://www.theguardian.com/environment/live/2026/nov/11/climate-crisis-talks-turkey-latest-news-updates"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Mauricio Pochettino set to replace Erik ten Hag at Manchester United",
+      "summary": "Manchester United manager Mauricio Pochettino is ready to accept an offer to take over at the club, replacing interim boss Erik ten Hag.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Manchester United close on Mauricio Pochettino deal before settling Carrick’s fate",
+          "url": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "CoreWeave results spark AI market rally and ease investor concerns",
+      "summary": "Strong results from AI chip infrastructure company CoreWeave boosted market sentiment and revived investor confidence in artificial intelligence stocks.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "S&P 500, Nasdaq futures rise as CoreWeave results calm AI jitters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVZoWU1fQUd2Y1M2Qnl1T2JaMTkwaXBkaDIwWjVHejZoQmdDUnVzUVlSWDVsWW1pVDRVcXQ2ZTdrRTRiMDdMNWJDS3Atem91bUpDMnFLUkZ6NjhjaTliYWV1ODRLMnk0Slh3Wk5wNGtHTDhvaEZpTFIyUlVpQ2tNdTUyb2ZLbEZGOHlTZWRJNzVScUpIS3V5a1FacGwzby00RURBa2htZFFqZmw3Z2pRS2NDWQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Global markets broadly rise on AI chip demand despite Wall Street’s retreat on inflation data",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi1oYnVxUmZHNlhJVXBPYk9ITmFxZzBzUWNfUDZPT2tsR0R4SExvcmJzM3I1ZEh0WHV0bHM2amVtQmMzWnpwRWVFRjluOTdETUt2UGtPbUUzamNLcVJ5UHk3Qm5ZMmNlNm16X21EZkZxaktKT3RIUEc4SlJCbnJDbzhxOXFkNVI0ZVFab3JBOGxtSXM?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
