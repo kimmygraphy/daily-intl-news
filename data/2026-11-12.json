@@ -1,0 +1,306 @@
+{
+  "date": "2026-11-12",
+  "crawled_at": "2026-11-12T22:05:24+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Nvidia CEO Jensen Huang's future uncertain amid affairs and China spy scandal",
+      "summary": "Nvidia's board is meeting to discuss the future of CEO Jensen Huang following revelations of extramarital affairs with executives and a suspected Chinese spy, causing the stock price to plummet.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: The latest in the Jensen Huang Nvidia scandal",
+          "url": "https://www.bbc.co.uk/news/videos/cqz0k70990zpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Nasdaq, S&P 500 futures fall as Nvidia turbulence unsettles AI stocks",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHhUdHFXb3pRd05pMHh1LWcxVldiZEQ4ZWhnaDdPMnFuTk9DUU9iWENpZ2ZaUUZ1cnZNNDU1cDJtNTRVeG5wMVpDdFlmQU9SRWJnYmhWZzVMQjlvdi12c1Y5NlRDZWZhVFF3MUFpaGlpOWtzbVA5ZEx0NV82T3Uxeng4bzlEX3F4bTllU25GVDdkWGZGNjhUaXZCRzdVam5ZUTZVYVhFQlY?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Nvidia Board Meets to Discuss CEO Jensen Huang’s Future",
+          "url": "https://www.today.com/video/nvidia-board-weighs-ceo-s-future-as-2nd-scandal-comes-to-light-273326149690"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Billions lost and markets roiled by one man’s indiscretion. Isn’t it now clear that these tech bros are too powerful? | Aditya Chakrabortty",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia"
+        },
+        {
+          "name": "DW",
+          "title": "Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy",
+          "url": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Nvidia’s Board Is Weighing Jensen Huang’s Future",
+          "url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Israeli airstrike on Gaza hospital kills at least six Palestinians",
+      "summary": "An Israeli military strike on Nasser hospital in Gaza killed at least six people including a doctor and a child, according to health authorities.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital"
+        },
+        {
+          "name": "NBC News",
+          "title": "Israel launch deadly airstrike on Gaza’s Nasser Hospital",
+          "url": "https://www.nbcnews.com/video/israel-launch-deadly-airstrike-on-gaza-s-nasser-hospital-273323077895"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+          "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon"
+        },
+        {
+          "name": "DW",
+          "title": "Israel strikes Gaza hospital, says Hamas senior figure inside",
+          "url": "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
+          "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Democrat Scott Colom wins historic Mississippi Senate seat over Republican Hyde-Smith",
+      "summary": "Democrat Scott Colom defeated Republican Cindy Hyde-Smith in the Mississippi Senate race, becoming the state's first Black senator since Reconstruction.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Democrat Scott Colom wins election to U.S. Senate from Mississippi",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObGNuUXNneXVWaFk1SjdDUnJmcVM1TjFDc2FQckV3NmZMUDZPUndHdjEybjJwUktLbE9qMkdmRjc5UzJ3QkhWNHRIREQ1UkpJbjdQeEhaNzFLamE2ZlhtQUp2cmdFYkZ4eUpKcnc2a2Q4NXlKdjc3azhSbmUwbEhSamM2d0wtVVNDZURqWWtnY1ZmV2FlRVhRUENLcGJDaUFTUFBjVEd3?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+          "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia"
+        },
+        {
+          "name": "NBC News",
+          "title": "Mississippi Elects First Black Senator in More Than 140 Years",
+          "url": "https://www.today.com/video/mississippi-sends-first-democrat-to-senate-in-45-years-273325637994"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Democrat Scott Colom unseats Cindy Hyde-Smith in stunning Mississippi Senate win",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race"
+        },
+        {
+          "name": "DW",
+          "title": "Mississippi Senate race: Democrat Scott Colom defeats Republican Cindy Hyde-Smith",
+          "url": "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Scott Colom, a Democrat, Wins Mississippi Senate Election",
+          "url": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Ukraine reports Starlink military communications disrupted as US envoys meet Putin",
+      "summary": "Ukraine says its military Starlink satellite communications were disrupted again while US envoys were meeting with Russian President Putin in Moscow regarding Ukraine.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Zelenskiy says Starshield speed limited again, hampering Ukraine's defences",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTjdYZlNPMU1SU1ZhVjBMUHNnaEdIaFNCcWtQTmdiTHE1RVZRdG1BbUVBQkhib2diNDFyeFh2QXBnYTI3Zk9pVHdaWEpldUQydy1IM3NjZ1lwMVVNajFCZDUyamFuVE5aVXVYX0FhYVh3bnlDa0FPTWpFZm9CNTNyclVCLVVWWDNYWUx3NmZwNmVxSnY4ckNqM3U0VlFEbmhrVERHeU9udWVEM2s1cm1zbFpjYjJybU9tNHlDN0FXajdkZVNUQ1ZEWTZ6ZWQ5N0xaWUE?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Ukraine faces new Starshield disruptions as Trump envoys meet with Putin",
+          "url": "https://www.nbcnews.com/world/ukraine/ukraine-starshield-limits-russia-war-trump-musk-rcna608938"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Zelenskyy urges Europe to ‘pay attention’ to security relations with Russia as US envoys meet Putin - Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine peace talks: US envoys arrive in Russia to meet with Putin",
+          "url": "https://www.dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Hegseth and staff reprimanded by guard at Tomb of the Unknown Soldier",
+      "summary": "Defense Secretary nominee Pete Hegseth and his advisers were reprimanded by a guard at the Tomb of the Unknown Soldier for not showing proper respect.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+          "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Hegseth and staff reprimanded by guard at Tomb of the Unknown Soldier",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDBHZUtCS0xoTUhLYTBCMmpFRHNjcHhReERJZDY3cTZQWmlDTi1tcF91UkE5QXJWNGQ1alQ3aHlqSmpreU8tbXZoLTZMQzJLNWFFdjJaVWd4SHZzX1NEaU5wWjJFWmExZWpyVk4tSVpGQ3VINDdvamFCSVB4TEV0a3hWemxraGJHQU1SS3VMMUJHNXpuM0poNE82ZVRvSzN4eUl4SjhzVEdYUms?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Pete Hegseth’s wake of destruction at the Pentagon – Stateside with Kai and Carter",
+          "url": "https://www.theguardian.com/us-news/video/2026/nov/12/pete-hegseth-pentagon-stateside-kai-and-carter"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier",
+          "url": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-soldier-shout.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Manchester United sacks manager Michael Carrick with club in relegation zone",
+      "summary": "Manchester United dismissed manager Michael Carrick after 16 games with the club struggling in the Premier League relegation zone, with Erik ten Hag's assistant Pochettino reportedly set to replace him.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Manchester United sack manager Carrick with club in relegation zone",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnljYk4zSGJ0TXZ5Szg1ZzRXY2hyWm8tZnozRFQzX3RrMmtJYWJqbkNHQWtKYTduMnBKbFpZRVdVOUhyOEhLSjNYUDdQUzNLTUk1QlhEdUJTN1ZtMHFMVUZZYzVqTktGdWVWT01ha3lpb2ZiTm40S3RVVlhDeGR4R2RoUHNwVzU4UXhnQlFHZzA2emZmSmZlTUs1bFMzY29jOGJSdVI3ZkFTU3U3Y0pxZ2RRcTdCZ042ekFxR0tLdl8xQQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Michael Carrick sacked by Manchester United with Pochettino poised to take over",
+          "url": "https://www.theguardian.com/football/2026/nov/12/michael-carrick-sacked-manchester-united-mauricio-pochettino"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "World leaders urge faster climate action at COP31 amid inadequate progress",
+      "summary": "At the COP31 climate summit, world leaders including Greta Thunberg called for stronger and faster climate action, warning that current efforts are inadequate.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership' in COP31 speech",
+          "url": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "World leaders urge stronger and faster action at UN climate talks over inadequate response",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0NNSmRNNW5UOE9yWE0yRVVJdEdDX09OeG9PRWo1ckJtSmhBWU1RaFQ0Mi1pWF9QX3JsbVgyd213RHl2NjdhY0tnTGVpY01zLWpGNkQtUTBqMGgyUmZYNVcwTVFydU9veWp4NUlnczBBU2NBbHlQaUIxSF9haUJCWm0tNmZsT2xSczBrLUQyNEFsREJXZENIMlpDNE9pc3lYaExj?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Cop31 live: ‘No one is coming to rescue us,’ Greta Thunberg tells climate summit",
+          "url": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "US stock market roiled by Nvidia turbulence but shows signs of recovery",
+      "summary": "Stock markets experienced significant volatility as Nvidia's troubles weighed heavily on AI stocks, though markets showed signs of recovery with AI stocks rebounding.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Nasdaq, S&P 500 futures fall as Nvidia turbulence unsettles AI stocks",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "World shares are mixed as Nvidia’s troubles weigh on AI stocks",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFFiZmRWVmxZNDlVRnR1NHVQNkprRUhWMnNLMHFLWC1qdGljTm9ON2Z3U2FuXzNUcjRwRmNqMFZVemE4TVA1RVhRdl9paUtyMXJoYWhHbVl5d1FfNWZIZTVVU0IwcDQ0eHlnWGxxWEFhZjdkVko1a1hwY25XWE9uc3Q0MkIyaHpCWkNuZk05SGs1ck5DTFV4ZktQNWo?oc=5"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Crystal Palace sacks manager Pierre Sage and pursues Thomas Frank as replacement",
+      "summary": "Crystal Palace dismissed manager Pierre Sage after 16 games and entered advanced talks to appoint Thomas Frank as his replacement.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Crystal Palace sack boss Sage after 16 games",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Crystal Palace sack Pierre Sage and in advanced talks to appoint Thomas Frank",
+          "url": "https://www.theguardian.com/football/2026/nov/12/pierre-sage-sacked-crystal-palace-manager-thomas-frank"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "UK economy grows at fastest rate in over two years, boosted by AI investment",
+      "summary": "The UK economy expanded at its fastest rate in more than two years, with AI investment cited as a key driver of growth.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "UK economy grows at fastest rate for more than two years, boosted by AI investment",
+          "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "AI spending helps lift UK growth to fastest since early 2024",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc3NrMUYyRGhKcEpUNXZhajh2Y2lfRXF0ekhtdVBBMVI5aGgtSmlqNzdHYzVfdmVlV296QkZzMi1rOGtVVDJsdG5aQ2haSmhnMVE0dXVPcGJnUEV4UHBWbnI4b1JkUjN0WlBHbTBfa2RpME11dV9tSUlBYnF4OFpYcFFCMm5KM1hROVE?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
