@@ -1,0 +1,296 @@
+{
+  "date": "2026-11-13",
+  "crawled_at": "2026-11-13T22:05:22+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Jensen Huang resigns as Nvidia CEO amid alleged affair with Chinese spy",
+      "summary": "Nvidia CEO Jensen Huang resigned following reports of an alleged affair with a woman suspected of being a Chinese spy, prompting congressional scrutiny and stock market volatility.",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+          "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSktocy1OY2dwRlRpZnRkZ3V0d2hRdmgxRzM2bzlRVW1wdVd6a05PTGRUeTZDY3lwVkN4RFBDQUFrcmVBWmdnOVpkSVNlaVluTndndG1aeE1RQnBHY2NDcWVyeWg0VHhNQlBqejBSeXp0T0RBaTlUQS1rZ19kWEp4THhJa1cxWXhkSUl2Nm1YRG1xbmNMeV95S0NJMzl6M3c?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+          "url": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen"
+        },
+        {
+          "name": "NBC News",
+          "title": "Nvidia CEO Jensen Huang’s Resignation Rattles Global Markets",
+          "url": "https://www.today.com/video/nvidia-ceo-jensen-huang-s-resignation-rattles-global-markets-273440325600"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+        },
+        {
+          "name": "DW",
+          "title": "US Senate asks Huang, Lutnick to testify on Nvidia",
+          "url": "https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+          "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Microsoft global outage disrupts email, Teams, and services worldwide",
+      "summary": "A major Microsoft outage affected Outlook, Teams, and other services globally, impacting courts, government agencies, police, pharmacies, and businesses for over 18 hours.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "What we know about the global outage",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Australia's spy agency, federal police hit by Microsoft outage",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0x3UHpOT2FfZW9tc1Zia0F3NmNsZzUzUUJqd25Kcl9JdUFlOVhOMEFXR2ctazRoVXlkMFF4V1hIbGlLdnNQc3ZMRlBTeGZBVmxwSGx6a2cxVXgtZDhFUE80WFkxLUhfRjNMRmhtcGZvaGxlWjItSXpibmVXSkxrT1N4eWI4U3JzRDJnTXQ0SzBTMkFTYnBKT3JBWEQ1V0RMNzFoRDR6ckdvSTVRekw1SlU5SQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb2ZUZnZ6Z1JPSWM2YWVQel9wdC14MWloZ3FvX084b1RFcmRsUWhNZFJGSjZxd1hOOWZsb2ZEbTVqVWx3Zkl1T01TY21QUTRHVGRsUmF5bUx3UDctd0lJOGZlblJFYjRIMFEyNkZGTFl1R05jYS1PXzNXSWhIMHgtRDkwLU1XNTFUZmkxbGhoRS1CbWpKMHhfbFFWdlA?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Microsoft Scrambles to Find Fix Massive Global Outage",
+          "url": "https://www.today.com/video/global-microsoft-outage-enters-its-2nd-day-how-long-will-it-last-273437765987"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
+          "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
+        },
+        {
+          "name": "DW",
+          "title": "Microsoft rules out 'malicious activity' as cause for global outage",
+          "url": "https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+          "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Chris Van Hollen challenges Chuck Schumer for Senate Democratic leader",
+      "summary": "Democratic Senator Chris Van Hollen announced his candidacy to challenge Chuck Schumer for the position of Senate majority leader.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Chris Van Hollen announces run for US Senate majority leader, challenging Schumer",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDJtNkFCOFNqX2ZmeGFLZVFhcEFtWHhqQzhKMXdYZmFYdnZOZS1XSnhiRDRONGVwTUt1TmpuS1ZNMVZqZGx4RkdiUWlZTTg1WDFUS2hrbElaNjdNcDh5c3RKeXJYOG8yN3VoNlJ2dE80RV9HdUlyb1A5Y0hpMkc1ZzdZXy1DSmNkS2tUbV9jTF8xd0JLQzAyeWpxTUZ2eDVVUkZuSm5ISFZ1amxXZVVaYTlOZGlTdGhhbC1JVS13?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Van Hollen to challenge Schumer for Senate Democratic leader",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckRfNzZZdUhzQ1c0WkhoOHlUcGRqVWduNHo4NXNoeDBKQjRTNnVKMEpaU1NROWx2X01COVc3eS1ETEdpVUtKbVJGX0VBVERjVUZSN2VYLURlODNlbEVnWDdRRGI3THpHYmxaTURjRkJ5UFBTR3JzcDZIOUp4Vml1ejNDb2hRaXh3ZGI0OURmOUxXOUZpd3lRdzlaOThnVDlCUlZWNmRB?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+          "url": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen"
+        },
+        {
+          "name": "NBC News",
+          "title": "Van Hollen Challenges Schumer for Senate Majority Leader",
+          "url": "https://www.today.com/video/van-hollen-challenges-schumer-for-senate-majority-leader-273441349510"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+          "url": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Pete Hegseth awards medal to soldier who rebuked him at Arlington",
+      "summary": "Secretary of Defense Pete Hegseth presented a medal to a soldier who had publicly criticized him and his aides outside the Tomb of the Unknown Soldier.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Hegseth awards medal to soldier who rebuked his group outside Tomb of the Unknown Soldier",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2VqbXZuQ2FtWnBZRkNqbFdQQjg2WExvZzV5X2ZNSzFVV1dvSkFsaTBkNFNlczVkclJCOU85bXE5WkpyTlpfeU9mQzhaeE12dkR2a21xcjNRNjNDUUR3S1dIck4yN1pXUWJZVmU2ZXJ3ZXlkYlFIbU1hMmZBRUpwU0hRRGFNMnNvbmF6TlRKLTVvYmtwUWlwTTZiMS1peDMwazgzVlNyUUZDSlE4dTBOaXVuc1JzSEZyNjNMMG9JY0RIQQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Hegseth awards soldier who scolded him and his aides at Tomb of the Unknown Soldier",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3JEOXVsV1JxdWZmM3o1c3RrN2ZaOU5fRmtRekFSRVFWb0ZGdXpYb2ZKQUFNaTNwcy1zOUgzUHF4QmtOY1pudFBhQnF1R3I2dTZmUlpwVTU4cEVGVm9SR1JGMUY1TXRvbnIxQ0NvdnluOXYwU1pvZ1hUSlk5dDRWS1A0UF82aUJaV3doX1Y2NXFJX2pLVUo0b1Z6X0pVRHdpM01rVXNqV0dDeVk?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Hegseth awards medal to soldier who chastised him",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him"
+        },
+        {
+          "name": "DW",
+          "title": "Pete Hegseth honors soldier who scolded him at Arlington cemetery",
+          "url": "https://www.dw.com/en/pete-hegseth-honors-soldier-who-scolded-him-at-arlington-cemetery/a-79935075?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Brooklyn building collapse kills multiple people, criminal inquiry opened",
+      "summary": "A building collapsed in Brooklyn, resulting in multiple deaths, and the district attorney opened a criminal investigation into the incident.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Hunt for clues in deadly Brooklyn building collapse will take time",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTF0bXlzSWlmLWlkQWl1aE1xZzFRNjVtTXJtOFV4bUtGd2JQeGx0bjJ1bjRCQ2pUVFN2ejd2ZU5NZE5MVTdSNGpZbjU4RVV4MDVsQnRtLUZHV09LS0NYeWY1OGVaVkdWYk10Vy00UzdJY1lpSUYza2dWVGY3aC1vS3dCbDE2OVlHNHB5VVJYSDBSZi05eVNLcXRsMDZDWkJFZmYtMGxsN2hjQQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "First video of Brooklyn building collapse",
+          "url": "https://www.nbcnews.com/nightly-news/video/first-video-of-brooklyn-building-collapse-273385029565"
+        },
+        {
+          "name": "The New York Times",
+          "title": "How the Deadly Brooklyn Building Collapse Unfolded",
+          "url": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Manchester United hires Mauricio Pochettino as manager",
+      "summary": "Manchester United confirmed the appointment of U.S. men's soccer coach Mauricio Pochettino as their new manager.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Manchester United is nearing a deal to hire US men’s coach Mauricio Pochettino, source tells AP",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNWFqZ1AzSHF6cUhBQ3N4d3cySElIRnpqQ1NSSVpKS0s5ZW5pRnRSVkRZZmQ2cDF0dTRwYVZHM3J1ck91Qk9rdlJNbjR3YkF4a3hWNFh3QmVpRWtRTFdnQ1RXenZ4empBb21KbTFlbWl5SE5CWHVXbmFkSnpDeGdNanZ3ZG1oYlpLSklCWXU4WWkwNzZJTWd1RlZYV20?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Manchester United confirm Pochettino appointment; Fernandes rejects second contract offer: football – live",
+          "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "US sends envoys to Russia and Ukraine for peace talks",
+      "summary": "U.S. envoys met with Putin in Moscow and subsequently with Zelenskyy in Dublin to discuss potential peace negotiations for the Ukraine conflict.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+          "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Kushner says US working toward 'largest prisoner exchange' of Russia's war in Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdlhsUlJGZTlJTWxfaXhsOS1kNkFrSlRMLXNVZ09uQ0RvR0dobTRXWExCRk1SckN4aDZibm5Vdm9NWDUyWWdpRFR2aExsSFdscmNSX0U3QUlmTVRDYlpERWxHeVRUX2FUZjB3WVJBb05pYy1xZ2pILWpXQlQzaEVWNjljSUsxZ2xGVTdCZXNmazBFX21ZYkh3d1RqZTFCWEw2a09oanFWS0c0LTNwZkNOQThuamJkdk5HVFNROFFXQm1GS0E?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "US envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFZuQ05KbXhLT294akRzMl9XWE5rUmRhV01fSDY4VVF6dnNaZVlCUzdCd1I2TnI0azFRT1VHcW1hVm9oMWhUNTZaVUc0QjNVNkNseGxYTGU3RmpSWXppTVZ4TzVRWEpxdE1tOVc3NDJYdFZmdWhoeFBvSXc4MXV4N0JUSW95SzlZalpwcERuU3hRNHpSbVBwNXl1Y19kUDU1d2c?oc=5"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Iran strikes US military radar in Bahrain in retaliatory attack",
+      "summary": "Iran's Islamic Revolutionary Guard Corps claimed to have targeted and destroyed a U.S. early-warning radar system in Bahrain in a retaliatory strike.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Iran's Guards say they targeted a US early-warning radar in Bahrain",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Iran says it destroyed US military radar in Bahrain in retaliatory strike",
+          "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "North Korean hackers steal over $400 million using video images",
+      "summary": "The FBI announced that North Korean hackers stole more than $400 million in cryptocurrency using video image-based techniques.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "North Korean hackers steal more than $400 million using video images, FBI says",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUJYTGpUb1lrNXVCaVFFUjN3all5a2w1cF9HdW51OWROWC1taVFOOFozQ0pkYmpReklqTEhtNm1McUhtYVBvWTVMM2tHczJlUFZaem14Q1U0VndNaWk2Z3AxdzFvVThleTFNUXpPd3E0WlU2ZkdPSFFXeXJqNktka05TYUZmTER4TExyS3dOVTFLVWNLcVVHejdkVTk3UXVkRnUtNmNrQ3B3anBHelhIaGlka0RFMTZ0bnNWUWREeU0xV0tRNXp1THBIdw?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "US disrupts North Korea's $400 million crypto scam, FBI says",
+          "url": "https://www.dw.com/en/us-disrupts-north-korea-s-400-million-crypto-scam-fbi-says/a-79935957?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "DC gunman shoots multiple people including gym member, then kills self",
+      "summary": "A gunman opened fire in Washington D.C., killing one person at a gym and wounding others before dying by suicide.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "D.C. gunman kills condo manager at gym then opens fire on pedestrians",
+          "url": "https://www.nbcnews.com/nightly-news/video/d-c-gunman-kills-condo-manager-at-gym-then-opens-fire-on-pedestrians-273381957788"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
