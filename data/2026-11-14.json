@@ -1,0 +1,316 @@
+{
+  "date": "2026-11-14",
+  "crawled_at": "2026-11-14T22:05:27+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "US nationwide flight ground stop causes widespread travel disruption",
+      "summary": "The FAA implemented a nationwide ground stop for US flights due to an overloaded air traffic control system, causing hours of delays and disruptions to travel and sports events before flights resumed.",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "What we know about the US ground stop and what to do if your flight is affected",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Hours-long halt to US flights leaves travelers frustrated, anxious",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFQtZGduZ2NiVFhiUEhHTnI4VDg2NFA2UlVaVkI2VDBaUVMtWDFQbUJsb19pUlBKXzRUd2RBcG9FRHR0Z3lXYnA4d1ZQVUVWdWpIeXlCVGpEYkp6ZUNWbV9IOFNyRUhOVXZoalRWaFJCZzY1X1g1RXZtMmFWejUtN0F6SUE1ZGt6dl9OQjBIV1ZuWkRtVFZIU1lGXzZTa296YnozRnJYSy1pMmo4cy1hSkpWT1V2eWR0d3hJbk51YTdQOEU?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFBta25Rakd3c0VBM0NUWjJzbmV2ajZwTWRtUFVTcTVzZ2otRGo0cXZSWWV0MzNBSXdmMXNzdm9SU1d1blBBNnktRlNqQmcwVUVxQzhCNERGel9ETDBHZjJwb29IYmhGX2VPNm8xeGwwU0VNajFzZnpIM19lejBOVTZrRVVjb2t4SDh3emhSZHI?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop"
+        },
+        {
+          "name": "NBC News",
+          "title": "Duffy details timeline of ground stop, demands more FAA funding",
+          "url": "https://www.nbcnews.com/video/duffy-details-timeline-of-ground-stop-demands-more-faa-funding-273494085679"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Flights slowly resume after US aviation agency lifts nationwide ground stop",
+          "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights"
+        },
+        {
+          "name": "DW",
+          "title": "US lifts nationwide ground stop for airports hours after halting all departures",
+          "url": "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "What to Know About Friday’s Nationwide Ground Stop",
+          "url": "https://www.nytimes.com/2026/11/13/us/faa-ground-stop-flights-what-to-know.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Trump, Xi, and Putin plan unprecedented three-way summit in China",
+      "summary": "The White House announced that Trump, Chinese President Xi, and Russian President Putin are planning a historic joint meeting in Shenzhen, China on Thursday to discuss nuclear arms cuts and other issues.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump, Xi and Putin plan an unprecedented  meeting on the sidelines of APEC, officials say",
+          "url": "https://www.nbcnews.com/world/china/trump-xi-putin-plan-unprecedented-joint-meeting-sidelines-apec-officia-rcna609275"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?",
+          "url": "https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec"
+        },
+        {
+          "name": "DW",
+          "title": "Trump to meet Xi, Putin for three-way huddle on nuclear arms talks",
+          "url": "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda",
+          "url": "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Microsoft services restored after massive global outage",
+      "summary": "Microsoft experienced a widespread global outage affecting services but subsequently restored all systems and services back to normal operation.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Microsoft says consumer products services recovered; still monitoring enterprise services",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkxxbE1VclJTQkp3R3ZZR3M4b0UtTUNMMmIzb09GSzlZQU1kUDQzN3ZKRXhleXhXV1BUd1lEMXVSMnZBUDN3WEwwdUM0QVhydk5mZWwxZnRndlJHd2FEQUpWUnRaeG5raGFMY2Z2M1RHRlZYLThiVktPTVVsYVFFS0dkMHlyNmtPNWRlQ3NsYjNRY0dxZVdQaFhRUlRpMTNjdlZqbDBZcVg3Q0tRV3ZFWlQ1bTJIZHl3WXFDV2FJbFVocm8w?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Microsoft says services fully restored after hourslong global outage",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHlYRjJoX0RfREJ3UFBlQ3pacWMwMjBXeGJETGNBTFIzbHZMd1o0UFpMR00tQ25kb0x3YlBjZk4wd25hQTVoQ0FQdTVydERxenNBbkx0YVU5VGtnMUJwcW0tc2FFZ0tsMk0wbFc4TjRHWFhid01xWmljT0tZMVFicUVWRk1ueWdscFMyZXdHWGVJWjdSQ1ozLWJGdXpNMFRQdFc2Mw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Microsoft scrambles to recover after massive outage",
+          "url": "https://www.nbcnews.com/nightly-news/video/microsoft-scrambles-to-recover-after-massive-outage-273485381533"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Microsoft says services fully restored after global outage hits governments",
+          "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
+        },
+        {
+          "name": "DW",
+          "title": "Microsoft says all services working again",
+          "url": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Tanker collides with cruise ship in New Orleans on Mississippi River",
+      "summary": "A tanker vessel collided with a cruise ship on the Mississippi River in New Orleans, resulting in hospitalizations and evacuations but all passengers and crew survived.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Cruise ship overturns after collision with tanker in New Orleans",
+          "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Tanker collides with cruise ship in New Orleans, 32 hospitalized",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbGJQd2ZPVXZtMTIxS2dDR2ZOWjU5bVpGSGNXXzY4OFNEWWFTTDV0c0k3cjM5QWF3MVRqaU1RaWhja3YwZzVJOHNHYV9jWkNUR3NrWXRCUl9XSG9QODZNMHhkeUloNVI5a1U5Skg0TzhubXl0ZFZGc3JkdDkzRmstR3pPZi1USEdLTW9rRkdVOXdRakxSX1QwOVBsUEZsWTVFMHE1SkpNV19qMzM5UVE?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "All passengers and crew on New Orleans cruise ship survive crash with tanker on Mississippi River",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlM1d3RDejItNTdSdk9KWU9PaWZPanZTQmNHd3JRY1BPTGJOYWRkaWYweVVqSzUyVkFadl84SmdVT3pyVVk2RzJYZmxMZFBPazVhQ2RKbklvSnlKZHQtWnZuM0xROU1fSDlSZVAtdzg2Y1BKS3VBWlAwMGllM3pLUFkyT1lwcWgxa3YtS0hCYW5NNGFtcGNlT3AtS2YwZnJZbWowSWlXSUhCM0dJSkE?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "All accounted for after tanker crashes into New Orleans riverboat",
+          "url": "https://www.nbcnews.com/nightly-news/video/all-accounted-for-after-tanker-crashes-into-new-orleans-riverboat-273486405725"
+        },
+        {
+          "name": "DW",
+          "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
+          "url": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Nvidia scandal reveals ex-CEO Huang misled top lawyer over affair",
+      "summary": "An exclusive report revealed that ex-Nvidia CEO Jensen Huang misled the company's top lawyer about an affair with a Chinese businesswoman, sparking broader questions about espionage and corporate conduct.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Fallout from the Nvidia scandal may dampen the exuberance around the AI boom",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdnZWaFRlTXM4VXU2aXFVVWRxN2dYMkVGZTd6alN5UVFNYkQ5Zi1hTTZZOGxnSHNYcm01dWlJbkM5b1NhZjVTWlpHYXgyZTNxVWRoeEJuNGJQVmcxenRBWjJOdlZFS1lkU0FmSXpLMnd4S21FTGk0VkN3aWxpZGhweHFkTXNLdFE4WmFkaTUxa3ozZw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "A seismic shakeup at Nvidia, and a Senate flip for the ages: The news quiz",
+          "url": "https://www.nbcnews.com/news/news-quiz/nvidia-news-quiz-rcna609023"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
+          "url": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Police investigate David Walliams over serious sexual offense allegations",
+      "summary": "UK police launched a sex offense investigation into children's author and TV personality David Walliams following reports alleging serious sexual offences.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+          "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "UK police launch sex offense investigation into children’s author and TV personality David Walliams",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQczlhMFFEcjA0WHlFTW10cmZFdE9PYkpNemV2WV9pRHhxbTJMaE83akxtVnM4MVV0M3hWMkZTaFdSR0hBckU2NlgwcHB3SDVROUU4U0huVGJxc0pRSEVXWjVBM2h6X0RIaTl2V1BBOU5EeGZjQlpiSzlhTWRIb0x5QnhuOXd6ZHNnTHhUMklUczRRLWV5OXFoZXFHZEFwMUU?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "David Walliams: UK police launch sex offense probe into comedian",
+          "url": "https://www.dw.com/en/david-walliams-uk-police-launch-sex-offense-probe-into-comedian/a-79944161?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Democrat Jonathan Kreiss-Tomkins wins Alaska governor's race",
+      "summary": "Democrat Jonathan Kreiss-Tomkins won the Alaska gubernatorial election, becoming the first Democrat elected governor since 1998 and replacing a Republican incumbent.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFlrazk1QlViSjJ3ZjlhblpyOXFxT1FWZTkxSVdxc0NweEtuLUk3NDh6RkRDb1I2MVJnbG5yUm9hcmxtaHZ2VGtOT3MyaUxkSVE4MDJwMzU2NS16N2F1Tk5RLUdtaDl4TWt5NkxIT3JYZHJONGFaX3RRbXY2SW04MUc3UjhGMG1wQWtIeG91Nl9CRXRvMkdTTA?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+          "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins"
+        },
+        {
+          "name": "NBC News",
+          "title": "Democrat Jonathan Kreiss-Tomkins wins the Alaska governor’s race",
+          "url": "https://www.nbcnews.com/politics/2026-election/jonathan-kreiss-tomkins-democrat-wins-alaska-governor-race-rcna606558"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "SpaceX Starship rocket test fails to complete double-catch maneuver",
+      "summary": "SpaceX conducted a Starship launch and attempted a historic double-catch test but failed to recover the booster during the test flight.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Setback for SpaceX Starship rocket's double-catch test",
+          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NBC News",
+          "title": "SpaceX historic test flight takes off",
+          "url": "https://www.nbcnews.com/nightly-news/video/spacex-historic-test-flight-takes-off-273485893908"
+        },
+        {
+          "name": "DW",
+          "title": "SpaceX launches Starship rocket, fails to recover booster",
+          "url": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "US loses measles-free status after continued disease spread",
+      "summary": "The United States lost its measles-elimination status after 26 years due to continued spread of the disease, with measles deaths rising to 10.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "US loses measles-free status after continued spread of the disease, WSJ reports",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmxORmhpLU9PVHl1bVFzT1A5QVhUVU5FWTM5Uzl3WDRJeWFvUXJVNWJxcmp1T3A5T2Z3MmlTMjJLUmVuZVRxa1VFWVFPbFZ2TnFBRlpNU3ZqOUpzczBTTzBkRXVaZ01oZEU5WGM4SzQ1ZTlBeFh0YnlMbzgzNHN4VFpTc3BiYXJMVEdkUHdFWFZKYV9vZzhHMUV4MjV6WGZjRndHSFlUczFvV2FIcFdPeHpYSQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "U.S. measles deaths rise to 10 after new reports in Pennsylvania and Wisconsin",
+          "url": "https://www.nbcnews.com/health/health-news/us-measles-deaths-rise-10-new-reports-pennsylvania-wisconsin-rcna609245"
+        },
+        {
+          "name": "DW",
+          "title": "US loses measles-elimination status after 26 years, WSJ reports",
+          "url": "https://www.dw.com/en/us-loses-measles-elimination-status-after-26-years-wsj-reports/a-79946974?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Mauricio Pochettino hired by Manchester United after leaving USMNT",
+      "summary": "Manchester United hired Mauricio Pochettino as manager after he tearfully departed from his role with the US Men's National Team.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Man United hires Mauricio Pochettino, who tearfully leaves US job to revive former power",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1V2b3Y4N0pIMmd0d08yNDVxcWg2a0ZmZm9kdmdLTmhIZzlZR2Q4Zlh4OWkyQUg3Tkk2eXVzamIyUTNhRUx6TFlvbk1vX3VFMmp6cUp1eHlhMXl1a2NMSWYzNFR3VE0xeGJCZlhlajVrZVZUaTZRQjhRbGFKcnVjZ25JZkhZaXZWem5pT0pnRkNEMUZyUWc?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
+          "url": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
