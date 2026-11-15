@@ -1,0 +1,281 @@
+{
+  "date": "2026-11-15",
+  "crawled_at": "2026-11-15T22:05:20+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "US FAA ground stop disrupts air travel nationwide, causing mass cancellations",
+      "summary": "A nationwide FAA ground stop caused by an L3 Harris router malfunction grounded flights and disrupted travel for sports teams and passengers across the country.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "US aviation shutdown blamed on L3 Harris installed router",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWEQ1ckJVbXlQSHI5ZHU4VEppWVVZbXBYa0ZRWjdDdFNGWWxSdHF5bEtwR1Q2OHRxN2plYXctMm5lTU5TV0hzb2xQazg4U09MNDhyRnpOalhGYXJWN01mak9NR0dXWG0yR0k5WUtycmNhdkdZZkpYcXp5N2w0N2RQSUxEX1F5aEY1TGhDTzV5ZXl3dWR6QmdabDduOFBBWTNPdXBvVVY1VlAwVW1XYnIyQ2FwU2ZOeW5x?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "US air travel should normalize Sunday after ground stop triggers mass cancellations, FAA says",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzlDRHBLSTNHTHRtbnpudnNXdXZpYnpEQ1hhLVNrU3ZRM0xRNm9NcUx2NjRIVFVOQVJKWXZGZzZCZ0hTcEdjd1ppTkFIelBlc282aU05SS1YYU45WTNwRUx1RzBCX3hwNW9Ed20wQ1JmQ3hHVmFSUktDSjM1eklkYTFPN3FkWUR0V1pUSjRIMHk3MjJjX0VrSm8zaFJ6a2paSnRwNzVrQlZpZw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "FAA ground stop disrupts college football",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays"
+        },
+        {
+          "name": "NBC News",
+          "title": "FAA ground stop throws college football into chaos, while the NFL is safe",
+          "url": "https://www.nbcnews.com/sports/college-football/faa-ground-stop-college-football-nfl-nba-nhl-rcna609309"
+        },
+        {
+          "name": "The Guardian",
+          "title": "NFL referee faces 112-mile dash on double-duty Sunday after FAA ground stop",
+          "url": "https://www.theguardian.com/sport/2026/nov/14/nfl-referee-two-games-faa-ground-stop-sports-travel-disruption"
+        },
+        {
+          "name": "DW",
+          "title": "US: Duffy says 'incompetence' or bad tech to blame for flight haltings",
+          "url": "https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+          "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "SpaceX Starship returns to launch pad from orbit in dramatic capture",
+      "summary": "SpaceX successfully caught its Starship rocket with launch pad arms during its return from orbit, marking a major milestone for reusable rocket technology.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
+          "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3BNak83bkJ3N2NOejJudW5NdDlHQl9tTmZ1OUFSak9iRTZmMlo1OFAyWVJnU25GdjRLbVNOSllnekdvdm1tcFlxbnJRY2RnRks4WG4ybjZlX3dnNE1HQ3E5S0dpVGxwNDZqLTVwM3JlLWJmMDYtNjhZVXgycFJjbzFPME50Z0ViRHNWTDhYSmdfeW80UDl4NlduZGdLR0R5ZmpIa05B?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOERhUktkSjNrXzRTU1BmN20xXzk4WE9HT2V1ek5MeHZGYW1KU2tOMzdLbm8xc2J1NXBSWi03S0Rudld0amJUdHkwWVQ1YnZfRVhhMGhaV0FzSWJMR2Nfc3FWVXlZWUtieWRPaUlwSTUzUTBKZ3d4bF9VYThwR0RvQmlaQzJsTmowems1aHJSUGFpTEpsbjRn?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "SpaceX successfully catches Starship and makes history",
+          "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history"
+        },
+        {
+          "name": "The Guardian",
+          "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
+          "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch"
+        },
+        {
+          "name": "DW",
+          "title": "SpaceX carries out first-ever spaceship capture",
+          "url": "https://www.dw.com/en/spacex-carries-out-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Judge blocks Trump's Washington DC golf course redevelopment project",
+      "summary": "A federal judge temporarily halted Trump's plans to redevelop a public golf course in Washington DC.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "US judge again blocks Trump's makeover plan for DC golf course",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDhtdGs0TVotWFJLMGVMMXVlLU9vZjdFTVAzU21kUThuSmdwWmNrckFkSGVTVTJKcHVCVzRHNzA0Ui1tQnlOME9pbWZkRTVuUmtzSUJwUzdwdmIzOUpfYlRKdzJFbWN2NUkzdXROUng0eGxiTnlraVJvNzR5SmJ3WkRuUTRlWVBNSnRDWE9mUDBoS0NHWVhNSUQyQ0JJUlZGRG5GTGR4X3JmNXktdVZz?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWFjODE3SE95MjcyaDJrR2tkNFlTX3VjMWE0aEUxN21aQUotWDdsdWlTd3pCRDdGMHRmejk0Q1M2UzJUdXE3MkRTQnlNRU95QkJYMmk4UThqSHI3djNtdGxnRmlpeTRwelFyeEpZUVVMZG0taUQzREdMQzlFS25wT1dnUXg4QTVtVlY3Sk5KTHpUN1E0OHdkTU42ZGNWTkZkbEJ3bXo5TG5YLWtIakc2RWRB?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks"
+        },
+        {
+          "name": "NBC News",
+          "title": "Judge temporarily halts Trump’s ‘Trash Island’ golf course redevelopment in D.C.",
+          "url": "https://www.nbcnews.com/politics/trump-administration/judge-temporarily-blocks-trumps-plan-redevelop-east-potomac-golf-cours-rcna609366"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Jensen Huang's espionage breach at Nvidia leads to downfall",
+      "summary": "Nvidia CEO Jensen Huang was exposed for carrying classified information, leading to significant consequences for him and the company.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Bowen Yang returns to ‘SNL’ to spoof Jensen Huang amid Nvidia spy scandal",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/bowen-yang-returns-snl-ex-nvidia-ceo-jensen-huang-mary-todd-lincoln-rcna609381"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+          "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+          "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Israel kills Hamas commander in strike on Gaza camp",
+      "summary": "Israeli military forces killed a senior Hamas commander in a strike on a Gaza camp.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+          "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Senior Hamas commander killed in Israeli strike in Gaza",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVJHTEpnR0lwRmdFbHVCNEQ5YWRiTXcyRy1HcTczUHVMaDdyUjBIWlVpOW9xTnBFUGZnVXhMSk53WXFuLWtoeEp0RTkwVVZjbDBvd2E3bVplY2tPZnJaY2xhNzFta1kxUEZtMFhTYzZvYWlCeGs1X0ZVT2xvMHJDbEphYjJoQVlvZkJQdlN6VXBwZG9kQnpPMHNWYlA5aDF4Z3BF?oc=5"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Italy fines Meta €887 million over Android users' data access",
+      "summary": "Italian regulators imposed a substantial fine on Meta for improperly accessing Android users' photos and videos.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Italy fines Meta $887 million over Android users' data access",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVFmcHRvNGEzVXRKbU5Kc0JhSDV4R2o0bnpXSUJMZnRMc1E2ckNCRzBaWDhzY2xObHVtNmtiWmdoX3g4NlVsYkc1bzFDbVB0T016LWczNHJ6bGx2ZXlQeDZPUGNjeXJPaWZ3Wm5DdU9za21PMXFlZVVDckh5Q1I0QnROcElOTnA2bGMzczBMbFJweW1ISkkwWUgzNXJpTU95N0NR?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Italy fines Meta $887m for accessing Android users’ photos and videos",
+          "url": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos"
+        },
+        {
+          "name": "DW",
+          "title": "Italy slaps Meta with €805mn fine over access to Android photos",
+          "url": "https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Rory McIlroy wins record-equalling eighth European golf title",
+      "summary": "Golfer Rory McIlroy won the Race to Dubai championship, claiming his eighth European title record.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "McIlroy wins record-equalling eighth European title",
+          "url": "https://www.bbc.co.uk/sport/golf/articles/c6kg7rwmz1g8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Race to Dubai: McIlroy and Chacarra set for Sunday showdown at season-ending World Tour Championship",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb09sS0JJSGt5OXBucTFjOHRsdjZfYlhiazdoSkFWUG1EcXFOV0lkTVZYenBudk0xSG9hdTBCU0VHT3dtZUpHMWpFMXlCSlpxQ2trMTRCMnJMN0NjSUMxbkpzblYydWU5V1RLSWhQanVwM0tnU0plcWhCM1JlRmhBbklSQ256RVdvRnhoZ1Q2MFhja0ZlMXZGM0NzSm1tVXA3eHJ2VmNKWnpOTVpUN0Rrag?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Rory McIlroy wins golf’s Race to Dubai title for record-equalling eighth time",
+          "url": "https://www.theguardian.com/sport/2026/nov/15/rory-mcilroy-wins-golfs-race-to-dubai-title-for-record-equalling-eighth-time"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Iran attacks Bahrain and nearby areas as regional tensions escalate",
+      "summary": "Iran launched aerial attacks on Bahrain and reportedly attacked a US military base, escalating Gulf tensions.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FyaWZZTTd4ZWFoWFdoTnFNVmpjakdwQUVnZ0UtMEY5MFc1dEFBeGd4UmczdGh1ektRTHBjRGxBOVlVQy1XV3NOdV9MbWotQkNVa1NBdmJaUloya1VhR2FEUTN3QkgwZ1JRN00wME5tc243TmZHU20zdlpaUHR2Q2lyby0tUkJsR0w5N1lXclI4ZWI5RTdfbjB2d1hxMXVjOVp4MlJPOF9IcjIxSE1JWWx3?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Iran Attacks Bahrain for the Second Time in Days",
+          "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Jordan sentences three men to death over deadly church shooting",
+      "summary": "Three men were sentenced to death in Jordan for their roles in a fatal church mass shooting attack.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+          "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Jordan sentences three men to death over deadly church attack",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW5qZzl5QmYwRkpOaUNfQlVXU1FOdEhVX0RUWEtsYjU5a3ZfWEJGS3R4MjVRYlVha3ZrcWpnQVV1SHQ0c09qY0V2U2RscnZUNjlaVjUwYW1GN2pfMjNHNE1LemRjUEZTSGlQY3JhcUNFTjhOYlNDZkVQTzFVbHZ1elgzX01md3BoRG0tam4zVEFha2tnUjU5TlllRmtrb09PMHFQVFZmNXNWSm9wTVRPYUFn?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Democrats gain control of state legislatures after midterm elections",
+      "summary": "Democrats achieved significant gains in state legislature elections, ending long-running Republican dominance in several states.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTdyR0NNX2ZWTnc5Z3d1VG94TVlaVXhLbzIxaGUydzU4bmpEdTg4bGJ4VWtPSE5rVDdPSDNRYlo0V2xUaFpyX2xJYThLY2lCT0pvSWprdXk0aXR4d3d3MjNfUHh5a2tWUS0zTUVpQV9jUmc4bTQ3b3Uzd1dJYV9uS2V3dElDV3BkeTNJbHEzX3ZnbEIwZmdiZmNaY2FXcURYU2FVUzkyajJJUWxvRlZkdw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
