@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-16",
+  "crawled_at": "2026-11-16T22:05:21+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Prince William and Princess Kate visit India",
+      "summary": "The Prince and Princess of Wales arrived in India for a three-day visit, playing street cricket with locals and meeting with Prime Minister Modi.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Prince and Princess of Wales play street cricket in Mumbai",
+          "url": "https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "UK's Prince William, Princess Kate begin India visit with street cricket",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3dlZEQxckwyUkt6MHVHX0F4NUtiOGVEM3hDdnNVQ096TUktSU96c0xjZW5kS0pTVTE5eDNucGtJdDlRbUt5WEFnS2VYNVJ0RmR4N0w1WW16cFQ3eDNZejBqUG9vYWtlNUhSMmRscFZrdEhoek5MX3BURmYzTEQ1Z21qQzdQZE1selBDRDlWc1dkeHp3aHZxbXo1a1hvU3JLTTBqVkliSTg5QQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Britain’s Prince William and Princess Catherine arrive in India for 3-day visit",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZGJkRHhDVG91MUl0X1JlRkdvUHdyVWF6WUQ1Vmt4TXNEZkhOTzZaLUtiQmJQQlJVV3NSRWpoRGhoVVB1UFVRNmgtdmdZT2l0X2lyUDBiemdOczg4Mi1lMTh4RjF6R3RfRFpwbXd4NzU3Y2Q3aDJ1RGFzZVBQV05VNUpEbmlmaFNTR0VRVlRUT3pVYXliV3o4UFYzWEcyNFh3YjcwOU1YVk5LSUR5Z1ZKb09zNA?oc=5"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "FAA ground stop disrupts air travel across United States",
+      "summary": "A nationwide FAA ground stop caused widespread flight disruptions over the weekend, with recovery expected to extend into Monday.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "NPR",
+          "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+          "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip"
+        },
+        {
+          "name": "NBC News",
+          "title": "Air Travel Begins to Normalize 3 Days After Disruptive Ground Stop",
+          "url": "https://www.today.com/video/copper-wire-work-was-behind-ground-stop-faa-says-273572933761"
+        },
+        {
+          "name": "The New York Times",
+          "title": "What’s Behind Back-to-Back Meltdowns at the F.A.A. and Microsoft",
+          "url": "https://www.nytimes.com/2026/11/16/podcasts/the-headlines/faa-microsoft-outage.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Trump heads to Asia for meetings with Xi and Putin",
+      "summary": "Trump is traveling to Asia to meet with Chinese President Xi and Russian President Putin amid political setbacks at home.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Trump heads to Asia with hopes of shifting the momentum after midterm setbacks hurt him at home",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1NqQ012SUxkSlBybGhjS290cUFLdzVaU0NabWlVbkN3Y3IzbzRqTGsteHlBOFMwUFF6M21sa0lhVGZsaUM2MkZwaHBCN3ZqRGVKSk5DWFdOVGhVR2JHcXo2OXFtQTNrUm9jSWxqWVZ0cndRMHB0UnRtWm1rc29heE9xLXdtRnhhZ0tCdW1yZHlhVEJTN0E?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Nvidia Fallout Looms Over Trump-Xi Meeting",
+          "url": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Five EU countries announce Rwanda migrant deportation hub",
+      "summary": "Five European Union countries, including Germany, are announcing a scheme to establish a migrant deportation center in Rwanda.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+          "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Five EU countries to announce Rwanda deportation hub scheme",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVpJQWlwdjFDa3FpbGZ3aDVFdE5fREVGZTBnNGY4Rm9jeDJXWng3SU5uOGZOSG1FT3JDZG1jd3VUVVYwNFBtcTZTXzR4Z01OTVJrYVRPTndoRGc4Yk9uVXFickRTYzIxMXc4VWxvcXMzNDVOLU9JcGVFeE1jcEVjNkhFb3VmaVV2YkExbEJ1VTc0aGtfZC1xMThkOUw2WnM?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Germany to join other EU states in announcing Rwanda deportation hub",
+          "url": "https://www.dw.com/en/germany-to-join-other-eu-states-in-announcing-rwanda-deportation-hub/a-79959158?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Gérard Depardieu drops sexual assault conviction appeal",
+      "summary": "French actor Gérard Depardieu withdrew his appeal against sexual assault convictions and apologized to victims.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "French actor Gerard Depardieu withdraws his sexual assault appeal, apologises to victims",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZDFWVEVFRVlsR013V215amZvMFoyYUMyVjVPSG9ySkxLeW53UTZ4d0poRkFfMVZQOHZId0xGelphTmxYSVJPTzNDOVZGTE1ZZHRIS0kydTlnSWtBYTRsU2IwS21XWVdIaWM1eW8tQl80VmgxbUlVb1paZ3JYNTdhcXlieERvX2ZXSERreUF1eVlDSEVid3BpMDZyNDJRZWFOYlBOd2FuMjMycEt6UUZIbUxpVDNHRF9rLXc?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+          "url": "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Gérard Depardieu Withdraws Sexual Assault Appeal, Apologizing to Victims",
+          "url": "https://www.nytimes.com/2026/11/16/movies/gerard-depardieu-apology-appeal-withdrawal.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Ukraine strikes Kerch Bridge linking Russia and Crimea",
+      "summary": "Ukrainian forces attacked the bridge connecting Russia to occupied Crimea, with Russia claiming the damage is minor.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Ukraine hits bridge linking Russia and Crimea, Kremlin says damage is 'minor'",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEtSYVEzeHNfTmkxeDJMbTVXRWxob25fM2dMU2RBRFBYOGxSV2Y2TGMyUldFeVdlMWFMc21sV2gyTWdFOFZnelItcklxdDdPaU5QQ0hJZV9OZE5PaS1rek5ZN3pXdEpURWJSdjlkRWhOSlRsUS1sZXpPN3JBUjgyaWlTNDhIa0tUQU5LQl8wT0J3X3o3d2lIZWpEVUY4NU5WNk9Vd1ZLSWc3M1BJOUxhdA?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Ukraine hits Kerch Bridge between Russia and occupied Crimea",
+          "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Elon Musk joins campaign to reinstate Jensen Huang at Nvidia",
+      "summary": "Elon Musk and over 165,000 others signed an open letter calling for Nvidia to bring back former CEO Jensen Huang.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Megaspeed executive Alice Huang left company in 2025",
+      "summary": "Megaspeed announced that Alice Huang departed the company in August 2025 as it conducts an internal investigation related to the Nvidia scandal.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFF3czVab0VWVUpGMVNfVjZlcU12U0g5Q2FJcU56LXZpZ1RFSGNtRjBWSTdyZGxsNWp4WWpCX0NPdzBVZkMtZGdYQzJKTXVoTlkwenctczZDbDNUakhPNHNDYjFSa2djcTVmMEExZjRHaFZPemNBVlBBaHkybFpFcndDcWJPcl9sSFZCek1hV04wTUJTQ21CVEVHeXNOMlJKNXVGZzlFaw?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Megaspeed Says Alice Huang Left Company in August 2025",
+          "url": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "South Africa experiences mass shootings leaving 17 dead",
+      "summary": "Two separate shooting incidents in South Africa over the weekend killed a total of 17 people.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "South Africa police probe two weekend shootings that left 17 dead",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3YwdHNsRmtzNE9pVlVwU1hVUTRZYTE5eTRzMGRweG83S0ZuVXNFZ3BFUWtiLV90XzdIU1dZRTBqMUJkeVJMV09DbjdFZVhVdjRqNU10N1pQWldybVhSVElCbXRNOXhRYkw5QU5zVzM4d0NBQnNncU54dXQyVTVHbWZVaXYwdFdhZWxTSWJUSjVjd3F6MHNjV2xEMHJsM2lfZWVmZENNdXE3alVNX1FkRUp3Q1E?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "South Africa: 17 killed in separate mass shooting incidents",
+          "url": "https://www.dw.com/en/south-africa-17-killed-in-separate-mass-shooting-incidents/a-79956966?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Poland arrests three teenagers suspected of terror plot",
+      "summary": "Polish police detained three teenagers suspected of preparing a terrorist attack with neo-Nazi connections.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Poland detains three teenagers suspected of preparing terrorist attack",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR0RJbVlFajdEU0c3djEyT0FhWlJPYVlnU1JuZG1vZkRFSTZYUU1WZnFkbUtsWmxLaE8xWWpadHBzd1FFaVZDOFJtZFJ5UzVFQUFWX2tzOFExU3JqSjBxNmhadGZjV2pHYUZnOXBBZzBKaFdoRHpmTDR1WGRNTVM0c1ZaUVRHWEg5eno2NUxyal84MFlxSnl4ZXJGR1NudVZaNk5ORE9oOFlkSFp3Z0E?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Polish police arrest 3 teens over suspected neo-Nazi terror plot",
+          "url": "https://www.dw.com/en/polish-police-arrest-3-teens-over-suspected-neo-nazi-terror-plot/a-79957798?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
