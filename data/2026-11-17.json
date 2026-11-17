@@ -1,0 +1,266 @@
+{
+  "date": "2026-11-17",
+  "crawled_at": "2026-11-17T22:05:28+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Ukraine damages Crimea bridge in major strike on Russian infrastructure",
+      "summary": "Ukraine conducted a significant drone and missile strike that partially destroyed the Kerch Bridge connecting Crimea to Russia, with Russia claiming to have intercepted over 1,300 drones in the attack.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Ukraine damages Crimean bridge in major strike as Russia pounds Kyiv bridges",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Putin’s prized bridge is partially destroyed in Ukrainian strike",
+          "url": "https://www.nbcnews.com/world/russia/kerch-bridge-strikes-putin-crimea-ukraine-russia-war-kyiv-rcna609756"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+          "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine updates: Russia-Crimea bridge appears destroyed after strike",
+          "url": "https://www.dw.com/en/ukraine-updates-russia-crimea-bridge-appears-destroyed-after-strike/live-79964446?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+          "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Trump begins Asia trip with Philippines visit ahead of Xi and Putin summit",
+      "summary": "Trump arrived in the Philippines to kick off an Asia tour that will include economic deals, meetings with regional allies, and a planned summit with Xi Jinping and Vladimir Putin in China.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Trump meets regional allies in Manila ahead of China visit",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0l1bEVvMnNwMHJqM01iVWVDR2JJQmRvaU51TmJQdGRLVnVKUENDTWlLTW5wVEdSVG5uTFEtYktLMUlDWjU4ZXJ3U0ROcjZtMEZNVlZCZFBiMTNGTldnMVBEX09UMkhLS0pQSlVqMmlXMTllMGdxZ3BsU2xrM1lvU0JDWHdSYzh3QjJhRVFUc3N2YW5xLUpXOGNWdG10cTM5R3BYNWtjLTNFN01oaGo2UzVvRQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGw5a2lMb1B2bEtyYWotSkJYcWhXNHN2R3lwQlNuSUxfSHB5VzJ4Y25wNjZvcnVMLWhlN01rNnM3LXo2OHVScndJZm5VRWhjVFNrNnJZZDRhdEpoSThDelpzbDJlMTB0QXZ2al9FLWFkS3JTU1FfaFpBVkp1X2lrMU93bU5FbzlIQl9qbzFQLXE?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+          "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump Arrives in Asia for Historic Meeting With Xi Jinping and Putin",
+          "url": "https://www.today.com/video/trump-suggests-north-korea-s-kim-jong-un-may-join-asia-meeting-273634885662"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Apec and Asean summits live: protests greet Trump’s arrival in Manila as he meets leaders of Japan, Australia and India",
+          "url": "https://www.theguardian.com/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news"
+        },
+        {
+          "name": "DW",
+          "title": "Trump kicks off Asia tour ahead of major talks with Putin, Xi in China",
+          "url": "https://www.dw.com/en/trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china/live-79964719?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Robert Pattinson named as the next James Bond actor",
+      "summary": "Robert Pattinson was announced as the seventh actor to take on the role of James Bond, succeeding Daniel Craig.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Robert Pattinson is named the seventh James Bond, taking over from Daniel Craig",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3WVdwdnRSYW5oWmtlN1hsVXVZUV91UVR3bi02WEdFYXV0cHAyckFqNGhhRjVmWjZaWlNQYW5VM185akwyZjgzQmFhZzZWVlFoY3FUcXNmbmNObmNOQWlxUGVmc19kNXJmZmlqcW84V280ajE1d0RZWVFPczlKVXM?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Robert Pattinson named as the newest James Bond",
+          "url": "https://www.nbcnews.com/pop-culture/movies/robert-pattinson-named-newest-james-bond-rcna607085"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Robert Pattinson is James Bond. So what happens next?",
+          "url": "https://www.theguardian.com/film/2026/nov/17/robert-pattinson-is-james-bond-so-what-happens-next"
+        },
+        {
+          "name": "DW",
+          "title": "What has changed in James Bond films over the decades",
+          "url": "https://www.dw.com/en/what-has-changed-in-james-bond-films-over-the-decades/a-63332001?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Trump administration moves to block China's indirect access to American AI technology",
+      "summary": "The Trump administration advanced efforts to prevent China from gaining indirect access to U.S. AI technology, despite lobbying from major tech companies like Amazon, Google, and Meta.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "EXCLUSIVE: Trump's China data center curb advances despite Amazon, Google, Meta lobbying",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamZVTFBIMlk1aHp5ZUZ3ME56bnZlV3NPODhQY3JKcnI2dUtIT0FqSHFveTRSem1Rby14eXY4dnhCci1WWmNJdEZnTnNnOUJldUROSXFWc1I5SmExVXZ2dWlhMWhQSkpqTFJIN1R2aTJsX2tJQ1l6cnhRY2JWdTNpVjNKZFhuelREd1A1S29BYUhDRHlTNWxncUJ3aHFobUU1NFZNTVlkbkxLUWExUFVjWHpOSHo3aE0?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Trump administration moves to block China from indirect access to American AI technology",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGJmTGhQa3FRRDZtX3BqVk9SNlc1aHZ1QXZiUXdHMmlmZmdyUjFKS0hrREM1OFRrVDVjUGpSWnZfVTEtdlozVHVDc0h5Rld1cGVKQTFGYzVZOGJMdDNheWdEcFRhakxCVW1xcnQ3VHBzS2lRdWNPTGdtUkNxNVRnT1JUVzVKNzRXUlNuLUtBOVk2REZnZjMySER5NmhfNTliRjZsZ3B5TElrN0JU?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "As Trump Goes to China, A.I. Tensions Surge Amid Spying and Safety Fears",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/trump-china-ai-tensions.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "UK imposes sanctions on Israeli firms operating in West Bank settlements",
+      "summary": "The British government announced sanctions against Israeli companies working in West Bank settlements as part of efforts to protect the two-state solution.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "UK sanctions firms over Israeli West Bank settlements",
+          "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Britain sanctions Israeli settlement firms in push to protect two-state solution",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXk4clBMd2ltVDE1T2tJSlJRLUs5dTIzUTVXVVRkVWNMUTRzMEVFR2ZvVHNUelRhZXB5WDZGU2lmV2p3VDIzSWNwdVVRbnl3Y0JCWXQ1VnAtRmQwZWxsdU9GSDJ1ajh3U1pCRDMwRDdTblBYMUs4RE1udnNzSkU1alhwQm1QNHo3aF91M0Zod1JsNVV4RllPcHdkdEoySUxsRkhIZ2x5STF2LWdEbWF4M1czUUNySWJDdGc?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+          "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Raye leads 2027 Grammy Award nominations with women artists dominating categories",
+      "summary": "Raye topped the 2027 Grammy nominations followed by Rosalía, Ella Langley, and Olivia Rodrigo, with women artists leading major award categories.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo and more",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1NvZzlpbVRQamxpSTdrUXF3NDlBenR6MEJPTXdiZjRlTkxJc2V3V3hUU1NKTWV6dmV6NE8yb3dIclNwNXBsYlZpNmd0dGVFVDhVXzlWV0hoTGJxel9tRDVfS0VXUlFVanpVc2VSZGx1MGFqekJSRm9DN2taZWgyR2RpYzFFc1gzMy13?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Grammys 2027 nominees: Raye, Rosalía and women artists dominate major categories",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/grammys-2027-nominees-female-artists-dominate-rcna608451"
+        },
+        {
+          "name": "DW",
+          "title": "Grammy Awards: Raye and Rosalia lead nominations",
+          "url": "https://www.dw.com/en/grammy-awards-raye-and-rosalia-lead-nominations/a-79961198?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Mongolia's president announces resignation over corruption allegations",
+      "summary": "Mongolian President Khurelsukh announced he will step down following accusations of corruption.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Mongolian president announces resignation over alleged corruption",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXZfUjRFY2sybHV6NUN4TFc0WUs5NUh4Mk0tMjhmd1pXSWNtVzVJMDZCdGg2ODRodzhJSUFrQU5oOWNHVGpFakRPV2dCSkFMMkNBTTgySmhYSkN1UTJ6aWtOWFU0TzlnYVNwZWVhUjRXODlfOVhPUmRad19WMm9Dd2VkaFBTMVdFdDNqZEpuLW1NaEo0T1JwS0tvUXFWbFhQRVltekJ3WVNFb3ZVUWF0aWJrTQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Mongolia’s president says he will step down after facing accusations of corruption",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNjZaTl9iN2I4eHBFUWlkWTNmY29qZndVdUdlUXpfbjJhSllpTnNncTFWcGhzdzliRU9aVkxQOVdGcWxqUWd3NjQtMUtEMlg0NU1uVjljc29aRFBHSDU2NXlIWXRyOTk5MnFJcGtKX0ZKdlo3b2FGRTdsU2ZFdjN2NVpTUXRRei14MUFiUGpaNjJFanBBXzRmR3VqS0FXbW1uTU5r?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Mongolian President Khurelsukh to resign amid corruption allegations",
+          "url": "https://www.dw.com/en/mongolian-president-khurelsukh-to-resign-amid-corruption-allegations/a-79964717?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Tech stocks tumble as Nvidia shares fall ahead of earnings report",
+      "summary": "Stock markets declined globally with technology companies leading the sell-off, particularly following concerns about U.S. AI chip export restrictions and ahead of Nvidia's earnings announcement.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Nvidia shares set for $335 billion swing after earnings, options show",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVgtN05zY1JHMFRsZlg2WkdkdGNRMDV4bFl4RllkcWFvVEVyd0QxTUhZWERjUmhIWTlOTkxiNHpxQjJpQTV1ZU45dGNmT2M5MDd4ZkRZeHNxSGNjaTFPdHUyRXJEdHlrSGRuWUlaX0VDRkpWNG9CS2UySmxFajBDQ1NjU0JMcUl6NFNmbFZoOXYyY19GMExQSkZva2VWMWUtUGpLRG93TkRhWHRU?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Stocks tumble on Wall Street as Nvidia leads another sell-off in technology companies",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXdFLTA2eFh1c1k5N2ZnWnBXdkpYX3ZzMkNaUC03SjBXeDlVcHplSm1fUnRnVzJsaGhFb0I2eHp2Si1uaTNRaEotekFyYlZYRVlxdzNydUhEaXZaa0c5dW1ybEp5T2wyWUN2eVhGaTdpdVV5bkRuRDJxQVd0X2wySmFhQXNiaWROVmRJRXdIRDVtSC1CN3c?oc=5"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "United Airlines resolves system outage that delayed flights nationwide",
+      "summary": "United Airlines experienced a 1.5-hour technical outage that forced delays of departing flights before the issue was resolved.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "1.5-hour-long system outage forces United Airlines to delay departing flights",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2xoSnd5Sm9rYTl5eFVRVzc2MFlNSk5qNUJRckg2X0tVazZEZG4wNTVVYW9JeWNyY1J6TWlKS0VURXd1c1JzUUdYU01WQzhQNWhkOEVCOXo4TTlLSnFNanUzVW9BYkZMOVBSb3ZfRnFMWXZFSGp1ZE5vSF9MTEd3VmxSTGI0YlR1VlE?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "United Airlines resolves tech outage that delayed flights",
+          "url": "https://www.dw.com/en/united-airlines-resolves-tech-outage-that-delayed-flights/a-79964387?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Pope Leo rejects proposals for allowing married Catholic priests",
+      "summary": "Pope Leo declined to approve proposals that would allow Catholic priests to marry during his recent South American tour.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Pope Leo says no to proposals for married Catholic priests, for now",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUENsM3hTUGZGNG0xMWlGQjlYMjJCbFVHbWs4LWhSbXZfTlZER2hoUjlUWjM4RFFlOGdtRy1QUGVnLTF0aEE0Yzl1YWNhZFI1XzczbTdKOXFTWXF5Y0U0SWJyQzZqY3BkTnd3U0h6T3h3S0NXSTFMT0hoUVR6Ni11ZHJ1eUc4dlUyYlJIVkQtb1NULURrYkd1bTVxbE9uZw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Highlights from Pope Leo’s historic, 12-day tour of South America",
+          "url": "https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-uruguay-argentina-peru-milei-fujimori-rcna608513"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
