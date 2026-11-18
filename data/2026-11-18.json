@@ -1,0 +1,301 @@
+{
+  "date": "2026-11-18",
+  "crawled_at": "2026-11-18T22:05:20+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Trump meets Xi and Putin at historic APEC summit in China",
+      "summary": "Trump arrived in China for meetings with Xi Jinping and Vladimir Putin at an APEC summit, with Xi greeting Trump upon arrival and Putin signaling expectations of beneficial outcomes.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+          "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Russia's Putin says he expects 'big potential benefit' from meeting with Trump and Xi",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa1FfUS1OenA3M3Y5X29pUkxZUU1MbXdnaDlwNmtGd2RJaktuV2J6LTdVUTBwLW5OR0VEMUNKUlNRQjBDdkxMM2duWTlrQmNVdjFJalhHQUM4UVlUWGNnc2Y4dUJPa1FzSFN4QkxJREZqLVExdWFCOUNzWnllMVRTb3gzdE5XSUZBMlpjTzNiTzVvYUhyaUlENWlBdmlZUFNFWEI0dkM3Ql9ZWmVUR1FuRUtqYjFjdEREVVhqX2czWHdlNVk?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump Lands in China Ahead of Historic Meeting with Xi and Putin",
+          "url": "https://www.today.com/video/trump-lands-in-china-ahead-of-historic-meeting-with-xi-and-putin-273718341601"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+          "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
+        },
+        {
+          "name": "DW",
+          "title": "APEC summit: Xi, Trump and Putin gather in Shenzhen, China",
+          "url": "https://www.dw.com/en/apec-summit-xi-trump-and-putin-gather-in-shenzhen-china/live-79964719?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
+          "url": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Democrat Mary Peltola wins Alaska Senate race, extending Democratic majority",
+      "summary": "Democrat Mary Peltola defeated Republican incumbent Dan Sullivan in Alaska's Senate race, giving Democrats 56 seats in the Senate.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Democrat Mary Peltola wins in Alaska, securing 56-44 US Senate majority",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDhNX2ltb0xDNjBoTzlRcFZtcGl4V0FhOE94dTEyMHZVSDItM1ZMYUR2SW1NZVRpamgzQ2g5cXNrcE1wWG5oZlJDNFBWZ1MxeUhUcWhUSF9qM3Y0RXFiY28zT0xiMXdlbU8xX2JoZkUtLW9WejVlX3p0NGtxT0JUNUh2QldjcU5aYThDNWdNcUxUTVo2dTBKTG16NGZrNGQ1WUR6ejUwUnZxM1U?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkFROVltMWlvNVFIRVN4MTZTb1lWM04xUGRtM05odzZYUk9zNWxxZnVKZlluYnVfeG5PX3lYOTZTejdVSEIzS3A5b291STRFeW1seWM1cWJKU2ZoNm1kSHp3MW1Pa1p1bV9ZY2NNZEgyNzhGRnlKa1pMNXFOR3k2bThMWXk5ZHdYTmlrb1RDS19OWVZ2dU9wRDN4dmd1SWpF?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+          "url": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai"
+        },
+        {
+          "name": "NBC News",
+          "title": "Democrat Mary Peltola wins Alaska’s Senate race, NBC News projects",
+          "url": "https://www.nbcnews.com/video/democrat-mary-peltola-wins-alaska-s-senate-race-nbc-news-projects-273698885569"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats 56 Senate seats",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race"
+        },
+        {
+          "name": "DW",
+          "title": "US Democrats flip Alaska Senate seat as Mary Peltola wins race",
+          "url": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Nvidia board decides not to reinstate Jensen Huang as CEO",
+      "summary": "Nvidia's board announced it does not intend to reinstate Jensen Huang as CEO despite pressure from Silicon Valley, with Huang breaking his silence on the decision.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Nvidia's numbers impress but investors fret over CEO succession",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbldlWEozckRZVFhNcGlyNVhJSkxoQ1E2UFduQ3ZaNHFBT0RKMW12eTNJV1BhNzZVMENXWFk0OWE1Z1RWRlUwMW82a2RhYm9kQjlIcmlUb1dzNVBUU25hVHQ5eEdVckRac3B5cUlFMjZkUUlJUFYyZFdjVW95R1ZiT0JZdnFSM0RvMG8tdkxOY21uNFRuOGRTdFJqMzBySXgtTDQ2T2ZzUDdzb1UxbGtfeA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Nvidia rejects Jensen Huang’s offer to return as CEO despite pressure from Silicon Valley",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+          "url": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai"
+        },
+        {
+          "name": "NBC News",
+          "title": "Nvidia board does not intend to reinstate Jensen Huang, chairman says",
+          "url": "https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+        },
+        {
+          "name": "DW",
+          "title": "Nvidia beats Q3 expectations in first report post-Jensen Huang",
+          "url": "https://www.dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Nvidia Has No Plans to Bring Back Jensen Huang",
+          "url": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Grand Theft Auto VI receives critical acclaim as gaming masterpiece",
+      "summary": "Critics praised Grand Theft Auto VI as a masterpiece and groundbreaking love story combined with crime thriller gameplay.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR",
+          "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
+          "url": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Grand Theft Auto VI Review: It Will Steal Your Heart",
+          "url": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Multiple US tech outages raise concerns about infrastructure vulnerabilities",
+      "summary": "A series of outages affecting banks, airlines, and other technology systems occurred across the US, sparking concerns about the resilience of critical digital infrastructure.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Classified communications network at the National Security Agency goes down, defense official says",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMktLaW5kdHVTN3VMZTk4bGp1WWZZZGVJLXFWa2QxOExBN25NdXNYd0F6RW1wZER4QTFDZHlZaWNpbURDdVk1UFBoT3N2ME5UcnIybFRyb0dsemJJbzNHQlJnd0lTSEs3LVJibVRCQjk1c2xNNFpHSTlia0VhRUNCbktOaWtOQlNhNzBvZURB?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Is the Recent Spate of Tech Outages a Warning Sign?",
+          "url": "https://www.today.com/video/is-the-recent-spate-of-tech-outages-a-warning-sign-273718341533"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Tech Outages Rattle the U.S., and Democrats Win Alaska’s Senate Race",
+          "url": "https://www.nytimes.com/2026/11/18/podcasts/the-headlines/tech-outages-alaska-senate-race.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Jeff Bezos says he was heavily involved in casting Robert Pattinson as Bond",
+      "summary": "Amazon's Jeff Bezos claimed he played a significant role in selecting Robert Pattinson for the new James Bond role.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Amazon's Bezos says he helped pick Pattinson as Bond",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb3p6MHo0c2dTQkhmV0N0dlRRWGROWXp4NFpXVU96bkVYc1ZxRHRWeUZyTXdNeE9NQTZ1S3c0clBDNHk4TzZ6R0ZpV19LaGNfcVhFNkpJV21FUnJacWJ5ZEd3S21tQXJxdFFWNzY5WFlnUFBxTHFhZEdXbWNqa0Z6WFcyNzRyR1dJRWIzbl8yT3ZpQlg1UGpxZDJ3?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/jeff-bezos-heavily-involved-casting-robert-pattinson-james-bond-amazon-rcna609958"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Waymo suspends robotaxi rides on US freeways after California ban",
+      "summary": "Waymo paused all driverless taxi services on US freeways following California's regulatory restrictions on autonomous vehicles.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Waymo pauses robotaxi rides on US freeways after California ban",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkw0bE5kQUlYTVp4amxvbkwtbnc3ZmZTc0FUaWtiUmtmbkF6SldmOXpGOUt0T3BHRk0zOVN3QXpLQ0d3UDRwakVSblEwT3h1NHV5ekdyVHhCMDJBOGtsZEdaZDJzUGlYTlMxRGxXWjZmRDU5dnh1Y1NyY0duUlFmNEF5YjVxQV85aVBhTUw3UGptQ1hBSFJQSXpVRkg4VXd4VEdlak9MTDdjM1FOTVdzaHB4djl1Y21VSGtLU1hLcS1OTTdl?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Waymo suspends all driverless taxi rides on freeways after ban in California",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDB2R0RQRGVXUFMtd0M3YUoyRXlSaDZVWVBWRVBKT3gwc3MxQjN3a01fREpMdDFwWXRJaFZuQ0sxTUJzYXkyMGMwOGs5YVUxeUwwd2owRnRuRFl0NWxuT0VHZ2k0eHF1Q0tTc0NoVi1mYTQtM1NrQUUyZ0VzcngzQjZ1M1d6QWRwNzlnQm5qQ0JUVmNXN2NEQ3U5eFpJN3pGSTVUTmRtN1VHc1E?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Waymo pauses all robotaxi rides on U.S. freeways after California ban",
+          "url": "https://www.nbcnews.com/news/us-news/waymo-robotaxis-banned-california-freeways-rcna609917"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "US loses measles-free status as outbreaks surge across the country",
+      "summary": "The United States lost its measles-free certification as multiple outbreaks occurred, raising public health concerns.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "After 26 years, the US loses its measles-free status as outbreaks surge",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDJRWUV3Zl9CaUJrdWZXYjlIY2txdlRRSGtNUWNkUEtmZXFGNWg3LWl4a0M0VnVuejRFWUlrTHhPbWdUZ194Nzg3bFEzSXB5b0Q5VXQwS3cxZTA4MXpSNzc2X0xVcTd0TFZBYTRJNGxZOWxINFRmY0NXU0w0VHhpdGJieVlRT1VSR0o2WUpmaVVaMDMxVHdXQ0I0eWc?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "US and Mexico lose measles-free status",
+          "url": "https://www.dw.com/en/us-and-mexico-lose-measles-free-status/a-79973966?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "How the Measles Virus Makes Your Immune System Forget",
+          "url": "https://www.nytimes.com/2026/11/17/science/measles-virus-immune-system.html"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Cameron Bancroft reveals entire Australian cricket team knew of sandpaper plot",
+      "summary": "Former Australian cricketer Cameron Bancroft disclosed that the entire team was aware of the ball-tampering scheme during the scandal involving sandpaper.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Banned player says whole Australia team knew about sandpaper cheating plot",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘It was the whole team’: Cameron Bancroft blows lid off Australia’s sandpaper scandal",
+          "url": "https://www.theguardian.com/sport/2026/nov/18/cameron-bancroft-sandpapergate-ball-tampering-australia-cricket-ntwnfb"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Harry Styles, Billie Eilish and Cher to headline Glastonbury 2027",
+      "summary": "Glastonbury Festival announced its 2027 headliners including Harry Styles, Billie Eilish, Sam Fender and Cher.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Harry Styles, Billie Eilish, Sam Fender and Cher to headline Glastonbury 2027",
+          "url": "https://www.bbc.co.uk/news/articles/crwy4w381nlpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Harry Styles, Billie Eilish and Cher to headline UK's Glastonbury in 2027",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmtzeUdlYi1CMENKX1FxNUFpUW10OFNJbzlrVldULTloQUZxc01XNzlkcXQ1c3RWRXJMTndHamRrenlXRUJMMFpIVkxORUdRNUV1R2hEUDRIX2hqcWItdUFOclFMNFkwZi1YVl81UzA5OTMxRnVTOXpDeXBOQkRKVzJVOFdBcmN1R1QtNVM1R2UtMTJUZkFwQll0MllyOVMyLTNuM0t1RVRRdw?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
