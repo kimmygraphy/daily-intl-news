@@ -1,0 +1,331 @@
+{
+  "date": "2026-11-19",
+  "crawled_at": "2026-11-19T22:05:24+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Trump meets Putin and Xi at summit in China",
+      "summary": "Trump held a historic trilateral meeting with Putin and Xi Jinping in China, marking a rare diplomatic gathering that dominated discussions on Ukraine and global relations.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: Trump greets 'my friend' Putin as pair shake hands",
+          "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "China's Xi says US should do 'right thing' on Taiwan to avoid setbacks in relations",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcEdkaW85aF8zYUdyVGZ2U3NuYU9ZQm1wX1F3d1l3eW1STEgyVGt4aWJUUEU2eW9VMUJBaG5vWlRCNGZBd3U3N1lhZ2lWQ0lTVUVIX3JhbTN2OHl5XzNUY3ZRTm9MRmo3eGdHWFk5SlpjbVAtZ2Y4WVh3RXZMYmZ6VjY2bUF0TmNDVVBCMU5mNDJ3WUU1anY1VzQtSGpDU2pCa3c2T2gwX1A2YWFJWVNHNUpmRFd5bVhYTm1F?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "For Putin, sharing a spotlight with Trump and Xi boosts his profile on the global stage",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVV8xWGtoUVBFb0pZRXA2U05JRldkTXdGRUxBWHpBd0ZHd2o2U2ZiYjFELU5jTGdOZ1RfZnpTZk1MM0ZqSTNuRWdYcnAxUlIzdWZzV0p1a1JhS1BreXozOWdnNC1nclNZLU5SaUV0SVdTU0VCdlNNY2ZJOG1qM3E2aS11NzRnMERpVTV6RWNCUklGQ1BxT19tX0V0T25WTnVQNlE?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump, Xi and Putin Meet: What Was the Outcome of the Summit?",
+          "url": "https://www.today.com/video/trump-xi-and-putin-meet-what-was-the-outcome-of-the-summit-273799749776"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Apec summit live: Putin threatens retaliation against Ukraine over bridge attack after talks with Trump and Xi",
+          "url": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Trump Greets Putin as ‘My Friend,’ and the Rise of GLP-1s for Children",
+          "url": "https://www.nytimes.com/2026/11/19/podcasts/the-headlines/trump-putin-glp-1s-for-children.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Anthropic raises record $81 billion in largest IPO ever",
+      "summary": "AI company Anthropic debuted on Wall Street with a record-breaking IPO valuation of approximately $1.5 trillion, raising $81.3 billion in shares amid strong demand for AI investments.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Anthropic raises $81bn in record-breaking stock market debut",
+          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Nasdaq futures climb on optimism ahead of Anthropic's market debut",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Anthropic to debut on Wall Street with a $1.5 trillion valuation in the biggest IPO of all time",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVmSzl3dVBhbDdFbTMtTUl2LWVHU1FRb2hvYzJZNWdFU0ZDTmU3NFBVNDVWQXNXQlk2QmkzblN4MUplLWVGc1NheHNRZVpZTHZ1eG9OME53SUNtOExJQzNFSTJpLUw0cWxnSjR4VWlXLWZhZUZsc0dna1J6bmxZTTNBb0l2LUpq?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+          "url": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic"
+        },
+        {
+          "name": "DW",
+          "title": "Is the AI bubble bursting just as Anthropic goes public?",
+          "url": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
+          "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Myanmar ruled to have committed genocide against Rohingya minority",
+      "summary": "The world's top UN court ruled that Myanmar's military forces killed thousands of Rohingya people in a genocide, in a landmark judgment on the mass atrocities.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "World Court finds Myanmar forces killed thousands of Rohingya, ruling ongoing",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSnpTTEM4UUNIZi1KbDViNGdmVlV2MTgxSUVGWjdra045RXVoZWhYbnNGcUFob1d1OUljd01LNGo1NGV5UDN6emRwVlZ2R0dtamU5RFo0SVBVSmVGR1MyUF9aSmlqZVRST0V2eE5vVGE1QS1sb2oyV05VVWF5T25XQ1lBVjhhN1FRV2VHMFVKak00TkluZzdrbzk0Q1BXOENRbjNHLXE1S3F6LWpYeHlXOVk0QWhpcE1vY1pObkxpT1FNV2xYSkZr?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Top UN court to deliver judgment in case alleging Myanmar committed genocide against Rohingya",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ2JsMy1wbUtIak40cVlJbkk4cWxNdER4QThqbi0tY2h6d1dOM0NWZUJZYjhMaGplRFRFLW9VMDNrbkVsM19SMWUxS01aNEFIVHBwMjZ6dDRubmZFclZzaVNvam4zazJLZjFpank3a3l1VzRrXzlqLTdnU3JiRG1vQkNyUnB6S0tVcnNlU2dqNG1SWG96Rzdhem5ZLW5vY2VUQUNfcTNWdEV5Zw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Top U.N. court rules Myanmar committed genocide against the Rohingya",
+          "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+          "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
+        },
+        {
+          "name": "DW",
+          "title": "Myanmar committed genocide against Rohingya, top UN court rules",
+          "url": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.",
+          "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Grand Theft Auto VI launches after 13 years of development",
+      "summary": "The highly anticipated video game Grand Theft Auto VI was released after 13 years, arriving with enormous hype and widespread critical acclaim.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "'GTA VI' to supercharge Sony — but not so much in Japan",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1pwcXVKYWNHblYzQU9xMGMwd0dWWkhQQmxDcEV3OU9ubXZZNC1USElINmVhX1IyMkFqSXNZTTRCT0VSX0pmcTYxR3RuaVVVb3Bsa1RuTmV4YWJNQXVrdXlxVHJhRVYtVVVGWndsSmJNM2NoaThhQXFSSlA0TENya3I4bFo3SXVKbkVGQUxxRHRIN0lQVS1kSFdaMEpLNzBu?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "After a 13-year wait, ‘Grand Theft Auto VI’ arrives with enormous hype and expectations",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNU5oVy1LNFdSWUFIbTV3RkNqQlJNWWdlb3pJNUxOV3ZRMU02TjFOV0VBUGVoRDhLOEU0SHpSTl9YMEwtN1pVSV9rQ0I0cUZvRFptd1NGUks3ci0zekpiSmZKMmJobUZfcTZpS1YyVkZCbVR4U3RKQ1F6TUlXU2x5VmdDZ2V1empCQVViM3NNVDhPc1NtMU5IeENVZWlNQQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Grand Theft Auto VI launches after 13 years of development",
+          "url": "https://www.nbcnews.com/video/grand-theft-auto-vi-launches-after-13-years-of-development-273781317952"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘Most extraordinary virtual world’: critics hail Grand Theft Auto VI as masterpiece",
+          "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-vi-critics-response-masterpiece"
+        },
+        {
+          "name": "DW",
+          "title": "What makes 'Grand Theft Auto VI' more than just a game?",
+          "url": "https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It.",
+          "url": "https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Ukraine strikes Crimean Bridge for third time in a week",
+      "summary": "Ukraine launched another attack on the Crimean Bridge, with Russia claiming it was damaged in what officials said was the third strike in a week ahead of diplomatic talks.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Crimean Bridge attacked again, Russia says",
+          "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Ukraine strikes Crimean Bridge for third time in a week ahead of US-China-Russia summit",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUzRFcTV3RC1acloyenJ5UXlCQjNfZ0tieEg5NXpGX3NObnlVMzVTR1BDX3VsNWlhOEZKak1ja3JGU3hBMTI3cjJsRlpGWTNhRm1iSkc4U1JHeUdBYXFYdVpjWW9maWJ6MTdMOEw5ZG1YRUJyTkctVGxlTk1hT0VKY2lGNDdGS0w3ZnRJdUQxUzBHeU9KNHdUODBNMEllMDR5Y1NZaFhsd1ZNYzh6ZmZTS0p3S0pCckJ4REUwYnJIN3NsUQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Apec summit live: Putin threatens retaliation against Ukraine over bridge attack after talks with Trump and Xi",
+          "url": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china"
+        },
+        {
+          "name": "DW",
+          "title": "Crimean Bridge has been attacked again, Russian official says",
+          "url": "https://www.dw.com/en/crimean-bridge-has-been-attacked-again-russian-official-says/a-79986700?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Denmark ratifies security deal over Greenland with US",
+      "summary": "Danish lawmakers approved a security agreement between Denmark, the US, and Greenland, ending tensions over strategic Arctic security arrangements.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Denmark ratifies Trump deal over Greenland",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLV9HMkljSnNmOWZWZGFRQWEzUTRpMEg3bXpXSllFdERYS0VNLVV3bnEzN1ZZeG85b3VWb2gzaXFLMldWejVlNGhfWlNqazFtUDQ1cDdJeVVGWTlac0xvVWlwRnZIU0NnNURrX2s1XzRXQmZtWGlxcUxRQUY3QTVKOWVfNDQ5dW5FOENXUV80Z0dSNTB1TTV6dE5TT09PYWs4X0E?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Danish lawmakers approve a security deal with Greenland and the US, hoping to finally end tensions",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZXZ4T0tGUlE3by1Sd0FHU05tLW8wa1pYYWdjczhsM1NNTDh5WVVLRk4yQUhmRTR1LVpRdFBSSUpDUE56Mk5aUE5fNDNQY3lFUWtGQ2ptV2d2ZG43MWhGdjNTS0RpVXNJT1RXbm9NRjJNeU0ySmhBdXAwQUgzeVBGWDZtaTlSRW5TVTNPX3Z3SElOV3psNEpSOFQxeUR4V0llbS13dVlCTzc1dnVzaF9tZg?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Danish MPs approve Greenland security pact with US",
+          "url": "https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us"
+        },
+        {
+          "name": "DW",
+          "title": "Denmark ratifies security deal with US and Greenland",
+          "url": "https://www.dw.com/en/denmark-ratifies-security-deal-with-us-and-greenland/a-79988989?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "House Democrats nominate Hakeem Jeffries for speaker",
+      "summary": "House Democrats selected Hakeem Jeffries as their leader, positioning him to potentially become the first Black Speaker of the House.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Hakeem Jeffries could become the first Black House speaker after Democratic nomination",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkFKcjYyblpFekN4MnNrTUo1Z0ZIVGkyRTJHSENPZ2N6bEE3QmNPVWVnX1VkRG5xbk1IRzBsM1hkaHgwaWo1NkdQSW9PUzZoS1h5TUFteGhGakcxdVUyaml1SDNCXzNkYkhiSkpQVWFkRjh3d3JOeVlkRGt4X01sazQteW42UGIwMjJCZklydHBVbWYwLThsVUEyRnZ3ckZTZkhrcFdfcENjVG9Rc3dJ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+          "url": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic"
+        },
+        {
+          "name": "NBC News",
+          "title": "House Democrats select Jeffries as leader, setting him up as the first Black speaker",
+          "url": "https://www.nbcnews.com/politics/congress/democrats-formally-nominate-rep-hakeem-jeffries-paving-way-first-black-rcna609619"
+        },
+        {
+          "name": "DW",
+          "title": "US House Democrats nominate Hakeem Jeffries for speaker",
+          "url": "https://www.dw.com/en/us-house-democrats-nominate-hakeem-jeffries-for-speaker/a-79983827?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Elon Musk says he felt foolish about massive Republican midterm spending",
+      "summary": "Elon Musk expressed regret about spending hundreds of millions of dollars backing Republicans after their poor midterm performance.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+          "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Musk says he felt 'pretty foolish' about scale of midterm spending after Republican rout",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTl9SMXVYalFha1V6ZW9BWWRQTUl5TDE3cUlRcjVFTVdSM3VmNUFxbFhkUWlleTFyaG5KUl9ObFE5dkM1NXk1UkNMZHFVRTNHLXVxdF9DRTN0NUdENEtVbUthWTNHVWkwQk1uZUFIWkp4Z21EVkZmdmRLd1FNUHpMSEIxNzY3b29fTWtsMTduYXJveEhPZmVBdjBPWXFPSXg0bjc0bUU5ZWQyck1QZTltSUdPdE5sLTk1cGZacjY0QVRjTWVTdFctMHYtX3NUdnFHVGIw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Elon Musk says he feels 'foolish' after spending hundreds of millions backing Republicans",
+          "url": "https://www.nbcnews.com/video/elon-musk-says-he-feels-foolish-after-spending-hundreds-of-millions-backing-republicans-273776709737"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Elon Musk Plays Down G.O.P. Support After Midterm Loss",
+          "url": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Ella Langley sweeps Country Music Awards as Taylor Swift performs",
+      "summary": "Singer Ella Langley won multiple awards at the Country Music Association Awards, with Taylor Swift performing at the ceremony.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Ella Langley sweeps Country Music Awards as Taylor Swift performs",
+          "url": "https://www.bbc.co.uk/news/articles/cw1md5m39n35o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "'Choosin' Texas' singer Langley beats Taylor Swift on way to Country Music Awards sweep",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNjVfa3NFRjlPRVFHT2hoMmVDNG5fUnJmc3RfN0MzRDZoTWphUkhjcS1Xd3BEWnpncEJ4RE5TZGRtNy0ybzlGZk1zN3JWWndzdWJLQm9sbXBEb21uRC1XZ1k3dDR6WnBqUWZFS0N4UklCVlN4azBPY2Q0clFOTDZBYnpmcWtsTi1qX2VBNEVWdGhUTmpULW9nSjg2MWo5eXVmZ2lTcTVXNjlPWEZoZ3hFZy1UckhvUk5lNzlRRkQ1bWNESEFTNWdfczYzVWpUbEF4Y0pZ?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Ella Langley Sweeps and Taylor Swift Returns at the 2026 CMA Awards",
+          "url": "https://www.nytimes.com/2026/11/19/arts/music/ella-langley-taylor-swift-cma-awards.html"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Ukraine's allies meet in Berlin to show continued support",
+      "summary": "Ukraine's European allies gathered in Berlin for a 'Coalition of the Willing' summit to discuss air defense, energy, and financial support.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Ukraine's European allies meet in Berlin in show of support",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHBhRURfZmJHUzhfMW53YjcxYUNlVE1rbFZtTmV2S2Jfcm5hYXFweEJaQlZHbmE0U2Q5Y2IzM29LUExzUUx0UlIyVTNMamhzT3NPS25rbmp3bzZuZDhId1B4YzZXYWZXRkU0clRpUm9scVV5ZXRvMnBSTUlTZlVtTDJlSnFlREg3YTZpM0xVOXl2cV9xaWZpcnF2M01zdw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine's allies gather in Berlin for 'Coalition of the Willing' summit",
+          "url": "https://www.dw.com/en/ukraine-s-allies-gather-in-berlin-for-coalition-of-the-willing-summit/live-79986520?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
