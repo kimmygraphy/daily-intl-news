@@ -1,0 +1,276 @@
+{
+  "date": "2026-11-20",
+  "crawled_at": "2026-11-20T22:05:22+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Anthropic's record IPO surges despite broader AI stock sell-off",
+      "summary": "Anthropic achieved the biggest IPO on record with a surge in its market debut, but the company's shares later slipped as part of a broader sell-off in AI and tech stocks.",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Anthropic surges in market debut after biggest IPO on record, despite fears that AI is running amok",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXdyUExSdjhGa000MWtxaUR0YzhiVHJnNzN0N0lTUnNONktkaWZkUVUwdExoUXhXMTlJN0NEZ3F3M2RYbUZYelpiNFhpOE14LWdtYjF1MnB2M00xMk1GbENmci1UeFlXa3V0aHM4TWlxVVZNeFBwUkZjMTA2ZWhCSFBVaVVBb0FUdnpj?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Stocks slide despite Anthropic’s record debut and Trump touts ‘unbelievable’ China summit: Morning Rundown",
+          "url": "https://www.nbcnews.com/news/us-news/anthropic-stock-debut-trump-china-summit-morning-rundown-rcna610364"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+        },
+        {
+          "name": "DW",
+          "title": "Anthropic trading tests investors' appetite for AI",
+          "url": "https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues",
+          "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "White House cybersecurity chief replaced after series of tech outages",
+      "summary": "The White House removed its cyber-security chief and replaced them with Kirsten Davies following multiple technology outages that raised concerns about US vulnerability to cyberattacks.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "White House removes cyber-security chief after series of tech outages",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "White House taps Kirsten Davies as cyber chief after outages rattle Americans",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR1gxYnBpX3A3aDBXNVlpS3dkeUVsZHdQYTdYMjFCMDc5R21mYnhvdEVUNWZxS0poMlAxSm5TbnRMeUg3dmQ4S1M0NnNwN25ocms4VzhqQnhKYnhYcFlod2doeGdTSHdTc1B5cmZTbmY5UTdZRzhHdEU0bTRlbkF2Z0NlMUR3UEpBaTRzTlpRVUVHT3BkWEZMcjFrLXAxdV93MERLdXNwVlI?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "White House National Cyber Director Departs Amid Tech Outages",
+          "url": "https://www.today.com/video/visa-mastercard-jp-morgan-chase-confirm-cyberattack-273882693910"
+        },
+        {
+          "name": "DW",
+          "title": "White House replaces cyber security chief after tech outages",
+          "url": "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Top White House Cybersecurity Official Is Replaced",
+          "url": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "UK and EU agree reset deal to strengthen ties",
+      "summary": "Britain and the European Union reached an agreement to reset their relationship, including food and youth mobility deals, following rare high-level summit talks.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Britain and EU launch reset with food and youth mobility deals",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaUxSQlE3YTlodUx3ZVRaSnlCLVJtZVc5bUtURl8yaEQzZVk4bWdXdFlHdDgwTE1IOFFrZ3pvOTFvQ0s4Y2trSU9PWE4tUnZFQjMyWmZLeVY0aU9IaUFBWVdIVFlRaVZmdXRheEdmVHYyUU9JUnBMQVVhVzNwN2JGdDI5ZlJSVzdNb2tZV0dfaUpoVHJaRnFfcA?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "The U.K. and EU hold a rare summit to strengthen ties",
+          "url": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit"
+        },
+        {
+          "name": "The Guardian",
+          "title": "UK says EU reset deal agreed but talks will continue ‘in some areas’ – live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "EU and UK hold a rare summit in bid to 'rebuild ties'",
+          "url": "https://www.dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Cincinnati Zoo's famous hippo Fiona dies after eating visitor's hat",
+      "summary": "Fiona, the renowned hippo from Cincinnati Zoo who gained fame during her recovery from illness, died after swallowing a visitor's hat.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Cincinnati Zoo’s famed Fiona the hippo dies days after eating a visitor’s hat",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1F6b2VpdzJoMkhmTGt0cEdfbm1xa3QwMTlWc1gyZlphbVR2eFVLMXpOeDRBVktXa25TNmkzSmttaFRjSDJnRC04SDJWSkRrRE1TUlJnYTBwMjV5dXNtb1dTbHNkQ2tDdnNLV1E4bEk1NWZjQUtRZ2h5QkIwWGJIdkQzRmUzbXlXYmVXUmJmdmd6dFFw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Cincinnati Zoo’s Fiona the Hippo Dies After Swallowing Visitor’s Hat",
+          "url": "https://www.today.com/video/fiona-the-hippo-dies-just-days-after-swallowing-visitor-s-hat-273884741611"
+        },
+        {
+          "name": "DW",
+          "title": "Cincinnati's famous hippo Fiona dies after eating visitor's hat",
+          "url": "https://www.dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat",
+          "url": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Trump, Xi, and Putin hold rare trilateral summit on nuclear risks",
+      "summary": "The three leaders held unprecedented three-way talks at APEC to discuss nuclear risks and security guarantees for Ukraine, with Putin gaining elevated global profile but producing no major breakthroughs.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Takeaways from the historic summit among Trump, Xi and Putin",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGR5Qm9EVktTdGlZU2p0QlJOOGRieUpsczVJc2RfTXA2XzZFRUtnaUNZWHdVLTN1X3JnZ2FTQ0J4V3ZyWkJEV21aMzhqV2pqbzB4amYyM0pCdWs4NWNUUE1aakhtWW9IZDhmR2ZSUl9NNFhXZ3JMQmEzVjJVVmswODFhOHU2VkZ5TmE3NWF3?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Xi Jinping, Donald Trump and Vladimir Putin have held trilateral talks ― but what did they achieve?",
+          "url": "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "A Summit Gives Putin the Win He Craves: Equal Stature With Superpowers",
+          "url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Myanmar's Rohingya win landmark genocide ruling at UN's highest court",
+      "summary": "The International Court of Justice found Myanmar responsible for genocide against the Rohingya, marking the first time the court has found a country responsible for genocide, though Myanmar dismissed the ruling as unfair.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Myanmar's Rohingya win landmark genocide ruling, but return home remains distant",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS2g5Z3pOWXZjSC0zVlVLN2ZFVHZYZHg5N2dqVGdBZFlmblkwcl9nSFpUQ1ROb0lIeTZPUG5iaGxHRUJSX0lNTG5mdkc0d3N5cV9pb1lQZFhhY1Bnczlfem1yRElXR3g1ajZzeFBabHctXzFZejFiQzF1T0RYRzVMT3U1NjZKYzl5T3AwRVNVOGZHTXdHbXl2eUMwcDVlNXhrVm9sVzVka1diN0xRSVBZMTd5c0RxOFZKX3JlRUhqek9IZ0xlWWR4ZQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "For the first time, UN’s highest court finds a country responsible for genocide: Myanmar",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGx4TzFaSGk2N3lyTXBVRkEtazdmRjNrcy1TZzN1M2dLNlJEZlRDRFY5cXlKT2s0a09fc05FYW9DT3pFeUd0d0VaaVJtRmkzbFBpcWZ0RnVFQUFjUFFCZVBNVlNPUHNZaGs0ZVkyMDdiXzhubDJmUFBIZVNnbkxCLWNMbmJvQUcxTGtqLTB5M1F1YUdvMFRGZjNsMA?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+          "url": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Russia strikes Ukraine including Kyiv bridges after summit meeting",
+      "summary": "Russia launched major missile and drone attacks on Ukraine, hitting multiple Kyiv crossings and bridges days after striking the Crimean Bridge, with Putin vowing revenge for earlier attacks.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NBC News",
+          "title": "Russia Strikes Ukraine Just Hours After Summit With US, China",
+          "url": "https://www.today.com/video/russia-strikes-ukraine-just-hours-after-summit-with-us-china-273884229505"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
+          "url": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Stock markets tumble amid AI sell-off and economic concerns",
+      "summary": "Global stock markets experienced significant declines as AI stocks led a broader market downturn, with the Dow dropping over 1,100 points in what became Wall Street's longest losing streak.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Stocks slide as AI selloff deepens, Asia set for worst week since 2020",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORTBuejlwS3Nua0szT1dTbnYtSElZYjI2RUg0NnRsVHNlOW1SMTBlUFIxdmtVcnB2TFd0N19aU1RlbzVWREhqYnZmWF9HRG5odm55UUxLMnJzckZpWjh6UHdrZGtZNlBIMVh3cU1QcUNIQlZRNXJMTW54TjdkaVdGbE9yVQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Wall Street tumbles to its longest losing streak since 2024 as the Dow drops 1,100 points",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHVUbzYtdzBpNHpVbTdJWlVrRWpxZmJTVG15bS10TGN2ZzRJS29FYkoxcEgzNG9ZNGVhd1hoaHNLVzVfQ3RVYWprUFJWUnRHNm15U1BBUFc5Y2otZmltZHVCTkdySV96TzliMWFQU3o1X0g5cThPVWViMW8yYjBHWGJOamhvRGt2a0lBZUFzZTVTSURW?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Texas execution takes over an hour as staff struggle to find vein",
+      "summary": "A Texas death-row inmate's execution lasted more than an hour with staff having difficulty locating a vein, with the inmate reportedly screaming about pain throughout the procedure.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Texas death-row inmate screams as execution takes more than one hour",
+          "url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFhOeXRzRUxWeEJsYjVMWWhhSFZEaVU5MS0zT2FIeF9FOXktLVZZUm9LdFV1WkdGZlFWemt1ZEMzUWdqQnBncWVid1FsLXlLMzV4OWZGLTlpTFJHemh5V0trTmJBWnZ3QV9mc1RfNGJuNjhqZGFmZ2lhMTRxZ3ZfcjJyUlA0MWtZd0l3?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Senate passes bipartisan bill to streamline energy and infrastructure permitting",
+      "summary": "The US Senate passed a bipartisan bill simplifying permitting rules to accelerate energy and infrastructure projects, sending it to the House for consideration.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "US Senate passes bipartisan bill to speed energy, infrastructure projects",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWNIMlNjd1I2dzg4R0JUc2Jzb29wWElMQUJpZjhpR0NKeVVYWVJCX0xtNWEyRnVPelpSUC00Uk12aDZZQ3h2T0JKMkNMV3lyQTVoMjBIS040RDRremdwUjhRRGYyUS0ybG90ZS00bks1ckZYeDFDR3NlNGRHWkpaZVBjdTVjR2x0ZlFJbF9GR3ZnTWMtdi1fV19zZ3pDbmRqLW5NTENHVGljVHpZdFUwWWxTUnhCb0htWU9WNVA0dw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Senate passes bill simplifying permitting rules to build in America, sending it to House",
+          "url": "https://www.nbcnews.com/politics/congress/senate-passes-sweeping-bill-simplifying-permitting-rules-build-america-rcna610196"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
