@@ -1,0 +1,291 @@
+{
+  "date": "2026-11-21",
+  "crawled_at": "2026-11-21T22:05:24+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Stock market plunges as tech sell-off worsens amid AI concerns",
+      "summary": "Major stock indexes including the S&P 500 and Nasdaq dropped significantly, with the Nasdaq erasing all 2026 gains as investor concerns about AI valuations intensified following Anthropic's IPO.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Instant view: Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSi1oZG9URHdnSVhJWWs1THZ6b1JBVWJHODR5ZE5fajVzaS1zZGhfdGlfajJkTUpmeUduODNlNTN0bTFSUEZCZHROd1IzSF9DeWxKUmYyT0IyVTh6Zy1ab1ZXd1BfSjFQcC1paFhiS3NTM1NSQUlMNmhDa1pUNl9WMW9xM3NTTzI5aF95NXNaVnI2WXV6TlhxZ3h3WHh2NldhZzhvekxPb1dQczVXcXZYT2tkWjAxNS1uYmhF?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+          "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative"
+        },
+        {
+          "name": "NBC News",
+          "title": "Stock markets plunge as Nasdaq erases 2026 gains",
+          "url": "https://www.nbcnews.com/nightly-news/video/stock-markets-plunge-as-nasdaq-erases-2026-gains-273933381824"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
+          "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Man convicted of starting deadly 2025 Palisades Fire in Los Angeles",
+      "summary": "A man was found guilty of arson for starting the deadly Palisades Fire that struck the Los Angeles area in 2025.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Man convicted of starting Palisades fire in Los Angeles",
+          "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Ex ride-share driver convicted of arson in Los Angeles' deadly Palisades fire",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWTBMV2hrNEdIWUM2Wk5JQjlqamtNMExUOUhQMGhDNTlzdnVDb1hTQXotazg2SGJJS3F5UWtGMEJneGQwVWRFc2xnaDg2VjFPX3B1bkE4OUtTZE5GUG05aGE0Nk5QV1lxcUV3V3RBUmtsdnh2NlpGTFRKSmNCUktVQUt2U0NxVDN2alMzdlZWdE1MeHJIX2RtZGJMbDRUMS16VHhqMm5zVHZjRW8?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3kwWjlJb09rSWVXbmtfSl9mWU5xOVFGQ2wxLTR6NUMyZnZVX1VNdXpTUU9HWldWQlZ2dk5yMzNtMWtjdTlBSWdVWXkyZV9PUlo3RTEwOGtULXZFVDFHend6Nm10Ul85TVFiUkhFdmJCaWRYYm5hQnV0TW1xaGVHWHlrVV8xRTlDa3JxRFFIVGZBQXhaMnc?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Man found guilty of starting deadly Palisades Fire in Los Angeles",
+          "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336"
+        },
+        {
+          "name": "DW",
+          "title": "Man convicted of arson over deadly 2025 Palisades fire in Los Angeles",
+          "url": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "COP31 climate talks extend past deadline over fossil fuel disagreement",
+      "summary": "UN climate negotiations in overtime as nations remain deadlocked over the absence of fossil fuel language in the draft climate deal, drawing criticism from activists and world leaders.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "UN climate talks slammed by activists and leaders as fossil fuels go unmentioned in draft deal",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUjFZei1MOUFlTXpsX1RGZTFUMm5zWDhmRVNYX2tLcHIwTVJtbmlzOWNTanNpRVFxRFhrZ0xTMGNLaGpqTXpxa0pVV0RiRldTSzJMX0M1c2lWbFBqd2JiVTJoUmotNDFSR2RsNi1nQVJrYndjQV83MFVHb1VocUxlS2hiMlhsY2I0SUlCckgxSm13Vms?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
+          "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "COP31: UN Climate summit runs into overtime as deal remains elusive",
+          "url": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-overtime-as-deal-remains-elusive/live-79999516?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "UN talks on AI killer robots end without binding commitments",
+      "summary": "Nations agreed to continue discussions on regulating autonomous weapons systems but reached no legally binding agreements to restrict their development.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "States agree to UN talks aiming to regulate 'killer robots' by 2028",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTFDeHY0QlBhU2dnNndMa1FhdmhtUDV2eF9HYmhHU0tzRlFoM0U1a0ZuaE8zbGduLUhoTU0tWWExeDkyOWYwRi1aXzVOd0NhRGszMlU5MWFyVmdLSUJOREtvaXNYY1p3YnRIaDR5X0RwZGVPTG1GeW5wZm1Hd0dlM0RoVDVBQlZ4WFV1bU9mM3YzcDJISEpEZkI5ekdsMy1xb1BkZ0JUYw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3JlX1Q4VXpOM1lnZ2s3aUdnSmxhOExuMl9PUlVwSUpZclY1R3RSb04wdzljcmNaQzJoOENYYmxCQ2tLaXpma2RhQ3hHeWdwYURDN2ZBaGxYT0k5MkEyVDFubm5GX2FfYWVsd2Q0VkQwTWh6X2x0SF9qZS1kWW8za2Nod0I2QV9DQlVsSHpjRnhRN3ZaUWNjb1dpRHYzdw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+          "url": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in"
+        },
+        {
+          "name": "DW",
+          "title": "'Killer robots' talks at UN end with no legally binding ban",
+          "url": "https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "UK and EU strike landmark trade and travel deals after Brexit",
+      "summary": "The United Kingdom and European Union reached new agreements on trade and youth travel schemes, pledging to rebuild closer ties following Brexit.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+          "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "UK and EU strike deals on trade and travel, pledging to rebuild ties after Brexit",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaW9ETGFMaFhwLXBycnlkTXVlQmlReW5NSGdqVmNhbkVoeGZ3aEJ3cWlwdWZTb19QVVFGMTRJYkVUTHdrRHFtQjh0T05fRTVIUlE4RTdlUm03LVZGWEhBay1uU256NlUyRzZuLTZERExLb01lMHlSY1FDTHJETXVULVp1d0pnN3pvRmRpRTUxN3hNUW5peHlFM1Q4R3p6ekYyUF8tQUZhcw?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
+          "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband"
+        },
+        {
+          "name": "DW",
+          "title": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
+          "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Denmark accuses Russia of plotting to kill Ukrainian American on its soil",
+      "summary": "Denmark claims Russian intelligence plotted to assassinate an American of Ukrainian descent within Danish territory.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "EXCLUSIVE: Denmark pushes EU to tighten travel curbs on Russians after foiled plot",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS0J3SExfSVZDcXRXb2wtcElESFhiam1fWTR4MUh0VGIzQU9iQjRkamVnWXZMaFI2cVRyNmFxYU40dmJBdWFOZTRuZVlPcFAzXzVhanZPckVpVXdQRlE0YkE3bkhfZk1ld2o5SDhYcmg0bUMwTklpdV9Qc3Q2Sjloajd0NzdzX0JhYjZvY0NmM2hMRnhLUmd4VzZxLUlsTWZoMmRFNVVwTU5uZ1lSVlp6MlpleTVJd2FqT1Q2d1NyaHYxU0lNSG1aWg?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Denmark accuses Russian intelligence of plotting to kill American Ukrainian on its soil",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaTdoazBLSGtEajM3NVpZdDhaZFlDNXdLdEFfMUItOUc2SEc2ckxGaHVQNHh1MGhmdG1xWFhnOWJWclkzdHEybHV0Qm5jSlhGQm5VMnFYNEpXdUw4VDYzVXhLOVhvaC0zQ284bHp6eDBxUmdtVDNRVjVINk5qLTBHT1VaX1EzNllvR0VzRlpBTGFOQW80QUVZT1l2M0t3MnVRTHhBNTBTZ1FpRnBFblZrbU01czVJdGs?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Denmark accuses Russia of plotting to kill Ukrainian American rapper on its soil",
+          "url": "https://www.nbcnews.com/world/europe/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-soil-rcna610542"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "FBI investigates breach of its criminal database",
+      "summary": "The FBI's criminal information database was reportedly hacked in a significant security breach.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "FBI's criminal information database hacked, CNN reports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRE83U2NSQ2FlbllBaUxQUzl5UWdfWktnME85LVk1ZkJFczYwOUJEbXpoV0tzUXltYWhtTl8zT05jeW9yX29sREJwZkxCNWdxZWwxcGlUa2N1YzM4YjRZcVF6dWpNbGhfak5zWjNsdnpQcFAzVGdoSmZGLTN5R21KZlcxV2dUZU15czdSQU5fYXJLV1MzWTVuYkdTRi1weFU?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "FBI investigating potential breach of its crime database",
+          "url": "https://www.nbcnews.com/politics/justice-department/fbi-investigating-potential-breach-crime-database-rcna610536"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "AI researcher claims to have solved major unsolved math problem",
+      "summary": "An Anthropic worker announced they may have solved a major open problem in mathematics using AI assistance.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR",
+          "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+          "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai"
+        },
+        {
+          "name": "DW",
+          "title": "Anthropic researcher uses AI to solve math's greatest riddle",
+          "url": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Grand Theft Auto VI sets record with $3.79 billion first-day sales",
+      "summary": "Rockstar Games' Grand Theft Auto VI achieved record-breaking retail sales of $3.79 billion on its first day of release.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "How Grand Theft Auto VI's launch surpassed expectations",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWC12bUo0X3M1alRPRHNvSVRBSnRMbUdzVmltRHdRUW9qdGl5NHNpdXhvU0dmUnkxQkRtcU9QeENzQzFpUVdvTHFsbW1JUHFTUmdqcFRzWXhiOVRvb2R6Y1UyOFJQOGZDSG82ODR1VHVucEFpbXU5RkhCUS1nTXZLLVdFSTdUZlZvUGJaLWlJU3d4b0t0RU55ZFhMVDROdmZLQlZIODZR?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY0hRM1J3UzZkR2JvWnJYUDgyRE55OE9pbmJxM19vX2llS19QZjBTWkNVaVVZQTRJbnZ5N01NbEp5Qko2T3lGWlNERjFNYXF4Q2xiQVRZQUFmN2lWQ3V3YmpfYzZXNE5Lb2FuSFVJU2lBUW9VWVhRemxaY2dfamhRODlubjNmN0N6MU9DbENZd1NrdzNfeVFYWmtKNHJMQlBITXp0TQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
+          "url": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Bayer settles Roundup cancer lawsuit for $7.25 billion",
+      "summary": "A federal judge approved Bayer's $7.25 billion settlement with claimants alleging the company's Roundup weedkiller caused cancer.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Missouri judge approves Bayer's $7.25 billion Roundup settlement",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3l1OGtkWDFDWVotN3ZQazJBOWVuVUFqaFBQSWR1WWpUY0s1TnNsMnJlSmlzN3VuSTVnX0FKT1ItRm93RFhPYm9URXBzYnRIZW04NndYNlVQVncxZ3BmcTZ2U21NVVZBZDZwRERERjJ2czFyNHlnU2ZrbjVGa09XMW92dmdLVDB3UmRzbTlHRXprS2wyV0RWeXowVWJOWlAzUGpQbm1MVkg0NHM4UWVlSnM4MnU?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Court approves $7.25 billion settlement with Bayer over claims Roundup weed killer caused cancer",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdE1pUUZWQjVLZWF3bzVPQVZNOWFQZzNxSUVGdVFpeVY0d3d0TGE3Q2dsQ2RrYU5hQlI4Z2ROVkR2YnptQzFnRDFibExkNkptYzZzMGFZTlBWX3hsa21BSXVjNWxjWjNTR3lOOUxtX2owTmVzQk84NHg1eXB2TVNJNjFhRG05SDBRMVIwSS1DMW5WU2RjSC0xSk1zNHZhblRNdlAwQ05hcktTcThaXzhYWQ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "US judge approves Bayer's $7.25 billion cancer settlement",
+          "url": "https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
