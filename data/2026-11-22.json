@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-22",
+  "crawled_at": "2026-11-22T22:05:27+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Mexican drug lord 'El Chapo Isidro' captured in bloody firefight",
+      "summary": "Mexican special forces arrested top cartel leader 'El Chapo Isidro' in a violent confrontation that left multiple people dead.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2RiNXlYT1VFSmc3cEJmU0N4QW9Ydk9rX1RBZ3hvakVOYWtIa1ZDdGlhVm8wSUp5MUk2bWg0TFNyc2lvN3VXazhaamp3WTZBOVpqXzBPcnV5OVVGREVtU1FNVDBXb2d2ck5mVmhybmptaUtCMGRJNEt0UGhxU25fM0JWZE5NSUF2NmRxZVlZOGJSaUpncmt6dnFkNEpDdG9ZejlidXU5RnJUdm8?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
+        },
+        {
+          "name": "DW",
+          "title": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
+          "url": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Max Verstappen wins Las Vegas Grand Prix for third time in four years",
+      "summary": "Max Verstappen won the Las Vegas Grand Prix in an extraordinary race marked by chaos and collisions between other drivers.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Verstappen wins 'crazy, surreal' Las Vegas race",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZVYxVXlmSDFOdDVVczVXcDROTjNWNS1LbXU3QVp4bEVueHVHZ18tY0NqTmFaZ0xJMnNzOFotbmxLaVljLTJJNHMwRHg3c1BZOFktdk14amRfNHZxMmsyMEM2bS1yT21JMHdxZXhJcXVTVjdxZUxaZ1B1WmdFMGh3cE1SczltMnhZbUJpbzFsUWhWR3JmTjlIOWlMS2diVTMz?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Max Verstappen wins the Las Vegas Grand Prix for the third time in 4 years",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS0c5aTZmbW9CSGdTQXJBQ2dRdVBMREc1bW50dHNtV1pSWjk1c1MzRTFpZU5DcGJQQ2xfRmk3YWJnSFYyQVVPc28za0JRdl9DRXdxOTVHOFlnc0JfdDFodjFkS2lHLTk1cDNraEpObkFxTUhOZ05MOXFBUDB1WmpJaUxCWlZvcm1XQ0E?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Max Verstappen says George Russell is ‘so far below my level’ after Vegas win",
+          "url": "https://www.theguardian.com/sport/2026/nov/22/max-verstappen-george-russell-las-vegas-gp-formula-one"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Indonesian candy factory fire kills at least three, dozens missing",
+      "summary": "A fire at a confectionery factory in Indonesia killed at least three workers and left dozens unaccounted for.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Seven body bags recovered, 50 missing after Indonesian factory fire",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1lYMkZSb1Y5Z2preUNtQlhuSHlEN0E0TFk2cGxwRE5FN255RnZqV3I1cE9QZzZjaG5sN2xod3JsUzZaZWNLWHE1SXZXTTd4LVI0eWUtV3RVYUt6SWFxZzVxVWl4QnYwUjRNLS13dEx5VWcxb3lLaGtBaU0tdUhTR0tnaHY2WkR2Qk9kS3prU1hReGtHV1lJUG5iTG1hRUtZSlR2WG1nS0I2eUxQZV9SU3pjM2NiemhJTmc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Fire at Indonesian candy factory leaves 3 dead and dozens of workers unaccounted for",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN0J5Zy1JLXlBTWc5d0o3OEg0dVBLMXQ0TktFb0ZHT196VEgzYVNfOFhlamNLVjdEMUlOWVFldmsxeUN1MUk0VGFDMlkxWmpCSTFIQzVaZndyeFZjanNQajh2Y2I0c3duUllpOWRTRWdPYzFXeFZRdmJJUndoSDlYUFlQZHV2bU02YWZzdm1vclMwenNYbmZpZkk1UGg?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
+          "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
+        },
+        {
+          "name": "DW",
+          "title": "Dozens missing as deadly fire hits Indonesian candy factory",
+          "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Russian cargo ship ablaze in Baltic Sea after drone attack off Finland",
+      "summary": "A Russian cargo ship caught fire after being attacked by a drone in the Gulf of Finland, with the crew evacuating.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Russian cargo ship still on fire off Finland after attack",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict ‘spilling over’",
+          "url": "https://www.theguardian.com/world/2026/nov/22/ukraine-war-briefing-russian-cargo-ship-hit-by-drone-in-baltic-sea-as-finland-pm-says-conflict-spilling-over"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "COP31 climate summit collapses as EU and others reject fossil fuel deal",
+      "summary": "Climate negotiations at COP31 broke down after talks went into overtime and negotiators failed to agree on a deal addressing fossil fuels.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "COP31 climate deal in the balance after fractious talks",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3loZzVPSEw4YTN0RXZEdEpveVFkV0JoU0dtRTktZXR6LS1XVGRNVElxWHpWVUQ3eEhOMllBam9jYlNIX29HeW9ncUwyWkNhenBPcmRZeTNBNmt6MF96SkU5TS1zWUVBSEFOS0FMV1gwVmJoS3c3bGw4TjgwLUU5NTFOUEtzOWx3dy04NkhLMW9CMmJxM1dLeVRBRWMyVl9SY1A3THFB?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Cop31 live: EU and others reject deal as longest climate summit ever faces collapse",
+          "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates"
+        },
+        {
+          "name": "DW",
+          "title": "COP31: Climate deal 'not adopted,' summit president says",
+          "url": "https://www.dw.com/en/cop31-climate-deal-not-adopted-summit-president-says/live-79999516?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Nigeria boat capsizes at funeral event, at least 24 dead",
+      "summary": "A boat carrying people to a funeral capsized in Nigeria, resulting in at least 24 deaths.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Death toll from Nigeria boat accident rises to 24",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbWFnQ0phMWt3NWlMbVNDVlJmdzFBay01UWI5RTJqWEdMazU3anhrMDRiTVRnNXlIN2VqTlRYZE1LaEZKQUdhVE0zZEpKTmZoS05hUDJNYkprc3ExX182REhpVGo0RHFMTU5wOVA0U05md2NyMDY1NXo3Xy02OU5kbDJWWGhUYnc4VTRNd3NaM0RlbVlI?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "At least 24 dead in Nigeria when boat capsizes while carrying people to a funeral",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkdWWmd1TGxndVdtTXRTSVZOekxZZDhzS0F4TlNTbFN4R085VlA2T2FER1UwdEE3ZlloaDRIREpFSXJuMnZHUGVnTjZxNVc5ZDRmcE1jSV9kM2p6WEF4cE5ocHktaURvOGhKZ012TUxPMS10ak1OUFAtQ1NFZmFMY293UktTR2Ri?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Nigeria: At least 24 dead after boat capsizes",
+          "url": "https://www.dw.com/en/nigeria-at-least-24-dead-after-boat-capsizes/a-80011248?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "ICE arrests at Seattle airport spark outrage from officials",
+      "summary": "Immigration officers conducted arrests at Seattle airport in a scene described as distressing and chilling by state officials.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Washington governor, union denounce ICE arrests of travelers at Seattle airport",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSi1Oa2dUSVViZERBQzducWxTUFB5cjd4Sm1HRU0zQ0ZiQUhGWngxTlRmZzJybFo5cjRuMVdEOU80S2xuVGx4ZVdsaFFCTXZ3TkVYM19hcVBIbVViSm4wU2JHWExxYWFVVlFzSkZkUXVLZjdOTml0Qk1lYWdELXFyUGlTeTI3T2lETXVvYzdJVHduT3pnVGZ0MjhUTTBOMlcwYUJxTENWRVJ3aVRTSnJ3Y1FucjdrUTNrMERzekRHZFBkX0U?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Immigration officers make arrests at Seattle airport in ‘distressing’ scene, delaying flight",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa0VtbzJLdTFnT0owUXZrN0pDdmowMWxnS09WNkowUi1JWktwVXplU3FtOWtFeTRKMUVOcm8tcHlrcm5LaVFDVDlPLVllem1jdWFnRE02bXpmRFdId0htWXVwdDZ3SUpvQ001YVF2N2hzWDBZYUE2dFZWSUIzVTF0a3RIVjVWdGNzYkdPUmdYUk9QdE9IMnp6aHpTZUVIS2s?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "US: ICE arrests 2 at Seattle airport in 'chilling' scenes — governor",
+          "url": "https://www.dw.com/en/us-ice-arrests-2-at-seattle-airport-in-chilling-scenes-governor/a-80012480?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "UN talks on autonomous weapons fail to produce binding commitments",
+      "summary": "Nations agreed to extend talks on AI killer robots but failed to establish firm commitments to regulate autonomous weapons.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Nations agree to extend talks on AI killer robots but no firm commitment to rein them in",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3JlX1Q4VXpOM1lnZ2s3aUdnSmxhOExuMl9PUlVwSUpZclY1R3RSb04wdzljcmNaQzJoOENYYmxCQ2tLaXpma2RhQ3hHeWdwYURDN2ZBaGxYT0k5MkEyVDFubm5GX2FfYWVsd2Q0VkQwTWh6X2x0SF9qZS1kWW8za2Nod0I2QV9DQlVsSHpjRnhRN3ZaUWNjb1dpRHYzdw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones"
+        },
+        {
+          "name": "The Guardian",
+          "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+          "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Miley Cyrus marries drummer Maxx Morando in California",
+      "summary": "Miley Cyrus married drummer Maxx Morando in a California ceremony.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+          "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Miley Cyrus weds drummer Maxx Morando in California, People magazine reports",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZy1icnhYbW5IaTZRM21ES1JUSXpzMWQ4TG51YU1TbnBieEZJNWVuVjJ1Q1FxS19WNjJUcU55ZWNULTdyd1NvMk1ZNElfZ3VhUE8zLXhGekx2M0JhVV9fbldaQ01FR19NUjVZOF9FN1FmTy1KeXh1X2VFci1TSUFmRWVuTWRMV2VRMFRFbTYzOFFVLU9xR2tPR09rUVN6QkFPbGdQbmEyLTZjVUdMcV9qSzg0LXpRQkV5LU1qYVBwT1YxdERGZGJmZnVCRQ?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "South Korea education minister resigns over university exam cheating scandal",
+      "summary": "South Korea's education minister resigned following a scandal involving AI-facilitated cheating in university entrance exams.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "South Korea education minister resigns over exam cheating scandal",
+          "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+          "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
