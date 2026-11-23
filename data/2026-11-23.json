@@ -1,0 +1,306 @@
+{
+  "date": "2026-11-23",
+  "crawled_at": "2026-11-23T22:05:21+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "The Guardian",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Ukrainian drones strike Russian warship off Libya",
+      "summary": "Ukrainian naval drones attacked a Russian warship at a naval base in Benghazi, Libya, in an expansion of the conflict beyond Europe.",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVVOaXhUTVZWaDZ0YnlSQnRpZk1JdVpWdkJKVUlmQVpETHVkYV9CazJxR0xnS041MUYxQXcyV3IxZWpqbkVrWk9ZU1NaY2NyNTdHTjd6YmFHSFRIX0NpTE8tV3ZYaS1LajllOGxZZlAzclF3OGpiWU1Jd1dTNVB2VWtJMEZQd1lROVhxUnhYUUJ3TFBsMUV2YlFaQktHU0Q4RHktYnpTLXRndjl2aEZlQ3VzZWZSSFRSVzJiZjJsa3JaSkV4?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEJrLWtkTl9ZY1lGN3JPaUNjSjVabFVGcnlERXpyYVdRNGN4OEtMOTVkczkzVDlhaWQxQ2xQdXdEak5oNkhBOWdrd01QV2hBYXlOZXV4Zl8weXpVNmxuMUlMM21sT2YwQjFqcjZIRlk4UmxQMUxPcTFRVjRQNFpqdzl4NjNodnZicldRLWRlV2R1allIR1BpM2x3?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya"
+        },
+        {
+          "name": "NBC News",
+          "title": "Ukrainian naval drone sinks Russian warship off the coast of Libya",
+          "url": "https://www.nbcnews.com/video/ukrainian-naval-drone-sinks-russian-warship-off-the-coast-of-libya-274001989802"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+          "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
+        },
+        {
+          "name": "DW",
+          "title": "Ukraine updates: Kyiv claims strike that sank Russian ship off Libya",
+          "url": "https://www.dw.com/en/ukraine-updates-kyiv-claims-strike-that-sank-russian-ship-off-libya/live-80015859?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Ukrainian Attack Off Coast of Libya Shows Reach of Kyiv’s Naval Drones",
+          "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "COP31 climate talks end without major deal",
+      "summary": "UN climate negotiations in Baku concluded without reaching agreement on fossil fuel phase-out or climate finance for vulnerable nations.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Five takeaways from the failed climate talks COP31",
+          "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "COP flop triggers backlash in Australia; Pacific nations express despair",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVndpTWVxWkV6LXR6Z2JkNENyN2NiVW1ia1pIY0pxX2hYaE8zR1RPV3FieTZWZTNuXzRPS2hxN3hZeE51WHNQMkdOWlZ0ejBuUHJGdlEyTTR4RE1DeDM1VGc3Vm5OX3VqTTN0eEdJWEpwS0ZramxkT1RheGhvMF9vdUpGN2s4M3JaU0RZckVncE5YS2FBT3hlc3ZTcU00UW5CeVpaT1VtM1llZ0NNZWFTZTNVV3V1Rm81akxNUVUtZWk?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "In their own words: Leaders at UN climate talks discuss why negotiations ended without deal",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0xZUG54R1V0M1N4VHlZd05nbTExbGdkUVNwWVBwRnlabWFHZWhRMldkM2taVFVhM3NIb1JQZnhIVDFEMmw4UzRzWTdyMVotWVNRVllEQjRtSFVRallpY0V5czd3eFplcTVWTldEOXpuclV0NmJVeF94aXQ5OUZQcGxaUVlQOEtaU1Blb1o4b055WmFPWDFsQXp2Tzlpd0VLa0RwWTNxT013S2VfU1E?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
+          "url": "https://www.theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits"
+        },
+        {
+          "name": "DW",
+          "title": "A reset for climate diplomacy?",
+          "url": "https://www.dw.com/en/a-reset-for-climate-diplomacy/a-80020494?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Why U.N. Climate Talks Collapsed, and How China’s Spies Set Sights on A.I. Chips",
+          "url": "https://www.nytimes.com/2026/11/23/podcasts/the-headlines/un-climate-talks-china-spies-ai-chips.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Co-op Live concert evacuated after unknown substance released",
+      "summary": "Police evacuated thousands of people from a concert venue in Manchester after an unknown substance was released, causing confusion and respiratory issues.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Police investigate unknown substance that caused Manchester's Co-op Live evacuation",
+          "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "UK police evacuate 12,000 people from concert after 'unknown substance' release",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa2dfdkNPNGFwc0JUbXFKVWltUVZRZ2N6d1FkMS1XLTUxX1FsM3FLdFltQjZYS2pUekRqaGQwSEs1RjFPTHJmZk43UEw5X0Y1NHE3czk1MlVFZ0lIcEtzSW01V1NKQ1E1VFBZdU9UNExRbFZxNks2NTU2MS1VWE1tYko4T0VoVmJwU3dpc0QyVHFCRXByRG13NnlrX2xaTGxkWFVIOGdqQlozV19zSlUwWGVFNUJGQXkyZzNtWEtGb1FWaEU?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Audience evacuated from Don Toliver concert after unknown substance released in the crowd",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeF9wZGJzeldVR0VNSFhrdlZIejJFNlJ2TUtHZ3B6bkZxeDBUYndRRWlzRzhCa2s2ZHZ5bENJT1lwM0ZiWTBUblhtRWdBVmkxY2lUY3JRanZ5ZFZRMFlnTDVyb2twY0dNUXRVbHRlV2xkLVo4QkZRQ1BJZnZfMWRQS0FDLXB5Tzg5d0tVQW5fQVhRSGZHRVNxVUlLaVZpbURURFNBWnN4bVlJRUV6cndB?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Crowd evacuated from U.S. rapper Don Toliver’s concert after ‘unknown substance’ released",
+          "url": "https://www.nbcnews.com/world/united-kingdom/don-toliver-concert-evacuated-coop-live-unknown-substance-released-rcna610820"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Democrats win largest House majority since 1992",
+      "summary": "Democrats clinched a historic House majority of at least 258 seats after flipping a North Carolina seat, the largest since 1992.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Chuck Hubbard defeats Rep. Virginia Foxx after a recount in their North Carolina House race",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRjZzZ2RGU0lSUEZLLV90MW9OLVhqSThJZjd0Z3JsQ3M2VnhvMG43TFU4YUFoWXE3QTNKUk9OUGpoVUYxbDVsaDdSc01MWmVxVGx5SHZiTklObzJUXzlOVGExa3d0UmYtb2lVb3FxVTVCRnFKU2NfLVBkVE5VTUFPUG9ybUFoZ3ppc1J4OFhQT1Vrd3p6RXREa0lOb2FRVXBhenUtNw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
+          "url": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "NBC News | Stocks rebound after AI-driven selloff",
+      "summary": "Stock markets set for recovery following sharp declines in technology and AI-related stocks.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Wall Street futures rebound as battered AI stocks gain ground",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEVIVnBMbFk4UVlXOGlieWlkeWhldU5HWnFSdWNVU3BIU2YycVJnV3NWZGxGNXFMTjlKU3VuUTBnWGxZUjBtV3JCVlZjNU11MXZOT0s4V3QyRTNPNDlBRzAzX095cHphSWNSYnBTZmprLTVmdUVKd0RHc1FCbHdITU9Mb3BZMWlZM3pLQkF5MElMakFJME1WVWZOY0xJVWJnbTQ4dnpsQlNEZw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "US futures climb and world shares are mixed as big tech stocks fall in Asia",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNF9ZLU84V2VPZHBHcGx0V3p5TVVoV21zbUYyQWFOWU96ZjBmcExvQ1lpVmtFRzl5RVpXdFg3TGhUM3ZHM282MkdnMVgxZ2lwUTRkcm9KaWlHMEcyZ3R6amZIM25vMFRRM0l1OXNxMFFSQVVnR3hzY3BNb1NyUWwxa2hLMndRMkpVZ2l2X0N2Z3JFcmRVMzRMZldCbzlEZkpGZjNmTVJZdw?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Stocks set for rebound after AI-driven selloff",
+          "url": "https://www.nbcnews.com/business/markets/stocks-rebound-ai-tech-selloff-nvidia-rcna610833"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Wall Street Set to Bounce Back After Tech Sell-Off",
+          "url": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Indonesian candy factory fire kills at least 24 workers",
+      "summary": "A major fire at a confectionery factory in Indonesia killed at least 24 people with dozens more missing as rescue efforts continue.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Indonesia says 24 killed in factory blaze as rescuers search for dozens missing",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2JzeHFuVWp0dk12UzctdTk5TXJIYURhcXVITWE2ZmV3V3Jrb09BenpkWThoenRiY3FyaEp5RUlUMmFmQ0ZJbXhvUGd5RG1nZ0JrNWs1NmhibXFJSXpUUkNOQWZ0VWh2MnVONlRuU1dPVXZXVGVueEx5UEZnWWprWE5iczJIMXZNWlFXeThMZ0kyTWl6aWJfWGNDM3BkY05yYVVxYkw4anppc3hLUmlJX0JOOFhDa19vNGRtdE5YMjJqQQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "More remains recovered in the search for 34 workers missing after an Indonesian candy factory fire",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN0J5Zy1JLXlBTWc5d0o3OEg0dVBLMXQ0TktFb0ZHT196VEgzYVNfOFhlamNLVjdEMUlOWVFldmsxeUN1MUk0VGFDMlkxWmpCSTFIQzVaZndyeFZjanNQajh2Y2I0c3duUllpOWRTRWdPYzFXeFZRdmJJUndoSDlYUFlQZHV2bU02YWZzdm1vclMwenNYbmZpZkk1UGg?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "At least 24 killed and dozens missing in confectionery factory fire in Indonesia",
+          "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "DNC sets rules for 2028 Democratic presidential debates",
+      "summary": "The Democratic National Committee established guidelines for the 2028 primary debates, requiring candidates to reject dark money.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "US Democrats require 2028 candidates to reject dark money to make debate stage",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOTBnNVJuTGlTM1pXYzA5bWE0LUZlWC1YOWFFNm54TzEwdnJ3ZUJnak03RzRpV253ZFI2RTRWWXlXNGE0SlQ1X3dwSG40SDh1QkhrZHROeEdQd1gwRkpjWElwckRBbDJzMzRZVXVma3E4b1lVX1ZVbzlUMjdmMm5QeTIydi16UUJUbDBWQkRUVU1ZeWZxQVVRZ2wzNVFtS0QzS1JWVkt5bmV4ZmFDeGE5a2pCZjJLLXh6?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Democratic National Committee sets broad rules for the party’s 2028 presidential debates",
+          "url": "https://www.nbcnews.com/politics/2028-election/democratic-national-committee-sets-broad-rules-partys-2028-presidentia-rcna610439"
+        },
+        {
+          "name": "The New York Times",
+          "title": "D.N.C. Plans 12 Debates for the 2028 Presidential Primary, Starting in June",
+          "url": "https://www.nytimes.com/2026/11/23/us/politics/democrats-debates-2028-presidential-race.html"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "ICE detains father and daughter at Seattle airport",
+      "summary": "Immigration officials arrested a father and daughter at a Seattle airport while they were boarding a flight to attend a family baptism, sparking protests.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Father and daughter detained by ICE at Seattle airport were traveling to family baptism, lawyer says",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdEtrdGZScmR2TTNyNG1MR0xlT3FhUW00LV95MFR6TjJwRXdUOHlVV25jVTVuZktGX1UxTlpweUVEZDJreXJGVmZRZFdBZ05OekFyNEZHdUsxOXFuRXRoUjNuOXRWN201RHVEZ2tvS0VveF9yVUJWZGhsWWgtcWtxTFhiOEtpVGdkY1V1cTI2RnNTTmpRc1BaTm9ld05ZWU0?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "ICE Officers Arrest 2 Passenger Boarding Flight, Sparking Outrage",
+          "url": "https://www.today.com/video/video-shows-distressing-ice-arrests-of-father-and-daughter-274005061831"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
+          "url": "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Pochettino suffers heavy loss in Manchester United debut",
+      "summary": "New Manchester United manager Erik ten Hag's successor suffered a devastating 4-0 loss to Liverpool in the Premier League.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Nightmare start for Pochettino as 10-man Manchester United loses 4-0 to Liverpool in Premier League",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjVaTDZmTkp2Umo2blBlWUxVWjltR1J6Rms2MGZzWEdJUmp5Z2FLcHBHaWZrT2NBLVlremlTNlVjNHdSMkFpMU9tSTRQM05WYmxDTjlvNHZaNC14MDBPQ0kwMHFOeHllbmp3LXFPR1RsZDEzd0JDdGRQYWFpNC1oR3JCcDE5TEVidHROT0syWUdQQ2lKVi04MDNVZnA4LTEtcWZNZElXSWZBVVZXRE5kV1ln?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+          "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Russian attack on Kyiv region kills 11 civilians",
+      "summary": "A Russian military strike on the Dymer area near Kyiv killed 11 people, including a child pulled alive from rubble.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Russian attack on Ukraine's Dymer in Kyiv region kills 11, official says",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdlU4RTQwUF9vS2lzZ0ZWRkJiOUdrRWNUc2Y3eXlhWXBVWllFdHNwTXlnaFQ3ZXQtWmg1TlVRT3NISXhjSWd4VUZ0VV9wc01rLWFyenZRNEdrMkpVMjltM1ZSdFRmbUc2WlZpLXJLZlFMb0NMeldDdlpDRjcwb2ZadHQ0dlJGeGhJU2Q3OUNNZ2R1T1p3ODZJQ0kwdWtkdUZKazNfbEFBc1lDUQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Russian attack near Ukraine’s capital strikes apartment building, killing 3 and burying others",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0dYbG15VGlQaUxBOGJXQkhMem1ZTEJVSWE3QkJHT0FaaVo3Tk5iai1LcHd0NEVPRm1EYldUR1pHNENaa3dYTmpfOUpsVHJnTGtXa2VvRXNLaHc0bjNBZWNXTVowT3FWRTk0MzgtNXktN2hUNFhnUlVYSjFXRVBNNUt5bDcyNXMyb3pQV2pCbWphUGItclFzeDVKV1pTT0xUQzVZQ2xrVUZ0UWtoZEo0?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
