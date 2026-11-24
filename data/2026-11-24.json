@@ -1,0 +1,240 @@
+{
+  "date": "2026-11-24",
+  "crawled_at": "2026-11-24T22:05:24+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Jensen Huang reinstated as Nvidia CEO after board reversal",
+      "summary": "Nvidia's board reinstated Jensen Huang as CEO just days after rejecting his offer to return, with Trump's intervention playing a significant role in the decision despite national security concerns.",
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
+          "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Wall St futures dip as chip stocks cool after Nvidia-fueled rally",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Nvidia board reinstates Jensen Huang as CEO just days after rejecting his offer to return",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUdPNnFZNXVRRHJqeGNYX0ptRk1oUW85OHlueHM2aW5teGxVWmViTWdKOGVTTVBYdWNVTjA3M2d4NUFfQ1Fac2g2ZzVZZ0hMdnZ6V1RQdFRmdWNfZlFzNnRYNmR0YWsxUjFIaTNYR2c5V3RQUHdVVUx4X1loaHF6dEcyNF9fQQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+          "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump’s role in bringing Huang back to Nvidia met with bipartisan criticism",
+          "url": "https://www.nbcnews.com/nightly-news/video/trump-s-role-in-bringing-huang-back-to-nvidia-met-with-bipartisan-criticism-274057285739"
+        },
+        {
+          "name": "DW",
+          "title": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal",
+          "url": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
+          "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Pope Francis's diaries reveal encounters with the devil",
+      "summary": "Pope Francis's private diaries reveal spiritual crises and claims that he saw the devil three times, according to records made public.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Pope Francis' diary reveals claims he saw the devil three times",
+          "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Pope Francis had visions of the Devil and Hell, diaries reveal",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVFlscTNmWlJ1S3pkN001MmdFX0dkVGtOcGRfVi1TTndmbEhweDNiNlFZNWJ2cHdGNXZlXzJhdkM2MmNOUFdGb3UxSXEyUkRBQ3hOZlN1SkN3TVJYMndWVjlJTlRjNWh3RnRHN01Ec2ltMkxyYzZZU21oRHo3dGhuMWMyS2JfaEkwUVgzckU2RUczcnBnWElJ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Pope Francis’ private diary details a profound spiritual crisis and encounters with the devil",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaThjbVd4eXVxd2lyWDBZdTMxOTA2UVRycVVMdjV5WUtPdnRrUm1VejJ6TWJ0SDgtNlhjUFVNZ1g5TjgxTFJwWjN5N0xsWnRHNl9ocVAyeWgxdnVjVTVvR21wOUNnTlNDMEgtdjE2Sk1oeEVySEFHaGt4Q1ZQOW9sRk5QbzYyLXVoQlo2Y2lWV2dHRlhpTVBvaFQ2M2pCYXdqYmNnU21HWUs?oc=5"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Sheikh Hasina plans return to Bangladesh on December 16",
+      "summary": "Bangladesh's ousted leader Sheikh Hasina seeks to return home from exile on December 16 on the state carrier.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "EXCLUSIVE: Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTZ3QXNQYmJqMENPRDZLVFAyS3JkUmhjaWxHLUF6TkwzejRmTTZHaERqdmd5NkZmMVVOMEZCaW1MWnlIS3hMVE5BUjJiRTNoMy1RdXUtUVpibnhicDgxZ0JHOUNuYmRDVTNrLVpTVUFaUVM5UDVaZExqR3hTSkxrNU9nSG5aMG9sc2hsMmFvTkstR2g4Qk1UZDMzM2JSaE1yTHVtSV9qaTRPbzN1U2F3UWM4S0hyT2FpaWc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Bangladesh’s ousted leader Hasina plans to return home from exile on Dec 16",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUxMLWY1amxiVVpwSlZwU2N1LXVEdVVMMU5uZXdRMXlLc2dRQ1ItendWLVVqOTVLdzExV1N4RE1ELWNFUG9QU2pLLXJPaUltcmRxbG5qWkVLRGJmSDBCQ0dmNXhjUWtHWEM2RTlacU5SbGZMblJKVWpyZllvanhkci00S0d5eTZGb21Oc013SVBSQjBNVWE5UHdORWQ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Exiled leader Sheikh Hasina plans to return to Bangladesh on Dec. 16",
+          "url": "https://www.dw.com/en/exiled-leader-sheikh-hasina-plans-to-return-to-bangladesh-on-dec-16/a-80028083?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Pakistani astronaut to join Chinese space station mission",
+      "summary": "A Pakistani pilot will become the first foreigner to fly to China's space station as part of a new space mission crew.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Pakistani pilot to become first foreigner to fly to China's space station",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTjlOOEE2ZGVBYmJLbmlvRXdLTzF4UjNOVXFoY0J6c29vSDF1cDZBTk02QTFDWlRwbk9ESThyeGI0dzdKUFhhMmRyb0ZmVWlsLXlUR2ZNTHJjckdybTRlMTRYOWNwcDhSV2duaTI4ZXB5dFlCNlBTSnlCYTNQN25ZdThTS3NHVUtlZ1NIQ2Z1cWZLLTgzQ3VocjZNcFRBMmJQZjZ0dFZ1UXRCcU0?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "China unveils new space mission crew, with a Pakistani astronaut set to board its space station",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTno4Y1I0UnZqSU1JaG15VG5qTm1HNjhQbUpab2ZIbDQ4YTY1YTdxMkxWenVxOUFOMWhXQUlTT1NIVGZYUGJrRUdkXzdxLXZEMzFmLVlxelhRRXlWbFVQQ1JuVTlBZDhjS09RS1JuTUs1Q3RrWTRHTzBOUFNEQmZha0FXNndUY25NY2ozbTlqSEc0TFVUSUFJ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Pakistani astronaut to join Chinese space mission",
+          "url": "https://www.dw.com/en/pakistani-astronaut-to-join-chinese-space-mission/a-80028922?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Democratic Rep. Jimmy Gomez resigns over sexual misconduct allegations",
+      "summary": "Democratic Representative Jimmy Gomez resigns after the Ethics panel finds evidence of sexual misconduct.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Democratic Rep. Jimmy Gomez resigns after Ethics panel finds evidence of sexual misconduct",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkIzeGhIdlZKM1NTNnVWN3V1eHhyZEtkcU9zd2F6ZFpuc0ZyWUVScHRmT0I0VTU1NlFBYXFTc1U1NmVPSnVwWVZUS3dQd3ByRTg5MERGaUhheE15UFdpQWYtZ0ZYdTNMR3Nmb3BIN09KTHZYZm9yWVdqME03UGdqMHl6T0QtbjJCOGtSX0JQem16ZGotM2dsdXVaN3piZWNqZDhTb01hU2lKcmxFc1lqSlFPMkg?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+          "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez"
+        },
+        {
+          "name": "NBC News",
+          "title": "Democratic congressman resigns over sexual misconduct allegations",
+          "url": "https://www.nbcnews.com/nightly-news/video/democratic-congressman-resigns-over-sexual-misconduct-allegations-274051653628"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Vietnam capital Hanoi blast kills six, injures multiple people",
+      "summary": "An explosion at a hot pot restaurant in Hanoi, Vietnam's capital, kills six people and injures more than a dozen others.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Explosion kills 6, injures 10 in Vietnam capital Hanoi",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZldRdngyRk9qdWlNdVBkYlFrTnBtV3M3WU45al9qVVp6OE9VRktQTWVKRWY0aWlfNjBhTVFNVlhaYkp4aEJVeVItSlpIUjAwd2I5RGh5MV9wZHVnNkc5c3F1MzA0elVvZ2x2bVFrMUM3NHgwVjJYaHpPRS0xa25Tb0VIUVBySTd5blMxNXhQYlVWMkh5bG0tbHRNN3hvck8zQnI3SG4tdGg?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "A blast at a hot pot eatery in Vietnam’s capital Hanoi kills 6 and injures more than a dozen",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSE9ZWEhqNHBLUzMzYXVpOGd4S1N0cVlCWUFPV2Yyblh2dE11Q2VVUjIwZEFfWUxyLUIzWElhdFRDNlZmdldqVWU0NG5WU3RfeFQyQTU3YnVsQlR6OC1TeUZvWUYzbEU0NnhNZ2tNc3h6TWJBRFdpZ2xOamY0anBaVWNhSnh2SlVvX3V2VmJ0alRocEFOS3VPM0tHZUttNUJ4TTRmdXBoZ21nMVdfTkE?oc=5"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "South Korea issues warning after Russian aircraft enter airspace",
+      "summary": "South Korea issues a 'take shelter' warning after several Russian aircraft flew into its air defense identification zone.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "South Korea issues 'take shelter' warning after Russia aircraft fly near airspace",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnMyeTNTLWNPT1JoWVRGdTZmb2hnVi1USk9WNldKUVNfVWkzRk5RSjI5UlVIYkprbnEtOFplWGdpd2JoWmtZeEVZQTF6TGJJU0tEZXhsYVVNaHl1OVlfOF9sc3lHUUdzNXBpeHNqUTF0ZXY2VTcxbHEwbHluRF9sR3N0WnR1T3R1cmRKa1FDSnpOeGJwVVIyN0NhYmF4QmlyZHZjT2JNXzB4ZlY1cTJRNVZtTTluY3lYbmd0TEtlXzA3WUZwTVk3Uw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "South Korea says several Russian aircraft flew into its air defense zone",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSS12cWZyNHNoNWpmOTNnVWhuWWQwSmY1SDU5SjR5YXdxOWJtakJSVGl1RlZlZ09tbDdEUWVXTVc4dHhmN3RnVzFVRDVQSnR5UnBoTjNMOXJqLWxPUWJpSGdTZDQ2VldRVGd2LWN5bEZuYmoxQVdPcnNxemZGQXNya2p3RkpBVlFhWDlvYzJSWmtuZXFXSWxLYkRxSGpRSTJINjlCRFNpR3BDU1lpTVpJ?oc=5"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "US stocks surge after Jensen Huang's return as Nvidia CEO",
+      "summary": "US stocks recover significantly after Jensen Huang's reinstatement as Nvidia CEO, with tech stocks leading gains.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "US futures, European stocks slip as Nvidia rally cools",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "US stocks surge and recover half of last week’s plunge after Jensen Huang returns as Nvidia’s CEO",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNF9ZLU84V2VPZHBHcGx0V3p5TVVoV21zbUYyQWFOWU96ZjBmcExvQ1lpVmtFRzl5RVpXdFg3TGhUM3ZHM282MkdnMVgxZ2lwUTRkcm9KaWlHMEcyZ3R6amZIM25vMFRRM0l1OXNxMFFSQVVnR3hzY3BNb1NyUWwxa2hLMndRMkpVZ2l2X0N2Z3JFcmRVMzRMZldCbzlEZkpGZjNmTVJZdw?oc=5"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "China sentences official to death for espionage and leaking secrets",
+      "summary": "China sentences a government official to death for spying and leaking national secrets.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "China sentences an official to death for spying and leaking national secrets",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYnJaVllJLVpfeVZhdFJmdF9IWDExdmg0Mk4yRTVKUmJINUloN2N3cWpZelpuMTYySDRqcU5JeEo2di1KeTB0VGdyaGtjdnNCcGRSWUc4QnlHTF81bkltN2dUeGVmekdqa2JPMDd2b0lOVnRuVTdPcWc5MGE4cVlKeERzS2dYNDNPSWVLSw?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Chinese official gets death sentence in spy case, report says",
+          "url": "https://www.dw.com/en/chinese-official-gets-death-sentence-in-spy-case-report-says/a-80028393?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "US and UK to co-host Women's World Cups in 2031 and 2035",
+      "summary": "FIFA selects the US to co-host the 2031 Women's World Cup and the UK for the 2035 edition.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "FIFA picks US to co-host 2031 Women’s World Cup and UK for 2035 edition",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWm82TE84Qm96Y2xpQ0N4Y1ByS2hwSVMxSU5UV0RIbWlWd2phNlFCUVktQWtSbWJCemZCQkRTd2Q4eWJGclFhbDVlQmI5bkN1OWoxbEtDUGFlUWNMbjJTVHlLOEE4OEF6NGc3SHNkTzBkSEZlTUw2RTlHdGhQSlB6T3hvNVRvXzR1dHgyX0xzU3Y3QWRuVjFsOTdsUFI?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "US and UK to host Women's World Cups in 2031 and 2035",
+          "url": "https://www.dw.com/en/us-and-uk-to-host-women-s-world-cups-in-2031-and-2035/a-80023786?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
