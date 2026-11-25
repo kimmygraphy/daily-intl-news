@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-25",
+  "crawled_at": "2026-11-25T22:05:23+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Pakistani astronaut launches to China's space station aboard Shenzhou-24",
+      "summary": "China launched the Shenzhou-24 spacecraft carrying two Chinese astronauts and Pakistan's first astronaut to board China's Tiangong space station.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Why has China sent the first Pakistani astronaut to space?",
+          "url": "https://www.bbc.co.uk/news/videos/cj5y1p067kxno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Pakistani astronaut becomes first foreigner to board China's Tiangong space station",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUNDa1I5NlZaa2hiOFJGSHJlOHkyU3QtMEl0S2lvbGNlTWhJdGd6TzA3TV9VV0p2azc3OUZWeU0zLWtZbjZ3dlc5SXAxSklBbmlOeU5GcFdhMzZWbnJPTExMWG9KcElUOUotS3BGMDJmS2xVVV95MjFiYzdFTEcwOE1DU0tRY1ZmTzFHQ2pvYmFQUVY4dmRCb2tERDZZZV9IMWpLUTA0NXFNYnlwMm1UaTJyaXE2bThCMDRza1JDZlg?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "China launches Shenzhou 24 spacecraft carrying 2 Chinese and 1 Pakistani astronaut",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3M0QnJvdnFlSmxYai1OZWNwd0pYOFVKa2t3UDZhLXZkcXVkcmNOZHU2ZEVCQk1HX0liM2ZVb3piZDFiaE5SSkY2MWdZeFNmOVhTWkM3RDdqSHYySDNkSTNwcExoemNqTWtoLWNQV1VDNXota0w3Ym1FLUZxOXFPZnB3UlllbEJySmhJ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "China launches Shenzhou-24 to Tiangong station",
+          "url": "https://www.dw.com/en/china-launches-shenzhou-24-to-tiangong-station/a-80042281?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "US Army to detonate lead azide stockpile in Iowa before Thanksgiving",
+      "summary": "The US Army plans to detonate a large stockpile of lead azide bomb-making chemicals in Iowa, raising concerns about toxic emissions.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Army to detonate US stockpile of bomb-making chemicals in Iowa the day before Thanksgiving",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkhUQ2g4MktLbDJLbVNZT3RFbXQ4NFZtcUJmVTZLb0lMYXV1dDZ6V0tfWVZxUlBnSkhPYTBtNWo3Q2ZzcEJRSWJZTmlqSFR5UnN3RVd2VXo5VTBPRmU3TXVTWENBNWpDV0lkRVdVVVlONUVlRkx2UTN2dDhOQUhja21BWWlXMjFzTEJmcHFFRXRmbHJ0ZDU2QXh3V2IzZw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+          "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang"
+        },
+        {
+          "name": "NBC News",
+          "title": "Army set to detonate a cache of lead explosives, sending toxic plume across Iowa",
+          "url": "https://www.nbcnews.com/news/us-news/iowa-lead-azide-explosion-dust-army-rcna611182"
+        },
+        {
+          "name": "DW",
+          "title": "US Army to detonate unstable lead-based explosives in Iowa",
+          "url": "https://www.dw.com/en/us-army-to-detonate-unstable-lead-based-explosives-in-iowa/a-80043319?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Kilmar Abrego Garcia leaves US voluntarily for Spain after deportation battle",
+      "summary": "Kilmar Abrego Garcia, who fought a wrongful deportation, voluntarily departed the United States and arrived in Spain as a free man.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Kilmar Abrego Garcia, who fought his mistaken deportation, leaves the US voluntarily for Spain",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGdEdUx0allNYzBCT3ZnQURKRGZEb2xzU1h6cm94cFZuR04zdG5wVUtyZzlzYkhDN1VMWUh6R2JQdmNBUnh5aGV1NzE0alE3eERBM0M5NDlXVUVqajN1SjZfTlVmV1RhbHY3WE82Nm5DTGhZSFFoT3p5UVc2bi10ZnNqME44Wm9aREcxYXk2QXM0aGtZdEVfQU9EY2NkT2lkRHB2SnFuemEyOXVTQmlv?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+          "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang"
+        },
+        {
+          "name": "NBC News",
+          "title": "Kilmar Abrego Garcia lands in Spain a ‘free man’ after deportation battle",
+          "url": "https://www.nbcnews.com/news/us-news/kilmar-abrego-garcia-rcna611215"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Abrego Garcia Arrives in Spain After Voluntarily Leaving U.S.",
+          "url": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "North Korea expels Swiss diplomat over sanctions weeks after office reopens",
+      "summary": "North Korea ordered a Swiss diplomat to leave the country, citing sanctions violations weeks after reopening its diplomatic office.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "North Korea expels Swiss diplomat over sanctions weeks after office reopening",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNUNWNUd3TUtJYTY3OEc0TGI5U1NhNDdFREhNdzVxU3pnV2ZoaDgybzlaS0lvbVRXNWVxeG5uZFRRVEswT2s3V25GLWppMEJtLUZvSTJ3UVVVTE8tMUtGVFVSempYNmhyMmdjTXJGb0RGTFdMcVc0ZTJaUkVENC1tWk1Mbl9LYlBGZUYyRUJqejhCRXdyWGdhVVdxNnJjRTA1dlVmdUxHd0JOalNrWXBLQ2hGQktJalJjQmhqMkVBT1ZNWlFqa2xWeHFiMWdaRmZtRV9EYkNibTczZw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "North Korea demands closure of Switzerland's new diplomatic office and orders diplomat to leave",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZTdpZ0R2cVZWaFVhX1RSUUlfQkluQ0l3ejVuR3hUNG1vV2pKYW4ydU9aY2IwOU9tSFdJdkJUZTBTLTJYVlNMT0o4TlEzWnRUaVhBYk8xR0gwX3EwUjFsdWhmbEpoVWJOWHFyWWRWU0F0Mm9ZQ2RQUTFfTUtsbHhIVnNYcTdFQzlPaHNsWUhZd2s3R3RYZHhVdVBMeHN1dU1ZSzJJNG56azk2RTA?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "North Korea expels Swiss envoy over sanctions on camp accused of indoctrinating Ukrainian children",
+          "url": "https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Africa Cup title returned to Senegal after sports court rules against Morocco",
+      "summary": "The Court of Arbitration for Sport reinstated Senegal as the 2025 Africa Cup of Nations champions after overturning Morocco's challenge.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzR3QWpwUC0zOE5SUnhYWFRFV21KRzFSWmk4WlF1OWlkV1pUeEJ0UjZ1aGVtcVl4VFBhc1N3eXh4akZoRkVfalZtclFNQ2FOcWJqZDNGMU9ublNKalNnYnhNQVJYdXFNWmZwb2hkb1IyVFFlLWk2TzEtVG56VUthbHF4VDRRbzY5WkZuWHN1UXBfY2Utd2tKZGY5NW5UWUYwOWdLcg?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco"
+        },
+        {
+          "name": "DW",
+          "title": "CAS reinstates Senegal as 2025 AFCON champions",
+          "url": "https://www.dw.com/en/cas-reinstates-senegal-as-2025-afcon-champions/a-80021027?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "UK energy bills rise 26% from January after gas prices surge",
+      "summary": "Energy price cap in Britain will increase by 26% starting January due to rising gas prices, affecting millions of households.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Energy bills to rise by 26% from January after gas prices surge",
+          "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Millions set for soaring energy bills in Britain after 26% price cap hike",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWxiYkU2dDI4WjRoOUdyaDN0RDQ3MGR2b1k2aUdmQ3dseXVrQkpwSjlIb1NtbzRZbENaYnJfODJKN0pMV2VBMUx3NHZQZWEtUTh3VlRSVWNzMUhHdklzTlZlM1BmSkktbXpUVFhjTlNqY2pUdGpRbUV6bVdpdV9BWDYtQld1MDExX1BNTUt6YVRtSm81LU9VTXV3MF9GOHpMNTJHcVFSanlJWUVkWE1J?oc=5"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Two men charged with trespass at Prince William and Kate's Norfolk home",
+      "summary": "British authorities charged two men with trespass after a break-in at the Prince and Princess of Wales's country residence.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Two men charged with trespass at Prince and Princess of Wales's Norfolk home",
+          "url": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NBC News",
+          "title": "New Details Emerge on Break-In at William and Kate’s Home",
+          "url": "https://www.today.com/video/new-details-emerge-on-break-in-at-william-and-kate-s-home-274155589878"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Jensen Huang apologizes to Nvidia staff and says he is in therapy",
+      "summary": "Nvidia CEO Jensen Huang apologized to company employees, stating he went too far and is undergoing therapy amid reinstatement scrutiny.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "NBC News",
+          "title": "Jensen Huang apologizes to Nvidia staff, saying he went ‘too far’ and is in therapy",
+          "url": "https://www.nbcnews.com/business/business-news/jensen-huang-says-s-thankful-second-chance-nvidia-employee-meeting-rcna611235"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
+          "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "US preparing new tariffs on global trading partners including China and EU",
+      "summary": "The United States is preparing to announce plans for significant tariffs on trading partners including China and the European Union.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "US preparing to unveil plan for new tariffs on global trading partners",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "US ready to slap tariffs on China, EU and others over subsidized production, AP sources say",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalJfNUMtVmVfb2RDeFlJeVEtNHVxc09sSjVrT1RfZmRMZ3dzZDMyLUhUSVVoalctTzJTNkU2b2F6VGVJNDZfZXZ3Rkp1WUZQLWY5UUxpOE9XcTJyUVJ4Ri1nZl9MU0xRbkY2MHVBZVg5NGcyX3JlMW1ZdVlrMXRodUlhSjZaSkkwR3pVQUtOUmJGY1JIelBuaGh3?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Migrant arrivals in Spain's Canary Islands break single-day record",
+      "summary": "Spain's Canary Islands experienced a record single-day influx of migrant arrivals, with nearly 2,000 people reaching the islands.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Migrant arrivals in Spain's Canary Islands break single-day record",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSzRDQUNzZ05jRTh0OEM3cm9ubjVRZWE3Nm90dVl0XzVjT242V2xoTXdXRG1Ddzhac1pwVFhBd0tHSGxQTUJ0amlGZXYtbkE0MEFmTGE3OWx3TkhoSGVUYnRvWTJtdmw3aEt4a2dfODVUVkdmY1Q1OVIxTWpBVVY0TjdUVzEwTmNLVzh0WHVMbC0ycHhpM2MtNy1tcm9YM1RKMi1UWWdZVQ?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Migration to Spain’s Canary Islands breaks single-day record with nearly 2,000 arrivals",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa3Jzb2VHSk9lV2k4UlRIWXRJdHBSUzE5a2JjYjc0dWVIRlpmY0dmVjNCSGk5MktVREE1UnNXaHZEb2c2bUFBeV9Oa0tuR2JwYU1rYzdJYXNSVEt3dEJ3cHhnNzZxaFE2YjRJM1FISE0zQlNzWHhQMHRmaW10cGNxamJabUExME9sSFpqMHJpc19kTm9X?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
