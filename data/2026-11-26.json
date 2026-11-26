@@ -1,0 +1,250 @@
+{
+  "date": "2026-11-26",
+  "crawled_at": "2026-11-26T22:05:34+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Andy Taylor, Duran Duran guitarist, dies at 65",
+      "summary": "Andy Taylor, the guitarist of new wave band Duran Duran, has died at age 65.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Andy Taylor: Duran Duran's livewire guitarist who was a true Wild Boy",
+          "url": "https://www.bbc.co.uk/news/articles/c0666rn4l5vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN2V2OUxYWk12T2E3d0g5SFVQNDA2LW9qdkNtZDZJdmVtelh4amRUNEtNYXNfN1hraG9KcnhnSFlpbmZ5TXlpSkVrVVgxa3lMaUpydlRyeHVGREN5aGpUN1BDUEJpYnE1dC1lTGh3OHR1UWkzZVJpMkdPaEkzd1padXdRYnNrQXBJYnlaVEc1bVVVUQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+          "url": "https://www.npr.org/2026/11/26/g-s1-155934/andy-taylor-duran-duran-obit"
+        },
+        {
+          "name": "DW",
+          "title": "Duran Duran guitarist Andy Taylor dies at 65",
+          "url": "https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65",
+          "url": "https://www.nytimes.com/2026/11/25/arts/music/andy-taylor-duran-duran-dead.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Judge blocks FCC from early review of ABC broadcast licenses",
+      "summary": "A federal judge ruled that the FCC violated ABC's free speech rights by targeting early license reviews for the Disney-owned network.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "US judge blocks FCC from targeting Disney-owned ABC stations",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa3U4SjN4dnBlQUVGemRWMkxMdndfMXJjMHBmNUtvRDMtVmJhRWhZVS1kZzd0UHVUend5T3NJRlV2elRaTW1jQ3Y1QjNpVEtWRlltZ0x2WE5kSVNQbWdUZ1BpWmtyZHFQYjVmTUphNk1wWlRlbU8wTUpuUjdHa0ZXc19tV3hFUEFMY3Q3WVphZDdTeGRKUGRDWTU1YmxoRWl0anJCUTc2NA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Judge blocks FCC from early license review for ABC, which network says has had a chilling effect",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGg0cWJHckhVdmhyb3U0YXNWLTFhdmw5OHdYM2t2bVVMSzdENnNtaU94MlZfYkZ0R0htTVU2czd6LTQ2Z2tfREVyOEZLeWhaMmY0OXl5RldKREVraWtxc0ducXJNc1NuNzc4WWtKZjM3X0F5cGlvSGVBZlUza1JxTS1pNDRHaVJObE9YdTZNellnRjJjV3hN?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+          "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech"
+        },
+        {
+          "name": "NBC News",
+          "title": "Judge blocks FCC review of ABC station licenses for now",
+          "url": "https://www.nbcnews.com/business/media/judge-blocks-fcc-review-abc-station-licenses-now-rcna601892"
+        },
+        {
+          "name": "DW",
+          "title": "US court blocks regulator's early review of ABC's broadcast licenses",
+          "url": "https://www.dw.com/en/us-court-blocks-regulator-s-early-review-of-abc-s-broadcast-licenses/a-80056181?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Macy's Thanksgiving Day Parade postponed for first time due to weather",
+      "summary": "The Macy's Thanksgiving Day Parade was postponed to Saturday for the first time in its history due to severe weather conditions.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Bad weather postpones Macy’s Thanksgiving Day Parade for first time ever",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0xRS3NTalh5TmtXemJCMTB1Y1ZJWXEwQ0JnNU5WOEc0clZQdkJseU90dllkcl9tcllmeGR2TFRXQ1lZc1ZYTEVNTzNJNGx5Mi0tRTVOVXlFUldFSGVtcUhyVEczNkVnbTQ4RGRRWnVJUENZYjUyRVI5ZEh3alRTWG01cE1fX3dORVd3RWlsbTdlVU9xaEdIa0hDdnRCbnp2NjFMSjBR?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+          "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech"
+        },
+        {
+          "name": "NBC News",
+          "title": "Macy’s Thanksgiving Day Parade Postponed for First Time Ever",
+          "url": "https://www.today.com/video/macy-s-thanksgiving-day-parade-postponed-for-first-time-ever-274220101982"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Macy’s Thanksgiving Day Parade Sours Holiday Plans for Tourists",
+          "url": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-tourists.html"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Powerful storms disrupt US Thanksgiving travel and flights",
+      "summary": "Severe weather conditions across the US have caused significant disruptions to holiday travel, with hundreds of flights cancelled and long airport delays.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "US travelers facing long airport lines, bad weather in the run up to Thanksgiving",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQkk2WEd6VjhQeXF0eGZsQnFSUmNlbnBXQmlicUdtaWJKdWJ0Tm5TNXJmRll2LUdSMmNaekFCenlKb3hnX1Jod0t0TDRONWlueUdrYWRfZ1ZpTkp0WGhXbEEyZ1diSm1PTWluWVNPQUlPWWFFSnFZWTlQdl9BZXl5TGRMdHloN2tLZTJUcG93el9Ya0IzV00tT1JrZVVnUQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+          "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech"
+        },
+        {
+          "name": "NBC News",
+          "title": "Thanksgiving Travelers Face Long Airport Lines and Packed Roads",
+          "url": "https://www.today.com/video/wild-storms-cause-thanksgiving-travel-troubles-across-the-us-274220101974"
+        },
+        {
+          "name": "DW",
+          "title": "Extreme weather threatens Thanksgiving festivities in US",
+          "url": "https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "Steelers cut Aaron Rodgers after on-air criticism of coach McCarthy",
+      "summary": "The Pittsburgh Steelers released quarterback Aaron Rodgers after he publicly criticized head coach Mike McCarthy on television following his benching.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV following his benching",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN1laVWIyOEZSb29hcHFwTm1MS3M1SmdoYnNwQkoybjJjQkNPWVQ2YldyN1Rjai1GYzR5VXo5a1FxeTdicUhNb1RiREpIU0tKSk91T3ZjaWNzUW5Va09qNmFfV2RlaTlNMlZxWlY4Mm93S2hmU3lPZDBsQUZWZEo5b3RjN0NSM2ttR0lFTkcwVVpZUmZ6bEtuNW01X3NEb1Foa2xsc0VLY3h4Y1E?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV",
+          "url": "https://www.npr.org/2026/11/26/nx-s1-6054760/steelers-cut-aaron-rodgers"
+        },
+        {
+          "name": "NBC News",
+          "title": "Steelers release Aaron Rodgers after he blasts head coach over benching",
+          "url": "https://www.nbcnews.com/video/steelers-release-aaron-rodgers-after-he-blasts-head-coach-over-benching-274192965784"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "US detonates 5-ton stockpile of lead azide in Iowa",
+      "summary": "The US Army successfully detonated a 5-ton stockpile of the dangerous chemical lead azide in Iowa, though questions remain about pollution risks.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Army calls detonation of bomb chemicals in Iowa a success after earlier fears of a toxic plume",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZi1lalA4QTR1T3RxVkRDblVuYkY3SDBXV3A3bWhpaWJzN29ZT2xEWTR5b1RDMzZWUWRfdldya2R1ZlZiQ2ptLThvVjMxQmpMWUFKeFVEWnhjOGMzVUcyZDVjb3ZYa1o0RjFiYXVQSUFCczNFelNVYjQ2ZzFiOWxUSmlKdFVXWW8?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Tons of toxic chemicals detonate in Iowa",
+          "url": "https://www.nbcnews.com/nightly-news/video/tons-of-toxic-chemicals-detonate-in-iowa-274197061831"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Hong Kong fire kills 168 after home renovation goes wrong",
+      "summary": "A residential fire in Hong Kong killed 168 people after a renovation project at the building ended in a devastating blaze.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
+          "url": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "FCC approves SpaceX to deploy 1 million satellites for data centers",
+      "summary": "The FCC approved SpaceX's plan to deploy 1 million satellites for space-based data centers, drawing concerns from scientists.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUmh3LVh3RnFNUW5hVjJWcXlzOERNTTloeEdIbnRiRGVSV1B4UzJaWVhudzNvS0Q4YlRvN1pUTThRVjhka1JpYUFBWC1RWW1hYnFxT3RxM0VoMERWRmlJdmd4LXJJR0F5S083cThjNDFWay1zRWVPcmRUeXR5WWVuQ01ObUVGRVZBOGFzTDdobUxMUQ?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+          "url": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "UK net migration falls to lowest level in nearly three decades",
+      "summary": "UK net migration has dropped to its lowest level since 1997, excluding the pandemic period, according to recent government data.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "UK net migration falls to almost three-decade low, excluding pandemic slump",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeEZEc0J3bm5VWDRleTFvUll2YlRjYjZCVkVoM19xTURMcTA4MldKRXhDMWdneFM4R3VyVEJnUkxSckEwSmVtcXJFYlNURHdPX05PUnlSQ051cVNCVmpCWTA0TzN4WTN1dUFIcTRtaTl2RmNCeTBGdlhQMC1yVHhpU1NlMS1CSFFHeEpydUpYNkhnV01maUhUSWoxQQ?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
+          "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Diesel tanker sinks off Ibiza, crew member dies",
+      "summary": "A crew member died when a diesel tanker sank off the coast of Ibiza, Spain.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Crew member dies after diesel tanker sinks off Ibiza",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcmZUbzlMdjVtVDNjMmxRZHZ2Rk50anZIMDlOZ0swTEZBNi1aakVXV0NBT19oTkkzWTk0cUhXbUJEN0xuczdibXF0Y09WaUxmaWRwU2RvOVY3cXhNNE44XzY4TV9Rc2hISnBiSGI1T3FpdEdIR2JETGYta01tc203a2RJaVNhc1VYTEh5UTAxNGRreEFNTTlHcGJiT09QZURZdW9yQWtwX2Y4ckRhUkRFZE9QVTdlM1N1WlhjUGFyTno4cXBtcjFvLQ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Crew member dies after diesel tanker sinks off Ibiza coast",
+          "url": "https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
