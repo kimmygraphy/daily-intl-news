@@ -1,0 +1,220 @@
+{
+  "date": "2026-11-27",
+  "crawled_at": "2026-11-27T22:05:32+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Severe Thanksgiving storms leave hundreds of thousands without power across US",
+      "summary": "Major storms hit the United States on Thanksgiving, causing widespread power outages, flooding, and travel disruptions across multiple regions.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+          "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP",
+          "title": "Heavy rain, wind and flooding hit much of the US on Thanksgiving",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkxMTUs5ZzFmZFBCR2pBVGg1TEYwSGlKdVI2LWhaYk4zSno0MTJud0xrNHpralVPQWFmdXhaM3dmUmJNNGRFQk9XSGdRSUpCdmx6ZXUtY2V0SWFxdHplbmh2NHlHVUpsUVlnXzRISDhVd203ZmpLb2F6bzdkQU11bm5jQklqb3FZRi1KeDZGWmxDWDhkYXI5VG9WMjFpWkxULUQ3S0dR?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+          "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court"
+        },
+        {
+          "name": "NBC News",
+          "title": "Monster East Coast storm leaves hundreds of thousands without power",
+          "url": "https://www.nbcnews.com/nightly-news/video/monster-east-coast-storm-leaves-hundreds-of-thousands-without-power-274244677776"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Thanksgiving Storm Leaves Half a Million Without Power on the East Coast",
+          "url": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Macy's Thanksgiving Day Parade postponed for first time due to weather",
+      "summary": "The Macy's Thanksgiving Day Parade was postponed for the first time ever due to severe weather conditions affecting New York City.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "The Macy's Thanksgiving parade is postponed. What happens to its expansive roster of performers?",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemZKUW1ScjhtaU1uYmdNXzZ1eXJXN1VSTlN5MXRnTk5BZ2MxdWJsVmVSZ2VWRFNCbHVzcDhiTFlNOTE4REJ1V1VKNzl5aHJjS19kZE11dGVvTlZCdDc0REJZaFlxQXR2LVpRTlhDeUd2WVZTdHZOZWdjMk9oQ0NCSEM1NWp6TGw5MGVXWEtKekNBS0tpVGxjUmJRdmdaQU9a?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Performers and marching bands scramble after Macy’s Thanksgiving Day Parade delay",
+          "url": "https://www.nbcnews.com/nightly-news/video/performers-and-marching-bands-scramble-after-macy-s-thanksgiving-day-parade-delay-274245189694"
+        },
+        {
+          "name": "The New York Times",
+          "title": "New Yorkers and Tourists Try to Salvage a Parade Day Postponed by Rain",
+          "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-day-parade-empty-streets.html"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Zelenskyy criticizes Trump's 'strange' friendship with Putin",
+      "summary": "Ukrainian President Zelenskyy expressed concern about Donald Trump's characterization of his friendship with Vladimir Putin, comparing it to historical dangerous alliances.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Ukraine's Zelenskiy compares Trump's friendship with Putin to friendship with Hitler",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdlQxUGhabVYyVmUzX1pETXRCY0phbFYyREd6bHU3anhaZHhhV1k3em85Y2JmaUNNMy1yMUdwM1hSNHNiaFZJSnJ3UzJIbUJTTWxWOWdaUmk3SmFJQ1g0dG9KU2dtVnVCNnkwd0NYc3VobUVJUUlMcC0xMHZoZy1JSjdURUhZSDlQZjZjMDlCUGJhczByU0lNU3pOclVFOVhQTUJWcFJ0M0ZSY1RsM2Q2dVY1SHJhR2RnYVgzczZia25iaFlvcGlVdDJDX1lTbWtmT1JpVg?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Zelenskyy urges the US to pressure Putin, calling Trump’s ‘my friend’ remark strange",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZHZncjd6TjJOQy1tZVlWUVowZ0hBY2NWMjN2d1k3WXdzUlB4VUdlbl9kMDdLTnZ2bzY5eGlZUGFNSEQxYVNCaVNRYWlBTkZneUxoZm5ub1Q2MVd3QjFza1BJWWhiWEQ2Tk1aUE1jVlByV0h6NldmUC1NOUQ5WW5ka3pqdUFwaXI1SEd4VzNzUGNoZ2c5WG5Yd3dFeWpyY0taN3c?oc=5"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Spain holds election with far-right and housing as central issues",
+      "summary": "Spain held elections with immigration and housing dominating the campaign, with far-right parties positioned as potential kingmakers.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Spain's Vox party leader Abascal nears power as election kingmaker",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX1AxaFV1YTZ1VFB6MmVETG5iUmpxLWNEbjVDejhPZjJIVml6ZExzVGdxdGlmQUtfbkJ6ZUVWMzd6TDVVb1BsT1UtVXdXa3llbjFKbkFyQUJRdjJiUFdhVmxKdXpIemxhcDlLN1JpTDdHX3dhUzBQUmZRMGR6ZzZEOXNwWUFmVjU2ckRNcUI4TVVxT2ZHQWQ0RFdyZDBxajRrM3N2N0RhYw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "The main issues driving Spain’s election and why they matter for Europe",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVpPaFdxTUpHbXNSemNIelRrb2xZQm5jZTBvT2VncV9EbWdWdjd3ZWdaUVVWSkl0dGpQaFRIcGFicTBKZDlFeG1lMHlyNTV2aHAtYXR6eFM2N2RwTDZyeS10VWtWNjhUcUtoamd3R3IzSzBaXzFDNl9KeXZUZlFRYXhhUUlzcF96OXJmZFpKTXN0ZDNERUY2b1RsYkhvbklYNXpTeW1na3Y?oc=5"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "French actor Gérard Depardieu ordered to stand trial for sexual assault",
+      "summary": "French cinema star Gérard Depardieu was ordered to stand trial on charges of rape and sexual assault.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVNiTVJwcnVUQ1RTTUdUbElNMll3d0xsRTRLSmhQS09GeWh6cFdmV2dDblpwWkJNRmlvdmZJSXZSekxQVVIxRHdOVC1icjZYVlptZlVETzcwZHhOWTlxS19fOFZCT3BnemFQWWZEOHVJS3dhbTZES3FrbGVvRlJ4MFA1bkZuMl96OFhjR3hPdFYxRG1Ob0tzM1hoOWZGWURF?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+          "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france"
+        },
+        {
+          "name": "DW",
+          "title": "Gerard Depardieu to stand trial in France for rape and sexual assault",
+          "url": "https://www.dw.com/en/gerard-depardieu-to-stand-trial-in-france-for-rape-and-sexual-assault/a-80069424?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "New Zealand election results in hung parliament",
+      "summary": "New Zealand's election produced a deadlocked result with no clear majority, leaving a centrist newcomer as the deciding factor.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Christopher Luxon favoured for second term as New Zealand Prime Minister",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmNCNlRJNEl1MXNtUFJYX3NBQjhqdFdYTnlwX0t1OUtaV051cF9BM0J3akdyN2ZBWENOQnFGWk9CTGxPcjlGYnEyWGxFem9lQkQteVNUOXRwaW45NHF5YVpDZmpPZWR0ZDVnTDlwT1NQbzZzbzdaRVVGVEU2aUZST05KNTZIRnlqM3o1ZzF4Z1ZWT19hSkRGc2JUdWwycTZrSDhjVFhPdHZ3aTlXR2w2LU1jRWtqTzluaklBMg?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Deadlocked final result in New Zealand’s election leaves a centrist newcomer as the decider",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaUYyNjdXYjlOWm12Ukd3XzJLSUQwM1JtSlV3REh2bmIyWHdzelNCajRoNU4zYllONWRVLXRZY0pDVm16MVNtdWZzTlFmS0xMUHpzVFRIQnlVR2J1TlY2WE1zZVNZVmczeDA0cG50Y0VlSUk0SE1XRnBkOHgxU2hBdlJFMkpZdzZDWDFyUEo0alJ3QQ?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "New Zealand election ends in hung parliament",
+          "url": "https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "UK pensions department hit by cyber incident",
+      "summary": "The UK Department for Work and Pensions experienced a cybersecurity incident affecting its systems.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "What we know about Department for Work and Pensions 'cyber incident'",
+          "url": "https://www.bbc.co.uk/news/articles/ck1l0e946dqmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "UK pensions department hit by 'cyber incident'",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckw3Wmx5TkduWUdyNE9qUS1vMDJLNjZjbnMzUURXdWt2NjdCdFYxWldNekg3WkJORWl1bkRva3BsSDVLN3FldzlQTmNLNnVnbVZrOWVxQ0NyX2N5SWRFaVpJaDBXeTM3Z2NzZDlxTzJaOENxWWZRYkl0VmpwZnFVYlZyYjdSLXg1OGpVNko1UHhKSEhWcDdhb0ZZaHpLdw?oc=5"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Tyson Fury cleared to fight Joshua after medical checks",
+      "summary": "Boxer Tyson Fury received medical clearance to proceed with his highly anticipated fight against Joshua.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Fury cleared to fight Joshua after medical checks",
+          "url": "https://www.bbc.co.uk/sport/boxing/articles/c539gd2x2ye1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "England defeats Australia to take cricket series lead",
+      "summary": "England's cricket team defeated Australia in a dominant performance to take the lead in their series.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "England outclass Aussies again to take series lead",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/cm9d704g26z4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "Man City owners should be forced to sell, say rival clubs",
+      "summary": "Rival football clubs have called for Manchester City's owners to be forced to divest ownership due to alleged league rule violations.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Man City owners should be forced to sell, say clubs",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
