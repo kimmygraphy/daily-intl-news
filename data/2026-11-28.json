@@ -1,0 +1,255 @@
+{
+  "date": "2026-11-28",
+  "crawled_at": "2026-11-28T22:05:23+09:00",
+  "feeds": [
+    "BBC",
+    "Reuters",
+    "AP",
+    "NPR",
+    "NBC News",
+    "DW",
+    "The New York Times"
+  ],
+  "items": [
+    {
+      "headline": "Afghanistan school explosion kills students in eastern province",
+      "summary": "An explosion at a school in eastern Afghanistan killed approximately 7-10 students and wounded more than 90-100 others.",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+          "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Afghanistan school blast kills 7 students, injures up to 99",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVRKa09nUTkyZHR6Tnp6aTFwNzFYOHd0WGRtWjFEU2Z4RmFvRzVETWJwbEF4WHROdnpCVU9NMVBYYUJtbVU5NzVqNEVkaEVhNUtmMHFrbFE0cW5OQmdXYkpiV0JvbGoteXRYamR6Mjl0clR1cmp2elB5LU9IOUFjZzcwSXFjTXVxcy1XbmJHdGQwbjZMREhfNzRwS29Jck8zbURsQkdoTXMtZw?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "An explosion at a school in eastern Afghanistan kills 7, wounds more than 90",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYzQwcm1zRUVmQVB2b3E5X1Q4RHZxbWRGY1ctOFQwZ1otcC11UUJHM2wyZVBhUGhlTTgxYmt1SFc0N0k1aGlnQmxwVUI4S0dXX3NpdzhXYVg2UTdQc3R2bGNrZFJMempoZ3FTZzFhamFPWGt6TDc4NG5BTElMS3JqSmM4OUVlcFBod09hZnIzcVBwdw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Explosion at a school in eastern Afghanistan kills 7, wounds more than 90",
+          "url": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan"
+        },
+        {
+          "name": "DW",
+          "title": "Afghanistan: Several killed in blast near middle school",
+          "url": "https://www.dw.com/en/afghanistan-several-killed-in-blast-near-middle-school/a-80084227?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "headline": "Princess Kate's intimate cancer documentary released",
+      "summary": "Princess Catherine released an emotional documentary about her cancer journey and recovery, offering a candid look at her experience.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
+          "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "UK's Princess Kate climbs mountains, fights cancer in intimate documentary",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTF5YVJuNUoxSzFjMFZuSk1neXZ6YUJUZ1JzOThGLTlHODdXZkhBYkhlVjMwTTJZMG1xd2FnU2pLQWZKSFpTZVc5QzBoTkdoNG9LN0VTaGJSSFpuYkJQdGtGNlc4VmlxaGdBVW9FVV9EeFhLb3VpWUh5eWFpNGwtdllCVzJSSmEyUDc4b2FRTkZKN0F0X1F6dTJfUFczVE5jRnRRMDd5cGV2U1l2ZU5pdDJIVi0?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Princess Kate takes to the mountains to face mortality in film about cancer recovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTm5fMzJuWElVTEVpdG9FZHlZV2txZ3dEVmJjUENfUEgtdVpDOGxBaXNBNUJsQ1RZV054SndZc2pPV21GMW1CMWx3NENXNlBEb0RlRGRiVGx4ZDNtQ0JfSnNRTnRNbHoyR01FVlRPd21hX3FBc3A4UFRra3cyMWhqR3h6QktKdVUwclV3UFVJZTEtcmdHYlpEbGF0OU1NY3d2a3I2MHozV3BOdjZKYlE?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "New Look at Upcoming Doc on Kate Middleton’s Cancer Journey",
+          "url": "https://www.today.com/video/new-clip-released-from-kate-middleton-s-upcoming-doc-heal-274261061810"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "headline": "Black Friday online sales surge despite inflation and weather",
+      "summary": "U.S. Black Friday online sales exceeded $13 billion as consumers shopped despite inflationary pressures and severe weather conditions.",
+      "source_count": 4,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "US Black Friday online sales to cross $13 billion, Adobe says",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2loNkhNMG01Y25zc2J6ZzlvOHNwS1VpVko3MDBMeF9CMFpTVGhFR2VDSmlaY1UyS25Tam81eGdHSlFid1lVajIxTFVPWWt6ZzQ4dW9UaEw3TFRZR3NzMi16SEJSdDdqLW9IMVdsYkgtQTZYTl9mQnlYLUh6T0dSV1Z4ektOMjlKUC1MUU0xbGlmVU15VUNndVgwNGlWc2YtNWs3NzhhTTJnUmhOS050ZnBla2RiT2Nn?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Black Friday shoppers undeterred by inflation and bad weather",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQS1feGtndkRIT3NUc2hNSFhEX2pNWXZOR0JBSkdpT196Zk5sdlFqc0NpNUVnRmtnQ2xDUjNNcXF2VnF3a05oejFCZHZzODZ5NXN5NFNOZUVMQmRWdEg4dC05dHFTcHBiZVpjUFRpT2xCaGtXcm54eXRwWTNYOXp3R2NDV2VqSFVURVJZMG9wUElMaWdxamVEOTJCcTNNMDM1WlYw?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+          "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court"
+        },
+        {
+          "name": "NBC News",
+          "title": "Black Friday shoppers head to brick-and-mortar stores across the U.S.",
+          "url": "https://www.nbcnews.com/news/us-news/black-friday-shoppers-head-brick-mortar-stores-us-rcna611564"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "headline": "Canada's Supreme Court upholds Quebec ban on religious symbols",
+      "summary": "Canada's top court largely upheld a Quebec law banning public servants from wearing religious symbols, with implications for national unity.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Canada's top court upholds Quebec law banning religious symbols in test of unity",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2xTN3lIM0VNZ0t1dTRlSy13WUo1T0JIek5NZThtRklXazNKZlhyUUN0VWxOOXpRY2drMkFOZXlZd1BFM0FrYWpPQjlnYk1kUzB0dzZVczV4b1B2YjZ2MmtJYXM5dEIwNi1VVW9TcUVGWHRPbUNybDdyV2ZzNTZObm5FQTUwLUt2VjNtOWx4N3c4MDdTZGFvS3VGdHVaSno4aWh6ZzNRRURtNmdTMmxrS1lIdmhTZVdCVWFyak9QY2FjRHJsd1dJWA?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Canada’s Supreme Court largely upholds a Quebec ban on religious symbols for public servants",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOE9BOWJaNlNZVUhPNE90VDU0SDNmbUxQNjZITWlkbEowX3E3d3RaRW1SVXVnbFlhVUh4RmNiUGJmckltOFpvb25PQkV6R05IVnRLNFpCbE1DYTRVenM4Z2I1eWdOeVVJcEdsMlJMYWlIYk4zeFJxYmZYWEI4RTUxNDk5YWxzQVZkdWExcFFkR0xpcUV1b0lMV08tNFlnWG1MZXV1RTZnWGg?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+          "url": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "headline": "US military disables ships attempting to breach Iran blockade",
+      "summary": "The U.S. military disabled multiple cargo ships attempting to leave Iranian ports as part of an ongoing blockade operation.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzhtZElCdnJJN0hCYkdsQ1lTWHc5UDRtNGE4cF9sWE14dlpacmk2blU5cXJMTHp0MGNaMElaQzdSem91dXNpNVRtd1k4ekZza09jVEpubTh3cjlpbE9CNWdMSU1seV9vNDFEeGQ1aDZBY1J1R0JoNVdlcjJaQnlWcU5Ib3ZISHVmNHA4eklQclI2WDIzR0VtNVp0NEJjaDZfcTlKNHRNbW54bGF2TExrR1NaSFJvLUxRcnc?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "US strikes a merchant ship trying to breach its blockade of Iranian ports, military says",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTZNR0tfZHB4Qm11eFRLSFJNQjZNejlab0p2TVUzdjBwR1Bsby0xbkZXNVdGbGlBSmJVWGRrVFRhaDVmcW9OTllRcHdYa2VOUjczdkdlQmFGZFZsMm9iUlVKcDZsZkZUYVVFLWFucUlzTnhPYUFpNXlESWd0cDJHbjlMVjlpdVhEX21fSGZLZzlmYks4a21YRUpJSnhDYVFNNlR1MVVld3o?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "US disables ship in Gulf of Oman under Iran blockade",
+          "url": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "headline": "Taiwan holds closely watched local elections as China observes",
+      "summary": "Taiwan held local elections amid significant international attention from China regarding the electoral results and political implications.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Ruling party set to make gains in Taiwan local elections watched by China",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0hYazFSNFdJenpCQmdWUUh0cUZOTHhJWm5hYnB4ampiMXJRamNxVGtST2NuTV9rS2hjUHFUWElIUjhtX3VlZFlWTkpBOWh5SmJkNGdJd1VFVFFWSmR4LURfQUx0ZDVmWnk3MEpuc3hMN0QwaXFwYnZMc3kteEJpWUduWWNITVkwNTJGaGVRSWdHNVNyNjhn?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Taiwan awaits local election results as China watches",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSEJHN0tUWVBOd3BrNkpaTm1EaHlTeXp1aDZBZnJ1aUdEbkNVUUJJTXdJbFNXVHhLUWJwNUpRV3lUdEZTUl9Kbi1LWkhlWjBmRUdVRlNQQTVOb3JhWW5sb0pVUklXNXlndFJ2VXRNZnF1WENxMXJjTGN3RHJ4d0FreGRZdzN0ZWQ4WVE?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Polls close in Taiwan's closely watched local elections",
+          "url": "https://www.dw.com/en/polls-close-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "headline": "Norse Atlantic airline files for bankruptcy after halting flights",
+      "summary": "Norwegian budget airline Norse Atlantic declared bankruptcy after ceasing operations due to high aviation fuel costs.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Airline Norse Atlantic's Norwegian operating unit declares bankruptcy",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZjF6SXBzRmpCeHczaU9VZnNGczNjcWtlMXNCMUFrTUxfbUViN3cxUXpPbFU0YVRTQzU0aEY5MGdLY1hnU2I1R21jd2tYNnIyLVVLeEtoSEY2WjZKNTE0QkdLWWFzcmkySGFYUWE4Vmh3OVpzLWJ3V25LX18zSUJ4TS1TcExrVFFoUUVvOS13NmF1dUZJWVo1S2hLRlZaNmMzTWh1dDFsTHpXUzlzN2lWQ01sc1VVR0hOUzlZSTJ3?oc=5"
+        },
+        {
+          "name": "AP",
+          "title": "Norwegian budget airline Norse Atlantic files for bankruptcy after halting flights",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDRSQ20wRU41S2psU2lPTFhlUWxkSnpEdDc0VVdYdmdVUEhiNTV0cG41bUFRRnZPUU82ZkVSdDQtQlJXV29LMGktU3hIR1lRaHEtdlFOak1va1NlcGZ0S0dMc2I2Nmt5bTdldXRmcl9TZmdBelhNSzZjWXY5emN6WnAzS0RGSmVpd0FOX0w0NkFyTDNIaWdBZkljX2p0alh5LUYzeA?oc=5"
+        },
+        {
+          "name": "DW",
+          "title": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
+          "url": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "headline": "Thanksgiving storm causes power outages and damage on East Coast",
+      "summary": "A major Thanksgiving storm battered the U.S. East Coast, causing widespread power outages and requiring extensive cleanup efforts.",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "AP",
+          "title": "Parts of the US clean up, power being restored after Thanksgiving storm soaks East Coast",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjRuNThwR0c4LU54RVBVM3kzcFFCOGFmR0szVnA2SUI1aW55bTMtWWlvZ1FYLUVLZmNEYk1HM2ZGZmotc09Wck9ySldYcW9zTWZaeUw5eFVoNUxrcFo0aDNmejFnbzkwTmNhRDUyamhlWHpWNTFwb1BiRUlqV0ZMUllxV3lnU2NzYnlfSUhNWUVyV09WcE9wN0pmeGp5d011djRj?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+          "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court"
+        },
+        {
+          "name": "NBC News",
+          "title": "Mass power outages after Thanksgiving Day storms",
+          "url": "https://www.nbcnews.com/nightly-news/video/mass-power-outages-after-thanksgiving-day-storms-274286149762"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "headline": "Israeli strike kills two MSF staff outside Gaza medical clinic",
+      "summary": "An Israeli military strike on a medical clinic in Gaza killed two staff members from the international charity Médecins Sans Frontières (MSF).",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "MSF charity condemns Israeli strike that killed two staff outside Gaza clinic",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlN6bWNCajEzSzJDU0o3Qk5qQnJiS3Zxb2VaUnFjM05vM0hkZ2E3NnJNeXlVdEVVMkNwdGRXcmRaTGF3bHI4emRsaVhaTHVtV3dmNDJlWUFGY1YzTTFxNlNkaFViN1FYdlo3WVM4SUJlaTZkc1AyVE9MdmZkMDdYeE1wR3RzRXFzeTVvY0lrczh4N1ZGXzM4NWR2MmF6NkRYeDBWNEtMOEswT3BxU2dxYllRcmM?oc=5"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "headline": "OpenAI counter-sues Apple over alleged trade secret theft",
+      "summary": "OpenAI filed a counter-lawsuit against Apple accusing the technology company of stealing trade secrets.",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+          "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "OpenAI countersues Apple for stealing trade secrets",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5"
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}
